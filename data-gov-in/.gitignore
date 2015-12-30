@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+conf.py
+data/logs/*
+data/devinfo/*.csv

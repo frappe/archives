@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title  or "India Data Project" }}</title>
+	<meta name="description" content="{{ description }}">	
+	<meta name="generator" content="wnframework">
+	<script type="text/javascript" src="{{ public_path }}js/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/bootstrap.min.js"></script>
+	{% if chart_type == "Map" -%}
+	<script type="text/javascript" src="{{ public_path }}js/d3.v3.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/topojson.v0.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/colorbrewer.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/map.css">
+	{% else -%}
+	<script type="text/javascript" src="{{ public_path }}js/Chart.min.js"></script>
+	{%- endif %}
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/bootstrap-responsive.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/main.css">
+	<meta name="description" content="A better visualization of data.gov.in">
+</head>
+<body>
+	<div class="container">
+		<div class="outer">
+			<div class="navbar navbar-inverse">
+			  <div class="navbar-inner">
+			    <a class="brand" href="index.py">
+					<span class="logo logo-data">data</span><span class="logo logo-gov">gov</span><span class="logo logo-in">in</span>
+				</a>
+			    <ul class="nav">
+			    	<li><a href="index.py?page=about">About</a></li>
+			    </ul>
+			  </div>
+			</div>
+			{% macro get_file_title(f) -%}
+				{{ f and f[:-4].replace("_", " ").title() or "" }}
+			{%- endmacro %}			
+			{% block content %}
+			{% endblock %}
+			<hr>
+			<p class="help">
+				<h5>A better way to visualize data.gov.in</h5>
+				<span style="font-size: 80%; color: #888;">Made by 
+					<a href="https://twitter.com/rushabh_mehta">@rushabh_mehta</a>, 
+					<a href="https://twitter.com/nabinhait">@nabinhait</a>, 
+					<a href="https://twitter.com/anandpdoshi">@anandpdoshi</a> for the Planning Commission Hackathon. 
+					<a href="https://github.com/codeformumbai/data-gov-in">View the code on GitHub</a>
+					<br />
+					<a href="http://data.gov.in/catalogs" target="_blank">View the original data.gov.in</a>
+					<br />
+					<br /><a href="https://groups.google.com/forum/?fromgroups#!forum/codeformumbai"><b>Join our mailing list for updates</b></a>
+					<br /><a style="color: #aaa" href="https://erpnext.com">Supported by ERPNext</a>
+				</span>
+			</p>
+			<div class="pull-right"><img src="img/India.png" /></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-8911157-8']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+		if("{{ consolelog }}" != "[]") console.log("{{ consolelog }}");
+	</script>
+</body>
+</html>
