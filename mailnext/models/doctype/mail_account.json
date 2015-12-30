@@ -1,0 +1,158 @@
+[
+ {
+  "name": "Mail Account", 
+  "idx": 1, 
+  "module": "Mail", 
+  "doctype": "DocType", 
+  "version": 1, 
+  "in_dialog": 1
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Account", 
+  "read": 1, 
+  "create": 1, 
+  "doctype": "DocPerm", 
+  "write": 1, 
+  "parenttype": "DocType", 
+  "role": "Mail User", 
+  "match": "owner", 
+  "parentfield": "permissions"
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "login_section", 
+  "fieldtype": "Section Break", 
+  "label": "Login", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 2, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "options": "GMail\nLive\nYahoo\nOther", 
+  "fieldname": "email_service", 
+  "fieldtype": "Select", 
+  "label": "Email Service", 
+  "parentfield": "fields"
+ }, 
+ {
+  "description": "e.g. yourname@gmail.com", 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "idx": 3, 
+  "parenttype": "DocType", 
+  "fieldname": "username", 
+  "fieldtype": "Data", 
+  "label": "Username", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 4, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "password", 
+  "fieldtype": "Password", 
+  "label": "Password", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 5, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "server_section", 
+  "fieldtype": "Section Break", 
+  "label": "Server Settings", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 6, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "width": "50%", 
+  "parenttype": "DocType", 
+  "fieldname": "incoming_column", 
+  "fieldtype": "Column Break", 
+  "label": "Incoming", 
+  "parentfield": "fields"
+ }, 
+ {
+  "description": "e.g. imap.gmail.com", 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "idx": 7, 
+  "parenttype": "DocType", 
+  "fieldname": "imap_server", 
+  "fieldtype": "Data", 
+  "label": "IMAP Server", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 8, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "imap_ssl", 
+  "fieldtype": "Check", 
+  "label": "IMAP SSL", 
+  "parentfield": "fields"
+ }, 
+ {
+  "description": "e.g. 993", 
+  "parent": "Mail Account", 
+  "default": "993", 
+  "doctype": "DocField", 
+  "idx": 9, 
+  "parenttype": "DocType", 
+  "fieldname": "imap_port", 
+  "fieldtype": "Data", 
+  "label": "IMAP Port", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 10, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "outgoing_column", 
+  "fieldtype": "Column Break", 
+  "label": "Outgoing", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 11, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "smtp_server", 
+  "fieldtype": "Data", 
+  "label": "SMTP Server", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 12, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "smtp_ssl", 
+  "fieldtype": "Check", 
+  "label": "SMTP SSL", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 13, 
+  "parent": "Mail Account", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "smtp_port", 
+  "fieldtype": "Data", 
+  "label": "SMTP Port", 
+  "parentfield": "fields"
+ }
+]

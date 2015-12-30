@@ -1,0 +1,8 @@
+a.mail-service, a.mail-service:hover, a.mail-service:visited {
+	color: #444;
+	cursor: pointer;
+}
+
+a.mail-service.selected {
+	font-weight: bold;
+}

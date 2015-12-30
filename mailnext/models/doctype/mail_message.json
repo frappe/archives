@@ -1,0 +1,207 @@
+[
+ {
+  "name": "Mail Message", 
+  "idx": 1, 
+  "module": "Mail", 
+  "autoname": "field:uid", 
+  "version": 1, 
+  "doctype": "DocType"
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Message", 
+  "read": 1, 
+  "doctype": "DocPerm", 
+  "parenttype": "DocType", 
+  "role": "Mail User", 
+  "match": "mail_account", 
+  "parentfield": "permissions"
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "options": "Mail Account", 
+  "fieldname": "mail_account", 
+  "fieldtype": "Link", 
+  "label": "Mail Account", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 2, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "uid", 
+  "fieldtype": "Data", 
+  "label": "UID", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 3, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "from", 
+  "fieldtype": "Data", 
+  "label": "From", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 4, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "cc", 
+  "fieldtype": "Text", 
+  "label": "CC", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 5, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "to", 
+  "fieldtype": "Text", 
+  "label": "To", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 6, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "reply_to", 
+  "fieldtype": "Text", 
+  "label": "Reply To", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 7, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "content_type", 
+  "fieldtype": "Data", 
+  "label": "Content Type", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 8, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "subject", 
+  "fieldtype": "Text", 
+  "label": "Subject", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 9, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "body", 
+  "fieldtype": "Text", 
+  "label": "Body", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 10, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "raw", 
+  "fieldtype": "Text", 
+  "label": "Raw", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 11, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "date", 
+  "fieldtype": "Data", 
+  "label": "Date", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 12, 
+  "parent": "Mail Message", 
+  "default": "0", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "seen", 
+  "fieldtype": "Check", 
+  "label": "Seen", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 13, 
+  "parent": "Mail Message", 
+  "default": "0", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "answered", 
+  "fieldtype": "Check", 
+  "label": "Answered", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 14, 
+  "parent": "Mail Message", 
+  "default": "0", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "deleted", 
+  "fieldtype": "Check", 
+  "label": "Deleted", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 15, 
+  "parent": "Mail Message", 
+  "default": "0", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "flagged", 
+  "fieldtype": "Check", 
+  "label": "Flagged", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 16, 
+  "parent": "Mail Message", 
+  "default": "1", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "notjunk", 
+  "fieldtype": "Check", 
+  "label": "NotJunk", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 17, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "last_updated", 
+  "fieldtype": "Data", 
+  "label": "Last Updated", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 18, 
+  "parent": "Mail Message", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "options": "Mail Service", 
+  "fieldname": "mail_service", 
+  "fieldtype": "Link", 
+  "label": "Mail Service", 
+  "parentfield": "fields"
+ }
+]

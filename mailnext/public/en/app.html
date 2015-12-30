@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="author" content="">
+		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+		<script type="text/javascript" src="js/lib/jquery/jquery.min.js"></script>
+		<script type="text/javascript">
+		// browser support
+		if(($.browser.mozilla && parseFloat($.browser.version)<4) ||
+			($.browser.msie && parseFloat($.browser.version)<9) ||
+			($.browser.webkit && parseFloat($.browser.version)<533) ) {
+				window.location.href= 'unsupported.html';			
+			}
+		window.app = true;
+		</script>
+		<script type="text/javascript" src="js/app.js"></script>
+		<style>
+		body {
+		  padding-top: 60px;
+		  padding-bottom: 40px;
+		}
+		</style>
+		
+		<link type="text/css" rel="stylesheet" href="css/app.css">
+	</head>
+	<body>
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<ul class="nav">
+						<li class="active">
+							<a href="#">Home</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="container" id="page_container">
+		</div>
+	</body>
+</html>

@@ -1,0 +1,78 @@
+[
+ {
+  "name": "Mail Service", 
+  "idx": 1, 
+  "module": "Mail", 
+  "doctype": "DocType", 
+  "version": 1
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Service", 
+  "doctype": "DocPerm", 
+  "parenttype": "DocType", 
+  "role": "Mail User", 
+  "parentfield": "permissions"
+ }, 
+ {
+  "idx": 1, 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "service_name", 
+  "fieldtype": "Data", 
+  "label": "Service Name", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 2, 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "options": "Yes\nNo", 
+  "fieldname": "global", 
+  "fieldtype": "Select", 
+  "label": "Global", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 3, 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldtype": "Section Break", 
+  "label": "Service Filter Rules", 
+  "parentfield": "fields"
+ }, 
+ {
+  "description": "e.g. facebook.com", 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "idx": 4, 
+  "parenttype": "DocType", 
+  "fieldname": "from", 
+  "fieldtype": "Data", 
+  "label": "From", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 5, 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "reply_to", 
+  "fieldtype": "Data", 
+  "label": "Reply To", 
+  "parentfield": "fields"
+ }, 
+ {
+  "idx": 6, 
+  "parent": "Mail Service", 
+  "doctype": "DocField", 
+  "parenttype": "DocType", 
+  "fieldname": "text", 
+  "fieldtype": "Data", 
+  "label": "Text", 
+  "parentfield": "fields"
+ }
+]

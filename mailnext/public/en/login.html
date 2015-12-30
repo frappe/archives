@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<meta name="author" content="">
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="js/lib/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="js/web.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/web.css">
+</head>
+<body>
+	<div class="container" id="page_container">
+		<div class="content">
+			
+		<!-- public -->
+<div class="span4" style="height: 50px;"></div>
+<div class="layout-wrapper span4" style="min-height: 200px; margin-top: 70px;">
+	<div class="frame-area">
+		<div class="frame-titlebar frame-titlebar-gradient">
+			<div class="frame-title">Login</div>
+		</div>
+	</div>
+	<div class="layout-pane layout-main" style="min-height: 200px;">
+		<form autocomplete="on">
+			<label>Login</label>
+			<input id="login_user" name="login" type="text" class="span3" />
+			<label>Password</label>
+			<input id="login_password" name="password" type="password" class="span3" />
+			<span class="help-block"><a onclick="login.forgot()" style="cursor: pointer">
+				Forgot Password</a></span>
+			<button type="submit" class="btn btn-primary" 
+				id="login-button">Login</button>
+		</form>
+	</div>
+</div>
+<script>
+wn.provide('login');
+
+$('form').submit(function() {
+	$('#login-button').click();
+	return false;
+});
+
+$('#login-button').click(function() {
+	login.do();
+	return false;
+});
+
+login.forgot = function() {
+	console.log('here');
+}
+login.do = function() {
+	var user = $('#login_user').val();
+	var password = $('#login_password').val();
+	
+	if(user && password) {
+		wn.request.post({
+			method: 'wn.app.login',
+			args: {
+				user: user,
+				password: password
+			},
+			success: function(r) {
+				if(r.info && r.info[0]=='Logged In') {
+					window.location.href = "app.html";
+				} else {
+					msgprint(r.info[0]);
+				}
+			},
+			btn: $('#login-button')
+		});
+	}
+	return false;
+}
+$('#login_password').keypress(function(e) {
+	if(e.which==13) login.do();
+});
+</script>
+		
+		</div>
+		<footer></footer>
+	</div>
+</body>

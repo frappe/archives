@@ -1,0 +1,11 @@
+<script>
+	wn.views.Explorer = wn.views.FrameContent.extend({
+		init: function() {
+			this._super({
+				title: 'Explorer',
+				content: wn.contents.Explorer
+			});
+		}
+	});	
+	new wn.views.Explorer();
+</script>
