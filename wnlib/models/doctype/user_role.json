@@ -1,0 +1,22 @@
+[
+ {
+  "name":"User Role",
+  "doctype":"DocType",
+  "std_fields": "No",
+  "indexes": ["user"]
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"user",
+  "fieldtype":"Link",
+  "options": "User",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"role",
+  "fieldtype":"Data",
+  "options": "Role",
+  "reqd": 1
+ }
+]

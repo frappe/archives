@@ -1,0 +1,31 @@
+[
+ {
+  "name":"_session",
+  "doctype":"DocType",
+  "std_fields": "No",
+  "controller": "lib_controllers.session.Session"
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"name",
+  "fieldtype":"Data",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"user",
+  "fieldtype":"Link",
+  "options": "User",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"boot",
+  "fieldtype":"Text"
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"last_update",
+  "fieldtype":"Timestamp"
+ } 
+]

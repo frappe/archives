@@ -1,0 +1,11 @@
+[
+ {
+  "doctype": "DocType",
+  "name": "DocType",
+  "controller": "lib_controllers.doctype.DocType",
+  "backend": "files",
+  "permissions": {
+    "read": ["All", "Guest"]
+  }
+ }
+]

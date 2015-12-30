@@ -1,0 +1,64 @@
+<!-- public -->
+<div class="span4" style="height: 50px;"></div>
+<div class="layout-wrapper span4" style="min-height: 200px; margin-top: 70px;">
+	<div class="frame-area">
+		<div class="frame-titlebar frame-titlebar-gradient">
+			<div class="frame-title">{{ _("Login") }}</div>
+		</div>
+	</div>
+	<div class="layout-pane layout-main" style="min-height: 200px;">
+		<form autocomplete="on">
+			<label>{{ _("Login") }}</label>
+			<input id="login_user" name="login" type="text" class="span3" />
+			<label>{{ _("Password") }}</label>
+			<input id="login_password" name="password" type="password" class="span3" />
+			<span class="help-block"><a onclick="login.forgot()" style="cursor: pointer">
+				{{ _("Forgot Password") }}</a></span>
+			<button type="submit" class="btn btn-primary" 
+				id="login-button">{{ _("Login") }}</button>
+		</form>
+	</div>
+</div>
+<script>
+wn.provide('login');
+
+$('form').submit(function() {
+	$('#login-button').click();
+	return false;
+});
+
+$('#login-button').click(function() {
+	login.do();
+	return false;
+});
+
+login.forgot = function() {
+	console.log('here');
+}
+login.do = function() {
+	var user = $('#login_user').val();
+	var password = $('#login_password').val();
+	
+	if(user && password) {
+		wn.request.post({
+			method: 'wn.app.login',
+			args: {
+				user: user,
+				password: password
+			},
+			success: function(r) {
+				if(r.info && r.info[0]=='Logged In') {
+					window.location.href = "app.html";
+				} else {
+					msgprint(r.info[0]);
+				}
+			},
+			btn: $('#login-button')
+		});
+	}
+	return false;
+}
+$('#login_password').keypress(function(e) {
+	if(e.which==13) login.do();
+});
+</script>

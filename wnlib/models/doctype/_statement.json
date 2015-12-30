@@ -1,0 +1,28 @@
+[
+ {
+  "name":"_statement",
+  "doctype":"DocType",
+  "std_fields": "No",
+  "indexes": ["name", "`name`, `key`"],
+  "permissions": {
+    "read": ["All"]
+  }
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"name",
+  "fieldtype":"Data",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"key",
+  "fieldtype":"Data",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"value",
+  "fieldtype":"Text"
+ }
+]

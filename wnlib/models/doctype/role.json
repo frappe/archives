@@ -1,0 +1,13 @@
+[
+ {
+  "name":"Role",
+  "doctype":"DocType",
+  "std_fields": "No"
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"name",
+  "fieldtype":"Data",
+  "reqd": 1
+ }
+]

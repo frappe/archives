@@ -1,0 +1,32 @@
+[
+ {
+  "name": "User", 
+  "doctype": "DocType", 
+  "controller": "lib_controllers.user.User"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "first_name",
+  "label": "First Name",
+  "fieldtype": "Data" 
+ },
+ {
+  "doctype": "DocField", 
+  "fieldname": "last_name",
+  "label": "Last Name",
+  "fieldtype": "Data" 
+ },
+ {
+  "doctype": "DocField", 
+  "fieldname": "email",
+  "label": "EMail",
+  "reqd": 1,
+  "fieldtype": "Data" 
+ },
+ {
+  "doctype": "DocField", 
+  "fieldname": "password",
+  "label": "Password",
+  "fieldtype": "Password" 
+ }
+]

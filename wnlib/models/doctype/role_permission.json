@@ -1,0 +1,51 @@
+[
+ {
+  "name":"Role Permission",
+  "doctype":"DocType",
+  "std_fields": "No",
+  "indexes": ["role"]
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"for_doctype",
+  "fieldtype":"Data",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"role",
+  "fieldtype":"Link",
+  "options": "Role",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"create",
+  "fieldtype":"Check",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"read",
+  "fieldtype":"Check",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"write",
+  "fieldtype":"Check",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"submit",
+  "fieldtype":"Check",
+  "reqd": 1
+ },
+ {
+  "doctype": "DocField",
+  "fieldname":"match_with",
+  "fieldtype":"Data",
+  "description": "Allow only if the property defined in the document matches with a user / role default"
+ }
+]
