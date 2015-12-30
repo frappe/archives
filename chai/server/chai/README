@@ -1,0 +1,9 @@
+Server side core modules of chai
+
+Key elements:
+
+1. MVC model based on api of backbone.js
+2. Meta-modelling and creation/updation of db schema
+3. User, authentication and permissions
+4. HTTP request and response handling
+3. Utilities

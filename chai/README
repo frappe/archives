@@ -1,0 +1,39 @@
+Chai Project 0.1
+(c) 2011 Web Notes Technologies
+Chai Project may be freely distributed under MIT license
+
+
+OVERVIEW
+========
+
+Chai Project is a MVC web application framework with both client-side (Coffeescript / Javascript) and server-side (Python) libraries. It has meta-modeling and rich UI widgets.
+
+
+LIBRARIES
+=========
+
+List of Open Source libraries / code snippets we have used
+
+Client side:
+
+1. Coffeescript
+
+2. JQuery
+
+3. JSON
+
+4. Backbone.js
+
+5. TinyMCE
+
+Server side:
+
+1. Python
+
+2. sqlalchemy
+
+
+INSTALL
+=======
+
+Yet to come

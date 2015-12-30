@@ -1,0 +1,32 @@
+{
+	'attributes': {
+		'_id': {
+			'type':'Data',
+			'mandatory': True,
+			'label':'ID'
+		},
+		
+		'_owner': {
+			'type':'Data',
+			'mandatory': True,
+			'label': 'Owner',
+			'range': 'core.user'
+		},
+		
+		'_created': {
+			'type': 'Timestamp',
+			'label':'Create On',
+		},
+
+		'_modified': {
+			'type': 'Timestamp',
+			'label':'Modified',
+		},
+		
+		'_status': {
+			'type': 'Select',
+			'label':'Status',
+			'options': ['Saved','Submitted','Cancelled','Deleted']
+		}		
+	}
+}

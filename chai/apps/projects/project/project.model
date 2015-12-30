@@ -1,0 +1,29 @@
+[
+	{
+		'id': 'projects.project',
+		'model':'core.model',
+		'known_by':'project_name',
+		'model_set':'["project_member"]'
+	},
+
+#
+# attributes
+#
+
+	{
+		'is_template': True,
+		'model': 'core.model_attribute',
+		'parent': 'projects.project',		
+		'type':'Data'
+	},
+		
+	{
+		'attribute_name':'project_name'
+	},
+
+	{
+		'attribute_name':'description'
+		'type':'Text'
+	}
+
+]

@@ -1,0 +1,6 @@
+{
+	'attributes': {
+		'project': {'type':'Link', 'range':'projects.project'},
+		'user': {'type':'Link', 'range':'core.user'},
+	} 
+}

@@ -1,0 +1,9 @@
+[
+	{
+		'attributes': [
+			{'type':'attribute', 'attribute_name':'model_name'},
+			{'type':'attribute', 'attribute_name':'is_single'},
+			{'type':'attribute', 'attribute_name':'known_by'}
+		]
+	}
+]

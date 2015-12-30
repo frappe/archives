@@ -1,0 +1,49 @@
+[
+	{
+		'model':'core.models.model',
+		'model_set':'["model_attribute","model_permission"]'
+	},
+	
+#
+# attributes
+#
+	
+	{
+		'is_template': True,
+		'model':'model_attribute',
+		'parent':'projects.project',
+		'type':'Data'
+	},
+	
+	{
+		'name':'model'
+	},
+	
+	{
+		'name':'is_single',
+		'type':'Check'
+	},
+	
+	{
+		'name':'known_by'
+	},
+	
+	{
+		'name':'description',
+		'type':'Text'
+	},
+	
+#
+# permissions
+#
+
+	{
+		'model':'model_permission',
+		'parent':'projects.project',
+		'role':'Administrator',
+		'read':1,
+		'write':1,
+		'create':1,
+	},
+
+]
