@@ -1,0 +1,7 @@
+*.pyc
+apps/*
+logs/*
+config/*
+sites/*
+env/*
+.run_post_update
