@@ -1,0 +1,29 @@
+-----
+{
+ "description": "Dataset provides agency-wise details of number of extramural R&D projects and their approved cost during 2001-02.", 
+ "file_name": "Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2001-02.csv", 
+ "title": "Download CSV for Agency-wise Extramural Research And Development Projects Approved During 2001-02", 
+ "url": "http://data.gov.in/sites/default/files/Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2001-02.csv"
+}
+-----
+S. No,Department/Ministry/Agency,No. of Projects,Total Approved Cost (Rs. Lakhs)
+1,Department of Atomic Energy (DAE),60,3294.91
+2,Department of Bio-Technology (DBT),240,10396.53
+3,Department of Coal (DOC),12,714.04
+4,Department of Ocean Development (DOD),28,194.58
+5,Department of Science and Technology (DST),525,11585.25
+6,Department of Scientific and Industrial Research (DSIR),20,806.19
+7,Department of Secondary and Higher Education (DOSHE),51,450
+8,Ministry of Communications & Information Technology (MOCIT),59,4200.71
+9,Ministry of Environment and Forests (MOEF),63,754.13
+10,Ministry of Non-Conventional Energy Sources (MNES),20,475.17
+11,Ministry of Social Justice and Empowerment (MOSJE),18,155.92
+12,Ministry of Water Resources (MOWR),1,57.8
+13,All India Council for Technical Education (AICTE),194,1388.88
+14,Council of Scientific and Industrial Research (CSIR),122,900.34
+15,Defence Research and Development Organisation (DRDO),99,2512.82
+16,Indian Council of Agricultural Research (ICAR),134,1484.81
+17,Indian Council of Medical Research (ICMR),239,3606.53
+18,Indian Space Research Organisation (ISRO),39,271.48
+19,University Grants Commission (UGC),380,1245.9
+Total,Total,2304,44495.99

@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides details of Year-wise Progress Achieved on Restructured Accelerated Power Development and Reform Programme (APDRP) as on 31 March 2012. It gives year-wise details on the Project Sanctioned, Budget Releases and Actual Releases. ", 
+ "file_name": "Restructured_APDRP.xls", 
+ "title": "Download XLS for Details of Year-wise Progress Achieved on Restructured APDRP (as on 31 March 2012)", 
+ "url": "http://data.gov.in/sites/default/files/Restructured_APDRP.xls"
+}
+-----
+"Year","Project Sanctioned : Part-A","Project Sanctioned : Part-B","Project Sanctioned : Total","Budget Allocation : Loan","Budget Allocation : Grant","Budget Allocation : Total","Actual Releases : Loan","Actual Releases : Grant","Actual Releases : Total"
+"2008-09",1947.7,0.0,1947.7,0.0,1.0,1.0,0.0,350.0,350.0
+"2009-10",3183.0,3059.28,6242.28,1650.0,80.0,1730.0,1331.46,1.26,1332.72
+"2010-11",715.4,12915.31,13630.71,3600.0,100.0,3700.0,2246.42,100.0,2346.42
+"2011-12",793.88,8801.58,9595.46,1959.0,75.0,2034.0,1600.0,67.87,1667.87
+"TOTAL",6639.98,24776.17,31416.15,7209.0,256.0,7465.0,5177.88,519.13,5697.01

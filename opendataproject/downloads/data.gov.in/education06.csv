@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This identifies gap in basic facilities in Schools together with its magnitude in terms of proportions", 
+ "file_name": "education06.csv", 
+ "title": "Download CSV for Schools without Basic Facilities for the year 2005-06", 
+ "url": "http://data.gov.in/sites/default/files/education06.csv"
+}
+-----
+Schools without Basic Facilities - Category,2004-05,2005-06
+Percentage of Primary Schools without Building,3.50,3.00
+Percentage of Upper  Primary Schools without Building,2.80,2.40
+Percentage of Primary Schools without Toilets,51.40,44.60
+Percentage of Upper  Primary Schools without Toilets,16.80,15.30
+Percentage of Primary Schools without Drinking Water,16.30,15.10
+Percentage of Upper  Primary Schools without Drinking Water,4.70,4.80

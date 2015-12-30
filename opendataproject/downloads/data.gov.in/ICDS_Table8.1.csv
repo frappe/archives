@@ -1,0 +1,30 @@
+-----
+{
+ "description": "\"The table shows the composite indices of behavioural pattern among ICDS beneficiaries. It gives state-wise details regarding Behavioural index, NHE Child index, NHE Mother index, Learning skills index, Hygiene and social behaviour index and Health-Check-Up Index.", 
+ "file_name": "ICDS_Table8.1.xls", 
+ "title": "Download XLS for Composite Indices of Behavioural Pattern Among ICDS Beneficiaries", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table8.1.xls"
+}
+-----
+"States/UTs ","Behaviour index","NHE-Child index","NHE-Mother index","PSE-Learning skills index","PSE-Hygiene & social behaviour index","Health check-up index"
+"Andhra Pradesh",0.668,0.639,0.678,0.897,0.408,0.719
+"Assam",0.445,0.135,0.132,0.912,0.543,0.503
+"Bihar",0.142,0.015,0.023,0.166,0.466,0.037
+"Chhattisgarh",0.422,0.507,0.411,0.416,0.158,0.618
+"Gujarat",0.487,0.527,0.534,0.334,0.488,0.553
+"Haryana",0.295,0.228,0.242,0.271,0.17,0.563
+"Himachal Pradesh",0.699,0.588,0.638,0.792,0.67,0.805
+"Jammu and Kashmir",0.449,0.24,0.266,0.766,0.927,0.045
+"Jharkhand",0.543,0.336,0.309,0.833,0.914,0.323
+"Karnataka",0.4,0.235,0.209,0.872,0.271,0.411
+"Kerala",0.908,1.0,0.909,0.98,0.65,1.0
+"Madhya Pradesh",0.43,0.177,0.2,0.576,0.758,0.438
+"Maharashtra",0.65,0.458,0.447,0.746,0.722,0.879
+"Orissa",0.418,0.393,0.403,0.592,0.041,0.661
+"Punjab",0.302,0.007,0.012,0.626,0.362,0.503
+"Rajasthan",0.226,0.102,0.099,0.306,0.332,0.29
+"Tamil Nadu",0.655,0.447,0.5,0.76,0.612,0.954
+"Uttar Pradesh",0.166,0.007,0.001,0.146,0.675,0.0
+"Uttrakhand",0.4,0.135,0.14,0.706,0.834,0.185
+"West Bengal",0.585,0.362,0.359,0.867,0.797,0.542
+"All India",0.394,0.243,0.243,0.51,0.57,0.404

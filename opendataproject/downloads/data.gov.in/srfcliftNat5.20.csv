@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to Statewise Surface Lift Schemes- Potential Created and Utilized through Tanks/Ponds. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.20.csv", 
+ "title": "Download CSV for Statewise Surface Lift Schemes- Potential Created and Utilized through Tanks/Ponds", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.20.csv"
+}
+-----
+"State","No. of Tanks/Ponds","Irrigation potential created (Ha) - Kharif","Irrigation potential created (Ha) - Rabi","Irrigation potential created (Ha) - Perennial","Irrigation potential created (Ha) - Others","Total Irrigation Potential Created (Ha)","Irrigation potential utilised (Ha) - Kharif","Irrigation potential  (Ha) - Rabi","Irrigation potential utilised (Ha) - Perennial","Irrigation potential utilised (Ha) - Others","Total Irrigation Potential Utilised (Ha)"
+"ANDHRA PRADESH",1302,3753,1533,17,0,5303,2528,1136,17,0,3681
+"ARUNACHAL PRADESH",5,213,99,0,158,470,80,40,0,30,150
+"ASSAM",348,4684,973,45,878,6580,1487,725,23,151,2386
+"BIHAR",873,6287,6078,673,493,13531,4847,4749,569,300,10465
+"CHHATTISGARH",6889,13357,2606,3,44,16010,1164,1919,4,0,3087
+"GOA",89,0,131,82,19,232,0,110,82,13,205
+"GUJARAT",380,2026,3919,181,63,6189,318,160,0,0,478
+"HARYANA",176,303,357,0,0,660,288,346,0,0,634
+"HIMACHAL PRADESH",22,335,335,0,0,670,89,89,0,0,178
+"JAMMU & KASHMIR",23,1254,158,0,0,1412,1251,156,0,0,1407
+"JHARKHAND",8516,10897,8472,716,295,20380,5317,5618,207,115,11257
+"KARNATAKA",3922,11642,1998,2182,4071,19893,6061,1951,2738,4418,15168
+"KERALA",5796,2888,2978,6450,4401,16717,2477,2612,5736,3940,14765
+"MADHYA PRADESH",9075,3953,38060,220,494,42727,1214,25410,102,388,27114
+"MAHARASHTRA",12950,15700,15608,10899,2338,44545,9134,12049,8698,1043,30924
+"MEGHALAYA",4,118,44,0,0,162,81,37,0,0,118
+"NAGALAND",22,194,59,0,0,253,56,21,0,0,77
+"ORISSA",9418,12045,7992,453,264,20754,4260,3244,453,95,8052
+"PUNJAB",174,700,700,0,14,1414,507,563,0,14,1084
+"RAJASTHAN",141,706,2504,0,3,3213,92,1343,0,3,1438
+"TAMIL NADU",491,2111,175,50,135,2471,1708,70,15,120,1913
+"TRIPURA",158,339,518,2,73,932,211,346,2,41,600
+"UTTAR PRADESH",757,2066,2247,529,42,4884,1169,1606,281,34,3090
+"UTTARANCHAL",11,136,125,10,10,281,91,76,10,10,187
+"WEST BENGAL",69142,66870,52477,4266,32620,156233,19403,38921,3456,16868,78648
+"ANDAMAN & NICOBARS",1052,2378,539,135,34,3086,747,228,52,12,1039
+"ALL INDIA",131736,164955,150685,26913,46449,389002,64580,103525,22445,27595,218145

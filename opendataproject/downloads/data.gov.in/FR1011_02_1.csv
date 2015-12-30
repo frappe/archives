@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides information about Non - Plan Revenue Expenditure (NPRE) and its Components during Eleventh Plan", 
+ "file_name": "FR1011_02_1.csv", 
+ "title": "Download CSV for Non - Plan Revenue Expenditure (NPRE) and its Components during Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_02_1.csv"
+}
+-----
+Items,2002-03 Actual,2006-07 Provisional/BE,2002-03 Actual as percentage to GDP ,2006-07 Provisional as percentage to GDP 
+Interest,117804,149553,4.79,3.62
+Pension,14496,21984,0.59,0.53
+Salary,18253,23232,0.74,0.56
+Subsidies,43533,52935,1.77,1.28
+Other Non-plan revenue expenditure,73058,123940,2.97,3.00
+Total Non-plan revenue expenditure,267144,371644,10.87,9.21

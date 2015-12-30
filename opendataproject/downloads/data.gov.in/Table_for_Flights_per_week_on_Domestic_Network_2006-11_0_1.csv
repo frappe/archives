@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table gives an over view of flights/week on domestic network, NER, Jammu and Kashmir, Andaman and Nicobar Islands and Lakshadweep Islands for the years 2006 to 2011.", 
+ "file_name": "Table_for_Flights_per_week_on_Domestic_Network_2006-11_0_1.xls", 
+ "title": "Download XLS for Table for Flights per week on Domestic Network", 
+ "url": "http://data.gov.in/sites/default/files/Table_for_Flights_per_week_on_Domestic_Network_2006-11_0_1.xls"
+}
+-----
+"Flight Details",2006.0,2007.0,2008.0,2009.0,2010.0,2011.0
+"Total on Domestic Network",8724.0,10624.0,11048.0,11063.0,11315.0,12107.0
+"North-Eastern Region",259.0,285.0,298.0,286.0,347.0,370.0
+"Jammu & Kashmir",104.0,116.0,110.0,113.0,120.0,179.0
+"Andaman & Nicobar Island",24.0,42.0,42.0,35.0,40.0,42.0
+"Lakshadweep Island",6.0,13.0,10.0,7.0,13.0,10.0

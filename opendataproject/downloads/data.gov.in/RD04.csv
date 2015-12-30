@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table states head count ratio and number of poor persons (in lakh) for 1973-74, 1983, 1993-94 and 2004-05 in Urban India.", 
+ "file_name": "RD04.csv", 
+ "title": "Download CSV for Headcount Ratio and Number of Poor Persons Below Poverty Line in Urban India ", 
+ "url": "http://data.gov.in/sites/default/files/RD04.csv"
+}
+-----
+States/Uts,Headcount Ratio Below Poverty Line in India (Urban) 1973-74,Headcount Ratio Below Poverty Line in India (Urban) 1983,Headcount Ratio Below Poverty Line in India (Urban) 1993-94,Headcount Ratio Below Poverty Line in India (Urban) 2004-05,No. of poor persons (in Lakh) Below Poverty Line in India (Urban) 1973-74,No. of poor persons (in Lakh) Below Poverty Line in India (Urban) 1983,No. of poor persons (in Lakh) Below Poverty Line in India (Urban) 1993-94,No. of poor persons (in Lakh) Below Poverty Line in India (Urban) 2004-05
+Andhra Pradesh,50.6,36.3,38.3,28,47.5,50.2,74.5,61.4
+Assam,36.9,21.7,7.7,3.3,5.5,4.3,2,1.3
+Bihar,53,47.3,34.5,34.6,34.1,44.4,42.5,32.4
+Delhi,52.2,27.9,16,15.2,21.8,18,15.3,22.3
+Goa,37.7,27,27,21.3,1,1.1,1.5,1.6
+Gujrat,52.6,39.1,27.9,13,43.8,45,43,27.2
+Haryana,40.2,24.2,16.4,15.1,8.2,7.6,7.3,10.6
+Himanchal,13.2,9.4,9.2,3.4,0.4,0.3,0.5,0.2
+Karnataka,52.5,42.8,40.1,32.6,42.3,49.3,60.5,63.8
+Kerala,62.7,45.7,24.6,20.2,24.2,25.2,20.5,17.2
+Madhya Pradesh,57.7,53.1,48.4,42.1,45.1,62.5,82.3,74
+Maharashtra,43.9,40.3,35.2,32.2,76.6,97.1,111.9,146.3
+Odisha,55.6,49.2,41.6,44.3,12.2,16.7,19.7,26.7
+Punjab,28,23.8,11.4,7.1,10,11.9,7.4,6.5
+Rajasthan,52.1,37.9,30.5,32.9,27.1,30.1,33.8,47.5
+Tamil Nadu,49.4,47,39.8,22.2,66.9,78.5,80.4,69.1
+Uttar Pradesh,60.1,49.8,35.4,30.6,85.7,108.7,108.3,117
+West Bengal,34.7,32.3,22.4,14.8,41.3,50.1,44.7,35.1
+Chattishgarh,,,,41.2,,,,19.5
+Jharkhand,,,,20.2,,,,13.2
+Uttrakhand,,,,36.5,,,,8.9
+Chandigarh,28,23.8,11.4,7.1,0.8,1.1,0.7,0.7
+Dadra& Nagar Haweli,37.7,27,39.9,19.1,0,0,0.1,0.2
+J&K,21.3,17.8,9.2,7.9,2.1,2.5,1.9,2.2
+All India,49,40.8,32.4,25.7,600.5,709.4,763.4,808

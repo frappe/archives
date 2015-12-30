@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides details on Gross enrolment in higher education for Higher Education and Distance Education for male and female from 2007-08 to 2009-10.\r\r", 
+ "file_name": "enrolment03_1.xls", 
+ "title": "Download XLS for Gross Enrolment For Higher Education And Distance Education From 2007-08 To 2009-10", 
+ "url": "http://data.gov.in/sites/default/files/enrolment03_1.xls"
+}
+-----
+"Years"," Enrolment in higher education (excluding distance education) - Boys"," Enrolment in higher education (excluding distance education) - Girls"," Enrolment in higher education (excluding distance education) - Total","Enrolment in  distance education - Boys","Enrolment in  distance education - Girls","Enrolment in  distance education - Total","Total Enrolment in Higher Education - Boys","Total Enrolment in Higher Education - Girls","Total Enrolment in Higher Education - Total"
+"2007-08",8228292.0,5363519.0,13591811.0,2345597.0,1273807.0,3619404.0,10573890.0,6637326.0,17211216.0
+"2008-09",8871297.0,5804857.0,14676154.0,2572540.0,1400229.0,3972769.0,11443837.0,7205086.0,18648923.0
+"2009-10",10325236.0,6969850.0,17295086.0,2119364.0,1326290.0,3445654.0,12444600.0,8296140.0,20740740.0

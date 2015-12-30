@@ -1,0 +1,25 @@
+-----
+{
+ "description": "This table gives the Production of Fabrics in India (in million sq. mtrs.). It gives sector-wise details (Power looms (inc. Hosiery), Handloom, Mill sector and others) of fabric production for the years 2004-05 to 2011-12.", 
+ "file_name": "tab122.xls", 
+ "title": "Download XLS for Production of Fabrics(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab122.xls"
+}
+-----
+"1.22: Production of fabrics ","","","","","","","",""
+"                                                                                                                                        (million sq. mtrs.)","","","","","","","",""
+"Sector","2004-05","2005-06","2006-07","2007-08 ","2008-09","2009-10","2010-11","2011-12P"
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0
+"Mill sector",1526.0,1656.0,1746.0,1781.0,1796.0,2016.0,2205.0,2313.0
+"Power looms (inc. Hosiery)",37437.0,41044.0,44383.0,46529.0,45725.0,50699.0,52649.0,50391.0
+"Handloom",5722.0,6108.0,6536.0,6947.0,6677.0,6806.0,6907.0,6901.0
+"Others",693.0,769.0,724.0,768.0,768.0,812.0,798.0,848.0
+"Total",45378.0,49577.0,53389.0,56025.0,54966.0,60333.0,62559.0,60453.0
+"Share in output (per cent)","","","","","","","",""
+"Mill sector",3.3628630614,3.34025858765,3.27033658619,3.17893797412,3.26747443874,3.3,3.5,3.83
+"Power looms (inc. Hosiery)",82.5003305567,82.7883897775,83.1313566465,83.0504239179,83.1877888149,84.1,84.16,83.36
+"Handlooms",12.6096346247,12.3202291385,12.2422221806,12.3998215083,12.1475093694,11.3,11.04,11.42
+"Others",1.52717175724,1.55112249632,1.35608458671,1.37081659973,1.39722737692,1.3,1.28,1.4
+"Total",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Source: Office of Textiles Commissioner, Mumbai","","","","","","","",""
+"p Provisional","","","","","","","",""

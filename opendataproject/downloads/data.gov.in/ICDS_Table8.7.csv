@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows estimates of components nutritional status of children aged 7 months-60 months (ICDS v/s Non ICDS). It gives state-wise details regarding ICDS beneficiaries- Normal, Grade 1, Grade 2, Grade 2, Grade 3 and Grade 4, as well as for non-ICDS beneficiaries.", 
+ "file_name": "ICDS_Table8.7.xls", 
+ "title": "Download XLS for Estimates of Components Nutritional Status of Children Aged 7 Months-60 Months (ICDS v/s Non ICDS)", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table8.7.xls"
+}
+-----
+"States/UTs ","ICDS-Normal","ICDS-Grade 1","ICDS-Grade 2","ICDS-Grade 3","ICDS-Grade 4","Non-ICDS-Normal","Non-ICDS-Grade 1","Non-ICDS-Grade 2","Non-ICDS-Grade 3","Non-ICDS-Grade 4"
+"Andhra Pradesh",52.2,27.6,15.6,4.6,0.0,46.1,33.4,15.8,3.4,1.4
+"Assam",47.3,31.5,14.6,6.7,0.0,46.7,27.5,22.6,2.3,1.0
+"Bihar",46.9,31.9,11.1,8.1,2.1,40.0,26.5,22.1,7.0,4.4
+"Chhattisgarh",41.1,35.0,14.5,8.1,1.3,52.0,23.4,17.5,6.6,0.6
+"Gujarat",40.9,34.8,18.3,4.7,1.4,49.9,24.3,12.0,13.8,0.0
+"Haryana",55.3,33.8,8.8,2.1,0.0,53.0,31.1,15.2,0.8,0.0
+"Himachal Pradesh",56.2,30.1,13.1,0.3,0.3,57.0,22.5,20.5,0.0,0.0
+"Jammu and Kashmir",63.0,18.0,17.0,1.5,0.5,67.1,12.2,17.3,2.8,0.6
+"Jharkhand",48.3,33.0,10.9,5.6,2.2,54.3,26.8,13.4,4.4,1.0
+"Karnataka",45.0,35.1,14.6,4.7,0.6,52.1,27.7,11.9,8.3,0.0
+"Kerala",63.6,23.9,11.3,1.2,0.0,57.1,35.9,7.1,0.0,0.0
+"Madhya Pradesh",39.0,30.6,21.0,6.9,2.6,31.5,32.3,27.2,6.8,2.2
+"Maharashtra",55.2,31.3,11.1,1.4,1.1,51.7,31.1,11.4,4.7,1.1
+"Orissa",46.0,31.0,14.2,6.5,2.4,47.7,19.9,19.5,12.5,0.4
+"Punjab",63.6,22.1,10.6,3.1,0.7,73.2,16.0,6.5,4.3,0.0
+"Rajasthan",47.9,27.1,16.6,5.2,3.3,45.0,25.7,18.8,8.9,1.6
+"Tamil Nadu",55.3,33.0,8.4,2.6,0.7,54.0,29.8,12.5,1.8,2.0
+"Uttar Pradesh",38.6,33.1,19.5,6.4,2.4,38.9,31.2,20.9,6.9,2.2
+"Uttrakhand",49.6,23.1,20.9,6.0,0.4,64.4,23.3,3.4,9.0,0.0
+"West Bengal",57.8,28.1,10.3,3.0,0.8,46.1,32.2,15.0,6.2,0.5
+"Delhi",44.1,31.6,22.8,1.5,0.0,50.1,24.6,25.3,0.0,0.0
+"Chandigarh",74.3,9.5,9.8,6.4,0.0,22.2,77.8,0.0,0.0,0.0
+"Arunachal Pradesh",49.4,14.4,24.8,7.7,3.7,49.1,0.0,50.9,0.0,0.0
+"Manipur",71.6,26.0,2.4,0.0,0.0,85.3,13.0,1.7,0.0,0.0
+"Meghalaya",59.0,19.6,16.7,4.7,0.0,48.7,9.1,29.1,13.1,0.0
+"Mizoram",61.9,18.2,11.9,2.9,5.1,100.0,0.0,0.0,0.0,0.0
+"Nagaland",87.8,5.6,4.7,0.0,1.9,71.4,18.8,4.1,0.0,5.7
+"Tripura",53.0,24.7,16.7,5.4,0.2,56.3,33.9,9.8,0.0,0.0
+"Sikkim",71.1,23.6,5.3,0.0,0.0,70.3,21.7,8.1,0.0,0.0
+"Dadar& Nagar Haveli",32.0,42.2,25.8,0.0,0.0,70.4,21.2,0.0,0.0,8.5
+"Daman & Diu",55.3,32.0,6.1,6.6,0.0,87.2,12.8,0.0,0.0,0.0
+"Goa",84.5,8.3,7.3,0.0,0.0,48.1,43.8,8.1,0.0,0.0
+"Puducherry",68.0,22.9,9.1,0.0,0.0,93.6,6.4,0.0,0.0,0.0
+"Andaman & Nicobar Islands",73.8,25.2,1.0,0.0,0.0,46.8,47.7,5.6,0.0,0.0
+"All India",47.3,31.0,15.1,5.1,1.5,46.0,28.9,17.8,5.5,1.9

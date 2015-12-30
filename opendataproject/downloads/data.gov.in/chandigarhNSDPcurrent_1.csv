@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at current prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "chandigarhNSDPcurrent_1.csv", 
+ "title": "Download CSV for Chandigarh Net State Domestic Product at factor cost at Current Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/chandigarhNSDPcurrent_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","6777","7432","8203","8441","9196","9693","9362","9135"
+"Foresty and Logging","609","615","715","773","616","653","736","809"
+"Fishing","43","57","103","116","121","128","134","141"
+"Ag and Allied","7429","8104","9021","9330","9933","10474","10232","10085"
+"Mining and Quarrying","1","1","1","1","1","10","11","12"
+"Sub total of primary","7430","8105","9022","9331","9934","10484","10243","10097"
+"Manufacturing","48974","52207","65148","77899","80154","99725","115522","127417"
+"Registered","15989","14389","20717","26930","25535","40729","45476","51554"
+"Unregistered","32985","37818","44431","50969","54619","58996","70046","75863"
+"Construction","74756","94873","150260","160017","97921","125410","145167","166843"
+"Electricity, Gas and water Supply","6409","7244","7796","8876","9924","13486","15769","17282"
+"Sub total of secondary","130139","154324","223204","246792","187999","238621","276458","311542"
+"Industry","130140","154325","223205","246793","188000","238631","276469","311554"
+"Transport Storage and Communication","42087","43534","45343","48762","52797","63291","72671","86747"
+"Railways","331","394","476","573","542","777","817","845"
+"Transport by other means","16195","18504","21140","23019","23587","28520","31176","35601"
+"Storage","57","58","69","81","91","157","176","197"
+"Communication","25504","24578","23658","25089","28577","33837","40502","50104"
+"Trade, hotels and restaurants","218021","294153","345323","398828","434524","445543","522655","577882"
+"Banking and Insurance","95423","103464","127380","142807","198001","250118","309452","382860"
+"Real estate, ownership of dwelling and business","152973","184140","211116","238100","278906","323318","397092","436119"
+"Pubic Administration","55924","60817","67970","63728","122091","120684","123977","142716"
+"Other Services","59018","69383","78042","84319","90262","121889","138695","154534"
+"Sub total of tertiary","623446","755491","875174","976544","1176581","1324843","1564542","1780858"
+"State domestic product","761015","917920","1107400","1232667","1374514","1573948","1851243","2102497"
+
+"Figures are in Rs. Lakh"

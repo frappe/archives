@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the percentage of AWC provided types of services reported by AWW. This table gives state-wise details regarding the services that the AWC is supposed to provide under the KSY scheme which includes Food/Supplementary Nutrition, Health checkup, Immunisation, Referral services, ...", 
+ "file_name": "ICDS_Table6.18.xls", 
+ "title": "Download XLS for Percentage of AWC provided types of services reported by AWW", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table6.18.xls"
+}
+-----
+"States/UTs ","Percentage AWC implemented KSY scheme","Food/ SN","Health check-up","Immunization","Referral services","Deworming appendix tablets","Iron & folic acid","Family-life education"
+"Andhra Pradesh",79.5,20.1,58.6,26.8,93.6,80.8,86.8,97.2
+"Assam",47.3,95.0,11.0,32.6,2.6,40.5,23.9,52.0
+"Bihar",88.5,100.0,36.0,67.2,7.4,15.2,25.5,55.3
+"Chhattisgarh",79.0,80.3,100.0,77.3,74.3,89.0,89.4,84.5
+"Gujarat",22.8,100.0,100.0,46.7,63.7,47.3,90.0,67.7
+"Haryana",16.4,100.0,95.0,17.1,95.0,95.0,95.0,100.0
+"Himachal Pradesh",81.4,100.0,100.0,79.4,52.4,86.2,98.6,89.3
+"Jammu and Kashmir",37.9,95.5,75.5,76.9,26.6,13.2,19.0,92.1
+"Jharkhand",89.0,100.0,56.8,47.5,5.9,31.9,57.3,63.6
+"Karnataka",85.6,100.0,80.3,79.0,66.6,65.6,66.6,67.8
+"Kerala",15.0,33.4,25.6,100.0,25.6,58.3,100.0,70.7
+"Madhya Pradesh",96.9,95.4,95.3,93.8,70.9,77.8,93.2,98.2
+"Maharashtra",96.2,85.0,91.8,95.6,87.0,84.3,96.9,85.1
+"Orissa",98.8,8.8,64.3,50.2,37.7,88.5,97.3,58.8
+"Punjab",76.6,100.0,83.7,70.0,73.6,73.6,70.0,100.0
+"Rajasthan",47.7,97.3,79.4,59.7,28.6,50.5,86.9,47.3
+"Tamil Nadu",65.2,28.5,73.3,62.5,70.4,64.2,85.2,87.7
+"Uttar Pradesh",82.8,99.3,64.5,83.5,30.8,63.9,48.0,79.2
+"Uttrakhand",56.1,100.0,58.8,93.1,7.0,80.8,96.6,90.5
+"West Bengal",6.4,7.4,18.6,0.0,25.4,33.7,72.3,26.1
+"Delhi",100.0,100.0,43.3,0.0,54.2,20.0,63.3,100.0
+"Chandigarh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Arunachal Pradesh",35.3,83.3,0.0,0.0,0.0,16.8,0.0,0.0
+"Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tripura",20.8,100.0,0.0,0.0,9.0,13.0,13.0,13.0
+"Sikkim",43.0,0.0,0.0,0.0,0.0,33.3,33.3,0.0
+"Dadar & Nagar Haveli",20.0,100.0,100.0,100.0,0.0,100.0,100.0,100.0
+"Daman & Diu",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Goa",80.0,25.0,100.0,100.0,75.0,0.0,75.0,100.0
+"Puducherry",100.0,0.0,40.0,0.0,80.0,80.0,80.0,60.0
+"Andaman & Nicobar Island",94.3,100.0,21.5,0.0,0.0,6.3,70.3,6.0
+"All India",66.6,79.9,69.6,69.4,50.4,63.3,70.5,77.1

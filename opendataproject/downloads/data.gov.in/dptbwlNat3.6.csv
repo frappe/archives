@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to source of Finance. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.6.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to source of Finance", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.6.csv"
+}
+-----
+"State","Government Funds","Farmers saving","Loan and Saving","Subsidy and Bank loan","Others","Total"
+"ANDHRA PRADESH",19691,55821,9780,1250,940,87482
+"ARUNACHAL PRADESH",3,0,0,0,0,3
+"ASSAM",574,35,20,55,76,760
+"BIHAR",3372,515,421,785,1097,6190
+"CHHATTISGARH",2852,1961,173,115,126,5227
+"GOA",59,1,0,0,0,60
+"GUJARAT",34975,44394,7795,743,6275,94182
+"HARYANA",2592,18359,3135,67,186,24339
+"HIMACHAL PRADESH",1,2,6,1,341,351
+"JAMMU & KASHMIR",19,0,0,0,1,20
+"JHARKHAND",14,1,2,9,2,28
+"KARNATAKA",32,0,0,0,0,32
+"KERALA",69,92,12,43,11,227
+"MADHYA PRADESH",6320,25620,2950,828,680,36398
+"MAHARASHTRA",36233,30305,7785,1139,1761,77223
+"MEGHALAYA",8,0,0,0,0,8
+"NAGALAND",3,0,0,0,0,3
+"ORISSA",3874,203,212,250,53,4592
+"PUNJAB",1302,8253,329,52,54,9990
+"RAJASTHAN",3205,36342,15006,596,1615,56764
+"TAMIL NADU",20371,57465,3920,543,1711,84010
+"TRIPURA",151,0,0,15,2,168
+"UTTAR PRADESH",27332,5054,918,1162,619,35085
+"UTTARANCHAL",526,104,56,14,183,883
+"WEST BENGAL",4550,295,110,101,83,5139
+"CHANDIGARH",35,22,0,0,0,57
+"DELHI",6,634,4,1,0,645
+"PONDICHERRY",17,230,32,28,21,328
+"ALL INDIA",168186,285708,52666,7797,15837,530194

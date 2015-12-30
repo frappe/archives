@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table gives the estimated reserve and installed capacity of various sources of energies.", 
+ "file_name": "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES.xls", 
+ "title": "Download XLS for Estimated Reserve and Installed Capacity of Various Sources of Energies", 
+ "url": "http://data.gov.in/sites/default/files/ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES.xls"
+}
+-----
+"As on","Reserve of Coal (In billion tonnes) Proved","Reserve of Coal (In billion tonnes) Indicated","Reserve of Coal (In billion tonnes) Inferred","Reserve of Coal (In billion tonnes) Total"
+"31.03.2008",4.824,26.072,8.032,38.928
+"31.03.2009",5.362,25.535,8.175,39.072
+"31.03.2010",6.15,25.34,8.41,39.9
+"31.03.2011",6.15,25.79,8.97,40.9

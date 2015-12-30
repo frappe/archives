@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details regarding the number of visitors\u2019 passes issued on any single day in each session of 15th Lok Sabha.", 
+ "file_name": "No_of_Visitors_Passes_Issued_on_any_Single_Day_in_Each_Session_of_15th_LS.xls", 
+ "title": "Download XLS for Number of Visitors Passes Issued on any Single Day in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/No_of_Visitors_Passes_Issued_on_any_Single_Day_in_Each_Session_of_15th_LS.xls"
+}
+-----
+"Sessions","Max. No. of Passes Issued on any Single Day"
+"First",1270.0
+"Second",833.0
+"Third",1021.0
+"Fourth",1228.0
+"Fifth",1036.0
+"Sixth",731.0
+"Seventh",1006.0
+"Eighth",1035.0
+"Ninth",927.0
+"Tenth",1244.0
+"Eleventh ",999.0
+"Twelfth",1527.0
+"Thirteenth ",1319.0

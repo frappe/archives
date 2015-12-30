@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details on the number of sittings held in each session of 15th Lok Sabha.", 
+ "file_name": "Number_of_Sittings_Held_in_Each_Session_of_15th_Lok_Sabha.xls", 
+ "title": "Download XLS for Number of Sittings Held in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Sittings_Held_in_Each_Session_of_15th_Lok_Sabha.xls"
+}
+-----
+"Sessions","No. of Sittings"
+"First",7.0
+"Second",26.0
+"Third",21.0
+"Fourth",32.0
+"Fifth",26.0
+"Sixth",23.0
+"Seventh",23.0
+"Eighth ",26.0
+"Ninth ",24.0
+"Tenth",35.0
+"Eleventh",19.0
+"Twelfth ",20.0
+"Thirteenth",32.0

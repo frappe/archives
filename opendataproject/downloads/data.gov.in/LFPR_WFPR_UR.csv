@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The table gives the Labour force Participation Rate (LFPR), Work Force Participation Rate (WFPR) and Unemployment Rate (UR) by Usual Principal and Subsidiary Status (UPSS) (in percentage). It gives category-wise (Rural and Urban) details for the years 2004\u201305 and 2009\u201310.", 
+ "file_name": "LFPR_WFPR_UR.xls", 
+ "title": "Download XLS for Labourforce Participation Rate, Work Force Participation Rate and Unemployment Rate (in percentage)", 
+ "url": "http://data.gov.in/sites/default/files/LFPR_WFPR_UR.xls"
+}
+-----
+"Category","LFPR 2004-05","LFPR 2009-10","WFPR 2004-05","WFPR 2009-10","UR 2004-05","UR 2009-10"
+"Rural ",44.6,41.4,43.9,40.8,1.7,1.6
+"Urban ",38.2,36.2,36.5,35.0,4.5,3.4
+"All India",43.0,40.0,42.0,39.2,2.3,2.0

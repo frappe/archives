@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides Projection of Crude Oil Production in the Twelfth Five Year Plan (2012-17) category-wise in Million Metric Tonne Per Annum (MMTPA)", 
+ "file_name": "Projection_of_Crude_Oil_Production_Twelfth_Plan.xls", 
+ "title": "Download XLS for Projection of Crude Oil Production in the Twelfth Five Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Projection_of_Crude_Oil_Production_Twelfth_Plan.xls"
+}
+-----
+"Category","2012-13","2013-14","2014-15","2015-16","2016-17","Total"
+"ONGC",25.045,28.27,28.002,26.286,25.456,133.059
+"OIL",3.92,4.0,4.06,4.16,4.2,20.34
+"Pvt./JV",13.34,13.3,12.7,12.1,11.5,62.94
+"Total",42.305,45.57,44.762,42.546,41.156,216.339

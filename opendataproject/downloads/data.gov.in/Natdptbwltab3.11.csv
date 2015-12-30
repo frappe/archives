@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells to Average Pumping Hours during peak season. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.11.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Average Pumping Hours during peak season for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.11.csv"
+}
+-----
+"State","Average pumping hours (0-4)","Average pumping hours (4-8)","Average pumping hours (8-12)","Average pumping hours (12-16)","Average pumping hours (16-20)","Average pumping hours (20-24)","Total"
+"ANDHRA PRADESH",4651,14485,7994,2644,1252,190,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA,NA
+"ASSAM",208,358,25,1,0,0,592
+"BIHAR",1143,3178,1787,240,71,21,6440
+"GOA",16,3,0,0,0,0,19
+"GUJARAT",NA,NA,NA,NA,NA,NA,NA
+"HARYANA",450,4372,1512,38,22,20,6414
+"HIMACHAL PRADESH",13,65,56,50,31,15,230
+"JAMMU & KASHMIR",9,88,0,0,0,0,97
+"KARNATAKA",45404,81145,17783,2462,1667,2121,150582
+"KERALA",133,46,15,3,1,0,198
+"MADHYA PRADESH",5295,8160,6673,2530,1652,141,24451
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA,NA
+"MEGHALAYA",1,5,1,0,0,0,7
+"MIZORAM",NA,NA,NA,NA,NA,NA,NA
+"NAGALAND",1,2,0,0,0,0,3
+"ORISSA",492,1285,778,225,126,5,2911
+"PUNJAB",94,660,1310,172,36,5,2277
+"RAJASTHAN",1201,10658,557,65,28,41,12550
+"SIKKIM",NA,NA,NA,NA,NA,NA,NA
+"TAMIL NADU",8037,11558,8715,2080,1546,1030,32966
+"TRIPURA",20,87,21,3,0,0,131
+"UTTAR PRADESH",787,5160,4289,901,429,59,11625
+"WEST BENGAL",94,725,2171,739,307,3,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA,NA
+"DELHI",108,413,149,19,2,0,691
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA,NA
+"PONDICHERRY",16,89,131,10,60,112,418
+"ALL INDIA",68173,142542,53967,12182,7230,3763,287857

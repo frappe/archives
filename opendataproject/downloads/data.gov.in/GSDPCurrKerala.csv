@@ -1,0 +1,40 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrKerala.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Kerala at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrKerala.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrKerala.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Kerala at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrKerala.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture",1698051,1894914,2082101,2221633,2492744,2574835,3396298,3949901
+"Forestry & Logging",204902,258787,229261,260832,351414,416919,380119,440724
+"Fishing",181422,248196,264409,263431,268413,323461,340990,371778
+"Agriculture & Allied",2084375,2401897,2575771,2745896,3112571,3315215,4117408,4762404
+"Mining & Quarrying",45778,68092,62343,136876,129937,172531,175564,195005
+"Manufacturing",1022058,1092095,1229466,1508223,1735690,1756980,2020037,2291924
+"Manufacturing - Registered",457614,479855,500903,643781,836319,777588,910229,1035459
+"Manufacturing - Unregistered",564444,612240,728563,864442,899371,979392,1109808,1256465
+"Construction",1448764,1744919,1997812,2173999,2321153,2821823,3392000,3951143
+"Electricity, Gas and Water supply",218290,241735,261348,285733,245380,310975,348103,391560
+"Industry",2734890,3146841,3550969,4104831,4432160,5062310,5935703,6829631
+"Transport, Storage & Communication",1183377,1335474,1493931,1641203,1959396,2264399,2620868,3045623
+"Railways",54765,55109,61413,62437,87296,108003,108979,122252
+"Transport by other means",831308,956762,1081865,1207848,1465612,1704876,1968191,2286516
+"Storage",5063,5384,6549,8056,9456,11255,13510,16372
+"Communication",292241,318219,344104,362862,397032,440265,530187,620483
+"Trade, Hotels and restaurants",2387056,2803964,3170077,3560040,4268598,5202700,5967518,7141627
+"Banking & Insurance",606049,668563,761235,871788,1024586,1127933,1388482,1659986
+"Real estate, Ownership of dwellings and Business services",1301911,1543386,1793201,2151609,2614383,3005049,3272965,3855504
+"Public Administration",497921,554832,646446,774267,898236,942743,1120574,1313641
+"Other services",1130821,1229219,1386858,1664474,1968349,2279518,2523861,2912149
+"Services",7107135,8135438,9251748,10663381,12733548,14822343,16894268,19928532
+"State Domestic Product",11926400,13684176,15378488,17514108,20278279,23199867,26947379,31520567

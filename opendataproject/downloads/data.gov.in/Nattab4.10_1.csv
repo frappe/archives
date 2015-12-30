@@ -1,0 +1,50 @@
+-----
+{
+ "description": "Wholesale price index comprises as far as possible all transactions at first point of bulk sale in the domestic market. Provisional monthly WPI for All Commodities is released on 14th of every month (next working day, if 14th is holiday). Detailed item level WPI is put on official website ...", 
+ "file_name": "Complete_wpi_data-monthly_(2004-05).xls", 
+ "title": "Download XLS for Wholesale Price Index: Base 2004-05 - Upto July 2013", 
+ "url": "http://data.gov.in/sites/default/files/Complete_wpi_data-monthly_(2004-05).xls"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise potential utilized through surface flow schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.10_1.csv", 
+ "title": "Download CSV for Statewise Surface Flow Schemes Average length of water conveyance channel for 2nd census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.10_1.csv"
+}
+-----
+State,Total number of schemes,Pucca,Kutcha,Under,Total
+ANDHRA PRADESH,79953,29,407,5,441
+ARUNACHAL PRADESH,3588,191,732,41,964
+ASSAM,2347,799,2135,21,2955
+BIHAR,67248,26,488,72,586
+GOA,3176,37,296,25,358
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,510,14,165,0,179
+HIMACHAL PRADESH,14345,160,819,4,983
+JAMMU & KASHMIR,9144,111,157,1,269
+KARNATAKA,39086,339,260,33,632
+KERALA,10381,248,449,18,715
+MADHYA PRADESH,56124,25,158,36,219
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,240,36,1641,0,1677
+MEGHALAYA,14264,21,192,6,219
+MIZORAM,4775,11,234,0,245
+NAGALAND,14059,330,1,0,331
+ORISSA,24103,9,117,2,128
+PUNJAB,394,25,254,14,293
+RAJASTHAN,3102,773,928,68,1769
+SIKKIM,854,658,225,90,973
+TAMIL NADU,84723,69,92,7,168
+TRIPURA,600,275,719,62,1056
+UTTAR PRADESH,23884,68,134,9,211
+WEST BENGAL,66454,26,341,35,402
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,11,244,248,0,492
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,1383,4,151,2,157
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,17645,18,432,0,450
+ALL INDIA,542393,4546,11775,551,16872

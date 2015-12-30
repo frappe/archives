@@ -1,0 +1,75 @@
+-----
+{
+ "description": "This table contains data related to Mineral-wise Summary of Mining Lease Distribution as on 31st March 2011. ", 
+ "file_name": "Mineralwise_Distribution_of_Mining_Leases.xls", 
+ "title": "Download XLS for Mineral-wise Summary Of Mining Lease Distribution", 
+ "url": "http://data.gov.in/sites/default/files/Mineralwise_Distribution_of_Mining_Leases.xls"
+}
+-----
+"Mineral","No of Leases","Lease Area (Hect)"
+"AGATE                    ",3.0,59.62
+"AMETHYST                                              ",6.0,74.42
+"APATITE                                              ",2.0,20.17
+"ASBESTOS                                            ",34.0,1632.75
+"BALL CLAY                                            ",54.0,28281.41
+"BARYTES                                             ",164.0,2587.75
+"BAUXITE                                              ",343.0,30032.74
+"BORAX                                                   ",1.0,159.0
+"CALCAREOUS SAND                                      ",14.0,151.54
+"CALCITE                                              ",80.0,1620.02
+"CHALK                                                 ",162.0,650.75
+"CHINA CLAY                                            ",514.0,17386.17
+"CHROMITE                                                ",35.0,9432.57
+"CLAY (OTHERS)                                         ",106.0,1280.61
+"COPPER ORE                                           ",17.0,10007.01
+"CORUNDUM                                                ",17.0,240.62
+"DIAMOND                                              ",2.0,275.96
+"DIASPORE                                          ",12.0,94.38
+"DOLOMITE                                             ",542.0,8124.63
+"DUNITE                                                  ",1.0,14.28
+"EPIDOTE                                                ",1.0,5.0
+"FELSITE                                                 ",6.0,102.29
+"FELSPAR                                                ",862.0,11653.41
+"FIRECLAY                                             ",272.0,6507.87
+"FLUORITE                                              ",16.0,1670.71
+"GARNET                                               ",96.0,938.88
+"GARNET(GEM)                                              ",1.0,12.08
+"GOLD                                                ",11.0,6441.71
+"GRAPHITE                                              ",121.0,3787.65
+"GYPSUM                                             ",89.0,15255.15
+"IOLITE                                                 ",11.0,104.35
+"IRON ORE                                               ",800.0,98082.7
+"JASPER                                                   ",5.0,211.7
+"KYANITE                                                 ",32.0,3217.74
+"LATERITE                                               ",186.0,2293.1
+"LEAD & ZINC ORE                                         ",12.0,7175.19
+"LIME KANKAR                                             ",19.0,648.17
+"LIMESHELL                                              ",35.0,4879.47
+"LIMESTONE                                             ",2073.0,153926.94
+"MAGNESITE                                               ",40.0,3015.53
+"MANGANESE ORE                                          ",340.0,23258.72
+"MARL                                                    ",8.0,1729.08
+"MICA                                                  ",311.0,7511.74
+"MOULDING SAND                                           ",62.0,1380.64
+"OCHRE                                                  ",158.0,3405.4
+"PERLITE                                                 ",1.0,144.88
+"PHOSPHORITE                                            ",12.0,2750.76
+"PYRITES                                                  ",1.0,647.5
+"PYROPHYLLITE                                           ",97.0,2259.98
+"PYROXENITE                                              ",10.0,90.84
+"QUARTZ                                                ",1892.0,16696.91
+"QUARTZITE                                              ",88.0,2016.35
+"RUBY                                                    ",1.0,4.07
+"SAND (OTHERS)                                                                                                                                                                                                    ",57.0,13547.01
+"SAPPHIRE                       ",1.0,673.4
+"SHALE                                           ",46.0,570.11
+"SILICA SAND                                            ",545.0,17797.48
+"SILLIMANITE                                           ",6.0,2847.06
+"SLATE                                                  ",18.0,683.31
+"STEATITE                                            ",474.0,16609.18
+"TIN                                                   ",15.0,321.02
+"VERMICULITE                                           ",16.0,285.94
+"WHITE CLAY                                            ",24.0,212.16
+"WHITE SHALE                                          ",16.0,74.9
+"WOLLASTONITE                                           ",7.0,239.83
+"TOTAL",11003.0,547814.31

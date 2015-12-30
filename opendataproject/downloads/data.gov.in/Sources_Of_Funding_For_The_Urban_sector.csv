@@ -1,0 +1,17 @@
+-----
+{
+ "description": "The various sources of funding for the urban sector are shown in the table.", 
+ "file_name": "Sources_Of_Funding_For_The_Urban_sector.xls", 
+ "title": "Download XLS for Sources Of Funding For The Urban sector", 
+ "url": "http://data.gov.in/sites/default/files/Sources_Of_Funding_For_The_Urban_sector.xls"
+}
+-----
+"Source","Funding (in Rs Crore)"
+"JNNURM (GoI) including UIDSSMT",15500.0
+"Non-JNNURM (Budgetary Support) ",4400.0
+"VGF",6000.0
+"Resourced from States/ULBs ",19500.0
+"Loan from financial institutions ",4237.0
+"Participation by private promoters ",26000.0
+"Total","132590
+"

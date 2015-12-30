@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides details on enrolment across different education level in Higher Education based on National Sample Survey during 1995-96, 2007-08 and 2009-10.", 
+ "file_name": "enrolment02_1.xls", 
+ "title": "Download XLS for Current enrolment across different education level in Higher Education", 
+ "url": "http://data.gov.in/sites/default/files/enrolment02_1.xls"
+}
+-----
+"Education Level (all figures in '000)","Enrolment : 1995-96","Enrolment : 2007-08","Enrolment : 2009-10*","Enrolment : Growth Rate"
+"Primary",60668.0,110701.0,113857.0,4.8
+"Middle",43879.0,59118.0,57847.0,2.2
+"Secondary",19067.0,30063.0,40485.0,4.9
+"Higher Secondary",10089.0,17097.0,24464.0,5.8
+"Diploma or certificate below graduate",496.0,3179.9,2925.0,20.9
+"Diploma or certificate :Graduate and above level","",2451.25,3455.0,0.0
+"Graduate level degree course",2928.0,9217.69,18412.0,12.6
+"Post Graduate and above degree course",261.0,1387.73,2353.0,16.3

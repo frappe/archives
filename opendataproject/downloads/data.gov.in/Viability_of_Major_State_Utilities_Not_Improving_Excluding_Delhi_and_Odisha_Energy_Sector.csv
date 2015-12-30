@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides details regarding viability of major state utilities not improving (excluding Delhi and Odisha) for the years 2007\u201308 (Actual), 2008\u201309 (Actual), 2009\u201310 (Provisional), 2010\u201311 (R.E.).", 
+ "file_name": "Viability_of_Major_State_Utilities_Not_Improving_Excluding_Delhi_and_Odisha_Energy_Sector.xls", 
+ "title": "Download XLS for Viability of Major State Utilities Not Improving (Excluding Delhi and Odisha) - Energy Sector", 
+ "url": "http://data.gov.in/sites/default/files/Viability_of_Major_State_Utilities_Not_Improving_Excluding_Delhi_and_Odisha_Energy_Sector.xls"
+}
+-----
+"Item","2007-08 (Actual)","2008-09 (Actual)","2009-10 (Provisional)","2010-11 (R.E.)"
+"Energy sold/energy available (%)",72.86,74.55,74.33,76.21
+"Revenue from sale of electricity (Rs. crore)",131220.0,148605.0,163475.0,192827.0
+"Total cost of electricity sold (Rs. crore)",174452.0,212292.0,235701.0,261467.0
+"Commercial losses without subsidy (Rs. crore)",33290.0,52452.0,60172.0,59050.0
+"Average cost of supply (paise/kWh)",405.86,464.48,480.37,485.67
+"Average tariff (paise/kWh)",305.29,325.13,333.17,358.18
+"Gap between the cost of supply and tariff (paise)",100.57,139.35,147.2,127.49

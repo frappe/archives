@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to Horse Power of Lifting Device. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.9.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Horse Power of Lifting Device", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.9.csv"
+}
+-----
+"State","Horse Power (0 - 6)","Horse Power (6 - 12)","Horse Power (12 - 18)","Horse Power ( > 18)","Total"
+"ANDHRA PRADESH",28083,48287,9642,1470,87482
+"ARUNACHAL PRADESH",2,1,0,0,3
+"ASSAM",145,143,22,450,760
+"BIHAR",2961,622,889,1718,6190
+"CHHATTISGARH",4977,230,13,7,5227
+"GOA",59,1,0,0,60
+"GUJARAT",6059,30132,16654,41337,94182
+"HARYANA",3441,8935,5266,6697,24339
+"HIMACHAL PRADESH",15,45,40,251,351
+"JAMMU & KASHMIR",5,0,4,11,20
+"JHARKHAND",7,21,0,0,28
+"KARNATAKA",21,10,1,0,32
+"KERALA",202,20,1,4,227
+"MADHYA PRADESH",23297,12751,128,222,36398
+"MAHARASHTRA",61374,15037,724,88,77223
+"MEGHALAYA",0,1,4,3,8
+"NAGALAND",3,0,0,0,3
+"ORISSA",1315,2928,290,59,4592
+"PUNJAB",4174,2492,1752,1572,9990
+"RAJASTHAN",9293,19597,5008,22866,56764
+"TAMIL NADU",53972,23370,5111,1557,84010
+"TRIPURA",32,6,38,92,168
+"UTTAR PRADESH",5453,4666,12765,12201,35085
+"UTTARANCHAL",138,152,268,325,883
+"WEST BENGAL",96,0,4067,976,5139
+"CHANDIGARH",3,15,11,28,57
+"DELHI",602,40,2,1,645
+"PONDICHERRY",1,46,212,69,328
+"ALL INDIA",205730,169548,62912,92004,530194

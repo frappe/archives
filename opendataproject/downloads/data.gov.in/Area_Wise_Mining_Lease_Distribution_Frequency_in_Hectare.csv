@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table contains data related to - Area wise status of Mining Lease distribution (Frequency in Hect) as on 31st March 2011.", 
+ "file_name": "Area_Wise_Mining_Lease_Distribution_Frequency_in_Hectare.xls", 
+ "title": "Download XLS for Area wise status of Mining Lease distribution (Frequency in Hect)", 
+ "url": "http://data.gov.in/sites/default/files/Area_Wise_Mining_Lease_Distribution_Frequency_in_Hectare.xls"
+}
+-----
+"Frequency (Hect)","No.of Leases","Lease area (Hect)"
+"0 to 2                              ",1534.0,1882.97
+"2 to 5                                   ",4097.0,16780.91
+"5 to 10                               ",1076.0,7892.56
+"10 to 20                           ",1064.0,15506.3
+"20 to 50                            ",1358.0,44932.6
+"50 to 100                               ",919.0,68174.07
+"100 to 200                                 ",447.0,62503.84
+"200 to 500                                  ",293.0,89208.4
+"Above 500                                      ",208.0,240932.66

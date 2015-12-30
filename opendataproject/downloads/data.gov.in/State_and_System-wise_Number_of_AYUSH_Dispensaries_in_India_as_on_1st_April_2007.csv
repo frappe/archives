@@ -1,0 +1,50 @@
+-----
+{
+ "description": "This table provides data related to the state and system-wise number of AYUSH dispensaries in India as on 1st April 2007 (like Ayurveda, Yoga, Unani, Siddha, Homeopathy and Naturopathy).  \r", 
+ "file_name": "State_and_System-wise_Number_of_AYUSH_Dispensaries_in_India_as_on_1st_April_2007.xls", 
+ "title": "Download XLS for State and System-wise Number of AYUSH Dispensaries in India as on 1st April 2007", 
+ "url": "http://data.gov.in/sites/default/files/State_and_System-wise_Number_of_AYUSH_Dispensaries_in_India_as_on_1st_April_2007.xls"
+}
+-----
+"S.No.","States/UTs and Others","Ayurveda","Unani","Siddha","Yoga","Naturopathy","Homoeopathy","Total"
+1.0,"Andhra Pradesh",620.0,193.0,"NA","NA","NA",283.0,1096.0
+2.0,"Arunachal Pradesh",2.0,"NA","NA",1.0,"NA",44.0,47.0
+3.0,"Assam",380.0,1.0,"NA",25.0,2.0,75.0,483.0
+4.0,"Bihar",311.0,144.0,"NA","NA","NA",179.0,634.0
+5.0,"Chhattisgarh",634.0,6.0,"NA","NA","NA",52.0,692.0
+6.0,"Delhi",148.0,25.0,"NA",4.0,2.0,98.0,277.0
+7.0,"Goa",11.0,"NA","NA","","NA",3.0,14.0
+8.0,"Gujarat",501.0,"NA","NA",1.0,8.0,216.0,726.0
+9.0,"Haryana",472.0,19.0,"NA","NA","NA",20.0,511.0
+10.0,"Himachal Pradesh",1105.0,3.0,"NA","NA","NA",14.0,1122.0
+11.0,"J&K",273.0,235.0,"NA","NA","NA",0.0,508.0
+12.0,"Jharkhand",122.0,30.0,"NA","NA","NA",54.0,206.0
+13.0,"Karnataka",589.0,51.0,"NA","NA",5.0,42.0,687.0
+14.0,"Kerala",740.0,1.0,6.0,"NA","NA",580.0,1327.0
+15.0,"Madhya Pradesh",1427.0,50.0,"NA","NA","NA",146.0,1623.0
+16.0,"Maharashtra",490.0,25.0,"NA","NA",1.0,0.0,516.0
+17.0,"Manipur",0.0,"NA","NA","NA","NA",9.0,9.0
+18.0,"Meghalaya",12.0,"NA","NA","NA","NA",10.0,22.0
+19.0,"Mizoram",0.0,"NA","NA","NA","NA",1.0,1.0
+20.0,"Nagaland","NA","NA","NA","NA","NA","NA",0.0
+21.0,"Orissa",624.0,9.0,"NA",35.0,30.0,603.0,1301.0
+22.0,"Punjab",507.0,35.0,"NA",1.0,"NA",107.0,650.0
+23.0,"Rajasthan",3496.0,92.0,"NA","",4.0,147.0,3739.0
+24.0,"Sikkim",1.0,"NA","NA","NA","NA",1.0,2.0
+25.0,"Tamil Nadu",32.0,21.0,435.0,1.0,1.0,43.0,533.0
+26.0,"Tripura",55.0,"NA","NA","NA","NA",93.0,148.0
+27.0,"Uttar Pradesh",340.0,49.0,"NA","NA","NA",1482.0,1871.0
+28.0,"Uttrakhand",467.0,3.0,"NA","NA","NA",60.0,530.0
+29.0,"West Bengal",295.0,3.0,"NA","NA","NA",1220.0,1518.0
+30.0,"A&N Islands",1.0,"NA","NA","NA","NA",8.0,9.0
+31.0,"Chandigarh",6.0,"NA","NA","NA","NA",5.0,11.0
+32.0,"Dadra & Nagar Haveli",3.0,"NA","NA","NA","NA",1.0,4.0
+33.0,"Daman & Diu",1.0,"NA","NA","NA","NA","NA",1.0
+34.0,"Lakshadweep",2.0,"NA","NA","NA","NA",1.0,3.0
+35.0,"Puducherry",16.0,"NA",16.0,"NA","NA",7.0,39.0
+36.0,"CGHS",31.0,9.0,2.0,3.0,3.0,34.0,82.0
+37.0,"Research Council",6.0,5.0,2.0,"NA","NA",40.0,53.0
+38.0,"Ministry of Railways",39.0,"NA","NA","NA","NA",129.0,168.0
+39.0,"Ministry of Labour",127.0,1.0,3.0,"NA","NA",29.0,160.0
+40.0,"Ministry of Coal",28.0,"NA","NA","NA","NA","NA",28.0
+"Total","Total",13914.0,1010.0,464.0,71.0,56.0,5836.0,21351.0

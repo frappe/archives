@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Dugwells in use and their Potential Created/Utilised according to Public and Private. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "shltubeNat2.2.csv", 
+ "title": "Download CSV for Statewise Distribution of Dugwells in use and their Potential Created/Utilised according to Public and Private", 
+ "url": "http://data.gov.in/sites/default/files/shltubeNat2.2.csv"
+}
+-----
+"State","Government","Cooperative Societies","Panchayat","Group of farmers","Individual farmers","Others","Total"
+"ANDHRA PRADESH",1999,633,926,22554,629601,646,656359
+"ASSAM",1032,84,4,529,76990,25,78664
+"BIHAR",550,77,45,101,650256,354,651383
+"CHHATTISGARH",28533,60,134,340,44781,12727,86575
+"GOA",14,1,0,1,13,1,30
+"GUJ ARAT",433,39,1059,1225,50407,32,53195
+"HARYANA",580,465,2712,209147,151125,12323,376352
+"HI MACHAL PRADESH",75,2,0,643,1925,4,2649
+"JAMMU & KASHMIR",15,2,12,44,1272,28,1373
+"JHARKHAND",17,2,0,4,1101,0,1124
+"KARNATAKA",1921,343,783,605,528696,0,532348
+"KERALA",71,3,31,15,4557,3,4680
+"MADHYA PRADESH",755,193,211,9174,268360,331,279024
+"MAHARASHTRA",365,136,509,8979,47918,1513,59420
+"MANIPUR",3,0,0,0,0,0,3
+"MEGHALAYA",26,0,0,6,43,0,75
+"NAGALAND",0,0,0,0,2,0,2
+"ORISSA",1138,10,11,270,42435,17,43881
+"PUNJAB",503,905,2813,9771,1052454,671,1067117
+"RAJASTHAN",276,26,67,42729,69654,104,112856
+"TAMIL NADU",176,16,126,1591,149155,186,151250
+"TRIPURA",56,3,47,26,1037,9,1178
+"UTTAR PRADESH",254,90,48,6927,3501908,16316,3525543
+"UTTARANCHAL",302,11,7,3657,48105,17,52099
+"WEST BENGAL",8663,4037,9300,15955,565712,0,603667
+"CHANDIGARH",0,0,0,0,132,0,132
+"DELHI",41,1,19,483,9786,14,10344
+"PONDICHERRY",44,13,2,23,4259,29,4370
+"ALL INDIA",47842,7152,18866,334799,7901684,45350,8355693

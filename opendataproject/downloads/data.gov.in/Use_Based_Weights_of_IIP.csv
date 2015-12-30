@@ -1,0 +1,16 @@
+-----
+{
+ "description": "Weights of all India Index of Industrial Production (Base 2004-05 = 100) according to Use Based Categories", 
+ "file_name": "Use_Based_Weights_of_IIP.xls", 
+ "title": "Download XLS for Use Based weights of all India Index of Industrial Production for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/Use_Based_Weights_of_IIP.xls"
+}
+-----
+"Use Based Categories","Weights"
+"Basic Goods",456.81599363
+"Capital Goods",88.2511992385
+"Intermediate Goods",156.855807507
+"Consumer Durables",84.604235597
+"Consumer Non-durables",213.472764027
+"Consumer Goods (Total)",298.076999624
+"General ",1000.0

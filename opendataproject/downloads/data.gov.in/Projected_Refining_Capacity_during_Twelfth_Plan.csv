@@ -1,0 +1,26 @@
+-----
+{
+ "description": "This table provides the Projected Refining Capacity during Twelfth Five Year Plan (2012-17) in Million Metric Tonne Per Annum (MMTPA). It gives the projected capacity for the years 2012 to 2017", 
+ "file_name": "Projected_Refining_Capacity_during_Twelfth_Plan.xls", 
+ "title": "Download XLS for Projected Refining Capacity during Twelfth Five Year Plan (2012-17) (MMTPA)", 
+ "url": "http://data.gov.in/sites/default/files/Projected_Refining_Capacity_during_Twelfth_Plan.xls"
+}
+-----
+"Category","2012-13","2013-14","2014-15","2015-16","2016-17"
+"IOC",54.2,69.2,69.2,74.0,77.0
+"BPC (Mumbai)",12.0,12.0,13.5,13.5,13.5
+"Kochi",9.5,9.5,9.5,15.5,15.5
+"BORL – Bina",6.0,6.0,7.2,7.2,9.0
+"HPC (MR +VR)",16.5,17.2,17.2,17.2,23.2
+"Maharashtra Refinery",0.0,0.0,0.0,0.0,9.0
+"HMEL (GGSRL)",9.0,9.0,9.0,9.0,9.0
+"MRPL",15.0,15.5,16.0,16.5,18.0
+"ONGC (Tatipaka)",0.066,0.066,0.066,0.066,0.066
+"CPCL",12.1,12.1,12.1,12.1,18.3
+"NRL",3.0,3.0,3.0,3.0,8.0
+"Sub Total PSU",137.4,153.6,156.8,168.1,200.6
+"RIL-DTA & SEZ, Jamnagar",60.0,60.0,60.0,60.0,60.0
+"EOL, Jamnagar",19.0,20.0,20.0,30.8,38.0
+"NOCL, Cuddalore",2.0,6.0,6.0,6.1,15.0
+"Sub Total Private ",81.0,86.0,86.0,96.9,113.0
+"TOTAL",218.4,239.6,242.8,265.0,313.6

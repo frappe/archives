@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise surface lift schemes according to constraints. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.16_1.csv", 
+ "title": "Download CSV for Statewise Surface lift Schemes according to the constraints for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.16_1.csv"
+}
+-----
+State,Total No. of Schemes in Use,No. of schemes with no constraints,Constraints  in utilisation of irrigation potential - Power inadequate,Constraints  in utilisation of irrigation potential - Mechanical break down,Constraints  in utilisation of irrigation potential - Less water discharge,Constraints  in utilisation of irrigation potential - Storage siltation,Constraints  in utilisation of irrigation potential - Channel break down,Constraints  in utilisation of irrigation potential - Other reason,Total - Constraints in utilisation,Grand Total
+ANDHRA PRADESH,18812,13584,1188,183,2803,1054,0,0,5228,18812
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ASSAM,7564,0,183,1005,1264,153,93,4866,7564,7564
+BIHAR,9031,400,529,379,3209,3007,76,1431,8631,9031
+GOA,746,0,89,10,40,165,19,423,746,746
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,182,0,24,3,0,155,0,0,182,182
+HIMACHAL PRADESH,536,331,10,18,23,56,5,93,205,536
+JAMMU & KASHMIR,325,0,0,0,0,0,0,0,0,0
+KARNATAKA,29506,14266,11218,720,1753,466,137,946,15240,29506
+KERALA,11253,0,328,123,1547,4797,39,4419,11253,11253
+MADHYA PRADESH,186928,41880,3779,779,34383,82457,287,23363,145048,186928
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,20,0,0,0,0,0,0,20,20,20
+MEGHALAYA,8,0,4,0,1,2,0,1,8,8
+MIZORAM,12,12,0,0,0,0,0,0,0,12
+NAGALAND,19,0,1,0,0,0,0,18,19,19
+ORISSA,18197,2,1334,574,1263,6500,73,8451,18195,18197
+PUNJAB,764,0,548,0,0,209,0,7,764,764
+RAJASTHAN,280,258,12,1,9,0,0,0,22,280
+SIKKIM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+TAMIL NADU,8743,6,128,5,317,4541,3,3743,8737,8743
+TRIPURA,800,246,90,105,134,47,44,134,554,800
+UTTAR PRADESH,3188,50,488,198,553,1081,240,578,3138,3188
+WEST BENGAL,76301,0,3094,1062,7381,32583,1191,30990,76301,76301
+ANDAMAN & NICOBARS,942,0,4,26,261,86,13,552,942,942
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,53,53,0,0,0,0,0,0,0,53
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,405,405,0,0,0,0,0,0,0,405
+ALL INDIA,374615,71493,23051,5191,54941,137359,2220,80035,302797,374290

@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This provide detail with regard to the number of Elementary Schools under Public and Private managements.   ", 
+ "file_name": "education07.csv", 
+ "title": "Download CSV for Elementary Schools by Management", 
+ "url": "http://data.gov.in/sites/default/files/education07.csv"
+}
+-----
+Category,Government,Local Bodies,Private Aided,Private Unaided,Total
+Stages of Education in Primary Level ( I-V),3.32,3.60,0.20,0.55,7.67
+Stages of Education in Upper Primary Level ( VI-VIII),1.18,0.80,0.18,0.59,2.75
+Stages of Education in Emenetray Level ( I-VIII),4.50,4.40,0.38,1.14,10.42

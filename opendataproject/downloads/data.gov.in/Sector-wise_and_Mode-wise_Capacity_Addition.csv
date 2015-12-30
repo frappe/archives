@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides Sector-wise and Mode-wise Capacity Addition (Provisional) during the Twelfth Plan in Megawatts (MW), indicating that addition of gas capacity is provisional and will depend upon the availability of gas. This will be reviewed during the Mid-Term Appraisal (MTA).", 
+ "file_name": "Sector-wise_and_Mode-wise_Capacity_Addition.xls", 
+ "title": "Download XLS for Sector-wise and Mode-wise Capacity Addition (MW) - Twelfth Five Year Plan (2012-17) (Provisional)", 
+ "url": "http://data.gov.in/sites/default/files/Sector-wise_and_Mode-wise_Capacity_Addition.xls"
+}
+-----
+"SECTOR","HYDRO","TOTAL THERMAL","COAL","LIGNITE","GAS/LNG","NUCLEAR","TOTAL GAS/LNG AND NUCLEAR"
+"CENTRAL",6004.0,14878.0,13800.0,250.0,827.6,5300.0,26181.6
+"STATE",1608.0,13922.0,12210.0,0.0,1712.0,0.0,15530.0
+"PRIVATE",3285.0,43540.0,43270.0,270.0,0.0,0.0,46825.0
+"TOTAL (Excluding RES)",10897.0,72340.0,69280.0,520.0,2539.6,5300.0,88536.6
+"Renewables",0.0,0.0,0.0,0.0,0.0,0.0,30000.0
+"Total (Including RES)",10897.0,72340.0,69280.0,520.0,2539.6,5300.0,118536.6

@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the Distribution of Households by Level of Education \u2013 Beneficiary vs. Non-Beneficiary. It gives state-wise details regarding the level of education \u2013 Illiterate, Primary pass, Middle level pass, Matric pass, Graduate and above for beneficiary as well as non-beneficiary children.", 
+ "file_name": "ICDS_Table9.6.xls", 
+ "title": "Download XLS for Distribution of Households by Level of Education \u2013 Beneficiary vs. Non-Beneficiary ", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table9.6.xls"
+}
+-----
+"States/UTs ","Beneficiary children household-Illiterate","Beneficiary children household-Primary pass","Beneficiary children household-Middle level pass","Beneficiary children household-Matric pass","Beneficiary children household-HS pass","Beneficiary children household-Graduate & above","Non-Beneficiary children household-Primary pass","Non-Beneficiary children household-Middle level pass","Non-Beneficiary children household-Matric pass","Non-Beneficiary children household-HS pass","Non-Beneficiary children household-Graduate & above"
+"Andhra Pradesh",39.1,13.1,17.0,16.2,10.6,4.0,12.8,6.6,21.3,18.5,9.4
+"Assam",8.5,9.0,41.3,13.5,16.7,11.0,9.9,27.8,12.4,17.5,16.2
+"Bihar",41.8,18.1,16.2,15.2,5.9,2.8,12.9,17.8,8.5,11.7,8.6
+"Chhattisgarh",10.4,23.3,31.4,23.0,7.1,4.9,7.6,26.1,24.2,27.0,10.7
+"Gujarat",9.4,18.6,23.9,15.4,17.8,15.0,22.3,14.8,13.9,31.1,12.9
+"Haryana",14.8,7.0,22.6,25.9,18.6,11.1,2.2,22.5,21.6,32.0,10.4
+"Himachal Pradesh",0.0,9.5,24.7,24.7,27.2,13.9,1.0,14.3,10.2,58.5,16.0
+"Jammu and Kashmir",4.8,1.6,13.3,27.0,36.2,17.1,1.8,29.1,9.1,29.8,23.6
+"Jharkhand",27.7,23.4,29.8,9.2,4.3,5.5,27.2,27.8,11.2,0.8,3.4
+"Karnataka",27.7,19.6,10.4,21.8,16.3,4.2,9.9,16.1,41.7,15.0,3.8
+"Kerala",1.8,5.4,23.8,25.1,29.0,14.8,0.0,38.2,20.3,5.6,35.9
+"Madhya Pradesh",11.4,12.9,18.8,31.1,18.4,7.4,4.1,13.5,27.9,31.2,17.5
+"Maharashtra",7.6,10.4,18.9,31.7,17.5,13.9,4.9,17.7,32.4,25.3,18.6
+"Orissa",20.4,17.4,30.7,14.5,9.0,8.1,12.0,32.3,20.4,11.9,17.9
+"Punjab",14.7,16.5,17.6,31.4,16.1,3.7,9.6,17.0,38.1,17.7,7.6
+"Rajasthan",16.9,22.1,18.7,22.0,8.9,11.4,15.9,14.7,25.9,23.7,8.2
+"Tamil Nadu",7.1,16.8,31.7,25.3,11.5,7.6,10.5,25.8,26.4,25.3,8.1
+"Uttar Pradesh",18.9,22.7,27.4,12.8,9.9,8.3,25.0,24.5,11.2,11.7,5.9
+"Uttrakhand",7.2,25.0,29.4,15.0,17.3,6.3,9.0,26.1,23.9,1.1,0.0
+"West Bengal",18.8,29.5,34.9,9.0,3.3,4.6,16.5,35.0,16.5,5.6,11.9
+"Delhi",13.1,9.9,24.4,22.8,14.3,15.5,16.8,7.3,14.3,19.7,35.0
+"Chandigarh",4.7,20.3,9.3,29.0,31.9,4.9,0.0,29.1,34.4,3.6,33.0
+"Arunachal Pradesh",26.4,29.7,27.4,13.4,3.2,0.0,55.1,33.3,0.0,11.6,0.0
+"Manipur",0.0,0.0,36.8,8.4,37.0,17.8,5.7,21.3,28.8,24.3,20.0
+"Meghalaya",12.4,18.7,39.9,16.0,11.7,1.2,19.6,4.2,16.3,14.3,0.9
+"Mizoram",0.0,2.7,50.4,24.1,16.3,6.4,0.0,66.7,0.0,33.3,0.0
+"Nagaland",4.8,11.5,38.3,21.1,8.7,15.6,4.9,19.6,31.6,25.8,12.3
+"Tripura",12.4,35.1,35.7,11.2,0.0,5.6,0.0,18.2,57.2,17.3,7.4
+"Sikkim",18.4,56.3,13.6,9.3,0.0,2.5,49.0,10.5,11.9,1.7,6.9
+"Dadar& Nagar Haveli",15.2,31.4,24.8,11.6,17.0,0.0,31.6,6.0,17.9,17.9,14.9
+"Daman & Diu",0.0,10.7,14.0,37.6,28.1,9.6,3.3,0.0,37.9,49.0,9.7
+"Goa",3.6,0.0,21.5,47.2,23.6,4.2,0.0,4.8,27.2,27.6,40.5
+"Puducherry",0.0,0.0,15.1,48.9,23.7,12.3,2.7,40.1,23.1,13.2,15.5
+"Andaman & Nicobar Islands",0.0,9.9,64.4,21.2,2.4,2.1,4.9,45.4,47.4,0.0,0.0
+"All India",18.1,18.3,25.3,18.0,12.0,8.2,15.1,23.3,17.1,15.3,10.6

@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This data provides area-wise details on the number of societal proposals not found suitable during 2011-12 and 2012-13.", 
+ "file_name": "Areawise_Number_of_Societal_Proposals_Not_Found_Suitable_During_2011-12_2012-13_0.xls", 
+ "title": "Download XLS for Area-wise Number of Societal Proposals Not Found Suitable During 2011-12 And 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Areawise_Number_of_Societal_Proposals_Not_Found_Suitable_During_2011-12_2012-13_0.xls"
+}
+-----
+"Name of Areas","2011-12","2012-13"
+"BIOTECH BASED PROGRAMMES FOR RURAL DEVELOPMENT",39.0,18.0
+"BIOTECH BASED PROGRAMMES FOR SC/ST",28.0,23.0
+"BIOTECH BASED PROGRAMMES FOR WOMEN",25.0,18.0
+"Total",92.0,59.0

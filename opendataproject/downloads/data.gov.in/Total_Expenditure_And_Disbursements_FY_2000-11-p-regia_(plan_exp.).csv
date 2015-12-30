@@ -1,0 +1,63 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-REGIA","A UT Puducherry",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Andhra Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Assam",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Bihar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Chattisgarh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,20.9923,20.5152,24.9848,21.1161
+"P-REGIA","D NCT Delhi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Goa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Gujarat",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Haryana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Himachal Pradesh",16.2528,17.8781,17.9281,52.7579,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Jammu and Kashmir",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Jharkhand",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Karnataka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.5,0.0,795.9629,769.0068,1078.8269
+"P-REGIA","Kerala",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Madhya Pradesh",0.0,0.0,0.0,0.0,0.0,179.9066,202.6173,212.8925,242.5297,225.9736,349.5257,546.4149
+"P-REGIA","Maharastra",4.5651,8.2906,1.1708,1.209,2.4522,5.5222,32.7024,50.9281,35.2284,70.71,95.471,12.2086
+"P-REGIA","Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Orissa",4.2221,29.3045,22.9703,1.5187,68.0625,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Punjab",0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.5,0.0,0.0,0.0,0.0
+"P-REGIA","Rajasthan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-REGIA","Tamil Nadu",95.4537,32.7409,274.3935,143.2594,147.7448,183.039,328.3494,288.4,288.6449,288.3939,288.3943,508.1279
+"P-REGIA","Tripura",0.0,0.0,0.0,42.077,37.7616,36.3234,53.6115,49.1189,64.1734,0.0,0.0,0.0
+"P-REGIA","Uttar Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0321,0.0,0.0,0.0
+"P-REGIA","Uttarakhand",0.0,0.0,0.0,37.9364,0.1225,0.0,0.0,0.0862,0.8577,0.06,3.7,0.0082
+"P-REGIA","West Bengal",0.0,18.449,5.0536,2.509,1.0,2.0,5.98,6.9127,19.2,21.2645,7.09,20.5117

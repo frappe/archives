@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides energy intensity for total primary energy from 1981 to 2011, indicating the energy required to produce a unit of GDP.", 
+ "file_name": "Energy_Intensity_For_Total_Primary_Energy_From_1981_To_2011.xls", 
+ "title": "Download XLS for Energy Intensity For Total Primary Energy From 1981 To 2011", 
+ "url": "http://data.gov.in/sites/default/files/Energy_Intensity_For_Total_Primary_Energy_From_1981_To_2011.xls"
+}
+-----
+"Period","Energy Intensity (Kgoe/US$)"
+1981.0,1.09
+1991.0,0.99
+2001.0,0.85
+2011.0,0.62

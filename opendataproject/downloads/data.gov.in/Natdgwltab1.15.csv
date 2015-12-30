@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise irrigation through supplementary sources. The report has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natdgwltab1.15.csv", 
+ "title": "Download CSV for State wise Irrigation through supplementary sources with Dugwells for 2nd census of minor irrigation schemes", 
+ "url": "http://data.gov.in/sites/default/files/Natdgwltab1.15.csv"
+}
+-----
+"State","Supplementary irrigation (Ha) - Kharif","Supplementary irrigation (Ha) - Rabi","Supplementary irrigation (Ha) - Perennial","Supplementary irrigation (Ha) - Others","Total"
+"ANDHRA PRADESH",16895,8794,1371,287,27347
+"ARUNACHAL PRADESH",NA,NA,NA,NA,0
+"ASSAM",0,0,0,0,0
+"BIHAR",9116,14581,728,478,24903
+"GOA",0,24,170,12,206
+"GUJARAT",NA,NA,NA,NA,0
+"HARYANA",9124,10806,0,0,19930
+"HIMACHAL PRADESH",0,0,0,0,0
+"JAMMU & KASHMIR",60,43,0,0,103
+"KARNATAKA",31089,11066,6030,3556,51740
+"KERALA",939,1102,234,485,2760
+"MADHYA PRADESH",12833,21596,51,577,35057
+"MAHARASHTRA",NA,NA,NA,NA,0
+"MANIPUR",NA,NA,NA,NA,0
+"MEGHALAYA",0,0,0,0,0
+"MIZORAM",0,0,0,0,0
+"NAGALAND",0,0,0,0,0
+"ORISSA",2363,675,2531,65,5634
+"PUNJAB",7337,7265,202,93,14897
+"RAJASTHAN",890,11678,122,295,12985
+"SIKKIM",NA,NA,NA,NA,0
+"TAMIL NADU",152883,156490,43789,30906,384069
+"TRIPURA",0,0,0,0,0
+"UTTAR PRADESH",12295,8519,988,453,22255
+"WEST BENGAL",674,775,52,81,1582
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,0
+"CHANDIGARH",NA,NA,NA,NA,0
+"DADRA & NAGAR HAVELI",0,0,0,0,0
+"DAMAN & DIU",NA,NA,NA,NA,0
+"DELHI",NA,NA,NA,NA,0
+"LAKSHADWEEP",NA,NA,NA,NA,0
+"PONDICHERRY",0,0,0,0,0
+"ALL INDIA",256498,253414,56268,37288,603468

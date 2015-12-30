@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Lift Schemes(on Stream) in use and their Potential Created and Utilized according to Public and Private. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.17.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Lift Schemes(on Stream) in use and their Potential Created and Utilized according to Public and Private", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.17.csv"
+}
+-----
+"State","No. in use - Public","No. in use - Private","No. in use - Total","Potential created (Ha) - Public","Potential created (Ha) - Private","Potential created (Ha) - Total","Potential utilised (Ha) - Public","Potential utilised (Ha) - Private","Potential utilised (Ha) - Total"
+"ANDHRA PRADESH",543,10942,11485,14267,51622,65889,10840,37596,48436
+"ARUNACHAL PRADESH",1,0,1,8,0,8,8,0,8
+"ASSAM",12,192,204,836,2818,3654,833,1394,2227
+"BIHAR",106,68,174,2306,1109,3415,1633,914,2547
+"CHHATTISGARH",925,2210,3135,7203,9445,16648,6147,5367,11514
+"GOA",1,49,50,3,114,117,3,112,115
+"GUJARAT",19,43,62,1018,160,1178,37,157,194
+"HARYANA",0,33,33,0,46,46,0,46,46
+"HIMACHAL PRADESH",289,132,421,10512,633,11145,8139,494,8633
+"JAMMU & KASHMIR",71,85,156,4767,7587,12354,3273,7352,10625
+"JHARKHAND",229,616,845,872,947,1819,718,572,1290
+"KARNATAKA",86,10997,11083,12628,39707,52335,9612,32302,41914
+"KERALA",156,1524,1680,10053,11635,21688,9490,9751,19241
+"MADHYA PRADESH",4650,40840,45490,23000,119374,142374,13372,89973,103345
+"MAHARASHTRA",240,14946,15186,8449,36654,45103,7881,29874,37755
+"MANIPUR",1,1,2,190,100,290,170,100,270
+"MEGHALAYA",0,2,2,0,4,4,0,4,4
+"MIZORAM",0,187,187,0,217,217,0,123,123
+"NAGALAND",0,3,3,0,10,10,0,6,6
+"ORISSA",438,1243,1681,7197,3324,10521,3399,2053,5452
+"PUNJAB",16,250,266,24,1888,1912,24,1877,1901
+"RAJASTHAN",113,696,809,2645,1980,4625,2050,1735,3785
+"TAMIL NADU",17,549,566,36,1319,1355,32,527,559
+"TRIPURA",141,84,225,8023,328,8351,5402,260,5662
+"UTTAR PRADESH",28,1804,1832,527,6511,7038,429,5925,6354
+"UTTARANCHAL",243,20,263,4490,292,4782,3488,77,3565
+"WEST BENGAL",218,2160,2378,10271,11258,21529,3338,8684,12022
+"ANDAMAN & NICOBARS",2,386,388,14,1008,1022,8,518,526
+"ALL INDIA",8545,90062,98607,129339,310090,439429,90326,237793,328119

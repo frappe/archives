@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table gives an overview of the traffic handled at major as well as minor ports during Eleventh Five Year Plan.", 
+ "file_name": "Traffic_Handled_At_Major_As_Well_As_Minor_Ports_During_Eleventh_Five_Year_Plan.xls", 
+ "title": "Download XLS for Traffic Handled At Major As Well As Minor Ports During Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Traffic_Handled_At_Major_As_Well_As_Minor_Ports_During_Eleventh_Five_Year_Plan.xls"
+}
+-----
+"Traffic","Major Ports 2006-07","Major Ports 2011-12","Major Ports % increase","Non-Major Ports 2006-07","Non-Major Ports 2011-12","Non-Major Ports  % increase","Major and Non-Major Ports 2006-07","Major and Non-Major Ports 2011-12","Major and Non-Major Ports % Increase"
+"POL",154.34,179.28,16.16,80.37,188.0,133.92,234.71,367.28,56.48
+"Iron Ore",80.59,60.6,-24.8,34.33,51.0,48.56,114.92,111.6,-2.89
+"Fert. & FRM",14.12,20.42,44.62,4.67,11.0,135.55,18.79,31.42,67.22
+"Coal",59.98,78.74,31.28,12.92,77.0,495.98,72.9,155.74,113.64
+"Container",73.44,120.22,63.7,7.87,19.0,141.42,81.31,139.22,71.22
+"Other Cargo",81.31,100.89,24.08,45.95,24.0,-47.77,127.26,124.89,-1.86
+"Total",463.78,560.15,20.78,186.11,370.0,98.81,649.89,930.15,43.12

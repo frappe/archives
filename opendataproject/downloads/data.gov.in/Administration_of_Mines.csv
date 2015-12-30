@@ -1,0 +1,28 @@
+-----
+{
+ "description": "This table contains data related to Administration of Mineral Conservation and Development Rules from 2009-10 to 2013-14.", 
+ "file_name": "Administration_of_Mines.xls", 
+ "title": "Download XLS for Administration Of Mineral Conservation And Development Rules, 1988", 
+ "url": "http://data.gov.in/sites/default/files/Administration_of_Mines.xls"
+}
+-----
+"Year","2009-10","2010-11","2011-12","2012-13","2013-14 (Up to April  2013)"
+"Yeary Target of inspections",2500.0,2000.0,2500.0,2500.0,2500.0
+"Number of mines inspected",2371.0,2177.0,2563.0,2520.0,"NA"
+"Number of mines where violations observed",797.0,685.0,1722.0,1780.0,"NA"
+"Number of rules & subrules for which violations pointed out",1896.0,1245.0,4013.0,4376.0,"NA"
+"Number of mines where pointed out violations rectified",553.0,326.0,872.0,772.0,"NA"
+"Number of rules & subrules rectified after pointing of violations",790.0,356.0,1273.0,1635.0,"NA"
+"Number of mines to whom show cause notices issued for violations of MCDR (i.e. cases where rectification not done after observation)",404.0,168.0,856.0,768.0,"NA"
+"Number of mines where rectification done after issue of show cause notices",192.0,139.0,385.0,308.0,"NA"
+"Number of rules & subrules rectified after issue of show cause notice",276.0,219.0,651.0,665.0,"NA"
+"Number of mines where prosecution cases launched",42.0,18.0,23.0,23.0,"NA"
+"Number of mines where prosecution cases compounded by courts  ( cases compounded by IBM)",17.0,20.0,9.0,5.0,"NA"
+"Compounded fee recovered- Rs.",99000.0,172000.0,73000.0,81000.0,"NA"
+"Prosecution launched by IBM were upheld by the court",17.0,15.0,5.0,3.0,"NA"
+"Fine recovered - Rs.",71000.0,52800.0,34000.0,30000.0,"NA"
+"Number of mines where operations suspended -    under rule 13(2)",74.0,99.0,69.0,617.0,"NA"
+"Number of mines where operations suspended -    under rule 45(7)",0.0,0.0,333.0,759.0,"NA"
+"Number of mines where suuspension revoked   -Rule 13(2)","NA","NA","NA",37.0,"NA"
+"Number of mines where suuspension revoked   -Rule 45(7)","NA","NA","NA",180.0,"NA"
+"Number of mines recommended to the State Govt for termination under rule 27(1)(u) and 27(5) of MCR-1960 ",0.0,5.0,5.0,486.0,"NA"

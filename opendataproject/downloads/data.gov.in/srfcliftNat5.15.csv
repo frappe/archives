@@ -1,0 +1,41 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Lift Schemes in use according to Utilization of Potential Created. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.15.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Lift Schemes in use according to Utilization of Potential Created", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.15.csv"
+}
+-----
+"State","No. of constraints in utilisation","Constraints in utilisation - Inadequate power supply","Constraints in utilisation - Mechanical breakdown","Constraints in utilisation - Less water discharge","Constraints in utilisation - Storage siltation","Constraints in utilisation - Channel break down","Constraints in utilisation - Other reasons","Total","Total in use"
+"ANDHRA PRADESH",15571,2325,327,4467,524,3,200,7846,23417
+"ARUNACHAL PRADESH",0,0,7,0,0,0,0,7,7
+"ASSAM",335,15,57,117,297,489,95,1070,1405
+"BIHAR",126,320,342,536,324,513,146,2181,2307
+"CHHATTISGARH",9866,299,37,678,7247,150,1369,9780,19646
+"GOA",731,42,37,42,5,31,90,247,978
+"GUJARAT",124,138,466,652,278,33,249,1816,1940
+"HARYANA",0,92,6,14,505,1,1,619,619
+"HIMACHAL PRADESH",327,41,34,104,98,18,85,380,707
+"JAMMU & KASHMIR",314,46,4,64,7,22,26,169,483
+"JHARKHAND",0,294,263,4017,5701,32,210,10517,10517
+"KARNATAKA",22268,12887,214,3537,2648,10518,5868,35672,57940
+"KERALA",6391,222,141,927,938,3642,729,6599,12990
+"MADHYA PRADESH",69795,7020,1127,57281,4408,32760,12149,114745,184540
+"MAHARASHTRA",12726,9910,846,36959,9209,22793,3396,83113,95839
+"MANIPUR",0,7,13,0,2,1,21,44,44
+"MEGHALAYA",3,0,2,1,0,0,2,5,8
+"MIZORAM",14,1,5,1,0,4,190,201,215
+"NAGALAND",0,0,1,10,3,1,0,15,15
+"ORISSA",11338,915,594,4160,3448,229,5432,14778,26116
+"PUNJAB",738,507,9,4,37,33,48,638,1376
+"RAJASTHAN",418,49,34,477,24,579,486,1649,2067
+"TAMIL NADU",121,1236,329,2374,2545,1271,432,8187,8308
+"TRIPURA",344,115,141,86,44,123,264,773,1117
+"UTTAR PRADESH",2,160,603,1075,938,819,1451,5046,5048
+"UTTARANCHAL",263,13,39,53,53,118,72,348,611
+"WEST BENGAL",36629,43,18,123,82,595,66511,67372,104001
+"ANDAMAN & NICOBARS",0,0,4,109,0,0,1142,1255,1255
+"DADRA & NAGAR HAVELI",67,0,0,0,0,4,0,4,71
+"DELHI",24,0,0,0,1,13,0,14,38
+"PONDI CHERRY",0,0,0,0,0,7,0,7,7
+"ALL INDIA",188535,36697,5700,117868,39366,74802,100664,375097,563632

@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to ownership . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.2.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to ownership for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.2.csv"
+}
+-----
+"State","Government","Cooperative Societies","Panchayat","Group of farmers","Individual farmers","Others","Total"
+"ANDHRA PRADESH",736,39,9,2197,28235,0,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA,NA
+"ASSAM",591,0,0,0,1,0,592
+"BIHAR",3713,18,19,133,2557,0,6440
+"GOA",15,0,0,1,3,0,19
+"GUJARAT",NA,NA,NA,NA,NA,NA,NA
+"HARYANA",99,33,175,4069,2038,0,6414
+"HIMACHAL PRADESH",204,0,0,15,11,0,230
+"JAMMU & KASHMIR",60,0,0,16,8,13,97
+"KARNATAKA",342,241,148,52668,10257,86926,150582
+"KERALA",7,2,7,26,156,0,198
+"MADHYA PRADESH",853,68,113,5080,18256,81,24451
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA,NA
+"MEGHALAYA",7,0,0,0,0,0,7
+"MIZORAM",NA,NA,NA,NA,NA,NA,NA
+"NAGALAND",0,0,0,0,3,0,3
+"ORISSA",2803,3,0,12,93,0,2911
+"PUNJAB",146,18,2,1245,866,0,2277
+"RAJASTHAN",118,18,9,6968,5416,21,12550
+"SIKKIM",NA,NA,NA,NA,NA,NA,NA
+"TAMIL NADU",91,10,25,16159,16681,0,32966
+"TRIPURA",129,1,1,0,0,0,131
+"UTTAR PRADESH",8006,57,281,316,2965,0,11625
+"WEST BENGAL",3954,0,5,1,79,0,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA,NA
+"DELHI",0,1,0,191,499,0,691
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA,NA
+"PONDICHERRY",1,0,0,3,414,0,418
+"ALL INDIA",21875,509,794,89100,88538,87041,287857

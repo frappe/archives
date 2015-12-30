@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at constant prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPConsAndaman.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Andaman and Nicobar Islands at factor cost at constant prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPConsAndaman.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",23555,17747,20491,22026,22147,22088,23590,24141,25223
+"Forestry & Logging",1241,1370,1148,1113,1453,1648,1737,1517,1670
+"Fishing",5078,3782,8710,7407,9284,9492,9826,10220,10928
+"Agriculture & Allied",29874,22900,30349,30546,32884,33228,35152,35879,37821
+"Mining & Quarrying",458,963,1663,1864,1738,1253,1208,944,842
+"Manufacturing",2278,1943,2297,2607,2640,2653,2712,2802,3025
+"Manufacturing - Registered",264,-102,30,1,79,59,-44,-88,-88
+"Manufacturing - Unregistered",2015,2045,2268,2606,2561,2594,2756,2890,3114
+"Construction",42549,51099,74501,88081,70010,69941,73137,73778,74482
+"Electricity, Gas and Water supply",4681,5104,4932,5066,7308,7753,7907,8307,8834
+"Industry",49966,59109,83393,97618,81695,81600,84964,85831,87183
+"Transport, Storage & Communication",27822,29084,32379,34349,45477,51045,73277,83795,94378
+"Railways",0,0,0,0,0,0,0,0,0
+"Transport by other means",25384,26142,28738,29971,39055,42933,47756,52881,56571
+"Storage",68,70,82,88,99,116,145,124,131
+"Communication",2370,2871,3558,4290,6323,7997,25376,30789,37677
+"Trade, Hotels and restaurants",13915,12506,16643,18708,16728,22264,24818,26484,27749
+"Banking & Insurance",3651,3933,4674,5781,6206,8066,9692,13227,16401
+"Real estate, Ownership of dwellings and Business services",9448,11287,12433,14339,14839,16649,17956,20777,23192
+"Public Administration",21236,26953,18193,19850,48115,59863,57032,62625,66503
+"Other services",25351,24929,27011,26679,37445,48077,43123,44770,49287
+"Services",101424,108691,111333,119706,168809,205964,225898,251678,277511
+"State Domestic Product",181264,190699,225075,247869,283388,320792,346013,373388,402515

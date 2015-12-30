@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrAndaman.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Andaman &amp; Nicobar Islands at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrAndaman.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",23555,18121,20864,23707,27097,28200,31716,34409,35951
+"Forestry & Logging",1241,1421,1276,1193,1618,2109,2639,2375,2614
+"Fishing",5078,5010,10576,10912,11774,11663,14809,15390,16456
+"Agriculture & Allied",29874,24553,32716,35812,40489,41972,49165,52174,55021
+"Mining & Quarrying",458,1407,2289,2603,2308,1582,1690,1560,1414
+"Manufacturing",2278,2058,2625,3117,3282,3469,3778,4432,4785
+"Manufacturing - Registered",264,-108,34,1,98,77,-31,-140,-140
+"Manufacturing - Unregistered",2015,2166,2591,3116,3184,3392,3809,4571,4925
+"Construction",42549,55649,81609,104720,87047,88167,89928,96345,97264
+"Electricity, Gas and Water supply",4681,5551,5393,6003,9086,13404,13453,12378,13162
+"Industry",49966,64665,91916,116443,101724,106622,108849,114715,116626
+"Transport, Storage & Communication",27822,29906,34039,39580,56426,70613,76853,84241,92361
+"Railways",0,0,0,0,0,0,0,0,0
+"Transport by other means",25384,27081,30724,35449,49795,61063,65976,69491,74339
+"Storage",68,72,87,105,126,165,200,163,172
+"Communication",2370,2752,3228,4025,6505,9386,10678,14587,17850
+"Trade, Hotels and restaurants",13915,16729,21555,26043,26319,27580,31267,33801,35416
+"Banking & Insurance",3651,3651,4228,5176,5833,7560,9783,13789,17098
+"Real estate, Ownership of dwellings and Business services",9448,11689,13604,16444,18166,21966,26304,30733,34498
+"Public Administration",21236,27526,26967,27754,51252,65307,64998,71025,75848
+"Other services",25351,25702,28813,31726,47776,70344,67241,74780,82326
+"Services",101424,115202,129207,146722,205772,263371,276447,308369,337546
+"State Domestic Product",181264,204420,253839,298977,347985,411965,434460,475258,509193

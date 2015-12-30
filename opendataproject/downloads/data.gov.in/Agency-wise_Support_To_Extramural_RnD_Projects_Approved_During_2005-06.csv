@@ -1,0 +1,29 @@
+-----
+{
+ "description": "Dataset provides agency-wise details of number of extramural R&D projects and their approved cost during 2005-06.", 
+ "file_name": "Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2005-06.csv", 
+ "title": "Download CSV for Agency-wise Extramural Research And Development Projects Approved During 2005-06", 
+ "url": "http://data.gov.in/sites/default/files/Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2005-06.csv"
+}
+-----
+S. No.,Department/Ministry/Agency,No. of Projects,Total Approved Cost (Rs. Crores)
+1,All India Council for Technical Education (AICTE),138,9.83
+2,Council of Scientific and Industrial Research (CSIR),247,24.21
+3,Defence Research & Development Organisation (DRDO),137,30.37
+4,Department of Atomic Energy (DAE),115,19.51
+5,"Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha & Homoeopathy (AYUSH)",1,0.15
+6,Department of Bio-Technology (DBT),422,174.73
+7,Department of Coal (DOC),11,21.53
+8,Department of Ocean Development (DOD),7,1.07
+9,Department of Science and Technology (DST),1297,572.11
+10,Department of Scientific and Industrial Research (DSIR),9,8.39
+11,Indian Council of Medical Research (ICMR),207,57.29
+12,Indian Space Research Organisation (ISRO),41,4.35
+13,Ministry of Communications & Information Technology (MOCIT),42,183.85
+14,Ministry of Environment and Forests (MOEF),56,23.12
+15,Ministry of Power (MOP),20,3.53
+16,Ministry of Social Justice and Empowerment (MOSJE),5,0.72
+17,Ministry of Water Resources (MOWR),41,9.79
+18,Petroleum Conservation Research Association (PCRA),15,1.3
+19,University Grants Commission (UGC),758,17.95
+Total,Total,3569,1163.8

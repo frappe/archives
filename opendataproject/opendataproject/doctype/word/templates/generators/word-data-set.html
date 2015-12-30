@@ -1,0 +1,20 @@
+{% extends base_template %}
+
+{% set title = name %}
+
+{% block content %}
+
+<h1>Data Sets Containing "{{ name }}"</h1>
+<hr>
+<div class="list-group">
+	{% for ds in data_sets %}
+	<a href="{{ds.name}}" class="list-group-item">
+		<span class="badge">
+			<i class="icon-list"></i> {{ds.row_count or 0}}
+		</span>
+		<div style="width: 70%">{{ds.title}}</div>
+	</a>
+	{% endfor %}
+</div>
+
+{% endblock %}

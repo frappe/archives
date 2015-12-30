@@ -1,0 +1,89 @@
+[
+ {
+  "creation": "2013-09-19 12:45:25", 
+  "docstatus": 0, 
+  "modified": "2013-09-19 16:39:57", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "DV.#########", 
+  "custom": 0, 
+  "doctype": "DocType", 
+  "module": "OpenDataProject", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "name": "__common__", 
+  "parent": "Data Value", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Data Value", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "report": 1, 
+  "role": "System Manager", 
+  "write": 1
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Data Value"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "value", 
+  "fieldtype": "Data", 
+  "label": "Value"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "data_set", 
+  "fieldtype": "Link", 
+  "label": "Data Set", 
+  "options": "Data Set"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "data_head", 
+  "fieldtype": "Link", 
+  "label": "Data Head", 
+  "options": "Data Head"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "period", 
+  "fieldtype": "Link", 
+  "label": "Period", 
+  "options": "Period"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "region", 
+  "fieldtype": "Link", 
+  "label": "Region", 
+  "options": "Region"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "row_id", 
+  "fieldtype": "Int", 
+  "label": "Row Id"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "col_id", 
+  "fieldtype": "Int", 
+  "label": "Col Id"
+ }, 
+ {
+  "doctype": "DocPerm"
+ }
+]

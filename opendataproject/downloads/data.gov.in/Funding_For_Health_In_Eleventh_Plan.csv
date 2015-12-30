@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This data provides details on expenditure in X and XI Plan on Core Health (by Centre and States) and Percentage GDP expenditure on Core Health and Broad Health. Core health includes health care expenditure of central ministries (as Labour on RSBY) on health; Broad health includes Drinking Water and ...", 
+ "file_name": "Funding_For_Health_In_Eleventh_Plan.xls", 
+ "title": "Download XLS for Funding For Health In Eleventh Plan - Core And Broad Health Components", 
+ "url": "http://data.gov.in/sites/default/files/Funding_For_Health_In_Eleventh_Plan.xls"
+}
+-----
+"Year  ","Centre Core Health ","States Core Health ","Centre % GDP (Core Health)","States % GDP (Core Health)","Total % GDP  (Core Health)","Centre % GDP (Broad Health)","States % GDP (Broad Health)","Total % GDP (Broad Health)"
+"X Plan",47076.8977,107046.13,0.286365144486,0.651153367826,0.937518512312,0.562322876502,1.17975128753,1.74207416403
+"2007-08",16055.4,30535.91,0.321939247136,0.612299156422,0.934238403558,0.714840277597,1.17352123182,1.88836150942
+"2008-09",19604.36,36346.2,0.34820853692,0.645573593049,0.993782129969,0.754570813077,1.22414029825,1.97871111133
+"2009-10",25651.7268,44747.9,0.397248389123,0.692976006264,1.09022439539,0.781190754353,1.23912464428,2.02031539863
+"2010-11",27465.63,55955.34,0.357898101522,0.729140746308,1.08703884783,0.749357583409,1.27451347042,2.02387105383
+"2011-12",30586.842,62342.63,0.343202734146,0.699521744346,1.04272447849,0.742846064919,1.19421434421,1.93706040913
+"XI Plan",119363.9588,229927.96,0.354607868278,0.68307271787,1.03768058615,0.749498283215,1.2230761854,1.97257446862

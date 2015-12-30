@@ -1,0 +1,11 @@
+-----
+{
+ "description": "This table provides details on household access to energy data for Census 2011. It shows primary energy sources for lighting in 2011 as 55.3 percent rural, 92.7 percent urban and 67.2 percent overall, as against 43.5 percent rural, 87.6 percent urban and 55.8 percent overall in 2001. The difference ...", 
+ "file_name": "Household_Access_To_Energy_Data_For_Census_2011.xls", 
+ "title": "Download XLS for Household Access To Energy Data For Census 2011", 
+ "url": "http://data.gov.in/sites/default/files/Household_Access_To_Energy_Data_For_Census_2011.xls"
+}
+-----
+"Energy Source","61st Round 2004-05 - Rural","61st Round 2004-05 - Urban","61st Round 2004-05 - Total","66th Round 2009-10 - Rural","66th Round 2009-10 - Urban","66th Round 2009-10 - Total"
+"Electricity",54.9,92.3,65.2,67.3,93.9,75.5
+"LPG",8.6,57.1,21.9,15.5,66.2,31.2

@@ -1,0 +1,64 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Cat","Identity","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"REGIA","A","A Union Govt",57417.33,38379.53,43156.84,44147.32,49575.21,55320.9,75336.57,91620.59,109977.91,125828.64,142935.12,159751.04
+"REGIA","B","A UT Puducherry",2.82,2.02,2.38,2.59,2.87,3.14,3.45,3.77,4.08,4.33,4.47,4.47
+"REGIA","B","Andhra Pradesh",126.03,164.29,279.53,262.39,279.87,226.56,225.41,244.83,248.84,312.69,86.35,165.59
+"REGIA","B","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Assam",6.63,8.84,3.88,7.54,12.35,13.11,10.9,7.8,8.94,147.51,549.9,357.57
+"REGIA","B","Bihar",48.07,1.96,1.82,1.82,3.76,4.28,4.2,4.0,5.01,3.97,107.47,3.25
+"REGIA","B","Chattisgarh",0.0,46.93,132.79,161.64,260.37,252.49,332.65,476.39,542.72,518.96,468.98,707.55
+"REGIA","B","D NCT Delhi",396.05,237.6,259.5,307.38,309.29,363.13,407.79,531.84,667.32,455.95,517.35,541.53
+"REGIA","B","Goa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Gujarat",49.72,49.64,55.98,104.14,99.98,143.3,108.05,132.42,147.33,167.53,105.97,185.28
+"REGIA","B","Haryana",0.46,14.93,30.7,5.63,47.71,91.71,249.86,274.81,336.65,215.78,69.91,81.24
+"REGIA","B","Himachal Pradesh",19.1,20.42,20.8,55.63,2.87,2.87,6.19,2.87,3.15,3.97,4.29,5.75
+"REGIA","B","Jammu and Kashmir",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Jharkhand",0.0,0.0,0.69,0.72,0.52,0.07,0.01,2.05,0.09,35.25,0.2,0.17
+"REGIA","B","Karnataka",415.66,531.43,563.81,573.71,628.85,798.34,1158.96,1639.06,1926.0,2374.09,2474.01,2978.49
+"REGIA","B","Kerala",78.67,55.04,67.0,58.06,73.18,-2.64,0.0,1911.28,2099.27,2265.12,2488.99,2778.16
+"REGIA","B","Madhya Pradesh",647.84,528.5,372.9,406.16,590.91,916.66,1117.31,1303.85,1563.84,1774.44,2549.9,2935.03
+"REGIA","B","Maharastra",560.49,692.26,538.46,673.89,986.66,845.67,1351.45,1017.09,923.69,1243.77,1468.42,1187.73
+"REGIA","B","Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125.97,113.11
+"REGIA","B","Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"REGIA","B","Orissa",20.59,149.43,149.56,147.09,221.53,158.48,146.86,272.26,350.9,392.76,405.82,431.61
+"REGIA","B","Punjab",50.37,88.8,166.3,221.18,43.93,74.53,374.02,328.55,356.79,309.69,446.91,639.65
+"REGIA","B","Rajasthan",18.05,17.26,18.53,0.12,5.09,1.26,1.58,7.56,16.55,26.12,18.86,21.01
+"REGIA","B","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.94
+"REGIA","B","Tamil Nadu",1025.07,978.51,716.57,1557.12,1476.67,1959.77,2028.86,2447.01,3349.3,3979.75,3999.41,5861.37
+"REGIA","B","Tripura",18.52,19.58,25.64,42.08,37.76,36.32,53.61,49.12,64.17,79.42,95.62,101.42
+"REGIA","B","Uttar Pradesh",860.9,1084.64,927.93,1164.57,1356.54,1782.93,2331.92,2742.25,3549.49,3504.21,3360.02,4364.71
+"REGIA","B","Uttarakhand",0.0,41.35,63.74,69.15,202.89,141.43,116.64,271.28,309.77,274.77,324.73,407.68
+"REGIA","B","West Bengal",242.79,220.5,261.18,231.71,257.59,252.2,334.12,376.06,431.03,427.64,405.29,424.16

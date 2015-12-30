@@ -1,0 +1,13 @@
+-----
+{
+ "description": "These are results of the NCERT learning achievement surveys at various stages of Elementary Education in Principal subjects and are available at base line, mid-term and terminal assessments for Sarva Shiksha Abhiyan for the year 2004-05", 
+ "file_name": "education04.csv", 
+ "title": "Download CSV for Learning Achievements at Elementary Level based on NCERT Report ", 
+ "url": "http://data.gov.in/sites/default/files/education04.csv"
+}
+-----
+Category,Mathematics,Language,EVS/ Science,Social Science
+Learning Achievements at Elementary Level at the end of Class III in %age,58.25,63.12,0.00,0.00
+Learning Achievements at Elementary Level at the end of Class V in %age,46.51,58.57,50.30,0.00
+Learning Achievements at Elementary Level at the end of Class VII in %age,29.87,53.00,35.98,32.96
+Learning Achievements at Elementary Level at the end of Class VIII in %age,38.47,52.45,40.54,45.00

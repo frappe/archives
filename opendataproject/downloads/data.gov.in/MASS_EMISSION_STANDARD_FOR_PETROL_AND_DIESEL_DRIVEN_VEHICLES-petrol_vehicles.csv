@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides mass emission standard for petrol and diesel driven vehicles for the period 2000 onwards.", 
+ "file_name": "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES.xls", 
+ "title": "Download XLS for Mass Emission Standard For Petrol And Diesel Driven Vehicles", 
+ "url": "http://data.gov.in/sites/default/files/MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES.xls"
+}
+-----
+"Category","Petrol Vehicles",2000.0,"2005 (BS II)","2010 (BS III)"
+"Three-Wheelers (g/km)","Carbon Monoxide(CO)",4.0,2.25,1.25
+"Three-Wheelers (g/km)","Hydrocarbon(HC)","NA","NA","NA"
+"Three-Wheelers (g/km)","Hydrocarbon and Oxide of Nitrogen(HC+NOX)",2.0,2.0,1.25
+"Two Wheelers (g/km)","Carbon Monoxide(CO)",2.0,1.5,1.0
+"Two Wheelers (g/km)","Hydrocarbon(HC)","NA","NA","NA"
+"Two Wheelers (g/km)","Hydrocarbon and Oxide of Nitrogen(HC+NOX)",2.0,1.5,1.0

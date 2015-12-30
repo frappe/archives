@@ -1,0 +1,46 @@
+-----
+{
+ "description": "This table provide details regarding state-wise potential (in MW) of various Renewable Energy Technologies such as Wind Power, Small Hydro Power and Bio-Energy.", 
+ "file_name": "State-wise_Potential_of_Various_Renewable_Energy_Technologies_1.xls", 
+ "title": "Download XLS for State-wise Potential of Various Renewable Energy Technologies", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_Potential_of_Various_Renewable_Energy_Technologies_1.xls"
+}
+-----
+"Sl. No.","States/ UTs","Wind Power (MW)","Small Hydro Power (MW)","Bio-Energy - Biomass Power (MW)","Bio-Energy - Bagase Cogeneration (MW)","Bio-Energy - Waste To Energy (MW)","Total"
+1.0,"Andhra Pradesh",14497.0,978.4,577.7,300.0,123.0,16476.1
+2.0,"Arunachal Pradesh",236.0,1341.38,8.2,"NA","NA",1585.58
+3.0,"Assam",112.0,238.69,211.8,"NA",8.0,570.49
+4.0,"Bihar ",144.0,223.05,618.7,300.0,73.0,1358.75
+5.0,"Chhatisgarh",314.0,1107.15,235.8,"NA",24.0,1680.95
+6.0,"Goa","NA",6.5,25.7,"NA","NA",32.2
+7.0,"Gujarat",35071.0,201.97,1220.7,350.0,112.0,36955.67
+8.0,"Haryana",93.0,110.05,1332.6,350.0,24.0,1909.65
+9.0,"Himachal Pradesh",64.0,2397.91,142.2,"NA",1.5,2605.61
+10.0,"Jammu & Kashmir",5685.0,1430.67,42.6,"NA","NA",7158.27
+11.0,"Jharkhand",91.0,208.95,90.0,"NA",10.0,399.95
+12.0,"Karnataka",13593.0,4141.12,1130.5,450.0,"                                                                                                                                         ",19314.62
+13.0,"Kerala",837.0,704.1,1044.4,"NA",36.0,2621.5
+14.0,"Madhya Pradesh ",2931.0,820.44,1364.0,"NA",78.0,5193.44
+15.0,"Maharashtra",5961.0,794.33,1887.3,1250.0,287.0,10179.63
+16.0,"Manipur",56.0,109.1,13.4,"NA",2.0,180.5
+17.0,"Meghalaya",82.0,230.05,11.11,"NA",2.0,325.16
+18.0,"Mizoram","NA",168.9,1.0,"NA",1.5,171.4
+19.0,"Nagaland",16.0,196.98,10.2,"NA","NA",223.18
+20.0,"Orissa",1384.0,295.47,246.4,"NA",22.0,1947.87
+21.0,"Punjab","NA",441.38,3172.1,300.0,45.0,3958.48
+22.0,"Rajasthan",5050.0,57.17,1038.9,"NA",62.0,6208.07
+23.0,"Sikkim",98.0,266.64,2.3,"NA","NA",366.94
+24.0,"Tamil Nadu",14152.0,659.51,1069.5,450.0,151.0,16482.01
+25.0,"Tripura","NA",46.86,2.9,"NA",1.5,51.26
+26.0,"Uttar Pradesh",1260.0,460.75,1616.7,1250.0,176.0,4763.45
+27.0,"Uttarakhandl",534.0,1707.87,23.7,"NA",5.0,2270.57
+28.0,"West Bengal ",22.0,396.11,396.0,"NA",148.0,962.11
+29.0,"Andaman & Nicobar",365.0,7.91,"NA","NA","NA",372.91
+30.0,"Chandigarh","NA","NA","NA","NA",6.0,6.0
+31.0,"Dadar & Nagar Haveli","NA","NA","NA","NA","NA",0.0
+32.0,"Daman & Diu",4.0,"NA","NA","NA","NA",4.0
+33.0,"Delhi","NA","NA","NA","NA",131.0,131.0
+34.0,"Lakshwadeep","NA","NA","NA","NA","NA",0.0
+35.0,"Pondicherry",120.0,"NA","NA","NA",2.5,122.5
+36.0,"Others ","NA","NA","NA","NA",1022.0,1022.0
+"Total","Total",102772.0,19749.41,17536.41,5000.0,2554.0,147611.82

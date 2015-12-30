@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Postal Index Number (PIN) or PIN Code is a 6 digit code of Post Office numbering used by India Post. The PIN was introduced on August 15, 1972. There are 9 PIN regions in the country. The first 8 are geographical regions and the digit 9 is reserved for the Army Postal Service. The first digit ...", 
+ "file_name": "all_india_pin_code.csv", 
+ "title": "Download CSV for All India Pincode Directory(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/all_india_pin_code.csv"
+}
+-----
+-----
+{
+ "description": " The table refers to the state's gross domestic product at constant prices for the base year 2004-05.\r", 
+ "file_name": "AndhraGSDPconst.csv", 
+ "title": "Download CSV for  Andhra Pradesh Gross State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/AndhraGSDPconst.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","4625081","4933489","5011235","5952320","5969961","5992354","6383390","6273329"
+"Foresty and Logging","369608","383643","390141","398792","408374","405190","423550","428998"
+"Fishing","639699","661805","695199","805159","832499","828640","946253","1111181"
+"Ag and Allied","5634388","5978937","6096575","7156271","7210834","7226184","7753193","7813508"
+"Mining and Quarrying","627057","693143","1034959","1109046","936608","989853","1084557","1179356"
+"Sub total of primary","6261445","6672080","7131534","8265317","8147442","8216037","8837750","8992864"
+"Manufacturing","2733077","2875555","3383819","3635688","4130776","4236005","4437159","4870994"
+"Registered","1925618","2004589","2454417","2651107","3128626","3199299","3367571","3670725"
+"Unregistered","807459","870966","929402","984581","1002150","1036706","1069588","1200269"
+"Construction","1519343","1843989","2044605","2330032","2630075","2688232","2878334","3024906"
+"Electricity, Gas and water Supply","576248","591466","597688","753967","690798","729377","892445","933866"
+"Sub total of secondary","4828668","5311010","6026112","6719687","7451649","7653614","8207938","8829766"
+"Industry","5455725","6004153","7061071","7828733","8388257","8643467","9292495","10009122"
+"Transport Storage and Communication","1779173","1967540","2202199","2472750","2766359","3479729","4160176","4897342"
+"Railways","265505","274054","293825","309101","335044","334045","365832","392353"
+"Transport by other means","1080354","1187451","1325272","1461990","1617846","1782166","1994339","2260711"
+"Storage","0","0","0","0","0","0","0","0"
+"Communication","433314","506035","583102","701659","813469","1363518","1800005","2244278"
+"Trade, hotels and restaurants","3045851","3468638","4063076","4423718","4639613","4731823","4978827","5308508"
+"Banking and Insurance","1006448","1157923","1412543","1739025","2124470","2313617","2718406","3114729"
+"Real estate, ownership of dwelling and business","2520400","2789271","3025328","3400236","3718405","3798045","4133234","4507730"
+"Pubic Administration","953513","935599","1030069","1084838","1218811","1272031","1379362","1455463"
+"Other Services","2075818","2318936","2482094","2558972","2706369","2792177","3150712","3398211"
+"Sub total of tertiary","11381203","12637907","14215309","15679539","17174027","18387422","20520717","22681983"
+"State domestic product","22471316","24620997","27372955","30664543","32773118","34257073","37566405","40504613"
+
+"Figures are in Rs. Lakh"

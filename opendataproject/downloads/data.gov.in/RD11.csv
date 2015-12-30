@@ -1,0 +1,31 @@
+-----
+{
+ "description": "The table states Percentage of Population Below Poverty Line by Social Groups 2004-05 for each State.", 
+ "file_name": "RD11.csv", 
+ "title": "Download CSV for Statewise Percentage of Population Below Poverty Line by Social Groups for the year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/RD11.csv"
+}
+-----
+States/Uts,Percentage of Population Below Poverty Line for Rural Schedule Caste for 2004-05,Percentage of Population Below Poverty Line for Rural Schedule Tribe for 2004-05,Percentage of Population Below Poverty Line for Rural Other Backward Caste for 2004-05,Percentage of Population Below Poverty Line for Urban Schedule Caste for 2004-05,Percentage of Population Below Poverty Line for Urban Schedule Tribe for 2004-05,Percentage of Population Below Poverty Line for Urban Other backward caste for 2004-05
+Andhra Pradesh,15.40,30.50,9.50,39.90,50.00,28.90
+Assam,22.70,14.10,18.80,8.60,4.80,8.60
+Bihar,64.00,53.30,37.80,67.20,57.20,41.40
+Chattishgarh,32.70,54.70,33.90,52.00,41.00,52.70
+Delhi,0.00,0.00,0.00,35.80,9.40,18.30
+Gujrat,21.80,34.70,19.10,16.00,21.40,22.90
+Haryana,26.80,0.00,13.90,33.40,4.60,22.50
+Himanchal Pradesh,19.60,14.90,9.10,5.60,2.40,10.10
+Jammu & Kashmir,5.20,8.80,10.00,13.70,0.00,4.80
+Jharkhand,57.90,54.20,40.20,47.20,45.10,19.10
+Karnataka,31.80,23.50,20.90,50.60,58.30,39.10
+Kerala,21.60,44.30,13.70,32.50,19.20,24.30
+Madhya Pradesh,42.80,58.60,29.60,67.30,44.70,55.50
+Maharashtra,44.80,56.60,23.90,43.20,40.40,35.60
+Orissa,50.20,75.60,36.90,72.60,61.80,50.20
+Punjab,14.60,30.70,10.60,16.10,2.10,8.40
+Rajasthan,28.70,32.60,13.10,52.10,24.10,35.60
+Tamil Nadu,31.20,32.10,19.80,40.20,32.50,20.90
+Uttar Pradesh,44.80,32.40,32.90,44.90,37.40,36.60
+Uttrakhand,54.20,43.20,44.80,65.70,64.40,46.50
+West Bengal,29.50,42.40,18.30,28.50,25.70,10.40
+All India,36.80,47.30,26.70,39.90,33.30,31.40

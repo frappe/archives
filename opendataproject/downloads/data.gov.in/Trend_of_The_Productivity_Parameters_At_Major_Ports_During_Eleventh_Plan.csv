@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table gives an overview of trend of the productivity parameters at major ports during Eleventh Plan.", 
+ "file_name": "Trend_of_The_Productivity_Parameters_At_Major_Ports_During_Eleventh_Plan.xls", 
+ "title": "Download XLS for Trend of The Productivity Parameters At Major Ports During Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Trend_of_The_Productivity_Parameters_At_Major_Ports_During_Eleventh_Plan.xls"
+}
+-----
+"Year","Average output per ship berth day (Tonnes)","Average turnaround time (Days)","Average pre-berthing detention time (Hours)"
+"2006-07",9745.0,3.62,10.05
+"2007-08",10071.0,3.93,11.4
+"2008-09",10473.0,3.87,9.55
+"2009-10",10482.0,4.42,11.75
+"2010-11",10735.0,4.67,11.76
+"2011-12",10967.0,4.44,11.14

@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provides details on companies limited by shares at work (state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published by The Ministry of Corporate Affairs, Government ...", 
+ "file_name": "Companies_Limited_by_Shares_at_work_as_on_31st_March_12_State_Wise_1.xls", 
+ "title": "Download XLS for Companies Limited By Shares At Work As On 31st March 2012 - State-wise Distribution", 
+ "url": "http://data.gov.in/sites/default/files/Companies_Limited_by_Shares_at_work_as_on_31st_March_12_State_Wise_1.xls"
+}
+-----
+"STATE/UT","No. of companies - Public Limited*","No. of companies - Private Limited**","No. of companies - Total***"
+"ANDHRA PRADESH",4086.0,43241.0,47327.0
+"ARUNACHAL PRADESH",18.0,188.0,206.0
+"ASSAM",632.0,4989.0,5621.0
+"BIHAR",725.0,8814.0,9539.0
+"CHHATISGARH",398.0,4431.0,4829.0
+"GOA",190.0,4666.0,4856.0
+"GUJARAT",4917.0,38882.0,43799.0
+"HARYANA",857.0,11399.0,12256.0
+"HIMACHAL PRADESH",247.0,2322.0,2569.0
+"JAMMU & KASHMIR",101.0,1482.0,1583.0
+"JHARKHAND",256.0,4546.0,4802.0
+"KARNATAKA",2034.0,38354.0,40388.0
+"KERALA",1288.0,17349.0,18637.0
+"MADHYA PRADESH",1390.0,14217.0,15607.0
+"MAHARASHTRA",11159.0,147653.0,158812.0
+"MANIPUR",13.0,100.0,113.0
+"MEGHALAYA",118.0,430.0,548.0
+"MIZORAM",9.0,33.0,42.0
+"NAGALAND",15.0,136.0,151.0
+"ORISSA",1064.0,9261.0,10325.0
+"PUNJAB",1728.0,11788.0,13516.0
+"RAJASTHAN",1691.0,27630.0,29321.0
+"TAMIL NADU",4903.0,50729.0,55632.0
+"TRIPURA",31.0,142.0,173.0
+"UTTAR PRADESH",2353.0,26659.0,29012.0
+"UTTRAKHAND",164.0,2220.0,2384.0
+"WEST BENGAL",9640.0,111506.0,121146.0
+"DELHI",11450.0,147849.0,159299.0
+"A & N ISLAND",2.0,116.0,118.0
+"CHANDIGARH",786.0,5726.0,6512.0
+"DAMAN & DIU",46.0,134.0,180.0
+"D & N HAVELI",58.0,224.0,282.0
+"LAKSHDWEEP",0.0,10.0,10.0
+"PUDUCHERRY",61.0,1105.0,1166.0
+"Total",62430.0,738331.0,800761.0

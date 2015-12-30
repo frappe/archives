@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of dugwells according to average length of water conveyance channel. The report has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natdgwltab1.12.csv", 
+ "title": "Download CSV for State wise Dugwells Average length of water conveyance channel for 2nd census of minor irrigation schemes", 
+ "url": "http://data.gov.in/sites/default/files/Natdgwltab1.12.csv"
+}
+-----
+"State","Total Number of Dugwells","Average length of channel - Pucca","Average length of channel - Kuccha","Average length of channel - Underground","Total"
+"ANDHRA PRADESH",1216412,3,55,4,62
+"ARUNACHAL PRADESH",NA,NA,NA,NA,0
+"ASSAM",38,17,104,2,123
+"BIHAR",391198,3,61,7,71
+"GOA",3975,23,68,42,133
+"GUJARAT",NA,NA,NA,NA,0
+"HARYANA",26440,29,127,8,164
+"HIMACHAL PRADESH",1722,10,77,20,107
+"JAMMU & KASHMIR",1425,51,100,0,151
+"KARNATAKA",321859,19,48,14,81
+"KERALA",126695,5,45,23,73
+"MADHYA PRADESH",1126439,1,41,20,62
+"MAHARASHTRA",NA,NA,NA,NA,0
+"MANIPUR",NA,NA,NA,NA,0
+"MEGHALAYA",2,0,5,0,5
+"MIZORAM",490,42,70,0,112
+"NAGALAND",530,7,2,0,9
+"ORISSA",323097,0,13,0,13
+"PUNJAB",11671,8,249,7,264
+"RAJASTHAN",1043077,11,104,10,125
+"SIKKIM",NA,NA,NA,NA,0
+"TAMIL NADU",1309788,15,27,3,45
+"TRIPURA",805,2,65,13,80
+"UTTAR PRADESH",136324,8,92,1,101
+"WEST BENGAL",55983,0,82,1,83
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,0
+"CHANDIGARH",NA,NA,NA,NA,0
+"DADRA & NAGAR HAVELI",413,3,44,0,47
+"DAMAN & DIU",NA,NA,NA,NA,0
+"DELHI",NA,NA,NA,NA,0
+"LAKSHADWEEP",NA,NA,NA,NA,0
+"PONDICHERRY",222,1,94,2,97
+"ALL INDIA",6098605,258,1573,177,2008

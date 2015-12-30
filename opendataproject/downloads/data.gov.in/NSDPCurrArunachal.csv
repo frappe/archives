@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table refers to state's net state domestic product at factor cost at current prices for the base year 2004-05 by economic activity. Net state domestic product is derived by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "NSDPCurrArunachal.csv", 
+ "title": "Download CSV for Net State Domestic Product of Arunachal Pradesh at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/NSDPCurrArunachal.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",54521,54152,65790,85419,91475,134940,216404,274347,289901
+"Forestry & Logging",62327,68115,70158,70408,71516,104035,128832,146073,173804
+"Fishing",1810,2158,2481,2949,3080,3263,3789,3850,4540
+"Agriculture & Allied",118658,124425,138429,158776,166071,242238,349025,424270,468245
+"Mining & Quarrying",6511,9003,9216,11239,12611,19504,20556,22880,24021
+"Manufacturing",7069,8427,10010,11616,12458,14289,17081,19062,21823
+"Manufacturing - Registered",0,0,0,0,0,0,0,0,0
+"Manufacturing - Unregistered",7069,8427,10010,11616,12458,14289,17081,19062,21823
+"Construction",67305,74670,76371,96723,132416,120210,161704,208661,223091
+"Electricity, Gas and Water supply",14524,13476,13313,15998,20211,25704,26223,30560,33875
+"Industry",95409,105576,108910,135576,177696,179707,225564,281163,302810
+"Transport, Storage & Communication",9199,9932,10943,11926,14053,17832,19347,21412,23562
+"Railways",8,9,12,16,15,13,12,13,15
+"Transport by other means",7154,7555,8322,9265,11234,14700,16156,17888,19671
+"Storage",10,10,20,25,30,37,43,50,60
+"Communication",2027,2358,2589,2620,2774,3082,3136,3461,3816
+"Trade, Hotels and restaurants",12302,14214,15793,17574,19791,25425,34309,40450,44329
+"Banking & Insurance",7377,8406,9253,12196,13357,15768,18408,23564,27632
+"Real estate, Ownership of dwellings and Business services",6554,7292,8416,10099,10949,12204,13813,15159,16042
+"Public Administration",33453,33669,37882,42024,53365,94147,85775,100074,111115
+"Other services",35841,40433,46877,52564,64605,96640,88266,101021,114286
+"Services",104726,113946,129164,146383,176120,262016,259918,301680,336966
+"State Domestic Product",318793,343947,376503,440735,519887,683961,834507,1007113,1108021
+"Population",1198000,1226000,1255000,1283000,1311000,1340000,1368000,1397000,1427000
+"State Per Capita Income",26610,28054,30000,34352,39656,51042,61002,72091,77647

@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides Coal and Lignite Production for the Eleventh Five Year Plan (2007-2012) period. The details are given on various parameters.", 
+ "file_name": "Details_of_Coal_Lignite_Production.xls", 
+ "title": "Download XLS for Details of Coal and Lignite Production - Power Sector", 
+ "url": "http://data.gov.in/sites/default/files/Details_of_Coal_Lignite_Production.xls"
+}
+-----
+"Parameter","Tenth Plan (2006-07)","Eleventh Plan  (2011-12):Initial","Eleventh Plan  (2011-12) - MTA","Eleventh Plan  (2011-12) - Latest","Eleventh Plan % CAGR - Initial","Eleventh Plan % CAGR - MTA","Eleventh Plan % CAGR - Latest"
+"Coal Demand (million tonnes)",474.18,731.1,713.24,640.0,9.53,8.98,6.98
+"Coal Production (million tonnes)",430.84,680.72,629.91,539.99,9.58,7.89,4.62
+"Imports",43.08,51.0,83.33,90.0,3.43,14.11,15.88
+"Imports as % of total demand",9.0,6.98,11.68,14.06,0.0,0.0,0.0
+"Lignite Production (million tonnes)",31.13,54.96,54.96,41.64,12.04,12.04,6.72

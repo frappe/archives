@@ -1,0 +1,17 @@
+-----
+{
+ "description": "Activity wise classification of budget provisions (with budget estimates plan and budget estimates n-plan) for the financial year 2013-14.", 
+ "file_name": "ACTIVITYWISE_CLASSIFICATION_OF_BUDGET_PROVISIONS_FOR_THE_FINANCIAL_YEAR_2013-14_1.xls", 
+ "title": "Download XLS for Budget Provisions For The Financial Year 2013-14", 
+ "url": "http://data.gov.in/sites/default/files/ACTIVITYWISE_CLASSIFICATION_OF_BUDGET_PROVISIONS_FOR_THE_FINANCIAL_YEAR_2013-14_1.xls"
+}
+-----
+"Programme / Scheme","Budget Estimates-Plan (2013-14)","Budget Estimates-N-Plan (2013-14)"
+"e-Government Programmes",1530.0,0.0
+"e-Learning Programmes",555.86,1.7
+"e-Security Programmes",60.37,0.0
+"e-Industry (Electronics Hardware)",220.0,7.0
+"e-Industry (IT-ITeS)",52.5,0.0
+"e-Innovation/R&D",536.27,6.6
+"Other Programmes",45.0,36.7
+"Total",3000.0,52.0

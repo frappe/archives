@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table describes the health status of both SCs and STs which is worse than that of other sections of society since access to health care is limited for STs and SCs.", 
+ "file_name": "SJ06.xls", 
+ "title": "Download XLS for Mortality And Undernutrition Based On NFHS 2005\u201306 Report", 
+ "url": "http://data.gov.in/sites/default/files/SJ06.xls"
+}
+-----
+"No.","Mortality and Undernutrition  "," SC  "," ST  "," Others  "
+1.0,"Child Mortality (per 1000 live births)  ",83.0,84.0,62.0
+2.0,"Infant Mortality  ",39.0,46.0,22.0
+3.0,"Proportion (per cent) of Children with Anaemia  ",78.0,79.0,72.0
+4.0,"Proportion (per cent) of Underweight Children  ",21.0,26.0,14.0

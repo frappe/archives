@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at constant prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPConsSikkim.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Sikkim at factor cost at constant prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPConsSikkim.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",28503,29835,29900,31307,32999,34565,36466,38088,40814
+"Forestry & Logging",3743,3742,3701,3613,3422,3397,3337,3307,3278
+"Fishing",78,84,89,89,89,94,101,156,223
+"Agriculture & Allied",32325,33660,33690,35009,36510,38056,39904,41552,44316
+"Mining & Quarrying",208,217,225,239,391,421,488,837,1023
+"Manufacturing",6720,6877,7413,8500,9265,125173,177714,182739,196605
+"Manufacturing - Registered",3373,3467,3698,4252,4807,120580,173002,177821,191410
+"Manufacturing - Unregistered",3347,3410,3715,4248,4457,4593,4712,4918,5194
+"Construction",33451,37923,39338,40706,39349,43594,44798,61379,70176
+"Electricity, Gas and Water supply",9775,11042,13039,16523,39950,73433,60337,58007,55590
+"Industry",50154,56059,60015,65968,88955,242622,283338,302962,323394
+"Transport, Storage & Communication",7158,7982,8856,9915,11296,12918,13476,15316,16556
+"Railways",0,0,0,0,0,0,0,0,0
+"Transport by other means",4678,5023,5238,5401,5740,7070,7104,7994,8323
+"Storage",62,63,75,83,90,99,111,129,150
+"Communication",2417,2895,3542,4431,5466,5749,6261,7193,8083
+"Trade, Hotels and restaurants",9025,9234,9356,9831,10312,10705,11224,11775,12485
+"Banking & Insurance",4494,5639,7261,8794,9236,11462,14046,15678,17500
+"Real estate, Ownership of dwellings and Business services",17375,17920,18603,21657,24060,24654,25660,27497,29474
+"Public Administration",25398,28911,31401,32213,35863,51560,47121,47032,51040
+"Other services",27986,31539,33203,34436,37266,48125,43660,51219,54330
+"Services",91436,101225,108680,116846,128033,159424,155187,168517,181385
+"State Domestic Product",173915,190945,202385,217823,253499,440101,478428,513030,549095

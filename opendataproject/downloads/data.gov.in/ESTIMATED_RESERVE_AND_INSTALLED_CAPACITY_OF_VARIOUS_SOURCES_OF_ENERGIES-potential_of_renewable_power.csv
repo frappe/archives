@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table gives the estimated reserve and installed capacity of various sources of energies.", 
+ "file_name": "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES.xls", 
+ "title": "Download XLS for Estimated Reserve and Installed Capacity of Various Sources of Energies", 
+ "url": "http://data.gov.in/sites/default/files/ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES.xls"
+}
+-----
+"As on","Wind Power","Small Hydro Power","Cogeneration-bagasse","Waste to Energy","Total"
+"31.03.2009",48561.0,14291.0,19500.0,3836.0,86188.0
+"31.03.2010",48561.0,15385.0,22536.0,3831.0,90313.0
+"31.03.2011",49130.0,15385.0,17538.0,5000.0,89760.0

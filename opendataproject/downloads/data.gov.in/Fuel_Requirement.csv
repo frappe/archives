@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides details regarding Fuel Requirement during 2016\u201317. It shows the fuel requirement and availability for Coal, Lignite, Gas/LN. In addition, about 17,500 MW gas-based capacity is under various stages of construction for which additional gas requirements is about 84 Million Metric ...", 
+ "file_name": "Fuel_Requirement.xls", 
+ "title": "Download XLS for Fuel Requirement during 2016\u201317 (Energy Sector)", 
+ "url": "http://data.gov.in/sites/default/files/Fuel_Requirement.xls"
+}
+-----
+"Fuel","Requirement","Availability"
+"Coal","730 Million Tonnes","550 Million Tonnes"
+"Lignite","46 Million Tonnes","46 Million Tonnes"
+"Gas/LNG","207 MMSCMD","102 MMSCMD"

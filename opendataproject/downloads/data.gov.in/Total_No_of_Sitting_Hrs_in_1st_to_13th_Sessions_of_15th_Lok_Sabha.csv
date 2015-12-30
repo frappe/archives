@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides the details on the total number of sitting hours in 1st to 13th Sessions of 15th Lok Sabha.", 
+ "file_name": "Total_No_of_Sitting_Hrs_in_1st_to_13th_Sessions_of_15th_Lok_Sabha.xls", 
+ "title": "Download XLS for Total Number of Sitting Hours in 1st to 13th Sessions of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Total_No_of_Sitting_Hrs_in_1st_to_13th_Sessions_of_15th_Lok_Sabha.xls"
+}
+-----
+"Sessions","Sitting Hours"
+"First",28.03
+"Second",162.11
+"Third",105.12
+"Fourth",137.51
+"Fifth",136.22
+"Sixth",7.35
+"Seventh",116.4
+"Eighth",104.15
+"Ninth",85.01
+"Tenth ",187.36
+"Eleventh",24.22
+"Twelfth ",61.45
+"Thirteenth",94.42

@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The table states category wise percentage of households with assets holding  less than Rs. 30,000 and above Rs. 3,00,000 category.", 
+ "file_name": "RD09.csv", 
+ "title": "Download CSV for Percentage of Households by Asset-holding categories by Social Group", 
+ "url": "http://data.gov.in/sites/default/files/RD09.csv"
+}
+-----
+Social group,Percentage of Households by Asset-holding categories in Rural India - Less than Rs. 30000,Percentage of Households by Asset-holding categories in Rural India  - Rs. 300000 and above ,Percentage of Households by Asset-holding categories in Urban India - Less than Rs. 30000,Percentage of Households by Asset-holding categories in Urban India  - Rs. 300000 and above 
+Schedule Caste,23.50,9.10,32.50,20.10
+Schedule Tribe,22.10,9.00,29.10,16.60
+Other Backward Caste,13.30,24.40,23.70,28.50
+Others,11.90,37.10,20.00,43.50
+All,15.90,24.80,23.00,33.70

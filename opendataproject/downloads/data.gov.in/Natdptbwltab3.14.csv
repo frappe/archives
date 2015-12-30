@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise irrigation potential utilised through Deep Tubewells . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.14.csv", 
+ "title": "Download CSV for Statewise Irrigation potential utilised through Deep Tubewells for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.14.csv"
+}
+-----
+"State","Actual area irrigated (Ha) - Kharif","Actual area irrigated (Ha) - Rabi","Actual area irrigated (Ha) - Perennial","Actual area irrigated (Ha) - Others","Total"
+"ANDHRA PRADESH",60481,46125,9968,5395,121969
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA
+"ASSAM",5777,2821,29,135,8762
+"BIHAR",31269,39436,4226,2046,76977
+"GOA",0,12,33,0,45
+"GUJARAT",NA,NA,NA,NA,NA
+"HARYANA",18803,18907,2,0,37712
+"HIMACHAL PRADESH",3133,4564,60,7,7764
+"JAMMU & KASHMIR",2333,1654,0,0,3987
+"KARNATAKA",150639,63621,64202,19442,297904
+"KERALA",81,92,403,132,708
+"MADHYA PRADESH",15058,65445,1580,718,82801
+"MAHARASHTRA",NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA
+"MEGHALAYA",143,95,1,8,247
+"MIZORAM",NA,NA,NA,NA,NA
+"NAGALAND",2,3,1,0,6
+"ORISSA",1979,12017,117,17,14130
+"PUNJAB",16749,18389,978,381,36497
+"RAJASTHAN",12469,123451,375,2096,138391
+"SIKKIM",NA,NA,NA,NA,NA
+"TAMIL NADU",23130,15035,6812,2968,47946
+"TRIPURA",1345,1657,53,89,3144
+"UTTAR PRADESH",259872,392973,78740,24747,756332
+"WEST BENGAL",51995,43838,5051,29534,130418
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA
+"DELHI",3291,3340,31,6,6668
+"LAKSHADWEEP",NA,NA,NA,NA,NA
+"PONDICHERRY",436,471,461,45,1413
+"ALL INDIA",658985,853947,173124,87766,1773821

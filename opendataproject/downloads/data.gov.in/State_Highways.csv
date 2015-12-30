@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table gives an overview of Target for State Highways for Twelfth Five Year Plan.", 
+ "file_name": "State_Highways.xls", 
+ "title": "Download XLS for Target for State Highways for Twelfth Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/State_Highways.xls"
+}
+-----
+"Type","State Highways (Kilometers)","State Highways (% of Existing/Total Lengths)","Major District Roads (Kilometers)","Major District Roads ( % of Existing/Total Lengths)"
+"2-Laning",30000.0,30.0,20000.0,8.5
+"4-Laning",5000.0,8.0,1000.0,4.0
+"Strengthening",41500.0,25.0,66500.0,25.0
+"IRQP",50000.0,30.0,80000.0,30.0

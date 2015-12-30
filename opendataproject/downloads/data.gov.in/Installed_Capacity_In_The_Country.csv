@@ -1,0 +1,46 @@
+-----
+{
+ "description": "This data provides state-wise details of installed capacity of Grid Solar Power projects under JNNSM.", 
+ "file_name": "Installed_Capacity_In_The_Country.xls", 
+ "title": "Download XLS for Commissioned Grid Solar Power Projects As On 15th May 2013", 
+ "url": "http://data.gov.in/sites/default/files/Installed_Capacity_In_The_Country.xls"
+}
+-----
+"Sr. No.","State/UT","MNRE Programmes - JNNSM (PV + ST) (MW)","MNRE Programmes - MNRE Demo Projects (GBI Scheme) (MW)","MNRE Programmes - MNRE Demo Projects (Tail-end Scheme) (MW)","MNRE Programmes - Other MNRE projects (MW)","MNRE Programmes - Total MNRE Projects (MW)","Other Programmes - State Schemes (MW)","Other Programmes - RPO (MW)","Other Programmes - REC (MW)","Other Programmes - Pvt. Initiative (MW)","Other Programmes - NTPC (MW)","Total Commissioned Cap. Till 15.05.2013 (MW)"
+1.0,"Andhra Pradesh",31.15,2.0,"NA","NA",33.15,"NA","NA","NA","NA","NA",33.15
+2.0,"Arunachal Pradesh","NA","NA","NA",0.025,0.025,"NA","NA","NA","NA","NA",0.025
+3.0,"Assam","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+4.0,"Bihar","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+5.0,"Chhattisgarh",4.0,"NA","NA","NA",4.0,"NA","NA","NA","NA","NA",4.0
+6.0,"Goa","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+7.0,"Gujarat",0.0,"NA","NA","NA",0.0,857.9,"NA","NA","NA","NA",857.9
+8.0,"Haryana",7.8,"NA","NA","NA",7.8,"NA","NA","NA","NA","NA",7.8
+9.0,"Himachal Pradesh","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+10.0,"Jammu & Kashmir","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+11.0,"Jharkhand",16.0,"NA","NA","NA",16.0,"NA","NA","NA","NA","NA",16.0
+12.0,"Karnataka",5.0,"NA",1.0,"NA",6.0,8.0,"NA","NA","NA","NA",14.0
+13.0,"Kerala",0.0,"NA","NA",0.025,0.025,"NA","NA","NA","NA","NA",0.025
+14.0,"Madhya Pradesh",5.25,"NA","NA",0.1,5.35,"NA","NA",31.965,"NA","NA",37.315
+15.0,"Maharashtra",26.0,1.0,"NA","NA",27.0,130.0,"NA","NA",3.0,"NA",160.0
+16.0,"Manipur","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+17.0,"Meghalaya","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+18.0,"Mizoram","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+19.0,"Nagaland","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+20.0,"Orissa",13.0,"NA","NA","NA",13.0,"NA","NA","NA","NA","NA",13.0
+21.0,"Punjab",8.0,"NA",1.0,0.325,9.325,"NA","NA","NA","NA","NA",9.325
+22.0,"Rajasthan",432.5,8.0,1.0,0.15,441.65,"NA",40.0,69.5,"NA","NA",551.15
+23.0,"Sikkim","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+24.0,"Tamil Nadu",11.0,5.0,"NA",0.05,16.05,"NA","NA",1.0,"NA","NA",17.05
+25.0,"Tripura","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+26.0,"Uttar Pradesh",12.0,"NA","NA",0.375,12.375,"NA","NA","NA","NA",5.0,17.375
+27.0,"Uttarakhand",5.0,"NA","NA",0.05,5.05,"NA","NA","NA","NA","NA",5.05
+28.0,"West Bengal",0.0,2.0,"NA",0.05,2.05,5.0,"NA","NA","NA","NA",7.05
+29.0,"Andaman & Nicobar","NA","NA","NA",0.1,0.1,"NA","NA","NA","NA",5.0,5.1
+30.0,"Chandigarh","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+31.0,"Dadra & Nagar Haveli","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+32.0,"Daman & Diu","NA","NA","NA","NA",0.0,"NA","NA","NA","NA","NA",0.0
+33.0,"Delhi",0.0,"NA",0.5255,0.03,0.5555,"NA","NA","NA",2.0,"NA",2.5555
+34.0,"Lakshadweep",0.0,"NA","NA",0.75,0.75,"NA","NA","NA","NA","NA",0.75
+35.0,"Puducherry",0.0,"NA","NA",0.025,0.025,"NA","NA","NA","NA","NA",0.025
+36.0,"Others",0.0,"NA","NA",0.79,0.79,"NA","NA","NA","NA","NA",0.79
+"TOTAL","TOTAL",558.7,18.0,3.53,2.85,583.08,832.9,40.0,5.5,5.0,10.0,1759.4355

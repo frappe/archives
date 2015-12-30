@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on total traffic and operating statistics of Air India on non-scheduled revenue services from 2000-01 to 2010-11. The details relates to hours flown, kilometres flown, passenger carried, passenger kilometres performed, freight carried, tonne kilometres performed, ...", 
+ "file_name": "TOTAL_TRAFFIC_AND_OPERATING_STATISTICS_OF_AIR_INDIA_ON_NON-SCHEDULED_REVENUE_SERVICES_1.xls", 
+ "title": "Download XLS for Total Traffic And Operating Statistics Of Air India On Non-scheduled Revenue Services From 2000-01 To 2010-11", 
+ "url": "http://data.gov.in/sites/default/files/TOTAL_TRAFFIC_AND_OPERATING_STATISTICS_OF_AIR_INDIA_ON_NON-SCHEDULED_REVENUE_SERVICES_1.xls"
+}
+-----
+"Year","Hours flown","Kilometres flown (000)","Passencarried carried (number)","Passenger kms performed (000)","Freight carried (tonne)  ","Tonne kms performed - Passenger (000)","Tonne kms performed - Freight (000)","Tonne kms performed - Mail (000)","Total","Available Tonne-Kms (000)","Weight Load factor (Percentage) "
+"2000-01",5751.0,4219.0,156372.0,637354.0,2.0,58000.0,2.0,"NA",58002.0,190131.0,30.5
+"2001-02",3157.0,2251.0,80546.0,351261.0,125.0,31964.0,142.0,"NA",32106.0,94412.0,34.0
+"2002-03",2621.0,1844.0,61994.0,288249.0,91.0,26230.0,107.0,"NA",26337.0,79718.0,33.0
+"2003-04",2980.0,2130.0,63532.0,299665.0,41.0,27270.0,53.0,"NA",27323.0,86582.0,31.6
+"2004-05",2614.0,1600.0,52228.0,239335.0,"NA",21781.0,"NA","NA",21782.0,59084.0,36.9
+"2005-06",1714.0,1177.0,29156.0,129635.0,9.0,11783.0,14.0,"NA",11797.0,42396.0,27.8
+"2006-07",448.0,322.0,5587.0,39922.0,"NA",4778.0,"NA","NA",4778.0,17680.0,27.0
+"2007-08",4189.0,2826.0,73149.0,356252.0,4.0,36056.0,154.0,"NA",36210.0,103751.0,34.9
+"2008-09",7163.0,4857.0,103998.0,462712.0,"NA",42124.0,324.0,"NA",42448.0,148249.0,28.6
+"2009-10",3884.0,2922.0,85160.0,388377.0,4.0,35355.0,7.0,"NA",35362.0,114554.0,30.9
+"2010-11",2972.0,1738.0,277000.0,155987.0,549.0,10214.0,3641.0,5686.0,11061.0,16475.0,67.1

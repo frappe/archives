@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table consists of subsidy provided by the Government and Oil Companies on PDS SKO & domestic LPG in India during 2004-05 to 2011-12.", 
+ "file_name": "Subsidy_Provided_By_Government_And_Oil_Companies_PDS_SKO_And_Domestic_LPG.xls", 
+ "title": "Download XLS for Subsidy Provided By The Government And Oil Companies On PDS SKO And Domestic LPG During 2004-05 To 2011-12", 
+ "url": "http://data.gov.in/sites/default/files/Subsidy_Provided_By_Government_And_Oil_Companies_PDS_SKO_And_Domestic_LPG.xls"
+}
+-----
+"Category","Subsidy"," 2002-03"," 2003-04"," 2004-05"," 2005-06"," 2006-07"," 2007-08"," 2008-09","2009-10","2010-11","2011-12"
+"PDS SKO","Fiscal Subsidy*",2098.0,2657.0,1147.0,1057.0,970.0,978.0,974.0,956.0,931.0,863.0
+"PDS SKO","Under Recoveries to Oil Company",2067.0,3751.0,9480.0,14384.0,17883.0,19102.0,28225.0,17364.0,19485.0,27352.0
+"PDS SKO","Total",4165.0,6408.0,10627.0,15441.0,18853.0,20080.0,29199.0,18320.0,20415.0,28215.0
+"Domestic LPG","Fiscal Subsidy*",2398.0,3635.0,1783.0,1605.0,1554.0,1663.0,1714.0,1814.0,1974.0,2137.0
+"Domestic LPG","Under Recoveries to Oil Company",3363.0,5523.0,8362.0,10246.0,10701.0,15523.0,17600.0,14257.0,21772.0,29997.0
+"Domestic LPG","Total",5761.0,9158.0,10145.0,11851.0,12255.0,17186.0,19314.0,16071.0,23746.0,32134.0
+"Total","Total (Subsidy+Under Recoveries)",9926.0,15566.0,20772.0,27292.0,31108.0,37266.0,48513.0,34391.0,44161.0,60349.0

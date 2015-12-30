@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise average length of water conveyance channel of surface lift schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.12_1.csv", 
+ "title": "Download CSV for Statewise Average length of water conveyance channel of surface lift schemes for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.12_1.csv"
+}
+-----
+State,Total No of schemes,Average length - Pucca channel,Average length - Kutcha channel,Average length - Underground channel,Total
+ANDHRA PRADESH,19426,87,303,78,468
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA
+ASSAM,9110,429,469,13,911
+BIHAR,11066,126,605,604,1335
+GOA,752,100,136,78,314
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,182,68,118,0,186
+HIMACHAL PRADESH,557,456,323,479,1258
+JAMMU & KASHMIR,351,236,273,3,512
+KARNATAKA,32348,237,129,105,471
+KERALA,11264,305,275,78,658
+MADHYA PRADESH,188875,6,65,45,116
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,20,103,1238,0,1341
+MEGHALAYA,15,148,346,17,511
+MIZORAM,12,443,97,0,540
+NAGALAND,19,0,33,0,33
+ORISSA,20604,59,87,91,237
+PUNJAB,764,96,259,18,373
+RAJASTHAN,289,47,451,384,882
+SIKKIM,NA,NA,NA,NA,NA
+TAMIL NADU,11577,69,67,18,154
+TRIPURA,829,156,277,1726,2159
+UTTAR PRADESH,3466,64,128,22,214
+WEST BENGAL,83645,30,206,684,920
+ANDAMAN & NICOBARS,1210,0,3,0,3
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,54,112,268,87,467
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,406,157,7,0,164
+ALL INDIA,396841,3534,6163,4530,14227

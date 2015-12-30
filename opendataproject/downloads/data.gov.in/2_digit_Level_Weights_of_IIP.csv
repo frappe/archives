@@ -1,0 +1,35 @@
+-----
+{
+ "description": "NIC 2 Digit level and sectoral weights of all India Index of Industrial Production with Base: 2004-05 = 100", 
+ "file_name": "2_digit_Level_Weights_of_IIP.xls", 
+ "title": "Download XLS for NIC 2 Digit Level Weights of all India Index of Industrial Production for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/2_digit_Level_Weights_of_IIP.xls"
+}
+-----
+"2 Digit NIC 2004","Weight"
+15.0,72.7572421601
+16.0,15.7033630415
+17.0,61.6360956515
+18.0,27.8205643984
+19.0,5.82054294973
+20.0,10.5094249977
+21.0,9.99113999099
+22.0,10.7844461816
+23.0,67.1531452689
+24.0,100.588636611
+25.0,20.2471609803
+26.0,43.1427908085
+27.0,113.351572584
+28.0,30.8477093828
+29.0,37.6298602517
+30.0,3.05297049426
+31.0,19.8040394038
+32.0,9.89438635541
+33.0,5.66810850745
+34.0,40.6433659571
+35.0,18.2498396842
+36.0,29.9735943387
+"Mining",141.57
+"Manufacturing",755.27
+"Electricity",103.16
+"General",1000.0

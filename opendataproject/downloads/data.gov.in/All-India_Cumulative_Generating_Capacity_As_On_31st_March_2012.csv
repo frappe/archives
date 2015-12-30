@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides details on all India cumulative generating capacity at centre, state/UTs and private level as on 31st March 2012 (in MW). This data is provided by Ministry of New and Renewable Energy (MNRE).", 
+ "file_name": "All-India_Cumulative_Generating_Capacity_As_On_31st_March_2012.xls", 
+ "title": "Download XLS for All-India Cumulative Generating Capacity As On 31st March 2012", 
+ "url": "http://data.gov.in/sites/default/files/All-India_Cumulative_Generating_Capacity_As_On_31st_March_2012.xls"
+}
+-----
+"Category","Hydro","Thermal","Nuclear","RES (MNRE)","Total"
+"Centre",9085.4,45817.23,4780.0,0.0,59682.63
+"State/UTs",27380.0,55024.93,0.0,3513.72,85918.65
+"Private",2525.0,30761.02,0.0,20989.73,54275.75
+"Total",38990.4,131603.18,4780.0,24503.45,199877.03

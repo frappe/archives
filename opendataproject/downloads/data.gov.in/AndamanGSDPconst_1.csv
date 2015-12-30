@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table refers to the state's gross domestic product at constant prices for the base year 2004-05.", 
+ "file_name": "AndamanGSDPconst_1.csv", 
+ "title": "Download CSV for A &amp; N Islands Gross State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/AndamanGSDPconst_1.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to the state's gross domestic product at constant prices for the base year 2004-05.", 
+ "file_name": "AndamanGSDPconst_1.csv", 
+ "title": "Download CSV for A &amp; N Islands Gross State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/AndamanGSDPconst_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","23555","17747","20491","22026","22147","22088","22485","22871"
+"Foresty and Logging","1241","1370","1148","1113","1453","1648","2220","2724"
+"Fishing","5078","3782","8710","7407","9284","9492","9826","10095"
+"Ag and Allied","29874","22900","30349","30546","32884","33228","34530","35690"
+"Mining and Quarrying","458","963","1663","1864","1738","1253","1099","941"
+"Sub total of primary","30332","23863","32012","32410","34621","34481","35629","36631"
+"Manufacturing","2278","1943","2297","2607","2640","2653","3029","3383"
+"Registered","264","-102","30","1","79","59","77","96"
+"Unregistered","2015","2045","2268","2606","2561","2594","2952","3287"
+"Construction","42549","51099","74501","88081","70010","67441","70471","73450"
+"Electricity, Gas and water Supply","4681","5104","4932","5066","7308","10253","11245","11917"
+"Sub total of secondary","49508","58146","81730","95753","79958","80347","84745","88750"
+"Industry","49966","59109","83393","97618","81695","81600","85844","89691"
+"Transport Storage and Communication","27822","29084","32379","34349","45477","51046","62829","72094"
+"Railways","0","0","0","0","0","0","0","0"
+"Transport by other means","25384","26142","28738","29971","39055","42933","46256","48892"
+"Storage","68","70","82","88","99","116","125","132"
+"Communication","2370","2871","3558","4290","6323","7997","16448","23070"
+"Trade, hotels and restaurants","13915","12506","16643","18708","16728","22264","23957","25311"
+"Banking and Insurance","3651","3933","4674","5781","6206","8066","9822","11132"
+"Real estate, ownership of dwelling and business","9448","11287","12433","14339","14839","16649","20418","23634"
+"Pubic Administration","21236","26953","18193","19850","48115","59863","60469","60838"
+"Other Services","25351","24929","27011","26679","37445","48077","49205","50004"
+"Sub total of tertiary","101424","108691","111333","119706","168809","205965","226700","243013"
+"State domestic product","181264","190699","225075","247869","283388","320792","347074","368395"
+
+"Figures are in Rs. Lakh"

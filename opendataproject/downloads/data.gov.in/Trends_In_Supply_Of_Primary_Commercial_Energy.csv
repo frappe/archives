@@ -1,0 +1,26 @@
+-----
+{
+ "description": "This table provides trends in supply of domestic commercial, non-commercial, commercial, primary energy and net imports for the years 2000-01 (Actual), 2006\u201307 (Actual), 2011\u201312 (Provisional), 2016\u201317(Projected), 2021\u201322 (Projected). Figures in brackets are annual average growth rates over ...", 
+ "file_name": "Trends_In_Supply_Of_Primary_Commercial_Energy.xls", 
+ "title": "Download XLS for Trends In Supply Of Primary Commercial Energy", 
+ "url": "http://data.gov.in/sites/default/files/Trends_In_Supply_Of_Primary_Commercial_Energy.xls"
+}
+-----
+"Category","Item","2000-01 Actual","2006-07 Actual","2011-12 (Prov)","2016-17 Proj.","2021-22 Proj."
+"Domestic Production","Coal",130.61,177.24,222.16,308.55,400.0
+"Domestic Production","Lignite",6.43,8.76,10.64,16.8,29.0
+"Domestic Production","Crude Oil",33.4,33.99,39.23,42.75,43.0
+"Domestic Production","Natural Gas",25.07,27.71,42.79,76.13,103.0
+"Domestic Production","Hydro Power",6.4,9.78,11.22,12.9,17.0
+"Domestic Production","Nuclear Power",4.41,4.91,8.43,16.97,30.0
+"Domestic Production","Renewable Energy",0.13,0.87,5.25,10.74,20.0
+"Domestic Production","Total Domestic Commercial Energy",206.45,263.28,339.72,481.84,642.0
+"Domestic Production","Non-commercial Energy 1",136.64,153.28,174.2,187.66,202.16
+"Domestic Production","Total",343.09,416.56,513.92,669.5,844.16
+"Imports","Coal",11.76,24.92,54.0,90.0,150.0
+"Imports","Petroleum Products",77.25,98.41,129.86,152.44,194.0
+"Imports","LNG",0.0,8.45,12.56,24.8,31.0
+"Imports","Hydro power",0.0,0.26,0.45,0.52,0.6
+"Imports","Total Net Imports",89.01,132.04,196.87,267.76,375.6
+"Imports","Total Commercial Energy (growth over previous 5 years)",295.46,396.32,536.59,749.6,1017.6
+"Imports","Total Primary Energy",432.01,549.6,710.79,937.26,1219.76

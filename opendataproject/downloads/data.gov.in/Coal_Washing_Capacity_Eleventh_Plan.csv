@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides information of the coal washing capacity (in million tonnes) at the end of the Eleventh Plan period. The CIL envisaged building 20 new washeries with a capacity of 111 mt in the Eleventh Plan. However, coal washing capacity did not grow as planned due to delays in awarding of ...", 
+ "file_name": "Coal_Washing_Capacity_Eleventh_Plan.xls", 
+ "title": "Download XLS for Coal Washing Capacity - Eleventh Five Year Plan Period (MT)", 
+ "url": "http://data.gov.in/sites/default/files/Coal_Washing_Capacity_Eleventh_Plan.xls"
+}
+-----
+"Category","Coking Coal","Non-coking coal"
+"Public",27.14,23.2
+"Private",5.66,88.41
+"Total",32.8,111.61
+"Washed Coal Production",7.18,40.95

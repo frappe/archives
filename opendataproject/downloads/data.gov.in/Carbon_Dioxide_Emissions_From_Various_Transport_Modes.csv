@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides details on Carbon Dioxide Emissions from Various Transport Modes in India.", 
+ "file_name": "Carbon_Dioxide_Emissions_From_Various_Transport_Modes.xls", 
+ "title": "Download XLS for Carbon Dioxide Emissions From Various Transport Modes In India", 
+ "url": "http://data.gov.in/sites/default/files/Carbon_Dioxide_Emissions_From_Various_Transport_Modes.xls"
+}
+-----
+"Mode","Category","Transport (gm/tkm) "
+"Road","Freight",160.0
+"Rail","Freight",29.0
+"Shipping","Freight",31.0
+"Passenger Cars","Passenger",175.0
+"Rail","Passenger",75.0
+"Airways","Passenger",229.0

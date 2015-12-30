@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise distribution of surface lift schemes according to ownership. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.2_1.csv", 
+ "title": "Download CSV for Statewise Distribution of surface lift schemes according to ownership for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.2_1.csv"
+}
+-----
+State,Government owned,Cooperative Societies,Panchayat Owned,Group of farmers,Individual farmers,Others,Total
+ANDHRA PRADESH,676,317,131,2513,15416,373,19426
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA,NA,NA
+ASSAM,786,1,2,75,8246,0,9110
+BIHAR,4841,13,66,360,5754,32,11066
+GOA,49,18,0,54,623,8,752
+GUJARAT,NA,NA,NA,NA,NA,NA,NA
+HARYANA,0,0,1,17,164,0,182
+HIMACHAL PRADESH,403,0,0,84,69,1,557
+JAMMU & KASHMIR,300,2,0,19,29,1,351
+KARNATAKA,478,6,0,586,31250,28,32348
+KERALA,420,58,71,373,10301,41,11264
+MADHYA PRADESH,10492,551,870,10423,164201,2338,188875
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,20,0,0,0,0,0,20
+MEGHALAYA,12,0,0,1,2,0,15
+MIZORAM,3,0,0,2,7,0,12
+NAGALAND,0,0,0,1,18,0,19
+ORISSA,7702,58,447,2539,9824,34,20604
+PUNJAB,11,1,1,1,750,0,764
+RAJASTHAN,79,5,1,116,82,6,289
+SIKKIM,NA,NA,NA,NA,NA,NA,NA
+TAMIL NADU,166,14,6,3243,6573,1575,11577
+TRIPURA,411,0,3,8,396,11,829
+UTTAR PRADESH,512,1,52,170,2696,35,3466
+WEST BENGAL,3167,251,1564,28604,47706,2353,83645
+ANDAMAN & NICOBARS,3,0,1,0,1206,0,1210
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,21,0,0,0,33,0,54
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,0,0,0,0,401,5,406
+ALL INDIA,30552,1296,3216,49189,305747,6841,396841

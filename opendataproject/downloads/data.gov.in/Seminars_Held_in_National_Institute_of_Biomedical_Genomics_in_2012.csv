@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This dataset provides the list of seminars held in National Institute of Biomedical Genomics (NIBMG) in the year 2012.", 
+ "file_name": "Seminars_Held_in_National_Institute_of_Biomedical_Genomics_in_2012.xls", 
+ "title": "Download XLS for Seminars Held in National Institute of Biomedical Genomics in 2012", 
+ "url": "http://data.gov.in/sites/default/files/Seminars_Held_in_National_Institute_of_Biomedical_Genomics_in_2012.xls"
+}
+-----
+"Sl.No.","Date","Speaker"
+1.0,40996.0,"Dr Prasanta Ray, Former Director, Bose Institute"
+2.0,40961.0,"Professor Jayanta Kumar Ghosh, Purdue University, USA"
+3.0,40957.0,"Prof Aravinda Chakravarti, McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, USA"
+4.0,40921.0,"Dr.Sita Naik, Apollo Health Education & Research Foundation, New Delhi"
+5.0,40919.0,"Dr.Hari S. Sharma, Dept. of Pathology, Institute of Cardiovascular Research, Vumc, University Medical Centre, Amsterdam, The Netherlands  "

@@ -1,0 +1,37 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Lift Schemes(on Drain/Canal) in use and their Potential Created and Utilized according to Public and Private. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.18.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Lift Schemes(on Drain/Canal) in use and their Potential Created and Utilized according to Public and Private", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.18.csv"
+}
+-----
+"State","No. in use - Public","No. in use - Private","No. in use - Total","Potential created (Ha) - Public","Potential created (Ha) - Private","Potential created (Ha) - Total","Potential utilised (Ha) - Public","Potential utilised (Ha) - Private","Potential utilised (Ha) - Total"
+"ANDHRA PRADESH",81,1351,1432,12344,17142,29486,9923,13794,23717
+"ARUNACHAL PRADESH",3,0,3,38,0,38,34,0,34
+"ASSAM",29,129,158,2210,692,2902,2210,632,2842
+"BIHAR",113,91,204,4835,557,5392,3564,450,4014
+"CHHATTISGARH",45,160,205,1673,636,2309,1640,484,2124
+"GOA",3,2,5,31,2,33,23,2,25
+"GUJARAT",284,492,776,1768,1321,3089,196,482,678
+"HARYANA",0,16,16,0,65,65,0,65,65
+"HIMACHAL PRADESH",21,1,22,1198,4,1202,598,4,602
+"JAMMU & KASHMIR",18,46,64,848,301,1149,834,280,1114
+"JHARKHAND",252,210,462,7550,433,7983,3676,278,3954
+"KARNATAKA",175,3271,3446,20232,11389,31621,15641,9216,24857
+"KERALA",94,675,769,7770,6922,14692,6655,6172,12827
+"MADHYA PRADESH",1208,6412,7620,18086,25642,43728,15095,15587,30682
+"MAHARASHTRA",511,16766,17277,23021,53540,76561,16576,40932,57508
+"MIZORAM",1,22,23,8,69,77,8,46,54
+"NAGALAND",0,3,3,0,26,26,0,25,25
+"ORISSA",1158,4322,5480,20600,13182,33782,9633,7675,17308
+"PUNJAB",2,489,491,33,3092,3125,21,3079,3100
+"RAJASTHAN",23,84,107,880,175,1055,880,165,1045
+"TAMIL NADU",28,1676,1704,215,3831,4046,162,2493,2655
+"TRIPURA",15,37,52,923,362,1285,468,329,797
+"UTTAR PRADESH",13,834,847,1690,3303,4993,1384,2792,4176
+"UTTARANCHAL",29,6,35,1372,50,1422,1061,50,1111
+"WEST BENGAL",1028,20878,21906,17489,108663,126152,9957,60767,70724
+"ANDAMAN & NICOBARS",0,22,22,0,79,79,0,30,30
+"DELHI",23,15,38,374,82,456,368,65,433
+"ALL INDIA",5157,58010,63167,145188,251560,396748,100607,165894,266501

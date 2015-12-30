@@ -1,0 +1,36 @@
+-----
+{
+ "description": "This data gives bank-wise lending under Priority Sector Lending (PSL) and Minority Community Lending (MCL) as on 31st March 2013.", 
+ "file_name": "Lending_to_Minorites.xls", 
+ "title": "Download XLS for Bank-wise Lending to Minorities under Priority Sector Lending as on 31st March 2013", 
+ "url": "http://data.gov.in/sites/default/files/Lending_to_Minorites.xls"
+}
+-----
+"S.No","Name of Bank ","Total PSL as on quarter ending 31.03.2013 (in Rs. Crore)","Share of Minorities in total PSL as on quarter ending 31.03.2013 (MCL) (in Rs. Crore)","% age  of MCL to PSL"
+1.0,"Allahabad Bank",39741.47,6334.69,15.94
+2.0,"Andhra Bank",35132.02,2794.38,7.95
+3.0,"Bank of Baroda",78500.0,8802.49,11.21
+4.0,"Bank of India",67537.0,9847.47,14.58
+5.0,"Bank of Maharashtra",24717.23,1871.39,7.57
+6.0,"Canara Bank",78998.0,14369.48,18.19
+7.0,"Central Bank of India",51252.0,7698.0,15.02
+8.0,"Corporation Bank",41558.45,2458.31,5.92
+9.0,"Dena Bank",19161.0,1536.0,8.02
+10.0,"Indian Bank",36414.26,5471.42,15.03
+11.0,"Indian Overseas Bank",50001.44,7570.22,15.14
+12.0,"Oriental Bank of Commerce",45605.0,6998.01,15.34
+13.0,"Punjab National Bank",91318.0,13708.1,15.01
+14.0,"Punjab & Sind Bank",14460.0,5687.62,39.33
+15.0,"Syndicate Bank",46436.55,7601.12,16.37
+16.0,"Union Bank of India",58492.57,5370.8,9.18
+17.0,"United Bank of India",25624.5,3858.94,15.06
+18.0,"UCO Bank",34961.9,5255.89,15.03
+19.0,"Vijaya Bank",19504.9,2019.59,10.35
+20.0,"State Bank of India",257887.0,44581.69,17.29
+21.0,"State Bank of Bikaner & Jaipur",20202.0,1037.0,5.13
+22.0,"State Bank of Hyderabad",30797.74,4633.82,15.05
+23.0,"State Bank of Mysore",13299.9,1416.08,10.65
+24.0,"State Bank of Patiala",24070.0,4294.67,17.84
+25.0,"State Bank of Travancore",24378.0,8536.0,35.02
+26.0,"IDBI BK Ltd",39621.97,1481.17,3.74
+"Total","Total",1269672.9,185234.35,14.59

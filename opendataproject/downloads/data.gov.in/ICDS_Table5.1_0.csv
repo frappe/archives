@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It provides the estimates of the three gaps - Survey gap, Service gap and Delivery gap, across the states as well as the actual coverage in terms of survey number, delivery number ...", 
+ "file_name": "ICDS_Table5.1_0.xls", 
+ "title": "Download XLS for Estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table5.1_0.xls"
+}
+-----
+"States/UTs","Survey gap: proportion of children not registered as % to total eligible children as per census","Service gap: proportion of children not in the delivery registered as % to total number in survey register","Delivery gap: proportion of children not receiving SNP as % to total number in delivery register","Actual coverage (Proportion of children receiving food from AWC)-As % to children in survey register","Actual coverage (Proportion of children receiving food from AWC)-As % to children in delivery register","Actual coverage (Proportion of children receiving food from AWC)-As % to eligible children estimated (Census)"
+"Andhra Pradesh",41.4,14.4,26.3,63.1,73.7,37.0
+"Assam",17.9,15.4,26.5,62.2,73.5,51.0
+"Bihar",52.5,30.3,47.4,36.6,52.6,17.4
+"Chhattisgarh",41.0,8.1,14.4,78.7,85.6,46.5
+"Gujarat",58.7,11.1,13.5,76.8,86.5,31.7
+"Haryana",47.3,32.2,48.1,35.2,51.9,18.6
+"Himachal Pradesh",15.8,35.4,22.9,49.9,77.1,42.0
+"Jammu & Kashmir",54.5,20.5,8.5,72.8,91.5,33.1
+"Jharkhand",14.9,48.8,11.7,45.2,88.3,38.5
+"Karnataka",8.4,32.3,19.6,54.4,80.4,49.9
+"Kerala",26.8,60.2,24.2,30.2,75.8,22.1
+"Madhya Pradesh",36.8,14.8,31.8,58.1,68.2,36.7
+"Maharashtra",41.8,7.1,30.4,64.7,69.6,37.6
+"Orissa",26.3,1.4,30.1,69.0,69.9,50.9
+"Punjab",53.9,29.7,40.9,41.6,59.1,19.2
+"Rajasthan",36.9,47.5,44.4,29.2,55.6,18.4
+"Tamil Nadu",43.4,35.9,24.2,48.6,75.8,27.5
+"Uttar Pradesh",39.8,7.8,59.4,37.4,40.6,22.5
+"Uttrakhand",46.1,29.5,18.1,57.7,81.9,31.1
+"West Bengal",18.2,23.3,21.7,60.0,78.3,49.1
+"Delhi",59.1,34.1,43.6,37.2,56.4,15.2
+"Chandigarh",59.9,37.8,32.0,42.3,68.0,17.0
+"Arunachal Pradesh",0.0,18.6,5.6,76.8,94.4,76.8
+"Manipur",0.0,9.4,55.1,40.7,44.9,40.7
+"Meghalaya",42.8,10.6,20.2,71.4,79.8,40.8
+"Mizoram",39.2,0.0,8.2,91.8,91.8,55.8
+"Nagaland",17.2,25.3,17.6,61.6,82.4,51.0
+"Tripura",0.0,5.3,22.4,73.5,77.6,73.5
+"Sikkim",49.8,17.4,6.2,77.4,93.8,38.9
+"Dadar & Nagar Haveli",57.6,0.0,40.0,60.0,60.0,25.5
+"Daman & Diu",64.3,1.0,45.3,54.1,54.7,19.3
+"Goa",70.5,0.0,26.6,73.4,73.4,21.7
+"Puducherry",83.5,20.8,43.3,44.9,56.7,7.4
+"Andaman & Nicobar Haveli",30.5,25.4,0.0,74.6,100.0,51.8
+"All India",37.9,21.6,36.0,50.1,64.0,31.1

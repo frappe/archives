@@ -1,0 +1,11 @@
+-----
+{
+ "description": "The table provides the Workforce Participation Rate by Gender on Usual Principal and Subsidiary Status (UPSS) basis for the years 2004\u201305 and 2009\u201310 in percentage terms. \r\r", 
+ "file_name": "Work_Force_Participation_Rate.xls", 
+ "title": "Download XLS for Workforce Participation Rate by Gender (in percentage) ", 
+ "url": "http://data.gov.in/sites/default/files/Work_Force_Participation_Rate.xls"
+}
+-----
+"Category","2004-05 Male","2004-05 Female","2009-10 Male","2009-10 Female"
+"Rural ",84.6,48.5,81.12,37.2
+"Urban ",76.3,22.7,74.0,18.3

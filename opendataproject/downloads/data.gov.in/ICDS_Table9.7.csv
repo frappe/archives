@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the Distribution of Households by Occupation Group \u2013 Beneficiary vs. Non-Beneficiary. It gives state-wise details regarding the occupation group - Agriculture, Wage earner or Salaried for beneficiary as well as non-beneficiary households.", 
+ "file_name": "ICDS_Table9.7.xls", 
+ "title": "Download XLS for Distribution of Households by Occupation Group \u2013 Beneficiary vs. Non-Beneficiary", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table9.7.xls"
+}
+-----
+"States/UTs ","Beneficiary children household-Agriculture","Beneficiary children household-Wage earner","Beneficiary children household-Salaried","Beneficiary children household-Others","Non-beneficiary children household-Agriculture","Non-beneficiary children household-Wage earner","Non-beneficiary children household-Others"
+"Andhra Pradesh",18.5,64.2,7.2,10.2,21.1,43.7,19.4
+"Assam",26.2,35.4,14.9,23.5,23.9,36.9,28.3
+"Bihar",13.8,49.9,21.0,15.4,10.7,46.1,16.6
+"Chhattisgarh",42.6,30.2,9.5,17.8,21.1,23.3,36.6
+"Gujarat",39.7,36.9,11.0,12.5,49.6,27.9,8.0
+"Haryana",18.9,44.8,24.0,12.3,20.0,37.1,27.8
+"Himachal Pradesh",18.4,30.9,22.3,28.4,32.7,25.0,10.8
+"Jammu and Kashmir",18.9,20.1,55.7,5.3,10.2,8.6,27.3
+"Jharkhand",11.7,66.6,4.2,17.6,13.3,62.3,19.8
+"Karnataka",47.7,37.4,7.9,7.0,49.7,31.2,4.0
+"Kerala",2.2,70.8,17.6,9.4,0.0,68.9,9.4
+"Madhya Pradesh",32.2,46.9,8.7,12.2,38.7,30.9,18.1
+"Maharashtra",43.1,31.5,11.7,13.8,45.7,27.5,14.3
+"Orissa",19.1,49.1,10.0,21.8,21.3,35.9,26.6
+"Punjab",22.0,57.6,9.4,11.0,32.2,34.9,19.3
+"Rajasthan",21.4,37.7,18.3,22.6,22.2,32.6,17.8
+"Tamil Nadu",14.9,62.1,14.0,9.1,15.7,57.1,6.9
+"Uttar Pradesh",35.6,49.3,5.5,9.6,47.1,37.5,8.2
+"Uttrakhand",13.4,66.4,12.7,7.5,23.3,75.1,1.1
+"West Bengal",5.0,76.1,4.3,14.6,6.1,59.0,23.0
+"Delhi",0.0,19.9,46.5,33.6,0.0,23.0,39.8
+"Chandigarh",0.0,37.3,38.2,24.4,0.0,2.1,0.0
+"Arunachal Pradesh",71.8,4.5,16.9,6.9,58.1,14.0,2.4
+"Manipur",1.2,38.7,13.9,46.2,17.8,44.9,16.9
+"Meghalaya",16.9,36.0,23.1,24.0,11.6,57.5,24.6
+"Mizoram",41.8,11.3,47.0,0.0,66.7,0.0,0.0
+"Nagaland",22.0,4.5,40.3,33.2,33.2,2.6,12.7
+"Tripura",4.1,59.2,11.1,25.6,0.5,18.2,51.8
+"Sikkim",28.3,50.7,10.4,10.6,25.2,37.0,17.7
+"Dadar& Nagar Haveli",9.3,44.9,34.1,11.7,37.5,6.0,29.8
+"Daman & Diu",0.0,9.3,62.6,28.2,0.0,0.0,60.0
+"Goa",3.6,47.5,31.1,17.8,4.8,7.1,8.6
+"Puducherry",0.0,92.0,4.6,3.4,0.0,80.8,0.0
+"Andaman & Nicobar Islands",7.3,66.2,19.8,6.7,4.6,49.4,24.0
+"All India",27.0,48.4,10.7,14.0,24.7,44.1,15.7

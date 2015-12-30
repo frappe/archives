@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This data provides details on department wise allocation release, expenditure and percentage expenditure to release in the XI Plan.", 
+ "file_name": "Allocation_and_Spending_by_Ministry_of_Health_in_Eleventh_Plan_1.xls", 
+ "title": "Download XLS for Allocation And Spending By Ministry of Health In Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Allocation_and_Spending_by_Ministry_of_Health_in_Eleventh_Plan_1.xls"
+}
+-----
+"Department ","XI Plan Allocation","XI Plan Release","XI Plan Expenditure"," Expenditure to Release (Percentage)"
+"Health & Family Welfare",125923.0,87460.0,83407.31,95.3662359936
+"Of which under NRHM","89478
+",68063.81,66127.4,97.1550079257
+"AYUSH",3988.0,3083.0,2993.82,97.1073629582
+"Department of Health Research",4496.0,1938.26,1870.08,96.4824120603
+"AIDS Control ",5728.0,1500.0,1304.96,86.9973333333
+"Total Health and family Welfare",140135.0,93981.26,89576.17,95.3127995943

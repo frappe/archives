@@ -1,0 +1,122 @@
+-----
+{
+ "description": "The table refers to village wise irrigation potential utilised under surface flow schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.12.csv", 
+ "title": "Download CSV for Villagewise Irrigation potential utilised under Surface Flow Schemes for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.12.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface flow schemes according to source of finance. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.7.csv", 
+ "title": "Download CSV for Villagewise Distribution of Surface Flow Schemes according to Finance source for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.7.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface flow schemes by status. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.6.csv", 
+ "title": "Download CSV for Villagewise Distribution of Surface Flow Schemes by its status for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.6.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise culturable command area and potential created through surface flow scheme. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.11.csv", 
+ "title": "Download CSV for Villagewise Culturable command area and potential created through Surface Flow Scheme for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.11.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface flow schemes by type. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.5.csv", 
+ "title": "Download CSV for Villagewise Distribution of Surface Flow Schemes by its type for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.5.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise surface flow schemes according to constraints. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.14.csv", 
+ "title": "Download CSV for Villagewise Surface Flow Schemes according to the constraints for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.14.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise surface flow schemes according to water distribution system. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.8.csv", 
+ "title": "Download CSV for Villagewise Surface Flow Schemes according to water distribution system for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.8.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise potential utilized through surface flow schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.10.csv", 
+ "title": "Download CSV for Villagewise Surface Flow Schemes Average length of water conveyance channel for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.10.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface flow schemes in the major/medium project command. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.9.csv", 
+ "title": "Download CSV for Villagewise Surface Flow Schemes in the major/medium project command for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.9.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise irrigation through supplemntary sources under surface flow schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "villtab4.13.csv", 
+ "title": "Download CSV for Villagewise Irrigation through supplementary sources under Surface Flow Schemes for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villtab4.13.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state-wise construction of surface flow schemes over the years. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.\r", 
+ "file_name": "Nattab4.1.csv", 
+ "title": "Download CSV for Statewise construction of Surface Flow schemes over the years for 2nd census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.1.csv"
+}
+-----
+State,Upto 1986-87,During 1987-88,During 1988-89,During 1989-90,During 1990-91,During 1991-92,During 1992-93,During 1993-94,Total
+ANDHRA PRADESH,76193,855,695,251,304,343,280,1032,79953
+ARUNACHAL PRADESH,1604,320,288,296,313,265,241,261,3588
+ASSAM,1479,39,27,55,58,144,202,343,2347
+BIHAR,48821,1676,1545,1654,4330,3917,3191,2114,67248
+GOA,3127,21,5,8,4,4,3,4,3176
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,170,70,99,113,27,16,10,5,510
+HIMACHAL PRADESH,14057,62,83,27,17,35,25,39,14345
+JAMMU & KASHMIR,7823,646,304,153,38,51,70,59,9144
+KARNATAKA,28691,1342,1260,1308,1066,851,785,3783,39086
+KERALA,7989,443,361,326,308,310,328,316,10381
+MADHYA PRADESH,42343,1665,1702,1637,4138,1579,1349,1711,56124
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,19,10,10,32,34,31,45,59,240
+MEGHALAYA,6784,1287,1277,945,774,839,707,1651,14264
+MIZORAM,2782,277,278,373,315,261,173,316,4775
+NAGALAND,7615,221,2027,1037,1183,744,648,584,14059
+ORISSA,18710,1508,709,756,776,568,497,579,24103
+PUNJAB,229,31,23,44,28,2,3,34,394
+RAJASTHAN,2714,58,72,49,30,19,39,121,3102
+SIKKIM,478,54,64,59,60,55,38,46,854
+TAMIL NADU,75204,478,1047,307,4211,16,24,3436,84723
+TRIPURA,124,27,35,25,44,61,82,202,600
+UTTAR PRADESH,14184,1364,1377,1105,1246,1428,1263,1917,23884
+WEST BENGAL,58657,1443,1181,870,756,566,592,2389,66454
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,5,1,1,1,1,2,0,0,11
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,1376,5,1,0,0,0,1,0,1383
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,17506,126,10,1,1,1,0,0,17645
+ALL INDIA,438684,14029,14481,11432,20062,12108,10596,21001,542393

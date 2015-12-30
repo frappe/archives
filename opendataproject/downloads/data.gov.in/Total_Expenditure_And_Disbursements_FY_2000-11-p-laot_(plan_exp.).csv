@@ -1,0 +1,63 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-LAOT","A UT Puducherry",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Andhra Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.25,0.0
+"P-LAOT","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Assam",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Bihar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Chattisgarh",0.0,0.0,0.0,0.0,0.0905,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","D NCT Delhi",0.0,4.67,3.0,2.5444,0.9875,0.656,0.5299,0.3792,0.6501,0.2607,0.0,0.0
+"P-LAOT","Goa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Gujarat",0.0,0.0,0.0003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Haryana",3.85,6.55,6.45,5.3717,5.0,5.2,6.2,5.2,6.0,6.0,5.6866,5.23
+"P-LAOT","Himachal Pradesh",0.0,0.0,13.2821,24.5519,10.8077,5.8917,10.7221,11.7098,8.6317,8.0841,4.3665,5.4872
+"P-LAOT","Jammu and Kashmir",0.794,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Jharkhand",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Karnataka",1.2343,2.2708,0.3472,0.7002,0.2843,0.1106,0.0375,0.0375,0.075,0.0375,0.0379,0.0
+"P-LAOT","Kerala",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Madhya Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Maharastra",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Mizoram",0.0,0.0,0.0,0.1007,0.5046,0.0,0.1,0.25,1.9773,5.277,19.7726,22.718
+"P-LAOT","Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Orissa",0.0,0.0,0.23,1.0797,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Punjab",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Rajasthan",2.4879,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Tamil Nadu",99.6825,102.1421,140.5364,97.8016,71.0731,49.4361,44.3404,1.338,0.7875,0.6661,0.4366,0.4209
+"P-LAOT","Tripura",2.6444,4.1454,7.2332,8.0466,5.4831,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Uttar Pradesh",0.0,0.0,0.0744,0.0173,0.0,0.0293,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","Uttarakhand",0.0,0.0,0.0,0.0,0.0781,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAOT","West Bengal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

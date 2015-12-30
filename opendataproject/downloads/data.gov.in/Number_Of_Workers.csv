@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The table gives the number of workers according to Usual Principal and Subsidiary Status (PS+SS) approach by Broad Employment Status (in Million Workers). It gives the sector-wise details for the years 1999-2000, 2004-05 and 2009-10. ", 
+ "file_name": "Number_Of_Workers.xls", 
+ "title": "Download XLS for Number of Workers by Broad Employment Status (in Millions)", 
+ "url": "http://data.gov.in/sites/default/files/Number_Of_Workers.xls"
+}
+-----
+"Sectors ","Number of Workers  :1999-2000","% Number of Workers :1999-2000","Number of Workers : 2004-05","% Number of Workers :2004-05","Number of Workers :2009-10","% Number of Workers :2004-05"
+"Self-Employed",209.3,52.6,258.4,56.4,232.7,50.7
+"Regular/Salaried Employee",58.2,14.6,69.7,15.2,75.1,16.4
+"Casual Labour",130.3,32.8,129.7,28.3,151.3,33.0

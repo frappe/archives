@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at constant prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "AndamanNSDPconst_1.csv", 
+ "title": "Download CSV for A &amp; N Islands Net State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/AndamanNSDPconst_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","20583","14762","17454","19522","20982","20843","21240","21834"
+"Foresty and Logging","1225","1353","1134","1100","1437","1629","2201","2708"
+"Fishing","4424","3177","7433","6070","7909","8142","8476","8970"
+"Ag and Allied","26232","19293","26021","26692","30328","30614","31917","33512"
+"Mining and Quarrying","382","725","1285","1447","1349","976","822","710"
+"Sub total of primary","26614","20018","27306","28139","31676","31590","32739","34222"
+"Manufacturing","1662","1312","1638","1933","1928","1883","2259","2741"
+"Registered","135","-213","-63","-82","13","2","20","48"
+"Unregistered","1528","1525","1702","2015","1915","1881","2239","2693"
+"Construction","40892","48979","71320","83896","66230","64278","67308","70814"
+"Electricity, Gas and water Supply","2098","3367","2269","1764","3735","5936","6928","8318"
+"Sub total of secondary","44652","53658","75227","87592","71893","72097","76495","81873"
+"Industry","45034","54383","76512","89040","73241","73073","77317","82583"
+"Transport Storage and Communication","25428","26426","29381","30947","41380","45963","57746","67858"
+"Railways","0","0","0","0","0","0","0","0"
+"Transport by other means","23480","24051","26393","27291","35989","39207","42530","45787"
+"Storage","65","67","78","84","94","110","119","127"
+"Communication","1883","2307","2909","3572","5297","6646","15097","21944"
+"Trade, hotels and restaurants","13623","12134","16199","18191","16216","21826","23519","24946"
+"Banking and Insurance","3580","3864","4602","5700","6127","7968","9724","11051"
+"Real estate, ownership of dwelling and business","8496","10245","11306","13104","13466","15116","18885","22356"
+"Pubic Administration","16561","21851","13142","14769","41550","51931","52537","54227"
+"Other Services","24321","23800","25755","25338","35567","46106","47234","48362"
+"Sub total of tertiary","92010","98319","100385","108049","154305","188910","209645","228800"
+"State domestic product","163276","171994","202918","223780","257874","292596","318879","344895"
+
+"Figures are in Rs. Lakh"

@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to irrigation through supplementary source . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.15.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to Irrigation through supplementary source  for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.15.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes according to social status. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.4.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes according to social status for 2nd census of minor irrigation scheme (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.4.csv"
+}
+-----
+State,Scheduled caste,Scheduled tribe,Other social status of farmers,Total
+ANDHRA PRADESH,661,864,6524,8049
+ARUNACHAL PRADESH,65,1865,27,1957
+ASSAM,22,460,863,1345
+BIHAR,4812,13129,14819,32760
+GOA,18,1,2983,3002
+GUJARAT,NA,NA,NA,NA
+HARYANA,133,3,369,505
+HIMACHAL PRADESH,146,58,8443,8647
+JAMMU & KASHMIR,82,0,4716,4798
+KARNATAKA,2433,1212,28822,32467
+KERALA,180,28,4572,4780
+MADHYA PRADESH,2074,10603,23713,36390
+MAHARASHTRA,NA,NA,NA,NA
+MANIPUR,0,0,0,0
+MEGHALAYA,137,13406,61,13604
+MIZORAM,11,4762,1,4774
+NAGALAND,28,14020,9,14057
+ORISSA,588,1875,5289,7752
+PUNJAB,11,7,360,378
+RAJASTHAN,82,69,865,1016
+SIKKIM,0,0,235,235
+TAMIL NADU,3146,598,52600,56344
+TRIPURA,60,79,159,298
+UTTAR PRADESH,1427,331,10262,12020
+WEST BENGAL,8164,2768,45573,56505
+ANDAMAN & NICOBARS,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,0,0,1,1
+DAMAN & DIU,NA,NA,NA,NA
+DELHI,6,2,1284,1292
+LAKSHADWEEP,NA,NA,NA,NA
+PONDICHERRY,255,27,16356,16638
+ALL INDIA,24541,66167,228906,319614

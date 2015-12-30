@@ -1,0 +1,39 @@
+-----
+{
+ "description": "This table (Annexure to base table) provides Physical Targets of Renewable Programme for the Twelfth Five Year Plan. It gives category-wise and programme-wise physical targets for the Twelfth Five Year Plan (2012-17). ", 
+ "file_name": "Physical_Targets_of_Renewable_Programme_Twelfth_Plan.xls", 
+ "title": "Download XLS for Physical Targets of Renewable Programme for the Twelfth Five Year Plan (2012-17) - Power Sector ", 
+ "url": "http://data.gov.in/sites/default/files/Physical_Targets_of_Renewable_Programme_Twelfth_Plan.xls"
+}
+-----
+"Category","Programme","Proposed Twelfth Plan Target"
+"Grid-interactive Renewable Power(MW)","Grid-interactive Renewable Power(MW)",30000.0
+"Grid-interactive Renewable Power(MW)","Grid Interactive Solar",10000.0
+"Grid-interactive Renewable Power(MW)","Grid Connected Wind",15000.0
+"Grid-interactive Renewable Power(MW)","Other Renewable Sources",5000.0
+"Off Grid/Distributed Renewable Power (Mwe)","Off Grid/Distributed Renewable Power (Mwe",3400.0
+"Off Grid/Distributed Renewable Power (Mwe)","Cogeneration from Bagasse",2000.0
+"Off Grid/Distributed Renewable Power (Mwe)","Solar Off grid Application",1000.0
+"Off Grid/Distributed Renewable Power (Mwe)","Weaste to energy",200.0
+"Off Grid/Distributed Renewable Power (Mwe)","Bio Gas Based Decentralised Power",50.0
+"Off Grid/Distributed Renewable Power (Mwe)","Other ( Bio Mass Gasifier,Micro Hydel)",150.0
+"Reneweable for rural application (Cooking)","Biogass Plants ( Million)",0.7
+"Reneweable for rural application (Cooking)","National Bio Mass Cook Stoves Programme (Million)",3.5
+"Reneweable for rural application (Cooking)","Solar Cookers (Box Type+Dish Type)",3.5
+"Reneweable for rural application (Cooking)","Solar Cooking In School for mid day scheme (Schools in Lakhs",5.0
+"Renewable Energy for Urban,Industrial and Commercial Application","Renewable Energy for Urban,Industrial and Commercial Application",6.0
+"Renewable Energy for Urban,Industrial and Commercial Application","Solar Air Heating System Sq Meter",50000.0
+"Renewable Energy for Urban,Industrial and Commercial Application","CST based system for community cooking (SqM)",40000.0
+"Renewable Energy for Urban,Industrial and Commercial Application","CST based system for air conditioning 125 system 30 TR",37000.0
+"Renewable Energy for Urban,Industrial and Commercial Application","CST based system for air conditioning 225 system 30 TR",53750.0
+"Solar Cities","New Solar Cities in addition to existing target of 60 cities and pending liabilities",15.0
+"Solar Cities","Model and pilot solar cities",25.0
+"Solar Cities","Green Townships",150.0
+"Solar Cities","Tourist/Religious/impo",100.0
+"Alternate Fuel Vehicles (in Numbers)","Alternate Fuel Vehicles (in Numbers)","2,75,000"
+"Power Generation from Hydrogen","Stationary Power Generation (KW)",400.0
+"Power Generation from Hydrogen","Hydrogen/H-CNG Station (nos)",10.0
+"Power Generation from Hydrogen","Demonstraion projects for Hydrogen/H/ CNG Vehicles",500.0
+"Power Generation from Fuel Cell","Power Generation from Fuel Cell",10.0
+"Power Generation from Fuel Cell","Stationary Power generation (KW)",2000.0
+"Power Generation from Fuel Cell","Fuel Cell Vehicles",100.0

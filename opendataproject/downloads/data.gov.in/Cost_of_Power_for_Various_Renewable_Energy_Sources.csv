@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The cost of renewable power as against various sources of renewable energy is given in this table. The cost of wind power is already quite competitive. Solar power is much more expensive but costs are coming down. This table provides the estimated initial capital cost and the estimated cost of ...", 
+ "file_name": "Cost_of_Power_for_Various_Renewable_Energy_Sources.xls", 
+ "title": "Download XLS for Cost of Power for Various Renewable Energy Sources", 
+ "url": "http://data.gov.in/sites/default/files/Cost_of_Power_for_Various_Renewable_Energy_Sources.xls"
+}
+-----
+"Source","Estimated initial capital cost (Rs. in crore/ MW)","Estimated cost of electricity generation (Rs./ kWh)"
+"Small Hydro Power","5.50-7.70","3.54-4.88"
+"Wind Power",5.75,"3.73-5.96"
+"Biomass Power ","4.0-4.45","5.12-5.83"
+"Bagasse Cogeneration",4.2,"4.61-5.73"
+"Solar Power","10.00-13.00","10.39-12.46"

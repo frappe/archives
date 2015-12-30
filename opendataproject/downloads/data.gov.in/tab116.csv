@@ -1,0 +1,68 @@
+-----
+{
+ "description": "The table shows the Net Availability of Cereals and Pulses in India (in Mn.tonnes). It gives details regarding net production, net imports and change in government stocks for the years 1960-61 to 2011-12. It also provides the Per capita Net Availability of Cereals and Pulses.\r", 
+ "file_name": "tab116.xls", 
+ "title": "Download XLS for Net Availability of Cereals and Pulses(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab116.xls"
+}
+-----
+"1.16 NET AVAILABILITY OF CEREALS AND PULSES","","","","","","","","",""
+"","","","","","","","Per capita net availability","",""
+"Year","Population","Cereals","","","","Pulses","per day (grams)","",""
+"","(million)","Net","Net","Change in","Net","Net","Cereals","Pulses","Total"
+"","","production","imports","Government","availability","availability","","",""
+"","","(million","(million","stocks","(Col. 3+4-5)","(million","","",""
+"","","tonnes)","tonnes)","(million","(million","tonnes)","","",""
+"","","","","tonnes)","tonnes)","","","",""
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0
+1961.0,442.4,60.9,3.5,"(-)0.2",64.6,11.1,399.7,69.0,468.7
+1971.0,551.3,84.5,2.0,"(+)2.6",84.0,10.3,417.6,51.2,468.8
+1972.0,563.9,82.3,"(-)0.5","(-)4.7",86.5,9.7,419.1,47.0,466.1
+1973.0,576.8,76.2,3.6,"(-)0.3",80.1,8.7,350.5,41.1,421.6
+1974.0,590.0,82.8,5.2,"(-)0.4",88.4,8.8,410.4,40.8,451.2
+1975.0,603.5,78.6,7.5,"(+)5.6",80.6,8.8,365.8,39.7,405.5
+1976.0,617.2,94.5,0.7,"(+)10.7",84.4,11.4,373.8,50.5,424.3
+1977.0,631.3,87.3,0.1,"(-)1.6",89.0,10.0,386.3,43.3,429.6
+1978.0,645.7,100.1,"(-)0.8","(-)0.3",99.6,10.7,422.5,45.5,468.0
+1979.0,660.3,104.8,"(-)0.3","(+)0.4",104.1,10.8,431.8,44.7,476.5
+1980.0,675.2,88.5,"(-)0.5","(-)5.8",93.8,7.6,379.5,30.9,410.4
+1981.0,688.5,104.1,0.5,"(-)0.2",104.8,9.4,417.3,37.5,454.8
+1982.0,703.8,106.6,1.6,"(+)1.3",106.8,10.1,415.6,39.2,454.8
+1983.0,718.9,103.0,4.1,"(+)2.7",104.4,10.4,397.8,39.5,437.3
+1984.0,734.5,122.0,2.4,"(+)7.1",117.4,11.3,437.8,41.9,479.7
+1985.0,750.4,116.9,"(-)0.3","(+)2.7",113.9,10.5,415.6,38.4,454.0
+1986.0,766.5,119.9,"(-)0.1","(-)1.6",121.5,12.3,434.2,43.9,478.1
+1987.0,782.7,115.2,"(-)0.4","(-)9.5",124.4,10.4,435.4,36.4,471.8
+1988.0,799.2,113.2,2.3,"(-)4.6",120.1,10.7,411.8,36.7,448.5
+1989.0,815.8,136.6,0.8,"(+)2.6",134.7,12.5,452.6,41.9,494.5
+1990.0,832.6,138.4,"...","(+)6.2",132.3,12.5,435.3,41.1,476.4
+1991.0,851.7,141.9,"(-)0.6","(-)4.4",145.7,12.9,468.5,41.6,510.1
+1992.0,867.8,136.8,"(-)0.7","(-)1.6",137.7,10.9,434.5,34.3,468.8
+1993.0,883.9,145.8,2.6,"(+)10.3",138.1,11.7,427.9,36.2,464.1
+1994.0,899.9,149.6,0.5,"(+)7.5",142.6,12.2,434.0,37.2,471.2
+1995.0,922.0,155.3,"(-)3.0","(-)1.7",154.0,12.7,457.6,37.8,495.4
+1996.0,941.6,147.1,"(-)3.5","(-)8.5",152.1,11.3,442.5,32.7,475.2
+1997.0,959.8,162.0,"(-)0.6","(-)1.8",163.2,13.0,466.0,37.1,503.1
+1998.0,978.1,156.9,"(-)2.9","(+)6.1",147.9,11.7,414.2,32.8,447.0
+1999.0,996.4,165.1,"(-)1.5","(+)7.5",156.1,13.3,429.2,36.5,465.7
+2000.0,1014.8,171.8,"(-)1.4","(+)13.9",156.6,11.7,422.7,31.8,454.4
+2001.0,1033.2,162.5,"(-)4.5","(+)12.3",145.6,11.3,386.2,30.0,416.2
+2002.0,1050.6,174.5,"(-)8.5","(-)9.9",175.9,13.6,458.7,35.4,494.1
+2003.0,1068.2,143.2,"(-)7.1","(-)23.2",159.3,11.3,408.5,29.1,437.6
+2004.0,1085.6,173.5,"(-)7.7","(-)3.3",169.1,14.2,426.9,35.8,462.7
+2005.0,1102.8,162.1,"(-)7.2","(-)2.4",157.3,12.7,390.9,31.5,422.4
+2006.0,1119.8,170.8,"(-)3.8","(-)1.8",168.8,13.3,412.8,32.5,445.3
+2007.0,1136.6,177.7,"(-)7.0","(+)1.7",169.0,14.7,407.4,35.5,442.8
+2008.0,1153.1,197.2,"(-)14.4","(+)17.0",165.9,17.6,394.2,41.8,436.0
+2009.0,1169.4,192.4,"(-)7.2","(+)11.5",173.7,15.8,407.0,37.0,444.0
+2010.0,1185.8,178.0,"(-)4.7","(-)0.5",173.8,15.3,401.7,35.4,437.1
+"2011(P)",1201.9,198.2,"(-)4.2","(+)8.3",185.8,17.3,423.5,39.4,462.9
+"","","","","","","","","",""
+"Sources : 1. Directorate of Economics & Statistics, Department of Agriculture & Cooperation.    2. Registrar General of India.","","","","","","","","",""
+"... Negligible.          P - provisional","","","","","","","","",""
+"
+Notes : 1. Population figure relates to mid year.
+2. Production figures relate to the agricultural year July-June: 1961 figures correspond to the production of 1960-61 and so on for subsequent years.
+3. The net availability of foodgrains is estimated to be gross production [-] seed,feed and wastage ,[-] exports[+]imports,[+/-] change in stocks.                                             
+4.The net availability of foodgrains divided by the population estimates for a particular year indicate per capita availability of foodgrains in terms of kg/year. Net availability, thus worked out further divided by the number of days in a year i.e.,365 days gives us net availability of foodgrains in terms of grams/day.
+5.Figures in respect of per capita net availability given above are not strictly representative of actual level of consumption in the country especially as they do not take into account any change in stocks in possession of trader, producers and consumers.                                                                                                                                          6. For calculation of per capita net availability, the figure of net imports from 1981 to 1994 are based on imports and exports on Government of India account only. Net import from 1995 are, however, based on the total exports and imports (both Government as well as Private accounts)                                          ","","","","","","","","",""

@@ -1,0 +1,27 @@
+-----
+{
+ "description": "The details of population of India 2001, the housing and basic amenities for urban areas are shown in the table.", 
+ "file_name": "Population_Housing_And_Basic_Amenities_For_Urban_Areas_1.xls", 
+ "title": "Download XLS for Population, Housing And Basic Amenities For Urban Areas", 
+ "url": "http://data.gov.in/sites/default/files/Population_Housing_And_Basic_Amenities_For_Urban_Areas_1.xls"
+}
+-----
+"Category","Subject","Value"
+"Households with","Total population of India, 2001 in millions",1028.6
+"Households with","Urban population, 2001 in millions",286.1
+"Households with","Percentage share urban, 2001",27.8
+"Households with","Total urban housing stock, 2001 in millions ",52.0
+"Households with","Pucca houses (percentage)",79.16
+"Households with","Semi-pucca houses (percentage)",15.58
+"Households with","Kutcha houses (percentage)",5.27
+"Household with Tenure Status (Urban 2001)","Owned (percentage)",66.8
+"Household with Tenure Status (Urban 2001)","Rented (percentage)",28.5
+"Household with Tenure Status (Urban 2001)","Others (percentage)",4.7
+"Households having Access to (Urban 2001)","Safe drinking water (percentage)",90.01
+"Households having Access to (Urban 2001)","Electricity (percentage)",87.59
+"Households having Access to (Urban 2001)","Toilet (percentage)",73.72
+"Households having Access to (Urban 2001)","Drainage (percentage)",77.86
+"Households having Access to (Urban 2001)","Kitchen within the house (percentage)",75.96
+"Households having Access to (Urban 2001)","LPG for cooking (percentage)",4796.0
+"Households having Access to (Urban 2001)","Electricity for cooking (percentage)",0.31
+"Households having Access to (Urban 2001)","Biogas for cooking (percentage)",0.37

@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides the demand for coal during the Twelfth Plan (in million tones). It gives sector-wise details for the annual Plan Demand Projection in the Eleventh Plan period (2011-12) and the Domestic Production for Twelfth Plan (2016-17). ", 
+ "file_name": "Coal_Demand.xls", 
+ "title": "Download XLS for Coal Demand during the Twelfth Five Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Coal_Demand.xls"
+}
+-----
+"Sector","Annual Plan Demand Projection - Eleventh Plan (2011-12)","Twelfth Plan-2016-17 Domestic Production"
+"Coking Coal",46.67,67.2
+"Power Utility",412.0,"682.08 "
+"Power Captive","40.00 ","56.36 "
+"Cement","28.89 ","47.31 "
+"Sponge Iron","30.47 ",50.33
+"Others",81.97,"77.22 "
+"Total non-coking",593.33," 913.30"
+"Grand Total",640.0,980.5

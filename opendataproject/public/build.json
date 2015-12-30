@@ -1,0 +1,5 @@
+{
+	"public/js/all-web.min.js": [
+		"app/public/chart.min.js",
+	]
+}

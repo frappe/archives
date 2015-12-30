@@ -1,0 +1,16 @@
+-----
+{
+ "description": "The scheme of low cost sanitation also includes community toilets. HUDCO has reported that the number of units sanctioned, completed, and in progress is as shown in the table of the dataset.", 
+ "file_name": "Progress_Under_Low_Cost_Sanitation.xls", 
+ "title": "Download XLS for Progress Under Low Cost Sanitation", 
+ "url": "http://data.gov.in/sites/default/files/Progress_Under_Low_Cost_Sanitation.xls"
+}
+-----
+"State","Sanctioned ","Completed ","In Progress"
+"Andhra Pradesh",158.0,40.0,58.0
+"Karnataka ",117.0,0.0,0.0
+"Maharashtra ",2809.0,2663.0,120.0
+"Orissa",10.0,10.0,0.0
+"Tamil Nadu",372.0,269.0,15.0
+"Uttar Pradesh",100.0,0.0,0.0
+"West Bengal ",400.0,0.0,0.0

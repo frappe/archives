@@ -1,0 +1,30 @@
+-----
+{
+ "description": "The table shows the Impact of ICDS on immunisation Status of Children (12-23 months). It captures the impact of ICDS on immunization at the national level. It is found that the ICDS programme on immunisation has more in case of measles.", 
+ "file_name": "ICDS_Table8.9.xls", 
+ "title": "Download XLS for Impact of ICDS on immunisation Status of Children (12-23 months)", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table8.9.xls"
+}
+-----
+"State","BCG","Measles","All Vaccination*"
+"Andhra Pradesh",1.5,5.5,4.1
+"Assam",-9.5,2.1,-2.0
+"Bihar",0.7,5.0,4.4
+"Chhattisgarh",-1.0,1.7,1.7
+"Gujarat",-5.9,-21.2,7.6
+"Haryana",-13.7,1.1,-0.9
+"Himachal Pradesh",0.0,1.1,-14.5
+"Jammu and Kashmir",-3.0,-9.7,-18.4
+"Jharkhand",4.0,12.8,-2.0
+"Karnataka",6.0,-0.8,4.6
+"Kerala",0.0,-1.3,-10.0
+"Madhya Pradesh",-1.8,-0.6,4.6
+"Maharashtra",1.9,10.7,-1.1
+"Orissa",8.1,3.1,10.1
+"Punjab",3.5,11.3,9.3
+"Rajasthan",3.3,2.8,0.0
+"Tamil Nadu",0.3,3.1,3.9
+"Uttar Pradesh",3.5,2.7,4.5
+"Uttarakhand",-8.6,75.6,63.6
+"West Bengal",-3.0,8.3,5.6
+"All",1.4,5.5,0.7

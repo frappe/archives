@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides data related to the department of AYUSH scheme-wise Tenth Plan outlay and expenditure.", 
+ "file_name": "Scheme-wise_Tenth_Plan_Outlay_and_Expenditure_of_AYUSH.xls", 
+ "title": "Download XLS for Scheme-wise Tenth Plan Outlay and Expenditure of AYUSH", 
+ "url": "http://data.gov.in/sites/default/files/Scheme-wise_Tenth_Plan_Outlay_and_Expenditure_of_AYUSH.xls"
+}
+-----
+"Sr. No.","Name of Scheme","Tenth Plan Approved Outlay 2002-07 in Rs. Crore","Sum of Annual Outlay 2002-07 in Rs. Crore","Sum of Actual Expemnditure 2002-07 in Rs. Crore"
+1.0,"Development of Institutions",120.0,155.72,120.81
+2.0,"Hospitals and Dispensaries",59.0,243.85,310.15
+3.0,"Drugs Quality Control",45.4,43.56,56.67
+"A","Total CSS",224.4,443.13,487.63

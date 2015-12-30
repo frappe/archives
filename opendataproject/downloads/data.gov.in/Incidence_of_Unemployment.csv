@@ -1,0 +1,20 @@
+-----
+{
+ "description": "The table provides Incidence of Unemployment for 15 years and above age group, by level of education for the years 2004-05 and 2009-10 on Usual Principal Subsidiary Status basis (UPSS) in percentage terms. ", 
+ "file_name": "Incidence_of_Unemployment.xls", 
+ "title": "Download XLS for Incidence of Unemployment by level of education (in percentage)", 
+ "url": "http://data.gov.in/sites/default/files/Incidence_of_Unemployment.xls"
+}
+-----
+"Level of Education","Incidence of Unemployment for 15 years and above age group 2004-05","Incidence of Unemployment for 15 years and above age group 2009-10"
+"Not Literate",0.3,0.3
+"Literate Without Formal Schooling",1.2,0.3
+"Below Primary",1.2,0.7
+"Primary",1.4,1.2
+"Middle",2.7,2.1
+"Secondary",4.8,2.7
+"Higher Secondary",6.4,5.2
+"Diploma / Certificate",10.4,9.6
+"Graduate",8.8,6.9
+"Post Graduate & Above",8.1,6.7
+"All Level of Education",2.3,2.0

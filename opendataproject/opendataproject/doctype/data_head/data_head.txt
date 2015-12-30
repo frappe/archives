@@ -1,0 +1,40 @@
+[
+ {
+  "creation": "2013-09-19 12:44:09", 
+  "docstatus": 0, 
+  "modified": "2013-09-19 15:17:21", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "Prompt", 
+  "doctype": "DocType", 
+  "module": "OpenDataProject", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "name": "__common__", 
+  "parent": "Data Head", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Data Head"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "data_set", 
+  "fieldtype": "Link", 
+  "label": "Data Set", 
+  "options": "Data Set"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "title", 
+  "fieldtype": "Small Text", 
+  "label": "Title"
+ }
+]

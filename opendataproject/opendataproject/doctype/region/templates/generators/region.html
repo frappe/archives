@@ -1,0 +1,22 @@
+{% extends base_template %}
+
+{% set title = name %}
+
+{% block content %}
+<h1>{{ name }}</h1>
+
+{% if region_type=="State" %}
+<div class="panel panel-default">
+	<div class="panel-heading"><h4 class="panel-title">Districts</h4></div>
+	<div class="panel-body">
+		<div class="row">
+			{% for d in districts %}
+			<div class="col-sm-4"><a href="{{ d }}">{{ d }}</a></div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+{% endif %}
+
+
+{% endblock %}

@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides details of percentage share of Overseas Hydrocarbon production for the years 2007\u201308, 2008\u201309, 2009\u201310, 2010\u201311, 2011\u201312", 
+ "file_name": "Share_of_Overseas_Hydrocarbon_Production.xls", 
+ "title": "Download XLS for Share of Overseas Hydrocarbon Production", 
+ "url": "http://data.gov.in/sites/default/files/Share_of_Overseas_Hydrocarbon_Production.xls"
+}
+-----
+"Year","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Total Domestic oil & gas(MMTOE)",66.53,66.35,81.01,89.9,89.85
+"Overseas production of OVL (MMTOE)",8.8,8.78,8.87,9.45,9.0
+"Overseas Prod as (%) of Domestic",13.23,13.23,10.95,10.51,10.02

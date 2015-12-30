@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at current prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "MizoramNSDPcurrent_1.csv", 
+ "title": "Download CSV for Mizoram Net State Domestic Product at factor cost at Current Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/MizoramNSDPcurrent_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","32723","33991","36323","47419","60269","70219","74509","82845"
+"Foresty and Logging","23551","23568","24302","25467","26736","28805","29493","30976"
+"Fishing","2631","2691","2780","1839","1843","2299","2972","3774"
+"Ag and Allied","58905","60250","63405","74725","88848","101323","106974","117595"
+"Mining and Quarrying","669","501","887","1375","1915","902","521","272"
+"Sub total of primary","59574","60751","64292","76100","90763","102225","107495","117867"
+"Manufacturing","2632","2612","3316","4396","4226","4015","5249","5609"
+"Registered","571","824","582","676","548","672","1150","1282"
+"Unregistered","2061","1788","2734","3720","3678","3343","4099","4327"
+"Construction","27780","40875","43140","49770","69909","74240","101903","123031"
+"Electricity, Gas and water Supply","5386","6374","6362","8005","6990","9289","5991","5546"
+"Sub total of secondary","35798","49861","52818","62171","81125","87544","113143","134186"
+"Industry","36467","50362","53705","63546","83040","88446","113664","134458"
+"Transport Storage and Communication","6525","7037","7965","9141","9994","10262","12377","13790"
+"Railways","15","15","22","33","20","23","23","25"
+"Transport by other means","5185","5464","6208","7238","8018","7964","9662","10606"
+"Storage","52","54","65","79","94","110","140","171"
+"Communication","1273","1504","1670","1791","1862","2165","2552","2988"
+"Trade, hotels and restaurants","25221","28226","32212","38227","44340","49999","57887","66141"
+"Banking and Insurance","7154","7561","8802","9954","11537","13331","14366","16031"
+"Real estate, ownership of dwelling and business","32772","38264","44711","52307","58568","66308","75004","84878"
+"Pubic Administration","39802","40408","44583","48050","64245","78948","95872","116159"
+"Other Services","33114","34319","39026","45103","54850","63097","74232","86280"
+"Sub total of tertiary","144588","155815","177299","202782","243534","281945","329738","383279"
+"State domestic product","239960","266427","294409","341053","415422","471714","550376","635332"
+
+"Figures are in Rs. Lakh"

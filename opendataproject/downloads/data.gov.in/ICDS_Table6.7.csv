@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the percentage of AWC having a source of drinking water according to distance. The table provides state-wise details regarding the AWCs equipped with drinking water within the premises, up to 50 M, greater than 50 meters distance.", 
+ "file_name": "ICDS_Table6.7.xls", 
+ "title": "Download XLS for Percentage of AWC having source of drinking water according to distance", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table6.7.xls"
+}
+-----
+"States/UTs ","Within premise","Up to 50 Metre","Lesser than 50 meter"
+"Andhra Pradesh",67.1,31.6,1.4
+"Assam",66.6,26.3,7.1
+"Bihar",37.2,52.6,10.2
+"Chhattisgarh",77.6,8.4,14.0
+"Gujarat",54.5,25.1,20.3
+"Haryana",65.8,6.2,28.0
+"Himachal Pradesh",77.4,12.5,10.1
+"Jammu and Kashmir",18.4,22.7,58.9
+"Jharkhand",62.8,26.9,10.3
+"Karnataka",55.3,41.7,3.0
+"Kerala",78.9,13.5,7.7
+"Madhya Pradesh",88.1,8.0,3.9
+"Maharashtra",57.9,33.7,8.4
+"Orissa",59.0,24.4,16.6
+"Punjab",57.1,37.7,5.2
+"Rajasthan",48.6,29.8,21.6
+"Tamil Nadu",70.9,27.2,1.9
+"Uttar Pradesh",75.5,22.5,2.0
+"Uttrakhand",61.7,38.3,0.0
+"West Bengal",74.0,19.2,6.8
+"Delhi",100.0,0.0,0.0
+"Chandigarh",100.0,0.0,0.0
+"Arunachal Pradesh",60.1,9.3,30.7
+"Manipur",80.0,20.0,0.0
+"Meghalaya",80.0,6.5,13.5
+"Mizoram",60.0,40.0,0.0
+"Nagaland",71.3,20.0,8.7
+"Tripura",28.3,70.0,1.6
+"Sikkim",100.0,0.0,0.0
+"Dadar & Nagar Haveli",100.0,0.0,0.0
+"Daman & Diu",100.0,0.0,0.0
+"Goa",40.0,20.0,40.0
+"Puducherry",100.0,0.0,0.0
+"Andaman & Nicobar Island",55.2,5.7,39.1
+"All India",64.8,26.4,8.8

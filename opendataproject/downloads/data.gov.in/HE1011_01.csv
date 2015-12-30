@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The table refers to the growth in number of universities and colleges and their enrollment for the years 2002 and 2007.", 
+ "file_name": "HE1011_01.xls", 
+ "title": "Download XLS for Growth of Higher Education System", 
+ "url": "http://data.gov.in/sites/default/files/HE1011_01.xls"
+}
+-----
+"No. of Institutions",2002.0,2007.0
+"Universities",201.0,378.0
+"Colleges",12342.0,18064.0
+"NAAC Accredited Universities",61.0,140.0
+"NAAC Accredited Colleges",198.0,3492.0
+"Enrolment (lakh)",75.0,140.0

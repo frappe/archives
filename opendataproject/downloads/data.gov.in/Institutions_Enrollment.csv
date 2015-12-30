@@ -1,0 +1,17 @@
+-----
+{
+ "description": "The table depicts the growth of higher education enrolment in open and distance learning programmes in the eleventh plan, over the years 2006-07 and 2011-12.", 
+ "file_name": "Institutions_Enrollment.xls", 
+ "title": "Download XLS for Growth of Enrolment in Open and Distance Learning (ODL) Programmes in the Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Institutions_Enrollment.xls"
+}
+-----
+"Institutions","Total Enrolment in 2006–2007
+(In Lakhs)","Total Enrolment in 2011–2012
+(In Lakhs)","Increase in Enrolment from 2007-08 to 2011-12 
+(In Lakhs)","Growth Rate in Enrolment from 2007-08 to 2011-12 
+(In Percentage)"
+"Indira Gandhi National Open University",4.68,6.97,2.29,8.3
+"State Open Universities (SOU)",7.77,10.8,3.03,6.8
+"Distance Education Institutions (DEI)",14.96,24.24,9.28,10.1
+"Total",27.41,42.01,14.6,8.9

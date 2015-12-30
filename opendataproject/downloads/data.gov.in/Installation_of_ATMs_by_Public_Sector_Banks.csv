@@ -1,0 +1,36 @@
+-----
+{
+ "description": "Data covers monthly progress of ATMs installation at branches of Public Sector Banks (PSBs) as per Budget announcement 2013-14. It shows actual progress of 26 PSBs for reporting month and cumulative progress upto reporting month, starting from April 2013.", 
+ "file_name": "Installation_of_ATMs_by_Public_Sector_Banks.xls", 
+ "title": "Download XLS for Month-wise Progress Report (till 31st May 2013) of ATMs Installation at Branches of Public Sector Banks", 
+ "url": "http://data.gov.in/sites/default/files/Installation_of_ATMs_by_Public_Sector_Banks.xls"
+}
+-----
+"S. No.","Banks","No. of Branches (as in March 2013)","No. of Branches with Onsite ATMs (as in March 2013)","No. of Branches without Onsite ATMs (as in March 2013)","No. of Onsite ATMs actually installed during May 2013","Cumulative No. of Onsite ATMs actually installed from 1st April 2013 to 31st May 2013"
+1.0,"Allahabad Bank",2716.0,298.0,2418.0,73.0,113.0
+2.0,"Andhra Bank",1826.0,533.0,1293.0,15.0,34.0
+3.0,"Bank of Baroda",4122.0,2317.0,1805.0,58.0,120.0
+4.0,"Bank of India",3949.0,1037.0,2912.0,69.0,170.0
+5.0,"Bank of Maharashtra",1690.0,565.0,1125.0,26.0,64.0
+6.0,"Canara Bank",3723.0,1998.0,1725.0,87.0,99.0
+7.0,"Central Bank of India",4293.0,1880.0,2413.0,104.0,156.0
+8.0,"Corporation Bank",1638.0,805.0,833.0,31.0,62.0
+9.0,"Dena Bank",1369.0,478.0,891.0,32.0,50.0
+10.0,"IDBI Bank",995.0,854.0,141.0,9.0,23.0
+11.0,"Indian Bank",2003.0,1074.0,929.0,17.0,44.0
+12.0,"Indian Overseas Bank",2852.0,1505.0,1347.0,26.0,50.0
+13.0,"OBC",2000.0,1087.0,913.0,60.0,74.0
+14.0,"Punjab & Sind Bank",1114.0,171.0,943.0,47.0,74.0
+15.0,"Punjab National Bank",5871.0,4141.0,1730.0,26.0,56.0
+16.0,"SBBJ",1006.0,489.0,517.0,9.0,9.0
+17.0,"SBH",1550.0,740.0,810.0,23.0,42.0
+18.0,"SBI",14752.0,10265.0,4487.0,279.0,671.0
+19.0,"SBM",780.0,525.0,255.0,6.0,16.0
+20.0,"SBP",1114.0,548.0,566.0,5.0,17.0
+21.0,"SBT",996.0,540.0,456.0,3.0,20.0
+22.0,"Syndicate Bank",2898.0,1085.0,1813.0,10.0,35.0
+23.0,"UCO Bank",2488.0,784.0,1704.0,62.0,116.0
+24.0,"Union Bank of India ",3470.0,2710.0,760.0,45.0,76.0
+25.0,"United Bank of India",1711.0,369.0,1342.0,21.0,36.0
+26.0,"Vijaya Bank",1414.0,874.0,540.0,15.0,24.0
+"Total","Total",72340.0,37672.0,34668.0,1158.0,2251.0

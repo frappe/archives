@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table gives an over view of growth projections for the Twelfth Five Year Plan (2012-17) for passenger and cargo traffic forecasts for Indian airports. The growth projections are given individually for passenger traffic and cargo seperately, for the years 2011 and 2017.", 
+ "file_name": "Growth_Projections_for_the_Twelfth_Five_Year_Plan_Passenger_and_Cargo_Traffic_Forecasts_for_Indian_Airports.xls", 
+ "title": "Download XLS for Growth Projections for the Twelfth Five Year Plan (2012-17): Passenger and Cargo Traffic Forecasts for Indian Airports", 
+ "url": "http://data.gov.in/sites/default/files/Growth_Projections_for_the_Twelfth_Five_Year_Plan_Passenger_and_Cargo_Traffic_Forecasts_for_Indian_Airports.xls"
+}
+-----
+"Year",2011.0,2017.0,"Average Annual Rate of Growth"
+"Passenger (Million)",0.0,0.0,0.0
+"(i) Domestic",106.0,209.0,12.0
+"(ii) International",38.0,60.0,8.0
+"Freight - Cargo (MMTPA)",0.0,0.0,0.0
+"(i) Domestic",0.9,1.7,12.0
+"(ii) International",1.5,2.7,10.0

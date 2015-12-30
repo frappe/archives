@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to the constraints. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.16.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to the constraints for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.16.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes according to the farmers holding size. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.3.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes according to the holding size for 2nd census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.3.csv"
+}
+-----
+State,Marginal (0-1 ha),Small (1-2 ha),Medium (2-10 ha),Big ( > 10 ha),Total
+ANDHRA PRADESH,2950,1525,2345,1229,8049
+ARUNACHAL PRADESH,584,507,668,198,1957
+ASSAM,8,140,779,418,1345
+BIHAR,10916,9325,7396,5123,32760
+GOA,2031,340,527,104,3002
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,77,134,268,26,505
+HIMACHAL PRADESH,245,176,267,7959,8647
+JAMMU & KASHMIR,5048,2242,1229,625,9144
+KARNATAKA,9715,8671,11144,2937,32467
+KERALA,2309,691,1126,654,4780
+MADHYA PRADESH,7344,8782,12736,7528,36390
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,0,0,0,0,0
+MEGHALAYA,7321,4432,1598,253,13604
+MIZORAM,2127,2282,361,4,4774
+NAGALAND,2645,3693,7068,651,14057
+ORISSA,1670,1916,3013,1153,7752
+PUNJAB,50,102,193,33,378
+RAJASTHAN,104,128,574,210,1016
+SIKKIM,0,0,0,235,235
+TAMIL NADU,26108,3211,3448,23577,56344
+TRIPURA,121,75,74,28,298
+UTTAR PRADESH,7695,2329,1613,383,12020
+WEST BENGAL,33367,14170,7365,1603,56505
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,0,0,1,0,1
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,363,449,461,19,1292
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,14580,1450,597,11,16638
+ALL INDIA,137378,66770,64851,54961,323960

@@ -1,0 +1,68 @@
+{% extends "app/templates/includes/base.html" %}
+
+{% block javascript %}
+	<script>
+		$(document).ready(function() {
+			$('[data-for-chart=1]').toggle(false);
+			$('[data-for-list=1]').toggle(false);
+			$('.navbar-brand').attr("href", "/#home");
+		});
+		
+	</script>
+{% endblock %}
+
+{% block content %}
+	<div class="container">
+		<h2 class="text-center">Visualize, Discuss and Rate Open Data</h2>
+		<div class="text-center" style="margin-top: 30px;"><iframe width="640px" height="400px" src="//www.youtube.com/embed/TllillPmkHc" frameborder="0" allowfullscreen></iframe></div>
+		<hr>
+		<div class="row"><div class="col-md-2"></div><div class="col-md-10">
+			<p>It uses 
+				<a href="https://github.com/mleibman/SlickGrid" target="_blank">SlickGrid</a>, 
+				<a href="http://chartjs.org/" target="_blank">Chartjs</a> and 
+				<a href="https://github.com/webnotes/wnframework" target="_blank">Webnotes Framework</a></p>
+
+			<p><a href="https://github.com/webnotes/opendataproject" target="_blank"><i class="icon-github"></i> View our code on Github</p></a>
+		</div></div>
+		
+		<!-- slickgrid, chartjs, wnframework -->
+		
+		<hr>
+		<div class="row"><div class="col-md-2"></div><div class="col-md-10"><h3>The Team</h3></div></div>
+		<br>
+		<div class="row" style="margin-bottom: 20px;">
+			<div class="col-md-2">
+				<div class="avatar avatar-large">
+					<img class="avatar" src="app/rushabh.gif">
+				</div>
+			</div>
+			<div class="col-md-10"><h4>Rushabh Mehta</h4>
+				<p>Rushabh designed the dataset browser and discussion engine</p>
+			</div>
+		</div>
+		
+		<div class="row" style="margin-bottom: 20px;">
+			<div class="col-md-2">
+				<div class="avatar avatar-large">
+					<img class="avatar" src="app/anand.jpg">
+				</div>
+			</div>
+			<div class="col-md-10"><h4>Anand Doshi</h4>
+				<p>Anand worked on the graphing engine</p>
+			</div>
+		</div>
+		
+		<div class="row" style="margin-bottom: 20px;">
+			<div class="col-md-2">
+				<div class="avatar avatar-large">
+					<img class="avatar" src="app/pratik.png">
+				</div>
+			</div>
+			<div class="col-md-10"><h4 itemprop="name">Pratik Vyas</h4>
+				<p>Pratik worked on backend issues and deployment</p>
+			</div>
+		</div>
+
+		
+	</div>
+{% endblock %}

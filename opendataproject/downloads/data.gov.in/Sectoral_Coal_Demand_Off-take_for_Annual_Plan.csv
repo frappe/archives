@@ -1,0 +1,24 @@
+-----
+{
+ "description": "This table (Annexure 14.2 to the base Table) provides Sectoral Coal Demand/Off-take for Annual Plan (2012\u201313). It gives category-wise and sector-wise details for the years 2006 to 2013 and projections for the year 2016-17. ", 
+ "file_name": "Sectoral_Coal_Demand_Off-take_for_Annual_Plan.xls", 
+ "title": "Download XLS for Sectoral Coal Demand/Off-take for Annual Plan (2012\u201313)", 
+ "url": "http://data.gov.in/sites/default/files/Sectoral_Coal_Demand_Off-take_for_Annual_Plan.xls"
+}
+-----
+"Category","Sector","2006-07 Actual","2007-08 Actual","2008-09 Actual","2009-10 Actual","2010-11 Actual","2011-12 BE","2011-12 (Anticipated)","2012-13 BE","2016-17"
+"Coking Coil","Steel/Coke Oven (indgenous)",17.37,16.99,16.58,15.92,16.8,17.23,16.05,22.0,31.7
+"Coking Coil","Import",17.88,22.03,21.08,23.47,23.2,29.44,30.62,30.0,35.5
+"Coking Coil","Sub-Total Coking:",35.17,39.02,37.66,39.39,40.0,46.67,46.62,52.3,67.2
+"Non Coking","Power Utilities (Gen. Req.)",307.92,332.4,362.08,380.13,405.0,460.0,412.0,512.0,682.08
+"Non Coking","Cement",19.74,21.27,20.09,20.8,25.98,28.89,28.89,30.24,47.31
+"Non Coking","Steel DRI",17.47,20.92,19.78,22.89,28.8,30.47,30.47,35.3,50.33
+"Non Coking","Fertilisers",2.96,2.94,3.09,2.63,85.0,90.0,81.97,100.0,77.22
+"Non Coking","LTC/Soft Coke*",51.49,57.5,72.54,77.18,"NA","NA","NA","NA","NA"
+"Non Coking","Cokeries/Coke oven (NLW)*","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Non Coking","BRK & Others","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Non Coking","Captive Power",28.13,29.31,32.94,38.47,40.0,40.0,40.0,43.0,56.36
+"Non Coking","Colly.Consumpt.",0.99,0.93,0.85,0.76,"NA","NA",0.73,"NA","NA"
+"Non Coking","Sub Total Non-Coking:",428.7,465.27,511.37,542.86,584.78,649.36,593.33,720.54,913.3
+"Coking and Non-Coking","Grand Total(I + II):including middlings",463.87,504.29,549.03,582.25,624.78,696.03,640.0,772.84,980.5
+"Coking and Non-Coking","Middlings",3.25,3.18,2.61,2.21,"NA","NA","NA","NA","NA"

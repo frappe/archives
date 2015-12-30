@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides health indices of various social groups like Infant Mortality Rate (IMR), Under-Five Mortality Rate (U5MR) and % Under Nutrition from National Health Policy (NHP), 2002.", 
+ "file_name": "Health_Indices_of_Various_Social_Groups_from_NHP_2002.xls", 
+ "title": "Download XLS for Health Indices of Various Social Groups from National Health Policy 2002", 
+ "url": "http://data.gov.in/sites/default/files/Health_Indices_of_Various_Social_Groups_from_NHP_2002.xls"
+}
+-----
+"Category","IMR","U5MR","%Under Nutrition"
+"SC",83.0,119.3,53.5
+"ST",84.2,126.6,55.9
+"Other disadvantages",76.0,103.1,47.3
+"Others",61.8,82.6,41.1
+"India",70.0,94.9,47.0

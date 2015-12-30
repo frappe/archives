@@ -1,0 +1,54 @@
+-----
+{
+ "description": "This table gives the State-wise Literacy Rates in India. It provides the Censuses figures (in per cent) since 1951. It is observed that there is a wide disparity in the literacy rates of various states of India, for instance, literacy rates in 2001 were 90.86% for Kerala and 47% for Bihar.", 
+ "file_name": "tab94.xls", 
+ "title": "Download XLS for State-wise Literacy Rates (1951-2001)(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab94.xls"
+}
+-----
+"","","","","","","","","A124 "
+"9.4 : STATE-WISE LITERACY RATES (1951-2011)","","","","","","","",""
+"(in per cent)","","","","","","","",""
+"Sl. No.","States/Union Territorries ",1951.0,1961.0,1971.0,1981.0,1991.0,2001.0,"2011 (P)"
+1.0,"Jammu & Kashmir","na",12.95,21.71,30.64,"na",55.52,68.74
+2.0,"Himachal Pradesh","na","na","na","na",63.86,76.48,83.78
+3.0,"Punjab","na","na",34.12,43.37,58.51,69.65,76.68
+4.0,"Chandigarh","na","na",70.43,74.8,77.81,81.94,86.43
+5.0,"Uttarakhand",18.93,18.05,33.26,46.06,57.75,71.62,79.63
+6.0,"Haryana","na","na",25.71,37.13,55.85,67.91,76.64
+7.0,"Delhi","na",61.95,65.08,71.94,75.29,81.67,86.34
+8.0,"Rajasthan",8.5,18.12,22.57,30.11,38.55,60.41,67.06
+9.0,"Uttar Pradesh",12.02,20.87,23.99,32.65,40.71,56.27,69.72
+10.0,"Bihar",13.49,21.95,23.17,32.32,37.49,47.0,63.82
+11.0,"Sikkim","na","na",17.74,34.05,56.94,68.81,82.2
+12.0,"Arunachal Pradesh","na",7.13,11.29,25.55,41.59,54.34,66.95
+13.0,"Nagaland",10.52,21.95,33.78,50.28,61.65,66.59,80.11
+14.0,"Manipur a",12.57,36.04,38.47,49.66,59.89,70.53,79.85
+15.0,"Mizoram",31.14,44.01,53.8,59.88,82.26,88.8,91.58
+16.0,"Tripura","na",20.24,30.98,50.1,60.44,73.19,87.75
+17.0,"Meghalaya","na",26.92,29.49,42.05,49.1,62.56,75.48
+18.0,"Assam",18.53,32.95,33.94,"na",52.89,63.25,73.18
+19.0,"West Bengal",24.61,34.46,38.86,48.65,57.7,68.64,77.08
+20.0,"Jharkhand",12.93,21.14,23.87,35.03,41.39,53.56,67.63
+21.0,"Odisha",15.8,21.66,26.18,33.62,49.09,63.08,73.45
+22.0,"Chhattisgarh",9.41,18.14,24.08,32.63,42.91,64.66,71.04
+23.0,"Madhya Pradesh",13.16,21.41,27.27,38.63,44.67,63.74,70.63
+24.0,"Gujarat",21.82,31.47,36.95,44.92,61.29,69.14,79.31
+25.0,"Daman & Diu","na","na","na","na",71.2,78.18,87.07
+26.0,"Dadra & Nagar Haveli","na","na",18.13,32.9,40.71,57.63,77.65
+27.0,"Maharashtra",27.91,35.08,45.77,57.24,64.87,76.88,82.91
+28.0,"Andhra Pradesh","na",21.19,24.57,35.66,44.08,60.47,67.66
+29.0,"Karnataka","na",29.8,36.83,46.21,56.04,66.64,75.6
+30.0,"Goa",23.48,35.41,51.96,65.71,75.51,82.01,87.4
+31.0,"Lakshadweep",15.23,27.15,51.76,68.42,81.78,86.66,92.28
+32.0,"Kerala",47.18,55.08,69.75,78.85,89.81,90.86,93.91
+33.0,"Tamil Nadu","na",36.39,45.4,54.39,62.66,73.45,80.33
+33.0,"Puducherry","na",43.65,53.38,65.14,74.74,81.24,86.55
+35.0,"Andaman & Nicobar Islands",30.3,40.07,51.15,63.19,73.02,81.3,86.27
+"","ALL INDIA a",18.33,28.3,34.45,43.57,52.21,64.84,74.04
+"Source: Office of the Registrar General, India. Ministry of Home Affairs.","","","","","","","",""
+"a: India and Manipur figures exclude those of the three sub-divisions viz. Mao Maram, Paomata and Purul of Senapati district of Manipur","","","","","","","",""
+"as census results of 2001 in these three sub-divisions were cancelled due to technical and administrative reasons.","","","","","","","",""
+"(P) Provisional","","","","","","","",""
+"Note: 1. Literacy rates for 1951, 1961 and 1971 Censuses relate to population aged five years and above. The rates for the 1981, 1991, 2001 and 2011 Censuses relate to the population aged seven years and above. The literacy rate for 1951 in case of West Bengal relates to total population including 0-4 age group. Literacy rate for 1951 in respect of Chhatisgarh, Madhya Pradesh and Manipur are based on sample population","","","","","","","",""
+"2. na - Not available","","","","","","","",""

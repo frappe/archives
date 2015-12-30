@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The percentage of BPL population in the urban areas in India has declined from 32.4% in 1993\u201394 to 25.7% in 2004\u201305 (based on uniform recall period). The NSSO 61st Round shows that urban poverty has registered a decline in percentage terms; however, it has increased in absolute terms by 4.4 ...", 
+ "file_name": "Poverty_Estimates.xls", 
+ "title": "Download XLS for Comparison Of Poverty Estimates Based On Uniform Recall Period", 
+ "url": "http://data.gov.in/sites/default/files/Poverty_Estimates.xls"
+}
+-----
+"Category","1993–94 (Percentage of the Total Population)","2004–05 (Percentage of the Total Population)"
+"Rural ",37.3,28.3
+"Urban",32.4,25.7
+"Total",36.0,27.5

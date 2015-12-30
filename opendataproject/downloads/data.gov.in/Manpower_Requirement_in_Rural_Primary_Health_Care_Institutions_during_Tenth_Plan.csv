@@ -1,0 +1,29 @@
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells in The command of major/medium projects and average pumping hours. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.11.csv", 
+ "title": "Download CSV for Village wise Dugwells in the command of major/medium projects and average pumping hours for 2nd census of minor irrigation schemes(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.11.csv"
+}
+-----
+-----
+{
+ "description": "This table provides data related to manpower requirement in rural primary health care institutions during Tenth Plan.", 
+ "file_name": "Manpower_Requirement_in_Rural_Primary_Health_Care_Institutions_during_Tenth_Plan.xls", 
+ "title": "Download XLS for Manpower Requirement in Rural Primary Health Care Institutions during Tenth Plan", 
+ "url": "http://data.gov.in/sites/default/files/Manpower_Requirement_in_Rural_Primary_Health_Care_Institutions_during_Tenth_Plan.xls"
+}
+-----
+"Category of Manpower ","Requirement for Census 1991 ","In position as on 30.06.2000 ","Number sanctioned","Gap (2-3)"
+"Specialists (4/CHC)",22348.0,3741.0,6579.0,18607.0
+"Doctors at PHCs (1/PHC)       ",22349.0,25506.0,29702.0,3157.0
+"Block Extension Educator/Health Educator (1/PHC)",22349.0,5508.0,6534.0,16841.0
+"Pharmacist (1/CHC+1/PHC)",27936.0,21077.0,22871.0,6859.0
+"Lab. Technician (1/CHC+1/PHC)",27936.0,12709.0,15865.0,15227.0
+"X-ray Technician/Radiographer (1/CHC)",5587.0,1768.0,2137.0,3819.0
+"Nurse Midwife (7/CHC+1/PHC)",61458.0,17673.0,22672.0,43785.0
+"Health Assistant (M) (1/PHC)",22349.0,22265.0,26427.0,84.0
+"Health Assistant (F) (1/PHC)",22349.0,19426.0,22479.0,2923.0
+"Health Worker (M) (1/SC)",134108.0,73327.0,87504.0,60781.0
+"Health Worker (F)  (1/SC+1/PHC)",156457.0,134086.0,144012.0,22371.0
+"TOTAL ",525226.0,337086.0,386782.0,191297.0

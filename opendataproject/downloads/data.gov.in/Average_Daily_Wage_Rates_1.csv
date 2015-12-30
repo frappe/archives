@@ -1,0 +1,25 @@
+-----
+{
+ "description": "This data provides details of state-wise average daily wage for male agriculture labor during the month of December from 2008 to 2009 (Twelfth Five Year Plan document) as percentage increase over the previous years. Based on data, as a result of MGNREGA, there is a sharp increase in the average ...", 
+ "file_name": "Average_Daily_Wage_Rates_1.xls", 
+ "title": "Download XLS for Average Daily Wage Rates For Male Agricultural Labor During the Month of December From 2008 To 2010", 
+ "url": "http://data.gov.in/sites/default/files/Average_Daily_Wage_Rates_1.xls"
+}
+-----
+"State","2008 (Dec. end)","2009 (Dec. end)","2010 (Dec. end)","Percentage Increase Dec 09/Dec 08","Percentage Increase Dec 10/ Dec 09"
+"Andhra Pradesh",98.31,137.95,176.29,40.32,27.79
+"Assam",81.19,96.4,114.1,18.73,18.36
+"Bihar",71.42,86.55,101.85,21.18,17.68
+"Gujarat",78.72,82.76,91.36,5.13,10.39
+"Haryana",132.64,168.22,195.02,26.82,15.93
+"Himachal Pradesh",164.72,180.42,195.22,9.53,8.2
+"Karnataka",72.9,87.54,111.76,20.08,27.67
+"Kerala",220.27,250.79,319.13,13.86,27.25
+"Madhya Pradesh",61.33,69.79,84.43,13.79,20.98
+"Maharashtra",82.61,95.1,119.36,15.12,25.51
+"Orissa",68.05,86.7,123.96,27.41,42.98
+"Punjab",130.63,133.49,176.21,2.19,32.0
+"Rajasthan",109.84,113.65,145.69,3.47,28.19
+"Tamil Nadu",113.28,137.98,174.08,21.8,26.16
+"Uttar Pradesh",81.14,94.89,116.53,16.95,22.81
+"West Bengal",87.4,99.94,118.47,14.35,18.54

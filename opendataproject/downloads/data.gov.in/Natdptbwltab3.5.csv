@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells by status . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.5.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells by Status for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.5.csv"
+}
+-----
+"State","Tubewells in use","Tubewell not in use - Temporary","Tubewells not in use - Dried up","Tubewell not in use - Destroyed","Tubewells not in use - Others","Total - Not in use","Grand Total (Not in use + In use)"
+"ANDHRA PRADESH",29839,992,200,147,38,1377,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA,NA
+"ASSAM",387,190,2,7,6,205,592
+"BIHAR",4398,1111,228,367,336,2042,6440
+"GOA",12,7,0,0,0,7,19
+"GUJARAT",NA,NA,NA,NA,NA,NA,NA
+"HARYANA",6377,22,0,1,14,37,6414
+"HIMACHAL PRADESH",229,0,0,0,1,1,230
+"JAMMU & KASHMIR",97,0,0,0,0,0,97
+"KARNATAKA",144393,2065,1392,2130,602,6189,150582
+"KERALA",193,1,4,0,0,5,198
+"MADHYA PRADESH",23014,336,188,61,852,1437,24451
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA,NA
+"MEGHALAYA",6,0,0,0,1,1,7
+"MIZORAM",NA,NA,NA,NA,NA,NA,NA
+"NAGALAND",2,1,0,0,0,1,3
+"ORISSA",1866,618,117,197,113,1045,2911
+"PUNJAB",2233,24,17,1,2,44,2277
+"RAJASTHAN",11726,677,79,18,50,824,12550
+"SIKKIM",NA,NA,NA,NA,NA,NA,NA
+"TAMIL NADU",29249,1385,763,931,638,3717,32966
+"TRIPURA",119,3,6,1,2,12,131
+"UTTAR PRADESH",11052,161,50,43,319,573,11625
+"WEST BENGAL",3509,411,34,27,58,530,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA,NA
+"DELHI",686,3,0,1,1,5,691
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA,NA
+"PONDICHERRY",412,4,1,1,0,6,418
+"ALL INDIA",269799,8011,3081,3933,3033,18058,287857

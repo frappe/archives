@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of shallow tubewells according to average length of water conveyance channel. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Stateshtbwl2.12.csv", 
+ "title": "Download CSV for Statewise Distribution of Shallow Tubewells according to average length of water conveyance channel for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Stateshtbwl2.12.csv"
+}
+-----
+State,Total Number of Tubewells, Avg length of Pucca Channel,Avg length of Kuccha Channel,Avg length of Under gr. Channel,Avg length of Total
+ANDHRA PRADESH,317197,4,64,24,92
+ARUNACHAL PRADESH,0,0,0,0,0
+ASSAM,27072,1,73,0,74
+BIHAR,589519,2,112,2,116
+GOA,28,25,31,54,110
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,494294,18,151,6,175
+HIMACHAL PRADESH,1624,80,160,81,321
+JAMMU & KASHMIR,1313,46,168,0,214
+KARNATAKA,79596,43,46,34,123
+KERALA,2364,39,116,86,241
+MADHYA PRADESH,121504,5,65,42,112
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,36,2,19,0,21
+MEGHALAYA,110,0,263,0,263
+MIZORAM,0,0,0,0,0
+NAGALAND,6,20,2,0,22
+ORISSA,18095,16,63,13,92
+PUNJAB,944209,7,257,5,269
+RAJASTHAN,63099,30,116,27,173
+SIKKIM,0,0,0,0,0
+TAMIL NADU,76321,19,33,5,57
+TRIPURA,136,4,144,2,150
+UTTAR PRADESH,1982566,4,107,1,112
+WEST BENGAL,504638,2,119,2,123
+ANDAMAN & NICOBARS,0,0,0,0,0
+CHANDIGARH,0,0,0,0,0
+DADRA & NAGAR HAVELI,0,0,0,0,0
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,9020,10,160,3,173
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,3895,43,191,9,243
+All India,5236642,420,2460,396,3276

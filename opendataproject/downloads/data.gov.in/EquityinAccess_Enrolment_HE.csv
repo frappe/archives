@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This dataset provides state-wise and district-wise details on release of funds (from centre share) upto 31st March, 2013.", 
+ "file_name": "District-wise_Release_of_Funds_From_Centre_Share_Upto_31st_Mar13.xls", 
+ "title": "Download XLS for District-wise Release of Funds From Centre Share Upto 31st March 2013", 
+ "url": "http://data.gov.in/sites/default/files/District-wise_Release_of_Funds_From_Centre_Share_Upto_31st_Mar13.xls"
+}
+-----
+-----
+{
+ "description": "This table provides details on gender-wise total enrolment in higher education for the period 2007-08 to 2009-10.", 
+ "file_name": "EquityinAccess_Enrolment_HE.xls", 
+ "title": "Download XLS for Gender Wise Total Enrolment In Higher Education", 
+ "url": "http://data.gov.in/sites/default/files/EquityinAccess_Enrolment_HE.xls"
+}
+-----
+"Year","Enrolment in Higher Education - Boys","Enrolment in Higher Education - Girls","Enrolment in Higher Education - Total"
+"2007-08",10573890.0,6637326.0,17211216.0
+"2008-09",11443837.0,7205086.0,18648923.0
+"2009-10",12444600.0,8296140.0,20740740.0

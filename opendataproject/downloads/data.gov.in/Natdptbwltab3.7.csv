@@ -1,0 +1,122 @@
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to the farmers holding size. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.3.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells according to the holding size for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.3.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise dugwells according to water distribution system. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.8.csv", 
+ "title": "Download CSV for Village wise Dugwells according to water distribution system for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.8.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to source of finance. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.7.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells according to Finance source for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.7.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells by type. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.5.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells by its type for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.5.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to social status. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.4.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells according to social status for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.4.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to water lifting device. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.9.csv", 
+ "title": "Download CSV for Village wise Dugwells according to water lifting device for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.9.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells by status. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.6.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells by its status for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.6.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to block wise distribution of dugwells according to constraints. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "blckdgwltab1.16.csv", 
+ "title": "Download CSV for Block wise Dugwells according to the constraints for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/blckdgwltab1.16.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to construction over the years. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.1.csv", 
+ "title": "Download CSV for Village wise Construction of Dugwells over the years for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.1.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to ownership. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.2.csv", 
+ "title": "Download CSV for Village wise Distribution of Dugwells according to ownership for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.2.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to statewise Deep Tubewells according to water distribution system . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.7.csv", 
+ "title": "Download CSV for Statewise Deep Tubewells according to Water Distribution System for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.7.csv"
+}
+-----
+"State","Sprinkler","Drip Irrigation","Open channel","Under ground channel","Others","Total"
+"ANDHRA PRADESH",210,160,27692,2113,1041,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA
+"ASSAM",2,0,289,288,13,592
+"BIHAR",603,58,4849,726,204,6440
+"GOA",4,0,14,0,1,19
+"GUJARAT",NA,NA,NA,NA,NA,NA
+"HARYANA",133,24,5862,391,4,6414
+"HIMACHAL PRADESH",12,1,79,138,0,230
+"JAMMU & KASHMIR",0,0,97,0,0,97
+"KARNATAKA",5913,1980,81988,44506,16195,150582
+"KERALA",2,7,32,47,110,198
+"MADHYA PRADESH",2222,206,14872,5629,1522,24451
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA
+"MEGHALAYA",0,0,7,0,0,7
+"MIZORAM",NA,NA,NA,NA,NA,NA
+"NAGALAND",0,0,0,0,3,3
+"ORISSA",66,1,2247,468,129,2911
+"PUNJAB",63,13,1832,358,11,2277
+"RAJASTHAN",653,72,10419,1156,250,12550
+"SIKKIM",NA,NA,NA,NA,NA,NA
+"TAMIL NADU",2826,322,25954,1405,2459,32966
+"TRIPURA",1,0,17,101,12,131
+"UTTAR PRADESH",396,100,8208,2670,251,11625
+"WEST BENGAL",61,57,268,3643,10,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA
+"DELHI",36,2,348,287,18,691
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA
+"PONDICHERRY",0,0,355,46,17,418
+"ALL INDIA",13203,3003,185429,63972,22250,287857

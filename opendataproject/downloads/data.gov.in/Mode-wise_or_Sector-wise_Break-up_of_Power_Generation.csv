@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table provides mode-wise / sector-wise break-up of power generation (in Billion Units).", 
+ "file_name": "Mode-wise_or_Sector-wise_Break-up_of_Power_Generation.xls", 
+ "title": "Download XLS for Mode-wise / Sector-wise Break-up of Power Generation", 
+ "url": "http://data.gov.in/sites/default/files/Mode-wise_or_Sector-wise_Break-up_of_Power_Generation.xls"
+}
+-----
+"Type","Central","State","Private","Total"
+"Hydro (Incl. Bhutan Import)",55.97,71.02,8.81,135.8
+"Bhutan Import",5.28,0.0,0.0,5.28
+"Thermal",281.04,296.93,130.84,708.81
+"Coal",225.18,271.98,87.63,584.79
+"Lignite",18.76,2.88,6.45,28.09
+"Gas",37.09,21.27,35.1,93.46
+"Nuclear",32.29,0.0,0.0,32.29
+"Total (Incl. Bhutan Import)",369.28,367.95,139.65,876.88
+"Bhutan Import",5.28,0.0,0.0,5.28

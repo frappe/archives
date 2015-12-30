@@ -1,0 +1,40 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrNagaland.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Nagaland at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrNagaland.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrNagaland.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Nagaland at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrNagaland.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",160164,166054,167695,168060,197853,218725,232790,247780,263735
+"Forestry & Logging",40402,42992,45150,47918,54572,57455,60712,62807,65319
+"Fishing",2346,2647,2877,2995,4619,5107,5463,5815,6593
+"Agriculture & Allied",202912,211693,215722,218973,257044,281287,298965,316402,335647
+"Mining & Quarrying",712,789,920,1038,1185,1361,1581,1771,1983
+"Manufacturing",9841,12222,14298,16589,16654,27809,30871,33400,36619
+"Manufacturing - Registered",2118,3642,3866,3925,3556,14245,15679,17296,18948
+"Manufacturing - Unregistered",7723,8580,10432,12664,13098,13564,15192,16104,17671
+"Construction",56724,69097,81908,89888,126870,128387,139457,151591,164781
+"Electricity, Gas and Water supply",7953,8603,9866,12214,16789,19053,20053,21858,25983
+"Industry",75230,90711,106992,119729,161498,176610,191962,208620,229366
+"Transport, Storage & Communication",57734,63320,72758,85659,76844,82676,86788,92669,99424
+"Railways",327,341,464,617,564,805,855,908,964
+"Transport by other means",47956,50540,55707,60747,61433,63821,64141,65450,67413
+"Storage",81,85,103,123,148,179,214,257,303
+"Communication",9370,12354,16484,24172,14699,17871,21578,26054,30744
+"Trade, Hotels and restaurants",19627,22093,23633,29825,36913,40143,51383,59604,67556
+"Banking & Insurance",8371,9383,12436,14689,15122,17988,25087,31467,36469
+"Real estate, Ownership of dwellings and Business services",105139,130410,149180,179853,190949,209838,218617,233920,251004
+"Public Administration",68980,77483,83516,89207,124595,157966,165488,181821,199766
+"Other services",45891,53675,61428,69560,80642,86169,93223,102712,112929
+"Services",305742,356364,402951,468793,525065,594780,640586,702193,767148
+"State Domestic Product",583884,658768,725665,807495,943607,1052677,1131513,1227215,1332161

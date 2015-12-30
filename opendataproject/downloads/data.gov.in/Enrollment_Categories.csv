@@ -1,0 +1,24 @@
+-----
+{
+ "description": "The Table illustrates the growth of higher education enrolment in the Eleventh Plan by institution type and degree/diploma type, over the years 2006-07 and 2011-12. The figures are expressed in lakhs as well as percentages. Note: Central institutions include Indian Institutes of Management even ...", 
+ "file_name": "Enrollment_Categories.xls", 
+ "title": "Download XLS for Growth Of Higher Education Enrolment By Institutions In XI Plan", 
+ "url": "http://data.gov.in/sites/default/files/Enrollment_Categories.xls"
+}
+-----
+"Category","Total Enrolment 
+in 2006–07 (in Lakhs)","Percentage Enrolment 
+in 2006-07 ","Total Enrolment 
+in 2011–12 (in Lakhs)","Percentage Enrolment 
+in 2011-12","Increase in Total Enrolment from 2007-08 to 2011-12 
+(in Lakhs)","Growth Rate in Enrolment 
+ from 2007-08 to 2011-12
+(in Percentage)"
+"Government Institutions",63.38,45.8,89.63,41.1,26.25,7.2
+"Central Institutions",3.1,2.2,5.63,2.6,2.53,12.7
+"State Institutions",60.28,43.6,84.0,38.5,23.72,6.9
+"Private Institutes",75.12,54.2,128.23,58.9,53.11,11.3
+"Degree Courses",123.54,89.2,184.84,84.8,61.3,8.4
+"Diploma Courses",14.96,10.8,33.02,15.2,18.06,10.8
+"Grand Total of Enrolment
+by Course ",138.5,100.0,217.86,100.0,79.36,19.2

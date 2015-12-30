@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The table states average debt per household (in Rs), debt asset ratio and incidence of indebtedness for Rural and Urban India separately category-wise (ST, SC, OBC, Others) ", 
+ "file_name": "RD06.csv", 
+ "title": "Download CSV for Incidence of Indebtedness by Social Group during Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/RD06.csv"
+}
+-----
+Indicators,Incidence of Indebtedness for Rural Schedule Tribe,Incidence of Indebtedness for Rural Schedule Caste,Incidence of Indebtedness for Rural Other Backward Caste,Incidence of Indebtedness for Rural Others,Incidence of Indebtedness for Rural - All,Incidence of Indebtedness for  Urban Schedule Tribe, Incidence of Indebtedness for  UrbanSchedule Caste,Incidence of Indebtedness for  Urban Other Backward Caste,Incidence of Indebtedness for  Urban Others,Incidence of Indebtedness for  Urban
+Average debt per household (Rs),3502,4641,8288,10437,7539,9233,7744,11200,13577,11771
+Debt asset ratio (%),2.30,3.70,3.10,2.40,2.80,3.80,4.20,3.40,2.40,2.80
+Incidence of Indebtedness,17.90,27.10,28.90,25.70,26.50,12.20,19.20,21.20,15.30,17.80

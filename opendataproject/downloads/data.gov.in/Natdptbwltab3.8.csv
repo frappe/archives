@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to water lifting device . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.8.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Water Lifting Device for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.8.csv"
+}
+-----
+"State","Submersible pumps","Turbine pumps","Others","Total"
+"ANDHRA PRADESH",30952,233,31,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA
+"ASSAM",474,62,56,592
+"BIHAR",3254,1549,1637,6440
+"GOA",16,0,3,19
+"GUJARAT",NA,NA,NA,NA
+"HARYANA",5727,621,66,6414
+"HIMACHAL PRADESH",196,13,21,230
+"JAMMU & KASHMIR",83,14,0,97
+"KARNATAKA",142904,1513,6165,150582
+"KERALA",78,15,105,198
+"MADHYA PRADESH",22698,649,1104,24451
+"MAHARASHTRA",NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA
+"MEGHALAYA",3,1,3,7
+"MIZORAM",NA,NA,NA,NA
+"NAGALAND",2,0,1,3
+"ORISSA",2711,73,127,2911
+"PUNJAB",1687,269,321,2277
+"RAJASTHAN",11956,495,99,12550
+"SIKKIM",NA,NA,NA,NA
+"TAMIL NADU",23246,4813,4907,32966
+"TRIPURA",119,10,2,131
+"UTTAR PRADESH",8621,2136,868,11625
+"WEST BENGAL",3311,638,90,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA
+"DELHI",691,0,0,691
+"LAKSHADWEEP",NA,NA,NA,NA
+"PONDICHERRY",415,0,3,418
+"ALL INDIA",259144,13104,15609,287857

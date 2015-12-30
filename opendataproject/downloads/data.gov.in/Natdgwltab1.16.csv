@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of dugwells according to constraints. The report has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natdgwltab1.16.csv", 
+ "title": "Download CSV for State wise Dugwells according to the constraints for 2nd census of minor irrigation schemes", 
+ "url": "http://data.gov.in/sites/default/files/Natdgwltab1.16.csv"
+}
+-----
+"State","No. of dugwells in use","No constraints in utilisation","Constraints in utilisation - Inadequate power supply","Constraints in utilisation - Mechanical break down","Constraints in utilisation - Less water discharge","Constraints in utilisation - Other reason","Total constraints in utilisation of irrigation potential created","Grand Total"
+"ANDHRA PRADESH",1018370,471138,43643,6555,440016,57018,547232,1018370
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA,0,0
+"ASSAM",28,0,5,3,3,17,28,28
+"BIHAR",354682,2892,21735,11834,156236,161985,351790,354682
+"GOA",3888,0,138,20,342,3388,3888,3888
+"GUJARAT",NA,NA,NA,NA,NA,NA,0,0
+"HARYANA",26252,0,5713,507,856,19176,26252,26252
+"HIMACHAL PRADESH",1703,1088,41,11,71,492,615,1703
+"JAMMU & KASHMIR",1403,0,0,0,0,0,0,0
+"KARNATAKA",271245,138622,61879,4460,53691,12593,132623,271245
+"KERALA",126536,0,3836,855,19253,102592,126536,126536
+"MADHYA PRADESH",1070280,307764,13142,4218,308131,437025,762516,1070280
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA,0,0
+"MANIPUR",NA,NA,NA,NA,NA,NA,0,0
+"MEGHALAYA",2,0,0,0,2,0,2,2
+"MIZORAM",403,403,0,0,0,0,0,403
+"NAGALAND",232,0,20,0,1,211,232,232
+"ORISSA",266403,43649,3488,858,34669,183739,222754,266403
+"PUNJAB",11511,0,7723,76,238,3474,11511,11511
+"RAJASTHAN",820032,692607,38014,4912,65254,19245,127425,820032
+"SIKKIM",NA,NA,NA,NA,NA,NA,0,0
+"TAMIL NADU",1137980,1427,36185,14713,466029,619626,1136553,1137980
+"TRIPURA",800,362,0,1,368,69,438,800
+"UTTAR PRADESH",121825,454,10876,3439,66186,40870,121371,121825
+"WEST BENGAL",49862,0,1690,390,15311,32471,49862,49862
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA,0,0
+"CHANDIGARH",NA,NA,NA,NA,NA,NA,0,0
+"DADRA & NAGAR HAVELI",409,242,5,0,85,77,167,409
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA,0,0
+"DELHI",NA,NA,NA,NA,NA,NA,0,0
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA,0,0
+"PONDICHERRY",191,191,0,0,0,0,0,191
+"ALL INDIA",5284037,1660839,248133,52852,1626742,1694068,3621795,5282634

@@ -1,0 +1,66 @@
+-----
+{
+ "description": "The table refers to village wise distribution of shallow tubewells according to major/medium projects and  average pumping hours . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villageshtbwl2.11.csv", 
+ "title": "Download CSV for Village wise Distribution of Shallow Tubewells according to Major/Medium Projects and  Average Pumping Hours for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villageshtbwl2.11.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of shallow tubewells according to the constraints. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villageshtbwl2.16.csv", 
+ "title": "Download CSV for Village wise Distribution of Shallow Tubewells according to the constraints for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villageshtbwl2.16.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of shallow tubewells according to average length of water conveyance channel . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villageshtbwl2.12.csv", 
+ "title": "Download CSV for Village wise Distribution of Shallow Tubewells according to average length of water conveyance channel for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villageshtbwl2.12.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to statewise distribution of shallow tubewells according to horse power of lifting device . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Stateshtbwl2.10.csv", 
+ "title": "Download CSV for Statewise Distribution of Shallow Tubewells according to Horse Power of Lifting Device for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Stateshtbwl2.10.csv"
+}
+-----
+State,Horse Power (0-2),Horse Power (2 - 4),Horse Power (4 - 6),Horse Power (6 -8),Horse Power (8 - 10),Horse Power (Above 10),Unspecified,Total
+ANDHRA PRADESH,1285,40244,243683,20048,8297,2357,1283,317197
+ARUNACHAL PRADESH,0,0,0,0,0,0,0,0
+ASSAM,9,346,26607,49,9,50,2,27072
+BIHAR,6772,23400,500724,49033,5235,1232,3123,589519
+GOA,7,15,3,2,1,0,0,28
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,5478,7765,137686,241959,77847,22535,1024,494294
+HIMACHAL PRADESH,39,168,460,605,191,155,6,1624
+JAMMU & KASHMIR,2,120,256,261,0,662,12,1313
+KARNATAKA,1885,9180,54563,10027,3096,432,413,79596
+KERALA,1904,224,123,22,12,22,57,2364
+MADHYA PRADESH,1326,21304,88095,5728,3615,599,837,121504
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,36,0,0,0,0,0,0,36
+MEGHALAYA,0,0,0,0,109,0,1,110
+MIZORAM,0,0,0,0,0,0,0,0
+NAGALAND,0,1,5,0,0,0,0,6
+ORISSA,1741,4673,9491,751,478,148,813,18095
+PUNJAB,12788,192461,414183,275237,22065,25557,1918,944209
+RAJASTHAN,3256,160,14774,40044,3261,1446,158,63099
+SIKKIM,0,0,0,0,0,0,0,0
+TAMIL NADU,1184,3330,37433,19837,4623,8335,1579,76321
+TRIPURA,2,24,29,0,2,0,79,136
+UTTAR PRADESH,11057,14289,228265,1286966,401451,38679,1859,1982566
+WEST BENGAL,678,11370,472472,11745,2915,0,5458,504638
+ANDAMAN & NICOBARS,0,0,0,0,0,0,0,0
+CHANDIGARH,0,0,0,0,0,0,0,0
+DADRA & NAGAR HAVELI,0,0,0,0,0,0,0,0
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,16,3894,4386,576,89,48,11,9020
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,1,0,948,1218,837,890,1,3895
+All India,49466,332968,2234186,1964108,534133,103147,18634,5236642

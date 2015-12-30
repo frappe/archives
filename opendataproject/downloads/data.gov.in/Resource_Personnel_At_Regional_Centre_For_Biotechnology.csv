@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This data indicates the number of resource personnel at Regional Centre for Biotechnology (RCB).", 
+ "file_name": "Resource_Personnel_At_Regional_Centre_For_Biotechnology.xls", 
+ "title": "Download XLS for Resource Personnel At Regional Centre For Biotechnology", 
+ "url": "http://data.gov.in/sites/default/files/Resource_Personnel_At_Regional_Centre_For_Biotechnology.xls"
+}
+-----
+"Sl. No.","Resource Personnel","Number"
+1.0,"Faculty",9.0
+2.0,"Young Investigator",9.0
+3.0,"Post Doctoral Fellow",3.0
+4.0,"Ph D Student",20.0
+5.0,"Administrative Staff",10.0
+6.0,"Consultant",3.0
+7.0,"Research Project Assistant",2.0
+8.0,"Research Trainee",15.0
+9.0,"Scientific Technical Assistant",6.0

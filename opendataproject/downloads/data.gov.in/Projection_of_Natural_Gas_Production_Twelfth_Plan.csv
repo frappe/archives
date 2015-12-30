@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides Projection of Natural gas production in Twelfth Five Year Plan (2012-17) in billion cubic metres (BCM).  ", 
+ "file_name": "Projection_of_Natural_Gas_Production_Twelfth_Plan.xls", 
+ "title": "Download XLS for Projection of Natural Gas Production in Twelfth Five Year Plan (2012-17) (BCM)", 
+ "url": "http://data.gov.in/sites/default/files/Projection_of_Natural_Gas_Production_Twelfth_Plan.xls"
+}
+-----
+"Category","2012-13","2013-14","2014-15","2015-16","2016-17","Total"
+"ONGC",25.266,25.472,26.669,28.215,38.676,144.298
+"OIL",3.3,3.8,4.0,4.27,4.45,19.82
+"Pvt./JV",23.71,32.38,39.4,40.43,41.46,177.38
+"Total",52.276,61.652,70.069,72.915,84.586,341.498
+"Total MMSCMD",143.22,168.91,191.97,199.77,231.74,187.12

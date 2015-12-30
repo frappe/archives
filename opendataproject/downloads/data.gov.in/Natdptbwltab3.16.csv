@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to the constraints. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.16.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to the constraints for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.16.csv"
+}
+-----
+"State","Total No. of Tubewells in use","No. of Tubewells with no constraints","Constraints in utilisation of irrigation potential created - Inadequate power supply","Constraints in utilisation of irrigation potential created - Mechanical break down","Constraints in utilisation of irrigation potential created - Less water discharge","Constraints in utilisation of irrigation potential created - Other reason","Total - Constraints in utilisation","Grand Total"
+"ANDHRA PRADESH",29839,16596,3732,466,8020,1025,13243,29839
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA,NA,NA
+"ASSAM",387,0,67,33,10,277,387,387
+"BIHAR",4398,33,1171,777,156,2261,4365,4398
+"GOA",12,0,0,0,7,5,12,12
+"GUJARAT",NA,NA,NA,NA,NA,NA,NA,NA
+"HARYANA",6377,0,1848,15,35,4479,6377,6377
+"HIMACHAL PRADESH",229,153,5,3,32,36,76,229
+"JAMMU & KASHMIR",97,0,0,0,0,3,3,3
+"KARNATAKA",144393,60819,59670,2226,15311,6367,83574,144393
+"KERALA",193,0,8,6,16,163,193,193
+"MADHYA PRADESH",23014,9585,286,73,2490,10580,13429,23014
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA,NA,NA
+"MEGHALAYA",6,0,0,0,2,4,6,6
+"MIZORAM",NA,NA,NA,NA,NA,NA,NA,NA
+"NAGALAND",2,0,0,0,0,2,2,2
+"ORISSA",1866,13,589,157,241,866,1853,1866
+"PUNJAB",2233,0,1404,41,11,777,2233,2233
+"RAJASTHAN",11726,6318,2704,24,2308,372,5408,11726
+"SIKKIM",NA,NA,NA,NA,NA,NA,NA,NA
+"TAMIL NADU",29249,788,1596,421,3655,22789,28461,29249
+"TRIPURA",119,21,30,14,11,43,98,119
+"UTTAR PRADESH",11052,776,4164,473,324,5315,10276,11052
+"WEST BENGAL",3509,0,638,167,387,2317,3509,3509
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA,NA,NA
+"DELHI",686,605,15,1,2,63,81,686
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA,NA,NA
+"PONDICHERRY",412,412,0,0,0,0,0,412
+"ALL INDIA",269799,96119,77927,4897,33018,57744,173586,269705

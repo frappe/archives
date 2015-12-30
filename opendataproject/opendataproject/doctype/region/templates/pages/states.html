@@ -1,0 +1,13 @@
+{% extends base_template %}
+
+{% set title = "States of India" %}
+
+{% block content %}
+<h1>States of India</h1>
+
+<div class="list-group">
+	{% for s in states %}
+	<a href="{{ s }}" class="list-group-item">{{ s }}</a>
+	{% endfor %}
+</div>
+{% endblock %}

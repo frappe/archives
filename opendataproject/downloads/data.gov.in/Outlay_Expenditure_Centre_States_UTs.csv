@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides Outlay/Expenditure for Centre, States and UTs (in Rs. Crore). It provides sector-wise percentage utilization and actuals for the years 2007-2012. ", 
+ "file_name": "Outlay_Expenditure_Centre_States_UTs.xls", 
+ "title": "Download XLS for Outlay/Expenditure: Centre, States and UTs in Energy Sector", 
+ "url": "http://data.gov.in/sites/default/files/Outlay_Expenditure_Centre_States_UTs.xls"
+}
+-----
+"Sector","Eleventh Plan Approved Outlay","2007-08 (Actual)","2008-09 (Actual)","2009-10 (Actual)","2010-11 (RE)","2011-12 (RE)","Eleventh Plan Likely Expenditure","% Utilization"
+"States and UTs",225385.0,27243.0,31577.0,34059.0,43749.0,48068.0,184696.0,81.95
+"Central Sector",347263.0,29596.0,42242.0,44528.0,46746.0,70390.0,233501.0,67.24
+"All India",572648.0,56839.0,73819.0,78587.0,90495.0,118458.0,418197.0,73.03

@@ -1,0 +1,42 @@
+-----
+{
+ "description": "This dataset provides committee-wise reports presented to 14 and 15 Lok Sabha (as on 24th July 2013). It gives name of the committee, type of the committee, report number, report title, date of presentation and link to open the PDF file of the report.", 
+ "file_name": "14_and_15_Lok_Sabha_Committee_Reports_as_on_24th_July_2013.xls", 
+ "title": "Download XLS for Committee-wise Reports Presented to 14 and 15 Lok Sabha as on 24th July 2013", 
+ "url": "http://data.gov.in/sites/default/files/14_and_15_Lok_Sabha_Committee_Reports_as_on_24th_July_2013.xls"
+}
+-----
+-----
+{
+ "description": "The table refers to the state's net domestic product at constant prices for the base year 1993-94. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "SikkimNSDPconst.csv", 
+ "title": "Download CSV for Sikkim Net State Domestic Product at factor cost at Constant Prices for the base year 1993-94", 
+ "url": "http://data.gov.in/sites/default/files/SikkimNSDPconst.csv"
+}
+-----
+"Sector","1993-1994","1994-1995","1995-1996","1996-1997","1997-1998","1998-1999","1999-2000","2000-2001","2001-2002","2002-2003","2003-2004","2004-2005","2005-2006"
+"Agriculture","12764","12745","13798","14290","14585","10889","11140","11751","12078","14201","15140","15545","16515"
+"Foresty and Logging","765","765","768","791","827","862","908","974","1001","1007","1027","1057","1093"
+"Fishing","23","23","35","35","35","35","35","35","35","37","37","37","38"
+"Mining and Quarrying","61","69","71","77","68","83","63","81","40","16","19","21","21"
+"Sub total of primary","13613","13602","14672","15193","15515","11869","12146","12841","13154","15261","16223","16660","17667"
+"Manufacturing","2066","1973","2077","2181","2181","2192","2187","2197","2201","2193","2196","2205","2213"
+"Registered","831","773","812","843","854","865","876","876","866","867","865","865","866"
+"Unregistered","1235","1200","1265","1338","1327","1327","1311","1321","1335","1326","1331","1340","1347"
+"Construction","4950","5057","6036","6598","6750","6742","7541","7594","9629","10488","12300","14430","16198"
+"Electricity, Gas and water Supply","94","74","44","106","155","305","684","3037","3225","2907","2614","2558","2558"
+"Sub total of secondary","7110","7104","8157","8885","9086","9239","10412","12828","15055","15588","17110","19193","20969"
+"Transport Storage and Communication","486","589","631","763","886","1034","1131","1195","1334","1537","1832","1970","2253"
+"Railways","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"Transport by other means","486","589","631","763","886","1034","1131","1195","1334","1537","1832","1970","2253"
+"Storage","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"Communication","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"Trade, hotels and restaurants","2747","2629","2829","3235","3494","2706","2631","2891","2911","3226","3410","3485","3681"
+"Banking and Insurance","485","539","599","737","1003","1066","1324","1501","1767","2189","2351","2526","2877"
+"Real estate, ownership of dwelling and business","3079","3165","3254","3337","3485","3592","3708","3836","3957","4084","4235","4395","4560"
+"Pubic Administration","4842","4737","4951","5253","6418","9682","9552","9435","9898","11320","12305","13183","14051"
+"Other Services","4020","4385","5135","5494","6184","10186","9849","9307","9413","9882","10240","10618","10854"
+"Sub total of tertiary","15659","16044","17399","18819","21470","28266","28195","28165","29280","32238","34373","36177","38276"
+"State domestic product","36381","36750","40230","42897","46072","49374","50752","53835","57489","63087","67705","72030","76911"
+
+"Figures are in Rs. Lakh"

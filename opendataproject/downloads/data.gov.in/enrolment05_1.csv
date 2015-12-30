@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table provides details on faculty-wise students enrolment in higher education (graduates+post graduates) in different streams like Arts, Science, Commerce/Management, Engineering / Technology, Medicine etc for the period 2007-08 to 2009-10.", 
+ "file_name": "enrolment05_1.xls", 
+ "title": "Download XLS for Faculty-wise students enrolment in higher education in different streams from 2007-08 to 2009-10 ", 
+ "url": "http://data.gov.in/sites/default/files/enrolment05_1.xls"
+}
+-----
+"Stream","2007-08 : Total Enrolment","2007-08 : Percentage to Total","2008-09 : Total Enrolment (Provisional)","2008-09 : Percentage to Total","2009-10 : Total Enrolment","2009-10 : Percentage to Total"
+"Arts",5508877.0,44.5099985311,5875532.0,43.0700388101,6143959.0,42.0100047932
+"Science",2543416.0,20.5500036439,2612406.0,19.1499982993,2822623.0,19.2999995214
+"Commerce/Management",2243899.0,18.1300002149,2486901.0,18.2299956135,2607638.0,17.8300156103
+"Education",188126.0,1.51999908215,286478.0,2.10000023457,365621.0,2.49997435896
+"Engineering / Technology",914639.0,7.38999628173,1313706.0,9.62999919072,1510762.0,10.3300036444
+"Medicine",404719.0,3.27000259681,446087.0,3.26999910862,508950.0,3.48000237949
+"Agriculture",73023.0,0.59000293939,80482.0,0.589965787526,80438.0,0.550003794874
+"Veterinary Science",19802.0,0.159993949931,21827.0,0.16000078582,20475.0,0.140000095727
+"Law",379965.0,3.06999803987,381971.0,2.80000275623,343688.0,2.35000502564
+"Others",100252.0,0.810004720153,136418.0,0.999999413567,220836.0,1.50999077606
+"Total",12376718.0,100.0,13641808.0,100.0,14624990.0,100.0

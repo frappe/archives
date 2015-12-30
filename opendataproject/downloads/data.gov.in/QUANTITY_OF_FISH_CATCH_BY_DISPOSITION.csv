@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table give figures on the quantity of fish catch by disposition from 2000 to 2010 for Marketing/Fresh, Freezing, Curring, Canning, Reduction, Misc. Purposes and Offal for Reduction.", 
+ "file_name": "QUANTITY_OF_FISH_CATCH_BY_DISPOSITION.xls", 
+ "title": "Download XLS for Quantity of Fish Catch By Disposition: 2000-10", 
+ "url": "http://data.gov.in/sites/default/files/QUANTITY_OF_FISH_CATCH_BY_DISPOSITION.xls"
+}
+-----
+"Year","Marketing/ fresh ('000 tonne)","Freezing ('000 tonne)","Curring ('000 tonne)","Canning ('000 tonne)","Reduction ('000 tonne)","  Misc.Purposes (*) ('000 tonne)","Offal forreduction ('000 tonne)","  Total ('000 tonne)"
+2000.0,4287.83,276.6,339.91,50.03,317.91,340.24,1.32,5613.74
+2001.0,4777.14,264.88,346.0,53.17,308.27,164.43,16.16,5930.05
+2002.0,4789.52,332.68,388.69,23.07,265.96,34.2,42.86,5876.1
+2003.0,4828.36,307.39,363.6,36.36,277.87,31.36,40.81,5886.0
+2004.0,5282.5,386.27,330.5,45.03,269.9,67.07,9.96,6391.3
+2005.0,5468.23,390.23,330.27,24.69,284.55,44.69,34.88,6577.6
+2006.0,5559.6,396.12,344.76,24.29,295.37,31.37,36.24,6687.75
+2007.0,5862.343,386.593,491.499,25.86,349.658,93.32,1.589,7210.862
+2008.0,5804.7,378.6,335.5,31.1,313.1,78.7,1.623,6943.323
+2009.0,5955.5,435.4,347.7,33.2,291.3,128.0,0.1,7191.2
+"2010(P)",6118.9,733.4,411.9,47.5,283.6,394.9,0.0,7990.2

@@ -1,0 +1,15 @@
+-----
+{
+ "description": "The population below poverty line in Urban and Rural areas during Mixed Recall period and Uniform Recall period are given in the table.", 
+ "file_name": "Persons_Below_Poverty_Line_In_Urban_And_Rural_Areas.xls", 
+ "title": "Download XLS for Number Of Persons Below Poverty Line In Urban And Rural Areas", 
+ "url": "http://data.gov.in/sites/default/files/Persons_Below_Poverty_Line_In_Urban_And_Rural_Areas.xls"
+}
+-----
+"Year (Mixed Recall Period)","Urban                                (Mixed Recall Period) in Lakh","Rural                          (Mixed Recall Period) in Lakh","Total                   (Mixed Recall Period) in Lakh","Year                   (Uniform Recall Period)","Urban                                (Uniform Recall Period) in Lakh","Rural                          (Uniform Recall Period)        in Lakh","Total (Uniform Recall Period) in Lakh"
+"1973–74 ",600.46,2612.9,3213.36,"1973–74 ",600.46,2612.9,3213.36
+"1977–78 ",646.48,2642.47,3288.95,"1977–78 ",646.48,2642.47,3288.95
+1983.0,709.4,2519.57,3228.97,1983.0,709.4,2519.57,3228.97
+"1987–88 ",751.69,2318.79,3070.49,"1987–88 ",751.69,2318.79,3070.49
+"1999–2000 ",670.07,1932.43,2602.5,"1999–2000 ",763.37,2440.31,3203.68
+"2004–05",682.0,1702.99,2384.99,"2004–05",807.96,2209.24,3017.2

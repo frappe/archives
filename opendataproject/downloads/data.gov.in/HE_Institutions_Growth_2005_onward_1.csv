@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides data regarding growth of different Universities and other Technical Institutions (Central Universities, State Universities, State Private Universities, Institutions established through State Legislation, Institutions Deemed to be Universities, Institutes of National Importance) ...", 
+ "file_name": "HE_Institutions_Growth_2005_onward_1.xls", 
+ "title": "Download XLS for Growth Of Different Universities And Colleges From 2005 to 2011", 
+ "url": "http://data.gov.in/sites/default/files/HE_Institutions_Growth_2005_onward_1.xls"
+}
+-----
+"Type of Institutions",2005.0,2007.0,2008.0,2009.0,2010.0,"2011 (Provisional)"
+"Central Universities",20.0,25.0,25.0,40.0,42.0,43.0
+"State Universities",216.0,242.0,228.0,234.0,256.0,297.0
+"State Private Universities","NA","NA",14.0,21.0,60.0,100.0
+"Institutions established through State Legislation",5.0,5.0,5.0,5.0,5.0,129.0
+"Institutions Deemed to be Universities",101.0,103.0,103.0,128.0,130.0,5.0
+"Institutes of National Importance",13.0,33.0,33.0,39.0,"NA",60.0
+"Total","NA","NA",408.0,467.0,"NA",634.0
+"Colleges",18064.0,22064.0,23206.0,25951.0,31324.0,33023.0

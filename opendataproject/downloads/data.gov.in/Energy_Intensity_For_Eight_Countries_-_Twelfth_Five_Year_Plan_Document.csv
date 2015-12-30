@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides the Energy Intensity (Twelfth Five Year Plan Document) for eight countries i.e. United Kingdom, Germany, Japan, Brazil, USA, China, South Korea and India.", 
+ "file_name": "Energy_Intensity_For_Eight_Countries_-_Twelfth_Five_Year_Plan_Document.xls", 
+ "title": "Download XLS for Energy Intensity For Eight Countries - Twelfth Five Year Plan Document", 
+ "url": "http://data.gov.in/sites/default/files/Energy_Intensity_For_Eight_Countries_-_Twelfth_Five_Year_Plan_Document.xls"
+}
+-----
+"S.No.","Country","Energy Intensity (Kgoe/US$)"
+1.0,"United Kingdom",0.102
+2.0,"Germany",0.121
+3.0,"Japan",0.125
+4.0,"Brazil",0.134
+5.0,"USA",0.173
+6.0,"China",0.283
+7.0,"South Korea",0.189
+8.0,"India",0.191

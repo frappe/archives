@@ -1,0 +1,674 @@
+-----
+{
+ "description": "This table contains data related to Mineral and State wise Resources Reserves as on 1st April 2010.", 
+ "file_name": "Mineralwise_Statewise_reserves_resouces_as_on_1.4.2010F_1.xls", 
+ "title": "Download XLS for Mineral and State wise Resources Reserves As On 1st April 2010", 
+ "url": "http://data.gov.in/sites/default/files/Mineralwise_Statewise_reserves_resouces_as_on_1.4.2010F_1.xls"
+}
+-----
+"Mineral","Unit","All India/State","Reserves","Remaining Resources","Total  Resources"
+"Andalusite ","000 Tonnes   ","All India",0.0,18450.0,18450.0
+"Andalusite ","000 Tonnes   ","Jharkhand",0.0,4000.0,4000.0
+"Andalusite ","000 Tonnes   ","Uttar Pradesh",0.0,14450.0,14450.0
+"Antimony ","Tonnes","India Ore",0.0,10588.0,10588.0
+"Antimony ","Tonnes","India Metal",0.0,174.0,174.0
+"Antimony ","Tonnes","Himachal Pradesh Ore",0.0,10588.0,10588.0
+"Antimony ","Tonnes","Himachal Pradesh Metal",0.0,174.0,174.0
+"Apatite","Tonnes","All India",2090216.0,22138530.0,24228746.0
+"Apatite","Tonnes","Andhra Pradesh",37699.0,200163.0,237862.0
+"Apatite","Tonnes","Gujarat",0.0,351000.0,351000.0
+"Apatite","Tonnes","Jharkhand",0.0,7270000.0,7270000.0
+"Apatite","Tonnes","Meghalaya",0.0,1300000.0,1300000.0
+"Apatite","Tonnes","Rajasthan",0.0,1067521.0,1067521.0
+"Apatite","Tonnes","Tamil nadu",0.0,240000.0,240000.0
+"Apatite","Tonnes","West Bengal",2052517.0,11709846.0,13762363.0
+"Asbestos ","Tonnes","All India",2510841.0,19655762.0,22166603.0
+"Asbestos ","Tonnes","Andhra Pradesh",14782.0,41749.0,56531.0
+"Asbestos ","Tonnes","Jharkhand",0.0,154893.0,154893.0
+"Asbestos ","Tonnes","Karnataka",0.0,8282457.0,8282457.0
+"Asbestos ","Tonnes","Odisha",0.0,56700.0,56700.0
+"Asbestos ","Tonnes","Rajasthan",2496059.0,11119651.0,13615710.0
+"Asbestos ","Tonnes","UIttarakhand",0.0,311.0,311.0
+"BallClay   ","Tonnes","All India",16777842.0,66615662.0,83393504.0
+"BallClay   ","Tonnes","Andhra Pradesh",7306132.0,43975167.0,51281299.0
+"BallClay   ","Tonnes","Gujarat",0.0,299480.0,299480.0
+"BallClay   ","Tonnes","Rajasthan",9471710.0,22341015.0,31812725.0
+"Barytes       ","Tonnes","All India",31584128.0,41149746.0,72733874.0
+"Barytes       ","Tonnes","Andhra Pradesh",31321242.0,37157193.0,68478435.0
+"Barytes       ","Tonnes","Haryana",0.0,440.0,440.0
+"Barytes       ","Tonnes","Himchal Pradesh",39933.0,77120.0,117053.0
+"Barytes       ","Tonnes","Jharkhand",0.0,35900.0,35900.0
+"Barytes       ","Tonnes","Karnataka",0.0,15175.0,15175.0
+"Barytes       ","Tonnes","Madhya Pradesh",0.0,291912.0,291912.0
+"Barytes       ","Tonnes","Maharashtra",0.0,122860.0,122860.0
+"Barytes       ","Tonnes","Rajasthan",222953.0,2768727.0,2991680.0
+"Barytes       ","Tonnes","Tamil Nadu",0.0,222419.0,222419.0
+"Barytes       ","Tonnes","Uttarakhand",0.0,25000.0,25000.0
+"Barytes       ","Tonnes","West Bengal",0.0,433000.0,433000.0
+"Bauxite     ","000 Tonnes","All India",592938.0,2886682.0,3479620.0
+"Bauxite     ","000 Tonnes","Andhra Pradesh",0.0,615267.0,615267.0
+"Bauxite     ","000 Tonnes","Bihar",0.0,4114.0,4114.0
+"Bauxite     ","000 Tonnes","Chhattisgarh",74499.0,96480.0,170979.0
+"Bauxite     ","000 Tonnes","Goa",16376.0,41625.0,58001.0
+"Bauxite     ","000 Tonnes","Gujarat",113761.0,122959.0,236720.0
+"Bauxite     ","000 Tonnes","Jammu & Kashmir",0.0,2025.0,2025.0
+"Bauxite     ","000 Tonnes","Jharkhand",36176.0,110147.0,146323.0
+"Bauxite     ","000 Tonnes","Karnataka",5941.0,49764.0,55705.0
+"Bauxite     ","000 Tonnes","Kerala",0.0,14096.0,14096.0
+"Bauxite     ","000 Tonnes","Madhya Pradesh",19802.0,126989.0,146791.0
+"Bauxite     ","000 Tonnes","Maharashtra",26153.0,148732.0,174885.0
+"Bauxite     ","000 Tonnes","Odisha",299523.0,1510935.0,1810458.0
+"Bauxite     ","000 Tonnes","Rajasthan",0.0,528.0,528.0
+"Bauxite     ","000 Tonnes","Tamil Nadu",708.0,24112.0,24820.0
+"Bauxite     ","000 Tonnes","Uttar Pradesh",0.0,18908.0,18908.0
+"Bentonite     ","Tonnes","All India",25060508.0,543306837.61,568367345.61
+"Bentonite     ","Tonnes","Gujarat",12460170.0,121718890.0,134179060.0
+"Bentonite     ","Tonnes","Jammu & Kashmir",0.0,147400.0,147400.0
+"Bentonite     ","Tonnes","Jharkhand",609406.0,370594.0,980000.0
+"Bentonite     ","Tonnes","Rajasthan",11990932.0,411526101.4,423517033.4
+"Bentonite     ","Tonnes","Tamil Nadu",0.0,9543852.21,9543852.21
+"Borax  ","Tonnes","All India",0.0,74204.0,74204.0
+"Borax  ","Tonnes","Jammu&Kashmir",0.0,74204.0,74204.0
+"Calcite    ","Tonnes","All India",2664338.0,18281110.0,20945448.0
+"Calcite    ","Tonnes","Andhra Pradesh",3767.0,8795018.0,8798785.0
+"Calcite    ","Tonnes","Gujarat",0.0,12380.0,12380.0
+"Calcite    ","Tonnes","Haryana",0.0,350800.0,350800.0
+"Calcite    ","Tonnes","Karnataka",0.0,66329.0,66329.0
+"Calcite    ","Tonnes","Madhya Pradesh",0.0,1190980.0,1190980.0
+"Calcite    ","Tonnes","Rajasthan",2660571.0,7737971.0,10398542.0
+"Calcite    ","Tonnes","Tamil Nadu",0.0,116632.0,116632.0
+"Calcite    ","Tonnes","Uttar Pradesh",0.0,11000.0,11000.0
+"Chalk   ","000 Tonnes","All India",4331.63,584.97,4916.6
+"Chalk   ","000 Tonnes","Gujarat",4331.63,584.97,4916.6
+"China Clay       ","000 Tonnes","All India",177158.13,2528049.34,2705207.47
+"China Clay       ","000 Tonnes","Andhra Pradesh",5068.19,69107.58,74175.77
+"China Clay       ","000 Tonnes","Assam",0.0,4043.0,4043.0
+"China Clay       ","000 Tonnes","Bihar",0.0,1438.48,1438.48
+"China Clay       ","000 Tonnes","Chhattisgarh",1177.84,13831.6,15009.44
+"China Clay       ","000 Tonnes","Delhi",0.0,5289.02,5289.02
+"China Clay       ","000 Tonnes","Goa",0.0,16.0,16.0
+"China Clay       ","000 Tonnes","Gujarat",40762.8,71425.31,112188.11
+"China Clay       ","000 Tonnes","Haryana",0.0,12065.41,12065.41
+"China Clay       ","000 Tonnes","Jammu & Kashmir",0.0,28121.6,28121.6
+"China Clay       ","000 Tonnes","Jharkhand",17610.12,181081.04,198691.16
+"China Clay       ","000 Tonnes","Karnataka",2058.24,256465.53,258523.77
+"China Clay       ","000 Tonnes","Kerla",4144.17,659690.04,663834.21
+"China Clay       ","000 Tonnes","Madhya Pradesh",0.0,13159.74,13159.74
+"China Clay       ","000 Tonnes","Maharashtra",0.0,7248.48,7248.48
+"China Clay       ","000 Tonnes","Manipur",0.0,2520.0,2520.0
+"China Clay       ","000 Tonnes","Meghalaya",0.0,88875.3,88875.3
+"China Clay       ","000 Tonnes","Odisha",3901.34,277024.64,280925.98
+"China Clay       ","000 Tonnes","Pondicherry",0.0,2940.0,2940.0
+"China Clay       ","000 Tonnes","Rajasthan",100112.55,332404.71,432517.26
+"China Clay       ","000 Tonnes","Tamil Nadu",0.0,56897.08,56897.08
+"China Clay       ","000 Tonnes","Uttar Pradseh",0.0,25064.78,25064.78
+"China Clay       ","000 Tonnes","West Bengal",2322.88,419340.0,421662.88
+"Chromite ","000 Tonnes","All India",53970.06,149376.35,203346.41
+"Chromite ","000 Tonnes","  Andhra Pradesh",0.0,186.77,186.77
+"Chromite ","000 Tonnes","  Jharkhand",0.0,736.0,736.0
+"Chromite ","000 Tonnes","  Karnataka",744.8,886.71,1631.51
+"Chromite ","000 Tonnes","  Maharashtra",76.18,555.92,632.1
+"Chromite ","000 Tonnes","  Manipur",76.35,6580.94,6657.29
+"Chromite ","000 Tonnes"," Nagaland",0.0,3200.0,3200.0
+"Chromite ","000 Tonnes"," Odisha",53072.73,136948.36,190021.09
+"Chromite ","000 Tonnes"," Tamil Nadu",0.0,282.12,282.12
+" Cobalt ","Million tonnes  ","All India",0.0,44.91,44.91
+" Cobalt ","Million tonnes  ","  Jharkhand",0.0,9.0,9.0
+" Cobalt ","Million tonnes  ","  Nagaland",0.0,5.0,5.0
+" Cobalt ","Million tonnes  ","  Odisha",0.0,30.91,30.91
+"Copper         ","000 Tonnes","All India Ore",394372.0,1164086.0,1558458.0
+"Copper         ","000 Tonnes","All India Metal",4768.33,7518.34,12286.67
+"Copper         ","000 Tonnes","Andhra Pradesh Ore",0.0,8248.0,8248.0
+"Copper         ","000 Tonnes","Andhra Pradesh Metal",0.0,122.82,122.82
+"Copper         ","000 Tonnes","Gujarat Ore",5800.0,7260.0,13060.0
+"Copper         ","000 Tonnes","GujaratMetal",94.53,114.07,208.6
+"Copper         ","000 Tonnes","Haryana Ore",0.0,32908.0,32908.0
+"Copper         ","000 Tonnes","Haryana Metal",0.0,113.62,113.62
+"Copper         ","000 Tonnes","Jharkhand Ore",86818.0,201307.0,288125.0
+"Copper         ","000 Tonnes","Jharkhand Metal",808.78,2285.49,3094.27
+"Copper         ","000 Tonnes","Karnataka Ore",2510.0,31025.0,33535.0
+"Copper         ","000 Tonnes","Karnataka Metal",30.65,198.62,229.27
+"Copper         ","000 Tonnes","Madhya Pradesh Ore",198319.0,178869.0,377188.0
+"Copper         ","000 Tonnes","Madhya Pradesh Metal",2643.1,1176.47,3819.57
+"Copper         ","000 Tonnes","Maharashtra Ore",0.0,13210.0,13210.0
+"Copper         ","000 Tonnes","Maharashtra Metal",0.0,132.7,132.7
+"Corundum   ","Tonnes","All India",597.24,740193.52,740790.76
+"Corundum   ","Tonnes","Andhra Pradesh",0.0,77120.57,77120.57
+"Corundum   ","Tonnes","Chhattisgarh",597.24,287.5,884.74
+"Corundum   ","Tonnes","Karnataka",0.0,646860.45,646860.45
+"Corundum   ","Tonnes","Rajasthan",0.0,11925.0,11925.0
+"Corundum   ","Tonnes","Tamil Nadu",0.0,4000.0,4000.0
+"Diamond  ","Carat  ","All India",1045318.0,30876432.0,31921750.0
+"Diamond  ","Carat  ","Andhra Pradesh",0.0,1822955.0,1822955.0
+"Diamond  ","Carat  ","Chhattisgarh",0.0,1304000.0,1304000.0
+"Diamond  ","Carat  ","Madhya Pradesh",1045318.0,27749477.0,28794795.0
+"Diaspore    ","Tonnes","All India",2859674.45,3125143.9,5984818.35
+"Diaspore    ","Tonnes","Jammu & Kashmir",0.0,1277.0,1277.0
+"Diaspore    ","Tonnes","Madhya Pradesh",1456903.0,2295947.0,3752850.0
+"Diaspore    ","Tonnes","Uttar Pradesh",1402771.0,827922.0,2230693.0
+"Diatomote ","000 Tonnes","All India",0.0,2885.04,2885.04
+"Diatomote ","000 Tonnes","Gujarat",0.0,811.04,811.04
+"Diatomote ","000 Tonnes","Rajasthan",0.0,2073.6,2073.6
+"Dolomite","000 Tonnes","All India",738185.6,6992371.6,7730557.2
+"Dolomite","000 Tonnes","Andhra Pradesh",68296.45,1114155.94,1182452.39
+"Dolomite","000 Tonnes","Arunachal Pradesh",0.0,77837.0,77837.0
+"Dolomite","000 Tonnes","Chhattisgarh",60836.47,785845.87,846682.34
+"Dolomite","000 Tonnes","Gujarat",31895.44,493577.81,525473.25
+"Dolomite","000 Tonnes","Haryana",0.0,29488.96,29488.96
+"Dolomite","000 Tonnes","Jharkhand",22700.0,18734.21,41434.21
+"Dolomite","000 Tonnes","Karnataka",128365.01,533751.1,662116.11
+"Dolomite","000 Tonnes","Madhya Pradesh",82433.55,2195369.18,2277802.73
+"Dolomite","000 Tonnes","Maharashtra",48053.08,372770.88,420823.96
+"Dolomite","000 Tonnes","Odisha",167112.01,505932.73,673044.74
+"Dolomite","000 Tonnes","Rajasthan",64160.4,396010.04,460170.44
+"Dolomite","000 Tonnes","Sikkim",0.0,2756.0,2756.0
+"Dolomite","000 Tonnes","Tamil Nadu",0.0,2145.0,2145.0
+"Dolomite","000 Tonnes","Uttar Pradesh",0.0,82352.0,82352.0
+"Dolomite","000 Tonnes","Uttarakhand",3805.19,204144.32,207949.51
+"Dolomite","000 Tonnes","West Bengal",60528.0,177500.56,238028.56
+"Dunite    ","000 Tonnes","All India",17136.65,168231.33,185367.98
+"Dunite    ","000 Tonnes","Jharkhand",942.87,16414.96,17357.83
+"Dunite    ","000 Tonnes","Karnataka",3940.38,28058.08,31998.46
+"Dunite    ","000 Tonnes","Odisha",3337.4,10995.29,14332.69
+"Dunite    ","000 Tonnes","Tamil Nadu",8916.0,107963.0,116879.0
+"Dunite    ","000 Tonnes","Nagaland",0.0,4800.0,4800.0
+"Feldspar       ","Tonnes","All India",44503239.76,87832211.5,132335451.26
+"Feldspar       ","Tonnes","Andhra Pradesh",8179346.0,13619215.2,21798561.2
+"Feldspar       ","Tonnes","Bihar",35147.0,4875694.0,4910841.0
+"Feldspar       ","Tonnes","Haryana",0.0,72164.0,72164.0
+"Feldspar       ","Tonnes","Jharkhand",280646.0,1354142.0,1634788.0
+"Feldspar       ","Tonnes","Karnataka",296155.0,341333.0,637488.0
+"Feldspar       ","Tonnes","Madhya Pradesh",0.0,339851.0,339851.0
+"Feldspar       ","Tonnes","Maharashtra",320117.0,908786.0,1228903.0
+"Feldspar       ","Tonnes","Meghalaya",0.0,37449.0,37449.0
+"Feldspar       ","Tonnes","Rajasthan",34715019.0,53231215.0,87946234.0
+"Feldspar       ","Tonnes","Tamil Nadu",650936.0,8351112.0,9002048.0
+"Feldspar       ","Tonnes","Uttar Pradesh",0.0,200000.0,200000.0
+"Feldspar       ","Tonnes","West Bengal",25874.0,4501250.0,4527124.0
+"Fire Clay ","000 Tonnes","All India",30104.35,683414.68,713519.03
+"Fire Clay ","000 Tonnes","Andhra Pradesh",1575.53,21638.21,23213.74
+"Fire Clay ","000 Tonnes","Assam",0.0,3161.0,3161.0
+"Fire Clay ","000 Tonnes","Bihar",0.0,44.4,44.4
+"Fire Clay ","000 Tonnes","Chhattisgarh",35.43,20942.21,20977.64
+"Fire Clay ","000 Tonnes","Delhi",0.0,64.1,64.1
+"Fire Clay ","000 Tonnes","Gujarat",436.84,57858.59,58295.43
+"Fire Clay ","000 Tonnes","Jharkhand",1602.48,65016.98,66619.46
+"Fire Clay ","000 Tonnes","Karnataka",503.2,13734.3,14237.5
+"Fire Clay ","000 Tonnes","Kerala",0.0,18180.67,18180.67
+"Fire Clay ","000 Tonnes","Madhya Pradesh",4462.25,115851.59,120313.84
+"Fire Clay ","000 Tonnes","Maharshtra",631.85,6850.43,7482.28
+"Fire Clay ","000 Tonnes","Meghalaya",0.0,10999.0,10999.0
+"Fire Clay ","000 Tonnes","Odisha",910.72,169165.52,170076.24
+"Fire Clay ","000 Tonnes","Rajasthan",14202.46,52220.89,66423.35
+"Fire Clay ","000 Tonnes","Tamil Nadu",4014.11,110243.97,114258.08
+"Fire Clay ","000 Tonnes","Tripura",0.0,370.07,370.07
+"Fire Clay ","000 Tonnes","Uttar Pradesh",0.0,3221.0,3221.0
+"Fire Clay ","000 Tonnes","West Bengal",1729.48,13851.75,15581.23
+"Fluorite    ","Tonnes","All India",4712316.0,13501588.0,18213904.0
+"Fluorite    ","Tonnes","Chhattisgarh",0.0,545455.0,545455.0
+"Fluorite    ","Tonnes","Gujarat",4280000.0,7725280.0,12005280.0
+"Fluorite    ","Tonnes","Maharashtra",366580.0,52369.0,418949.0
+"Fluorite    ","Tonnes"," Rajasthan",65736.0,5178484.0,5244220.0
+"Fuller's Earth      ","Tonnes","All India",58200.0,256593879.0,256652079.0
+"Fuller's Earth      ","Tonnes","Andhra Pradesh",0.0,25523983.0,25523983.0
+"Fuller's Earth      ","Tonnes","Arunachal Pradesh",0.0,20010700.0,20010700.0
+"Fuller's Earth      ","Tonnes","Assam",0.0,18860000.0,18860000.0
+"Fuller's Earth      ","Tonnes","Karnataka",58200.0,2022916.0,2081116.0
+"Fuller's Earth      ","Tonnes","Madhya Pradesh",0.0,117200.0,117200.0
+"Fuller's Earth      ","Tonnes","Rajasthan",0.0,190059080.0,190059080.0
+" Garnet       ","Tonnes","All India",19324792.67,37638031.81,56962824.48
+" Garnet       ","Tonnes","Andhra Pradesh",3625887.0,15438860.0,19064747.0
+" Garnet       ","Tonnes","Chhattisgarh",0.0,28800.0,28800.0
+" Garnet       ","Tonnes","Jharkhand",0.0,110071.0,110071.0
+" Garnet       ","Tonnes","Kerala",45797.0,153064.0,198861.0
+" Garnet       ","Tonnes","Odisha",3185605.0,348005.0,3533610.0
+" Garnet       ","Tonnes","Rajasthan",26249.67,172166.81,198416.48
+" Garnet       ","Tonnes","Tamil Nadu",12441254.0,21387065.0,33828319.0
+"Gold  ","Tonnes","All India :Total","","",""
+"Gold  ","Tonnes","Ore (Primary)",24124537.0,469570375.0,493694912.0
+"Gold  ","Tonnes","Metal (Primary)",110.54,549.3,659.84
+"Gold  ","Tonnes","Ore(Placer)",0.0,26121000.0,26121000.0
+"Gold  ","Tonnes","Metal (Placer)",0.0,5.86,5.86
+"Gold  ","Tonnes","Andhra Pradesh Ore (Primary)",0.0,12275347.0,12275347.0
+"Gold  ","Tonnes","Andhra Pradesh Metal (Primary)",0.0,35.72,35.72
+"Gold  ","Tonnes","Bihar Ore (Primary)",0.0,222884860.0,222884860.0
+"Gold  ","Tonnes","Bihar Metal (Primary)",0.0,37.6,37.6
+"Gold  ","Tonnes","Chhattisgarh Ore (Primary)",0.0,4841033.0,4841033.0
+"Gold  ","Tonnes","Chhattisgarh Metal (Primary)",0.0,5.51,5.51
+"Gold  ","Tonnes","Jharkhand Ore (Primary)",38059.0,8113289.0,8151348.0
+"Gold  ","Tonnes","Jharkhand Metal (Primary)",0.13,12.6,12.73
+"Gold  ","Tonnes","Karnataka Ore (Primary)",24086478.0,84716333.0,108802811.0
+"Gold  ","Tonnes","Karnataka Metal (Primary)",110.41,226.59,337.0
+"Gold  ","Tonnes","Kerela Ore (Primary)",0.0,558460.0,558460.0
+"Gold  ","Tonnes","Kerela Metal (Primary)",0.0,0.2,0.2
+"Gold  ","Tonnes","Kerela Ore (Placer)",0.0,26121000.0,26121000.0
+"Gold  ","Tonnes","Kerela Metal (Placer)",0.0,5.86,5.86
+"Gold  ","Tonnes","Madhya Pradesh Ore (Primary)",0.0,7788000.0,7788000.0
+"Gold  ","Tonnes","Madhya Pradesh Metal (Primary)",0.0,8.4,8.4
+"Gold  ","Tonnes","Maharashtra Ore (Primary)",0.0,1517000.0,1517000.0
+"Gold  ","Tonnes","Maharashtra Metal (Primary)",0.0,3.55,3.55
+"Gold  ","Tonnes","Rajasthan Ore (Primary)",0.0,113975720.0,113975720.0
+"Gold  ","Tonnes","Rajasthan Metal (Primary)",0.0,217.48,217.48
+"Gold  ","Tonnes","Tamil Nadu Ore (Primary)",0.0,67000.0,67000.0
+"Gold  ","Tonnes","Tamil Nadu Metal (Primary)",0.0,1.0,1.0
+"Gold  ","Tonnes","West Bengal Ore (Primary)",0.0,12833333.0,12833333.0
+"Gold  ","Tonnes","West Bengal Metal (Primary)",0.0,0.65,0.65
+"Granite (Dimension Stone)  ","000 Cum    ","All India",263691.53,45966608.28,46230299.81
+"Granite (Dimension Stone)  ","000 Cum    ","Andhra Pradesh",0.0,2405889.82,2405889.82
+"Granite (Dimension Stone)  ","000 Cum    ","Assam",0.0,583950.0,583950.0
+"Granite (Dimension Stone)  ","000 Cum    ","Bihar",0.0,877612.0,877612.0
+"Granite (Dimension Stone)  ","000 Cum    ","Chhattisgarh",0.0,50057.17,50057.17
+"Granite (Dimension Stone)  ","000 Cum    ","Gujarat",0.0,8501946.59,8501946.59
+"Granite (Dimension Stone)  ","000 Cum    ","Haryana",0.0,34000.0,34000.0
+"Granite (Dimension Stone)  ","000 Cum    ","Jharkhand",0.0,8875340.0,8875340.0
+"Granite (Dimension Stone)  ","000 Cum    ","Karnataka",67586.65,9270306.39,9337893.04
+"Granite (Dimension Stone)  ","000 Cum    ","Kerala",139.63,2668.5,2808.13
+"Granite (Dimension Stone)  ","000 Cum    ","madhya Pradesh",160.0,1993924.1,1994084.1
+"Granite (Dimension Stone)  ","000 Cum    ","Maharashtra",0.0,1158846.95,1158846.95
+"Granite (Dimension Stone)  ","000 Cum    ","Meghalya",0.0,286467.0,286467.0
+"Granite (Dimension Stone)  ","000 Cum    ","Odisha",80000.0,1763059.85,1843059.85
+"Granite (Dimension Stone)  ","000 Cum    ","Rajasthan",110461.0,9080204.0,9190665.0
+"Granite (Dimension Stone)  ","000 Cum    ","Tamil Nadu",1686.25,557748.68,559434.93
+"Granite (Dimension Stone)  ","000 Cum    ","Uttar Pradesh",0.0,494819.0,494819.0
+"Granite (Dimension Stone)  ","000 Cum    ","West Bengal",3658.0,29768.23,33426.23
+"Graphite       ","Tonnes","All India",8031864.0,166817781.0,174849645.0
+"Graphite       ","Tonnes","Andhra Pradesh",0.0,427200.0,427200.0
+"Graphite       ","Tonnes","Arunachal Pradesh",0.0,72758257.0,72758257.0
+"Graphite       ","Tonnes","Gujarat",0.0,3355805.0,3355805.0
+"Graphite       ","Tonnes","Jammu & Kashmir",0.0,62740555.0,62740555.0
+"Graphite       ","Tonnes","Jharkhand",1100529.0,11810340.0,12910869.0
+"Graphite       ","Tonnes","Karnataka",22859.0,44450.0,67309.0
+"Graphite       ","Tonnes","Kerala",0.0,1585330.0,1585330.0
+"Graphite       ","Tonnes","Madhya Pradesh",0.0,1006660.0,1006660.0
+"Graphite       ","Tonnes","Maharashtra",0.0,1160000.0,1160000.0
+"Graphite       ","Tonnes","Odisha",3290913.0,5383739.0,8674652.0
+"Graphite       ","Tonnes","Rajasthan",0.0,1913554.0,1913554.0
+"Graphite       ","Tonnes","Tamil Nadu",3617563.0,4621192.0,8238755.0
+"Graphite       ","Tonnes","Uttarakhand",0.0,10700.0,10700.0
+"Gypsum          ","000 Tonnes","All India",39096.0,1247402.0,1286498.0
+"Gypsum          ","000 Tonnes","Andhra Pradesh",0.0,404.0,404.0
+"Gypsum          ","000 Tonnes","Gujarat",38.0,15138.0,15176.0
+"Gypsum          ","000 Tonnes","Himachal Pradesh",0.0,4446.0,4446.0
+"Gypsum          ","000 Tonnes","Jammu & Kashmir",2259.0,175513.0,177772.0
+"Gypsum          ","000 Tonnes","Karnataka",0.0,3784.0,3784.0
+"Gypsum          ","000 Tonnes","Madhyta Pradesh",0.0,69.0,69.0
+"Gypsum          ","000 Tonnes","Rajasthan",36736.0,1018811.0,1055547.0
+"Gypsum          ","000 Tonnes","Tamil Nadu",64.0,27190.0,27254.0
+"Gypsum          ","000 Tonnes","Uttarakhand",0.0,2047.0,2047.0
+" Iron Ore  (Heamatite)","000 Tonnes","All India",8093546.49,9788551.1,17882097.59
+" Iron Ore  (Heamatite)","000 Tonnes","Andhra Pradesh",152216.52,229261.23,381477.75
+" Iron Ore  (Heamatite)","000 Tonnes","Assam",0.0,12600.0,12600.0
+" Iron Ore  (Heamatite)","000 Tonnes","Bihar",0.0,55.0,55.0
+" Iron Ore  (Heamatite)","000 Tonnes","Chhattisgarh",900110.0,2391713.61,3291823.61
+" Iron Ore  (Heamatite)","000 Tonnes","Goa",469844.2,457327.76,927171.96
+" Iron Ore  (Heamatite)","000 Tonnes","Jharkhand",2304142.07,2292477.96,4596620.03
+" Iron Ore  (Heamatite)","000 Tonnes","Karnataka",876866.25,1281811.42,2158677.67
+" Iron Ore  (Heamatite)","000 Tonnes","Madhya Pradesh",56813.9,174632.39,231446.29
+" Iron Ore  (Heamatite)","000 Tonnes","Maharashtra",13414.06,269794.67,283208.73
+" Iron Ore  (Heamatite)","000 Tonnes","Meghalaya",0.0,225.0,225.0
+" Iron Ore  (Heamatite)","000 Tonnes","Odisha",3313000.06,2617231.72,5930231.78
+" Iron Ore  (Heamatite)","000 Tonnes","Rajasthan",7139.43,23420.34,30559.77
+" Iron Ore  (Heamatite)","000 Tonnes","Uttar Pradesh",0.0,38000.0,38000.0
+" Iron Ore  (Magnetite)","000 Tonnes","All India",21755.43,10622304.68,10644060.11
+" Iron Ore  (Magnetite)","000 Tonnes","Andhra Pradesh",0.0,1463541.0,1463541.0
+" Iron Ore  (Magnetite)","000 Tonnes","Assam",0.0,15380.0,15380.0
+" Iron Ore  (Magnetite)","000 Tonnes","Bihar",0.0,2659.0,2659.0
+" Iron Ore  (Magnetite)","000 Tonnes","Goa",15675.0,206998.0,222673.0
+" Iron Ore  (Magnetite)","000 Tonnes","Jharkhand",911.52,9629.19,10540.71
+" Iron Ore  (Magnetite)","000 Tonnes","Kharnataka",0.0,7801744.0,7801744.0
+" Iron Ore  (Magnetite)","000 Tonnes","Kerala",0.0,83435.32,83435.32
+" Iron Ore  (Magnetite)","000 Tonnes","Maharashtra",874.77,485.94,1360.71
+" Iron Ore  (Magnetite)","000 Tonnes","Meghalaya",0.0,3380.0,3380.0
+" Iron Ore  (Magnetite)","000 Tonnes","Nagaland",0.0,5280.0,5280.0
+" Iron Ore  (Magnetite)","000 Tonnes","Odisha",54.03,144.78,198.81
+" Iron Ore  (Magnetite)","000 Tonnes","Rajasthan",4240.11,522590.45,526830.56
+" Iron Ore  (Magnetite)","000 Tonnes","Taml Nadu",0.0,507037.0,507037.0
+" Kyanite              ","Tonnes","All India",1574853.0,101670767.0,103245620.0
+" Kyanite              ","Tonnes","Andhra Pradesh",0.0,80354228.0,80354228.0
+" Kyanite              ","Tonnes","Jharkhand",1194032.0,4836567.0,6030599.0
+" Kyanite              ","Tonnes","Karnataka",0.0,13035438.0,13035438.0
+" Kyanite              ","Tonnes","Kerala",0.0,202360.0,202360.0
+" Kyanite              ","Tonnes","Maharashtra",380821.0,2943592.0,3324413.0
+" Kyanite              ","Tonnes","Rajasthan",0.0,23703.0,23703.0
+" Kyanite              ","Tonnes","Tamil Nadu",0.0,248359.0,248359.0
+" Kyanite              ","Tonnes","West Bengal",0.0,26520.0,26520.0
+"Laterite         ","000 Tonnes","All India",24713.8,446118.92,470832.72
+"Laterite         ","000 Tonnes","Andhra Pradesh",13463.22,12793.92,26257.14
+"Laterite         ","000 Tonnes","Gujarat",9570.23,0.0,9570.23
+"Laterite         ","000 Tonnes","Jharkhand",0.0,570.0,570.0
+"Laterite         ","000 Tonnes","Kerala",1680.35,16717.0,18397.35
+"Laterite         ","000 Tonnes","Madhya Pradesh",0.0,288688.0,288688.0
+"Laterite         ","000 Tonnes","Maharashtra",0.0,4000.0,4000.0
+"Laterite         ","000 Tonnes","Rajasthan",0.0,123350.0,123350.0
+"Lead & Zinc   ","000 Tonnes","All India","","",""
+"Lead & Zinc   ","000 Tonnes","All India Ore",108979.13,576613.9,685593.03
+"Lead & Zinc   ","000 Tonnes","All India Lead metal",2245.01,9304.38,11549.39
+"Lead & Zinc   ","000 Tonnes","All India Zinc metal",12453.26,24211.64,36664.9
+"Lead & Zinc   ","000 Tonnes","All India Lead & Zinc metal",0.0,118.45,118.45
+"Lead & Zinc   ","000 Tonnes","Andhra Pradesh Ore",0.0,22689.0,22689.0
+"Lead & Zinc   ","000 Tonnes","Andhra Pradesh Lead metal",0.0,836.88,836.88
+"Lead & Zinc   ","000 Tonnes","Andhra Pradesh Zinc metal",0.0,63.0,63.0
+"Lead & Zinc   ","000 Tonnes","Bihar Ore",0.0,11435.0,11435.0
+"Lead & Zinc   ","000 Tonnes","Bihar Lead metal",0.0,24.0,24.0
+"Lead & Zinc   ","000 Tonnes","Bihar Zinc metal",0.0,38.75,38.75
+"Lead & Zinc   ","000 Tonnes","Gujarat Ore",5800.0,328.7,6128.7
+"Lead & Zinc   ","000 Tonnes","Gujarat Lead metal",122.18,3.9,126.08
+"Lead & Zinc   ","000 Tonnes","Gujarat Zinc metal",263.41,1.1,264.51
+"Lead & Zinc   ","000 Tonnes","Gujarat Lead & Zinc metal",0.0,0.9,0.9
+"Lead & Zinc   ","000 Tonnes","Madhya Pradesh Ore",0.0,14841.13,14841.13
+"Lead & Zinc   ","000 Tonnes","Madhya Pradesh Lead metal",0.0,36.29,36.29
+"Lead & Zinc   ","000 Tonnes","Madhya Pradesh Zinc metal",0.0,453.62,453.62
+"Lead & Zinc   ","000 Tonnes","Maharashtra Ore",0.0,9272.0,9272.0
+"Lead & Zinc   ","000 Tonnes","Maharashtra Zinc metal",0.0,589.67,589.67
+"Lead & Zinc   ","000 Tonnes","Meghalaya Ore",0.0,880.0,880.0
+"Lead & Zinc   ","000 Tonnes","Meghalaya Lead metal",0.0,16.5,16.5
+"Lead & Zinc   ","000 Tonnes","Meghalaya Zinc metal",0.0,14.0,14.0
+"Lead & Zinc   ","000 Tonnes","Odisha Ore",0.0,1749.5,1749.5
+"Lead & Zinc   ","000 Tonnes","Odisha Lead metal",0.0,76.96,76.96
+"Lead & Zinc   ","000 Tonnes","Rajasthan Ore",102679.5,504852.27,607531.77
+"Lead & Zinc   ","000 Tonnes","Rajasthan Lead metal",2114.25,7979.44,10093.69
+"Lead & Zinc   ","000 Tonnes","Rajasthan Zinc metal",12173.83,22600.4,34774.23
+"Lead & Zinc   ","000 Tonnes","Rajasthan Lead & Zinc metal",0.0,117.55,117.55
+"Lead & Zinc   ","000 Tonnes","Sikkim Ore",499.63,450.0,949.63
+"Lead & Zinc   ","000 Tonnes","Sikkim Lead metal",8.58,0.0,8.58
+"Lead & Zinc   ","000 Tonnes","Sikkim Zinc metal",16.02,4.05,20.07
+"Lead & Zinc   ","000 Tonnes","Tamil Nadu Ore",0.0,790.0,790.0
+"Lead & Zinc   ","000 Tonnes","Tamil Nadu Lead metal",0.0,7.74,7.74
+"Lead & Zinc   ","000 Tonnes","Tamil Nadu Zinc metal",0.0,36.52,36.52
+"Lead & Zinc   ","000 Tonnes","Uttarakhand Ore",0.0,5620.0,5620.0
+"Lead & Zinc   ","000 Tonnes","Uttarakhand Lead metal",0.0,182.6,182.6
+"Lead & Zinc   ","000 Tonnes","Uttarakhand Zinc metal",0.0,266.83,266.83
+"Lead & Zinc   ","000 Tonnes","West Bengal Ore",0.0,3706.3,3706.3
+"Lead & Zinc   ","000 Tonnes","West Bengal Lead metal",0.0,140.07,140.07
+"Lead & Zinc   ","000 Tonnes","West Bengal Zinc metal",0.0,143.42,143.42
+"Limestone","000 Tonnes","All India",14926391.74,170008719.84,184935111.58
+"Limestone","000 Tonnes","Andhra Pradesh",4048077.89,33388298.97,37436376.86
+"Limestone","000 Tonnes","Arunachal Pradesh",0.0,482795.0,482795.0
+"Limestone","000 Tonnes","Assam",336350.24,1110992.02,1447342.26
+"Limestone","000 Tonnes","Bihar",8617.19,846923.03,855540.22
+"Limestone","000 Tonnes","Chhattisgarh",897896.34,8061550.04,8959446.38
+"Limestone","000 Tonnes","Daman & Diu",0.0,128670.0,128670.0
+"Limestone","000 Tonnes","Gujarat",810475.44,19200681.17,20011156.61
+"Limestone","000 Tonnes","Haryana",0.0,74676.77,74676.77
+"Limestone","000 Tonnes","Himachal Pradesh",977362.73,4471701.64,5449064.37
+"Limestone","000 Tonnes","Jammu & Kashmir",317105.72,1274246.31,1591352.03
+"Limestone","000 Tonnes","Jharkhand",203076.92,431332.6,634409.52
+"Limestone","000 Tonnes","Karnataka",1097745.36,51102029.45,52199774.81
+"Limestone","000 Tonnes","Kerala",12959.06,183588.58,196547.64
+"Limestone","000 Tonnes","Madhya Pradesh",1651823.09,5890702.75,7542525.84
+"Limestone","000 Tonnes","Maharashtra",826598.47,1995261.52,2821859.99
+"Limestone","000 Tonnes","Manipur",0.0,46053.0,46053.0
+"Limestone","000 Tonnes","Meghalaya",232665.74,17273022.11,17505687.85
+"Limestone","000 Tonnes","Nagaland",825.0,1037000.0,1037825.0
+"Limestone","000 Tonnes","Odisha",873931.84,909054.88,1782986.72
+"Limestone","000 Tonnes","Pondichery",0.0,15732.0,15732.0
+"Limestone","000 Tonnes","Rajasthan",2259717.47,19400120.58,21659838.05
+"Limestone","000 Tonnes","Sikkim",0.0,2380.0,2380.0
+"Limestone","000 Tonnes","Tamil Nadu",370112.24,679759.16,1049871.4
+"Limestone","000 Tonnes","Uttar pradesh",0.0,415733.0,415733.0
+"Limestone","000 Tonnes","Uttarakhand",1051.0,1541709.26,1542760.26
+"Limestone","000 Tonnes","West Bengal",0.0,44706.0,44706.0
+"Magnesite  ","000 Tonnes","All India",41950.15,293221.51,335171.66
+"Magnesite  ","000 Tonnes","Andhra Pradesh",0.0,80.0,80.0
+"Magnesite  ","000 Tonnes","Himachal Pradesh",0.0,297.66,297.66
+"Magnesite  ","000 Tonnes","Jammu & Kashmir",2610.0,894.68,4244.68
+"Magnesite  ","000 Tonnes","Karnataka",331.64,3348.91,4045.55
+"Magnesite  ","000 Tonnes","Kerala",0.0,40.43,40.43
+"Magnesite  ","000 Tonnes","Rajasthan",1024.0,50678.06,53804.25
+"Magnesite  ","000 Tonnes","Tamil Nadu",12462.14,14607.59,40511.3
+"Magnesite  ","000 Tonnes","Uttarakhand",4423.56,223274.18,232147.79
+"Manganese Ore","000 Tonnes","All India",141977.07,288003.08,429980.15
+"Manganese Ore","000 Tonnes","Andhra Pradesh",4155.12,13442.99,17598.11
+"Manganese Ore","000 Tonnes","Goa",674.01,12921.55,13595.56
+"Manganese Ore","000 Tonnes","Gujarat",0.0,2954.0,2954.0
+"Manganese Ore","000 Tonnes","Jharkhand",3455.6,10253.61,13709.21
+"Manganese Ore","000 Tonnes","Karnataka",16103.34,80084.75,96188.09
+"Manganese Ore","000 Tonnes","Madhya Pradesh",34991.78,20733.38,55725.16
+"Manganese Ore","000 Tonnes","Maharashtra",12317.87,21835.02,34152.89
+"Manganese Ore","000 Tonnes","Odisha",68499.04,121547.92,190046.96
+"Manganese Ore","000 Tonnes","Rajasthan",1780.31,4029.86,5810.17
+"Manganese Ore","000 Tonnes","West Bengal",0.0,200.0,200.0
+"Marble        ","000 Tonnes","All India",276494.63,1654968.31,1931462.94
+"Marble        ","000 Tonnes","Andhra Pradesh",0.0,2.54,2.54
+"Marble        ","000 Tonnes","Chhattisgarh",0.0,83000.0,83000.0
+"Marble        ","000 Tonnes","Gujarat",0.0,123571.16,123571.16
+"Marble        ","000 Tonnes","Haryana",0.0,22328.45,22328.45
+"Marble        ","000 Tonnes","Jammu & Kashmir",0.0,404703.0,404703.0
+"Marble        ","000 Tonnes","Maharashtra",323.6,57723.15,58046.75
+"Marble        ","000 Tonnes","Rajasthan",276171.03,955257.93,1231428.96
+"Marble        ","000 Tonnes","Sikkim",0.0,2382.08,2382.08
+"Marble        ","000 Tonnes","Uttarakhand",0.0,6000.0,6000.0
+"Marl            ","Tonnes","All India",139976150.0,11704870.0,151681020.0
+"Marl            ","Tonnes","Gujarat",139976150.0,11704870.0,151681020.0
+"Mica         ","Kg","All India",190741448.0,341495531.0,532236979.0
+"Mica         ","Kg","Andhra Pradesh",180362078.0,40424150.0,220786228.0
+"Mica         ","Kg","Bihar",74233.0,13000134.0,13074367.0
+"Mica         ","Kg","Jharkhand",0.0,1665130.0,1665130.0
+"Mica         ","Kg","Maharashtra",0.0,81036000.0,81036000.0
+"Mica         ","Kg","Odisha",0.0,105280000.0,105280000.0
+"Mica         ","Kg","Rajasthan",10305137.0,100090117.0,110395254.0
+"Molybdenum       ","Tonnes","All India","","",""
+"Molybdenum       ","Tonnes","All India Ore",0.0,19286732.0,19286732.0
+"Molybdenum       ","Tonnes","All India Contained MoS2",0.0,12639.57,12639.57
+"Molybdenum       ","Tonnes","Karnataka","","",""
+"Molybdenum       ","Tonnes","Karnataka  Ore",0.0,1320900.0,1320900.0
+"Molybdenum       ","Tonnes","Karnataka Contained MoS2",0.0,1718.7,1718.7
+"Molybdenum       ","Tonnes","Madhya Pradesh","","",""
+"Molybdenum       ","Tonnes","Madhya Pradesh Ore",0.0,8000000.0,8000000.0
+"Molybdenum       ","Tonnes","Madhya Pradesh Contained MoS2",0.0,5020.0,5020.0
+"Molybdenum       ","Tonnes","Tamil Nadu","","",""
+"Molybdenum       ","Tonnes","Tamil Nadu Ore",0.0,9965832.0,9965832.0
+"Molybdenum       ","Tonnes","Tamil Nadu Contained MoS2",0.0,5900.87,5900.87
+"Nickle      ","Million tonnes","All India",0.0,189.0,189.0
+"Nickle      ","Million tonnes","Jharkhand",0.0,9.0,9.0
+"Nickle      ","Million tonnes","Karnataka ",0.0,0.0,0.0
+"Nickle      ","Million tonnes","Nagaland",0.0,5.0,5.0
+"Nickle      ","Million tonnes","Odisha",0.0,175.0,175.0
+"Ochre  ","Tonnes","All India",54942176.0,89319089.0,144261265.0
+"Ochre  ","Tonnes","Andhra Pradesh",2668237.0,8214828.0,10883065.0
+"Ochre  ","Tonnes","Gujarat",109989.0,2946309.0,3056298.0
+"Ochre  ","Tonnes","Jharkhand",68056.0,147039.0,215095.0
+"Ochre  ","Tonnes","Karnataka",0.0,1786367.0,1786367.0
+"Ochre  ","Tonnes","Madhya Pradesh",655474.0,9787788.0,10443262.0
+"Ochre  ","Tonnes","Maharshtra",38260.0,454760.0,493020.0
+"Ochre  ","Tonnes","Rajasthan",51402160.0,65911998.0,117314158.0
+"Ochre  ","Tonnes","Uttar Pradesh",0.0,70000.0,70000.0
+"Perlite  ","000 Tonnes   ","All India",428.0,1978.0,2406.0
+"Perlite  ","000 Tonnes   ","Gujarat",428.0,1978.0,2406.0
+"Platinum Group of Metals","Tonnes of  metal content","All India",0.0,15.7,15.7
+"Platinum Group of Metals","Tonnes of  metal content","Karnataka",0.0,1.5,1.5
+"Platinum Group of Metals","Tonnes of  metal content","Odisha",0.0,14.2,14.2
+"Potash ","Million tonnes ","All India",0.0,21815.06,21815.06
+"Potash ","Million tonnes ","Madhya Pradesh",0.0,1206.0,1206.0
+"Potash ","Million tonnes ","Rajasthan",0.0,20419.01,20419.01
+"Potash ","Million tonnes ","Uttar Pradesh",0.0,190.05,190.05
+"Pyrite  "," '000 Tonnes","All India",0.0,1674401.0,1674401.0
+"Pyrite  "," '000 Tonnes","Andhra Pradesh",0.0,880.0,880.0
+"Pyrite  "," '000 Tonnes","Bihar",0.0,1574561.0,1574561.0
+"Pyrite  "," '000 Tonnes","Himachal Pradesh",0.0,2560.0,2560.0
+"Pyrite  "," '000 Tonnes","Karnataka",0.0,3000.0,3000.0
+"Pyrite  "," '000 Tonnes","Rajasthan",0.0,90876.0,90876.0
+"Pyrite  "," '000 Tonnes","Tamil Nadu",0.0,24.0,24.0
+"Pyrite  "," '000 Tonnes","West Bengal",0.0,2500.0,2500.0
+"Pyrophyllite            ","Tonnes","All India",23275450.03,32807450.48,56082900.51
+"Pyrophyllite            ","Tonnes","Andhra Pradesh",458003.0,892229.0,1350232.0
+"Pyrophyllite            ","Tonnes","Jharkhand",1185.43,0.0,1185.43
+"Pyrophyllite            ","Tonnes","Madhya Pradesh",14641797.0,16928275.72,31570072.72
+"Pyrophyllite            ","Tonnes","Maharashtra",983752.0,3143696.0,4127448.0
+"Pyrophyllite            ","Tonnes","Odisha",4856180.0,7435954.76,12292134.76
+"Pyrophyllite            ","Tonnes","Rajasthan",326691.0,782054.0,1108745.0
+"Pyrophyllite            ","Tonnes","Uttar Pradesh",2007841.6,3625241.0,5633082.6
+"Quartz & Silica Sand "," '000 Tonnes","All India",429223.44,3069807.96,3499031.4
+"Quartz & Silica Sand "," '000 Tonnes","Andhra Pradesh",72682.6,136348.81,209031.41
+"Quartz & Silica Sand "," '000 Tonnes","Assam",0.0,1790.0,1790.0
+"Quartz & Silica Sand "," '000 Tonnes","Bihar",2121.28,24651.77,26773.05
+"Quartz & Silica Sand "," '000 Tonnes","Chhattisgarh",186.94,8923.6,9110.54
+"Quartz & Silica Sand "," '000 Tonnes","Goa",0.0,20004.0,20004.0
+"Quartz & Silica Sand "," '000 Tonnes","Gujarat",35982.16,64789.18,100771.34
+"Quartz & Silica Sand "," '000 Tonnes","Haryana",8363.34,1802867.71,1811231.05
+"Quartz & Silica Sand "," '000 Tonnes","Himachal Pradesh",7.63,3027.24,3034.87
+"Quartz & Silica Sand "," '000 Tonnes","Jammu & Kashmir",0.0,3110.0,3110.0
+"Quartz & Silica Sand "," '000 Tonnes","Jharkhand",9237.88,147283.37,156521.25
+"Quartz & Silica Sand "," '000 Tonnes","Karnataka",14861.21,75986.56,90847.77
+"Quartz & Silica Sand "," '000 Tonnes","Kerala",38.26,128096.42,128134.68
+"Quartz & Silica Sand "," '000 Tonnes","Madhya Pradesh",168.82,2692.48,2861.3
+"Quartz & Silica Sand "," '000 Tonnes","Maharashtra",25325.68,151663.15,176988.83
+"Quartz & Silica Sand "," '000 Tonnes","Meghalaya",0.0,7082.7,7082.7
+"Quartz & Silica Sand "," '000 Tonnes","Odisha",1366.98,72573.21,73940.19
+"Quartz & Silica Sand "," '000 Tonnes","Punjab",0.0,3927.0,3927.0
+"Quartz & Silica Sand "," '000 Tonnes","Rajasthan",170364.33,162103.52,332467.85
+"Quartz & Silica Sand "," '000 Tonnes","Tamil nadu",60165.69,168432.03,228597.72
+"Quartz & Silica Sand "," '000 Tonnes","Tripura",0.0,489.75,489.75
+"Quartz & Silica Sand "," '000 Tonnes","Uttar Pradesh",26549.33,79336.86,105886.19
+"Quartz & Silica Sand "," '000 Tonnes","West Bengal",1801.31,4628.6,6429.91
+"Quartzite          "," '000 Tonnes","All India",86598.77,1164648.37,1251247.14
+"Quartzite          "," '000 Tonnes","Andhra Pradesh",4651.16,18931.47,23582.63
+"Quartzite          "," '000 Tonnes","Arunachal Pradesh",0.0,5270.0,5270.0
+"Quartzite          "," '000 Tonnes","Bihar",32.01,276301.51,276333.52
+"Quartzite          "," '000 Tonnes","Chhattisgarh",2671.5,23912.78,26584.28
+"Quartzite          "," '000 Tonnes","Haryana",0.0,621979.5,621979.5
+"Quartzite          "," '000 Tonnes","Himachal Pradesh",40.74,16.24,56.98
+"Quartzite          "," '000 Tonnes","Jammu & Kashmir",1558.0,0.0,1558.0
+"Quartzite          "," '000 Tonnes","Jharkhand",1252.69,39339.79,40592.48
+"Quartzite          "," '000 Tonnes","Karnataka",1400.6,1920.0,3320.6
+"Quartzite          "," '000 Tonnes","Madhya Pradesh",0.0,832.0,832.0
+"Quartzite          "," '000 Tonnes","Maharashtra",68180.0,22535.58,90715.58
+"Quartzite          "," '000 Tonnes","Odisha",6563.19,53836.96,60400.15
+"Quartzite          "," '000 Tonnes","Punjab",0.0,81912.2,81912.2
+"Quartzite          "," '000 Tonnes","Rajasthan",248.88,741.64,990.52
+"Quartzite          "," '000 Tonnes","Sikkim",0.0,17118.7,17118.7
+"Rock Phosphate         ","Tonnes","All India",34778650.0,261505701.0,296284351.0
+"Rock Phosphate         ","Tonnes","Gujarat ",0.0,314820.0,314820.0
+"Rock Phosphate         ","Tonnes","Jharkhand",0.0,107370000.0,107370000.0
+"Rock Phosphate         ","Tonnes","Madhya Prafesh",18140243.0,31277497.0,49417740.0
+"Rock Phosphate         ","Tonnes","Meghalaya",0.0,1311035.0,1311035.0
+"Rock Phosphate         ","Tonnes","Rajasthan",16638407.0,71280519.0,87918926.0
+"Rock Phosphate         ","Tonnes","Uttar Pradesh",0.0,25773444.0,25773444.0
+"Rock Phosphate         ","Tonnes","Uttarakhand",0.0,24178386.0,24178386.0
+"Rock Salt         ","000 Tonnes","All India",16026.0,0.0,16026.0
+"Rock Salt         ","000 Tonnes","Himachal Pradesh",16026.0,0.0,16026.0
+"Ruby            ","In Kg","All India",236.1,5112.84,5348.94
+"Ruby            ","In Kg","Odisha",236.1,5112.84,5348.94
+"Sapphire"," Kg","All India",0.0,450.0,450.0
+"Sapphire"," Kg","Jammu & Kashmir",0.0,450.0,450.0
+"Shale     ","000 Tonnes    ","All India",15331.21,580.05,15911.26
+"Shale     ","000 Tonnes    ","Andhra Pradesh",15331.21,580.05,15911.26
+"Sillimanite     ","Tonnes","All India",4085052.0,62902385.0,66987437.0
+"Sillimanite     ","Tonnes","Andhra Pradesh",688000.0,8956500.0,9644500.0
+"Sillimanite     ","Tonnes","Assam",0.0,4604700.0,4604700.0
+"Sillimanite     ","Tonnes","Jharkhand",0.0,83000.0,83000.0
+"Sillimanite     ","Tonnes","Karnataka ",0.0,982725.0,982725.0
+"Sillimanite     ","Tonnes","Kerala",698056.0,6451993.0,7150049.0
+"Sillimanite     ","Tonnes","Madhya Pradesh",0.0,101600.0,101600.0
+"Sillimanite     ","Tonnes","Maharashtra",203202.0,2728.0,205930.0
+"Sillimanite     ","Tonnes","Meghalaya",0.0,55807.0,55807.0
+"Sillimanite     ","Tonnes","Odisha",1602228.0,11500613.0,13102841.0
+"Sillimanite     ","Tonnes","Rajasthan",0.0,819.0,819.0
+"Sillimanite     ","Tonnes","Tamil Nadu",893566.0,17058900.0,17952466.0
+"Sillimanite     ","Tonnes","Uttar Pradesh",0.0,11450000.0,11450000.0
+"Sillimanite     ","Tonnes","West Bengal",0.0,1653000.0,1653000.0
+"Silver             ","Tonnes","All India Ore",187558668.0,279426291.0,466984959.0
+"Silver             ","Tonnes","All India Metal",8039.57,19588.68,27628.25
+"Silver             ","Tonnes","Andhra Pradesh Ore",0.0,16950000.0,16950000.0
+"Silver             ","Tonnes","Andhra Pradesh Metal",0.0,128.13,128.13
+"Silver             ","Tonnes","Jharkhand Ore",0.0,23840000.0,23840000.0
+"Silver             ","Tonnes","Jharkhand Metal",0.0,5.22,5.22
+"Silver             ","Tonnes","Karnataka Ore",8681065.0,383612.0,9064677.0
+"Silver             ","Tonnes","Karnataka Metal",2.67,3.4,6.07
+"Silver             ","Tonnes","Madhya Pradesh Ore",0.0,3216000.0,3216000.0
+"Silver             ","Tonnes","Madhya Pradesh Metal",0.0,159.86,159.86
+"Silver             ","Tonnes","Maharashtra Ore",0.0,235000.0,235000.0
+"Silver             ","Tonnes","Maharashtra Metal",0.0,0.23,0.23
+"Silver             ","Tonnes","Meghalaya Ore",0.0,880000.0,880000.0
+"Silver             ","Tonnes","Meghalaya Metal",0.0,19.8,19.8
+"Silver             ","Tonnes","Odisha Ore",0.0,1749500.0,1749500.0
+"Silver             ","Tonnes","Odisha Metal",0.0,64.91,64.91
+"Silver             ","Tonnes","Rajasthan Ore",178377980.0,227542179.0,405920159.0
+"Silver             ","Tonnes","Rajasthan Metal",8021.61,18984.59,27006.2
+"Silver             ","Tonnes","Sikkim Ore",499623.0,450000.0,949623.0
+"Silver             ","Tonnes","Sikkim Metal",15.29,41.4,56.69
+"Silver             ","Tonnes","Tamil Nadu Ore",0.0,790000.0,790000.0
+"Silver             ","Tonnes","Tamil Nadu Metal",0.0,42.55,42.55
+"Silver             ","Tonnes","Uttarakhand Ore",0.0,3390000.0,3390000.0
+"Silver             ","Tonnes","Uttarakhand Metal",0.0,138.59,138.59
+"Slate       ","000 Tonnes  ","All India",0.0,2369.13,2369.13
+"Slate       ","000 Tonnes  ","Andhra Pradesh",0.0,2369.13,2369.13
+"Sulphur (Native)  ","000 Tonnes  ","All India",0.0,210.0,210.0
+"Sulphur (Native)  ","000 Tonnes  ","Jammu & Kashmir",0.0,210.0,210.0
+"Talc/Steatite/Soapstone ","000 Tonnes  ","All India",90026.43,178996.36,269022.79
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Andhra Pradesh",5134.51,6108.78,11243.29
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Bihar",149.24,2.7,151.94
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Chhattisgarh",29.78,78.11,107.89
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Gujarat",6.11,30.98,37.09
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Jharkhand",0.0,338.48,338.48
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Karnataka",216.86,1851.22,2068.08
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Kerala",0.0,14390.0,14390.0
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Madhya Pradesh",0.0,9118.9,9118.9
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Maharashtra",0.0,16827.3,16827.3
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Odisha",413.52,406.47,819.99
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Rajasthan",46193.33,85968.69,132162.02
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Sikkim",0.0,60.0,60.0
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Tamil Nadu",333.0,2327.62,2660.62
+"Talc/Steatite/Soapstone ","000 Tonnes  ","Uttarakhand",37550.08,41487.11,79037.19
+"Tin  ","Tonnes","All India Ore",7131.0,83719066.0,83726197.0
+"Tin  ","Tonnes","All India Metal",1132.43,101142.41,102274.84
+"Tin  ","Tonnes","Chhattisgarh Ore",7131.21,29793570.99,29800702.2
+"Tin  ","Tonnes","Chhattisgarh Metal",1132.43,14354.2,15486.63
+"Tin  ","Tonnes","Haryana Ore",0.0,53910000.0,53910000.0
+"Tin  ","Tonnes","Haryana Metal",0.0,86220.6,86220.6
+"Tin  ","Tonnes","Odisha Ore",0.0,15494.0,15494.0
+"Tin  ","Tonnes","Odisha Metal",0.0,567.61,567.61
+"Titanium            ","Tonnes","All India",22030223.0,371965694.0,393995917.0
+"Titanium            ","Tonnes","Andhra Pradesh",0.0,76702509.0,76702509.0
+"Titanium            ","Tonnes","Jharkahand",0.0,4385000.0,4385000.0
+"Titanium            ","Tonnes","Karnataka",0.0,13862094.0,13862094.0
+"Titanium            ","Tonnes","Kerala",13796194.0,114916474.0,128712668.0
+"Titanium            ","Tonnes","Maharashtra",410955.0,4015322.0,4426277.0
+"Titanium            ","Tonnes","Meghalaya",0.0,3345000.0,3345000.0
+"Titanium            ","Tonnes","Odisha",4274178.0,39230000.0,43504178.0
+"Titanium            ","Tonnes","Tamil Nadu",3548896.0,113230295.0,116779191.0
+"Titanium            ","Tonnes","West Bengal",0.0,2279000.0,2279000.0
+"Tungsten  ","Tonnes","All India","","",""
+"Tungsten  ","Tonnes","All India Ore",0.0,87387464.0,87387464.0
+"Tungsten  ","Tonnes","All India Contained WO3",0.0,142094.35,142094.35
+"Tungsten  ","Tonnes","Andhra Pradesh Ore",0.0,14802300.0,14802300.0
+"Tungsten  ","Tonnes","Andhra Pradesh Contained WO3",0.0,20262.57,20262.57
+"Tungsten  ","Tonnes","Haryana  Ore",0.0,2230000.0,2230000.0
+"Tungsten  ","Tonnes","Haryana  Contained WO3",0.0,3568.0,3568.0
+"Tungsten  ","Tonnes","Karnataka Ore",0.0,36677818.0,36677818.0
+"Tungsten  ","Tonnes","Karnataka  Contained WO3",0.0,6235.0,6235.0
+"Tungsten  ","Tonnes","Maharashtra  Ore",0.0,8077250.0,8077250.0
+"Tungsten  ","Tonnes","Maharashtra  Contained WO3",0.0,16035.0,16035.0
+"Tungsten  ","Tonnes","Rajasthan Ore",0.0,23928294.0,23928294.0
+"Tungsten  ","Tonnes","Rajasthan  Contained WO3",0.0,93707.94,93707.94
+"Tungsten  ","Tonnes","Tamil Nadu Ore",0.0,250000.0,250000.0
+"Tungsten  ","Tonnes","Tamil Nadu Contained WO3",0.0,50.0,50.0
+"Tungsten  ","Tonnes","Uttarakhand Ore",0.0,658000.0,658000.0
+"Tungsten  ","Tonnes","Uttarakhand Contained WO3",0.0,705.0,705.0
+"Tungsten  ","Tonnes","West Bengal Ore",0.0,763802.0,763802.0
+"Tungsten  ","Tonnes","West Bengal Contained WO3",0.0,1530.84,1530.84
+"Vanadium   ","Tonnes","All India  Ore ",410955.0,24307933.0,24718888.0
+"Vanadium   ","Tonnes","All India Contained V2O5",1602.72,63284.45,64887.17
+"Vanadium   ","Tonnes","Karnataka Ore ",0.0,19384430.0,19384430.0
+"Vanadium   ","Tonnes","Karnataka Contained V2O5",0.0,49497.55,49497.55
+"Vanadium   ","Tonnes","Maharashtra Ore ",410955.0,58708.0,469663.0
+"Vanadium   ","Tonnes","Maharashtra Contained V2O5",1602.72,228.96,1831.68
+"Vanadium   ","Tonnes","Odisha Ore ",0.0,4864795.0,4864795.0
+"Vanadium   ","Tonnes","Odisha Contained V2O5",0.0,13557.94,13557.94
+"Vermiculite  ","Tonnes","All India",1704007.0,803003.02,2507010.02
+"Vermiculite  ","Tonnes","Andhra Pradesh",177590.0,176585.93,354175.93
+"Vermiculite  ","Tonnes","Gujarat",0.0,1960.0,1960.0
+"Vermiculite  ","Tonnes","Jharkhand",0.0,30048.0,30048.0
+"Vermiculite  ","Tonnes","Karnataka",0.0,201770.1,201770.1
+"Vermiculite  ","Tonnes","Madhya Pradesh",0.0,328.74,328.74
+"Vermiculite  ","Tonnes","Rajasthan",0.0,43693.25,43693.25
+"Vermiculite  ","Tonnes","Tamil Nadu",1526417.0,343051.0,1869468.0
+"Vermiculite  ","Tonnes","West Bengal",0.0,5566.0,5566.0
+"Wollastonite  ","Tonnes","All India",2487122.0,14082751.0,16569873.0
+"Wollastonite  ","Tonnes","Gujarat",0.0,1990000.0,1990000.0
+"Wollastonite  ","Tonnes","Rajasthan",2487122.0,12089218.0,14576340.0
+"Wollastonite  ","Tonnes","Tamil Nadu",0.0,3533.0,3533.0
+"Zircon  ","Tonnes","All India",1347470.0,1786483.0,3133953.0
+"Zircon  ","Tonnes","Kerala",972624.0,1786483.0,2759107.0
+"Zircon  ","Tonnes","Odisha",146085.0,0.0,146085.0
+"Zircon  ","Tonnes","Tamil Nadu",228761.0,0.0,228761.0

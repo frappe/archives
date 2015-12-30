@@ -1,0 +1,53 @@
+-----
+{
+ "description": "This table provides the details of Subsidy given to the Fertilizers like UREA (Both Indigenous and Imported), P and K (Both Indigenous and Imported) etc in each year.", 
+ "file_name": "Product-Wise_Subsidy_Payment_1.xls", 
+ "title": "Download XLS for Details Of Year-wise Subsidy On Fertilizer Products.", 
+ "url": "http://data.gov.in/sites/default/files/Product-Wise_Subsidy_Payment_1.xls"
+}
+-----
+"Year","Product","Subsidy              (In Rs.Crores)"
+"2002-2003","Indigenous Urea",7790.0
+"2002-2003","Imported Urea",1.16
+"2002-2003","Indigenous P&K",2487.94
+"2002-2003","Imported P&K",736.58
+"2003-2004","Indigenous Urea",8521.0
+"2003-2004","Imported Urea",0.82
+"2003-2004","Indigenous P&K",2606.0
+"2003-2004","Imported P&K",720.0
+"2004-2005","Indigenous Urea",10243.15
+"2004-2005","Imported Urea",742.37
+"2004-2005","Indigenous P&K",3977.0
+"2004-2005","Imported P&K",1165.18
+"2005-2006","Indigenous Urea",10652.57
+"2005-2006","Imported Urea",2140.88
+"2005-2006","Indigenous P&K",4499.2
+"2005-2006","Imported P&K",2096.99
+"2006-2007","Indigenous Urea",12650.37
+"2006-2007","Imported Urea",5071.06
+"2006-2007","Indigenous P&K",6648.17
+"2006-2007","Imported P&K",3649.95
+"2007-2008","Indigenous Urea",16450.37
+"2007-2008","Imported Urea",9934.99
+"2007-2008","Indigenous P&K",10333.8
+"2007-2008","Imported P&K",6600.0
+"2008-2009","Indigenous Urea",20968.74
+"2008-2009","Imported Urea",12971.18
+"2008-2009","Indigenous P&K",32957.1
+"2008-2009","Imported P&K",32597.69
+"2009-2010","Indigenous Urea",17580.25
+"2009-2010","Imported Urea",6999.98
+"2009-2010","Indigenous P&K",16000.0
+"2009-2010","Imported P&K",23452.06
+"2010-2011","Indigenous Urea",15080.73
+"2010-2011","Imported Urea",9255.95
+"2010-2011","Indigenous P&K",20650.0
+"2010-2011","Imported P&K",20850.0
+"2011-2012","Indigenous Urea",20285.46
+"2011-2012","Imported Urea",17475.0
+"2011-2012","Indigenous P&K",20237.49
+"2011-2012","Imported P&K",16571.92
+"2012-2013","Indigenous Urea",20000.01
+"2012-2013","Imported Urea",20016.0
+"2012-2013","Indigenous P&K",16000.01
+"2012-2013","Imported P&K",14576.11

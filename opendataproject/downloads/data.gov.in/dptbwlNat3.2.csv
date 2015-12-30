@@ -1,0 +1,46 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to ownership. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.2.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to ownership", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.2.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to ownership. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.2.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to ownership", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.2.csv"
+}
+-----
+"State","Government","Cooperative Societies","Panchayat","Group of farmers","Others","Total"
+"ANDHRA PRADESH",675,156,87,4818,81746,87482
+"ARUNACHAL PRADESH",3,0,0,0,0,3
+"ASSAM",340,19,4,364,33,760
+"BIHAR",3451,24,70,101,2544,6190
+"CHHATTISGARH",2749,14,44,31,2389,5227
+"GOA",28,0,0,4,28,60
+"GUJARAT",3947,248,857,25144,63986,94182
+"HARYANA",123,25,169,14189,9833,24339
+"HIMACHAL PRADESH",340,0,0,9,2,351
+"JAMMU & KASHMIR",15,0,0,0,5,20
+"JHARKHAND",28,0,0,0,0,28
+"KARNATAKA",32,0,0,0,0,32
+"KERALA",25,2,29,10,161,227
+"MADHYA PRADESH",435,213,109,8276,27365,36398
+"MAHARASHTRA",419,162,175,40986,35481,77223
+"MEGHALAYA",8,0,0,0,0,8
+"NAGALAND",0,0,0,2,1,3
+"ORISSA",4056,7,0,12,517,4592
+"PUNJAB",867,65,235,207,8616,9990
+"RAJASTHAN",170,45,83,23074,33392,56764
+"TAMIL NADU",665,293,382,27518,55152,84010
+"TRIPURA",142,1,25,0,0,168
+"UTTAR PRADESH",26304,578,1124,1636,5443,35085
+"UTTARANCHAL",616,4,28,71,164,883
+"WEST BENGAL",4833,25,55,32,194,5139
+"CHANDIGARH",35,0,1,1,20,57
+"DELHI",1,5,1,38,600,645
+"PONDICHERRY",24,0,1,16,287,328
+"ALL INDIA",50331,1886,3479,146539,327959,530194

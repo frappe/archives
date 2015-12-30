@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise distribution of surface lift schemes according to the farmers holding size. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.3_1.csv", 
+ "title": "Download CSV for Statewise Distribution of surface lift schemes according to the holding size for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.3_1.csv"
+}
+-----
+State,Marginal (0-1 Ha),Small (1-2 Ha),Medium (2-10 Ha),Big (Greater than 10 Ha),Total
+ANDHRA PRADESH,3684,5576,7400,1269,17929
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA
+ASSAM,186,1721,6391,23,8321
+BIHAR,1873,2137,1812,292,6114
+GOA,197,147,256,77,677
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,0,2,157,22,181
+HIMACHAL PRADESH,16,22,24,91,153
+JAMMU & KASHMIR,199,60,53,39,351
+KARNATAKA,7967,8530,13294,2045,31836
+KERALA,5953,2658,1666,397,10674
+MADHYA PRADESH,22746,39226,88634,24018,174624
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,0,0,0,0,0
+MEGHALAYA,0,0,1,2,3
+MIZORAM,0,0,8,1,9
+NAGALAND,1,0,2,16,19
+ORISSA,2902,3890,4462,1109,12363
+PUNJAB,33,97,497,124,751
+RAJASTHAN,9,30,117,42,198
+SIKKIM,NA,NA,NA,NA,NA
+TAMIL NADU,6334,1576,1507,399,9816
+TRIPURA,124,159,114,7,404
+UTTAR PRADESH,603,1056,919,288,2866
+WEST BENGAL,44058,19428,11184,1640,76310
+ANDAMAN & NICOBARS,85,400,720,1,1206
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,11,12,8,2,33
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,307,56,38,0,401
+ALL INDIA,97288,86783,139264,31904,355239

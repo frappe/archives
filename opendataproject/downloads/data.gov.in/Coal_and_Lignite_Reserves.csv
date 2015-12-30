@@ -1,0 +1,11 @@
+-----
+{
+ "description": "This table provides details of the Inventory of Coal and Lignite Reserves as on 1 April 2012. ", 
+ "file_name": "Coal_and_Lignite_Reserves.xls", 
+ "title": "Download XLS for Inventory of Coal and Lignite Reserves as on 1 April 2012", 
+ "url": "http://data.gov.in/sites/default/files/Coal_and_Lignite_Reserves.xls"
+}
+-----
+"Category","Proved","Indicated","Inferred","Total"
+"Coal",118.145,142.169,33.183,293.497
+"Lignite",6.18,25.76,10.02,40.91

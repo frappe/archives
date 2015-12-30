@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides data related to core Tenth Plan realization and Eleventh Plan projection of resources of states and UTs as percentage of GDP.", 
+ "file_name": "FR1011_08_1.xls", 
+ "title": "Download XLS for Core Tenth Plan Realization and Eleventh Plan Projection of Resources of States and UTs as Percentage of GDP", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_08_1.xls"
+}
+-----
+"Sl. No.","Sources of Funding","Tenth Plan Relization","Eleventh Plan Projections","Increases (+)/Decreases (-)"
+1.0,"Balance From Current Revenues",-0.18,1.41,1.59
+2.0,"Resources of PSEs",0.69,0.49,-0.19
+3.0,"Borrowings",2.14,2.45,0.3
+4.0,"States'Own Resources (1 to 3)",2.65,4.35,1.7
+5.0,"Central Assistance",1.43,1.2,-0.23
+6.0,"Aggregate Plan Resources (4+5)",4.08,5.55,1.47

@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table refers to state's net state domestic product at factor cost at current prices for the base year 2004-05 by economic activity. Net state domestic product is derived by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "NSDPCurrAndaman.csv", 
+ "title": "Download CSV for Net State Domestic Product of Andaman and Nicobar Islands at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/NSDPCurrAndaman.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"Agriculture",20583,15008,17482,20744,25590,26389,29647,31994,33320
+"Forestry & Logging",1225,1403,1260,1178,1597,2081,2608,2351,2593
+"Fishing",4424,4387,9259,9552,10121,9911,12630,12744,13706
+"Agriculture & Allied",26232,20799,28001,31474,37308,38381,44886,47089,49618
+"Mining & Quarrying",382,1155,1872,2124,1841,1215,1355,1300,1169
+"Manufacturing",1662,1387,1895,2343,2443,2531,2764,3205,3317
+"Manufacturing - Registered",135,-224,-66,-90,22,9,-99,-231,-240
+"Manufacturing - Unregistered",1528,1611,1961,2433,2421,2522,2863,3436,3557
+"Construction",40892,53439,78198,100087,82677,82817,85227,91329,91868
+"Electricity, Gas and Water supply",2098,3721,2433,2115,4812,7459,7462,5880,7159
+"Industry",45034,59702,84398,106669,91774,94022,96808,101714,103512
+"Transport, Storage & Communication",25428,27132,30825,35811,51687,64775,69661,76497,83414
+"Railways",0,0,0,0,0,0,0,0,0
+"Transport by other means",23480,24907,28235,32515,46278,57149,61121,64222,68766
+"Storage",65,69,83,100,120,157,188,150,161
+"Communication",1883,2155,2507,3195,5289,7470,8353,12125,14487
+"Trade, Hotels and restaurants",13623,16339,21070,25446,25679,26968,30420,32879,34416
+"Banking & Insurance",3580,3578,4150,5085,5741,7441,9642,13590,16818
+"Real estate, Ownership of dwellings and Business services",8496,10587,12340,14952,16358,19859,23804,27884,31231
+"Public Administration",16561,22178,21405,21886,42764,55192,54597,60045,64039
+"Other services",24321,24518,27442,30199,45522,67519,64256,71940,79154
+"Services",92010,104331,117233,133378,187751,241755,252381,282836,309072
+"State Domestic Product",163276,184832,229632,271521,316833,374158,394074,431639,462202
+"Population",399000,413000,427000,442000,458000,474000,489000,502000,515000
+"State Per Capita Income",40921,44754,53778,61430,69177,78936,80588,85984,89748

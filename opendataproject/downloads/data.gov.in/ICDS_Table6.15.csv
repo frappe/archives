@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the percentage of AWC which received medical kit. It gives state-wise details on the number of AWCs which have received medical kits or not.", 
+ "file_name": "ICDS_Table6.15.xls", 
+ "title": "Download XLS for Percentage of AWC received medical kit", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table6.15.xls"
+}
+-----
+"States/UTs ","Yes","No"
+"Andhra Pradesh",91.4,8.6
+"Assam",83.7,16.3
+"Bihar",3.6,96.4
+"Chhattisgarh",0.0,100.0
+"Gujarat",93.9,6.1
+"Haryana",94.8,5.2
+"Himachal Pradesh",82.6,17.4
+"Jammu and Kashmir",0.0,100.0
+"Jharkhand",9.0,91.0
+"Karnataka",85.7,14.3
+"Kerala",70.3,29.7
+"Madhya Pradesh",19.1,80.9
+"Maharashtra",87.5,12.5
+"Orissa",78.2,21.8
+"Punjab",0.0,100.0
+"Rajasthan",72.7,27.3
+"Tamil Nadu",86.1,13.9
+"Uttar Pradesh",69.2,30.8
+"Uttrakhand",71.1,28.9
+"West Bengal",80.3,19.7
+"Delhi",49.2,50.8
+"Chandigarh",60.0,40.0
+"Arunachal Pradesh",83.1,16.9
+"Manipur",60.0,40.0
+"Meghalaya",80.0,20.0
+"Mizoram",100.0,0.0
+"Nagaland",77.4,22.6
+"Tripura",77.3,22.7
+"Sikkim",0.0,100.0
+"Dadar & Nagar Haveli",100.0,0.0
+"Daman & Diu",100.0,0.0
+"Goa",0.0,100.0
+"Puducherry",0.0,100.0
+"Andaman & Nicobar Island",0.0,100.0
+"All India",62.4,37.6

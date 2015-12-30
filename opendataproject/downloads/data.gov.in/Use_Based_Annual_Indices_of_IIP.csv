@@ -1,0 +1,17 @@
+-----
+{
+ "description": "Use Based Annual Indices of all India Index of Industrial Production with base: 2004-05 = 100 from 2005-06 to 2012-13. The figures for 2012-13 are provisional.", 
+ "file_name": "Use_Based_Annual_Indices_of_IIP.csv", 
+ "title": "Download CSV for Use Based Annual Indices of all India Index of Industrial Production (Base: 2004-05 = 100)", 
+ "url": "http://data.gov.in/sites/default/files/Use_Based_Annual_Indices_of_IIP.csv"
+}
+-----
+Year,Basic goods,Capital goods,Intermediate goods,Consumer Durables,Consumer Non-durables,Consumer goods Total
+2005-06,106.1,118.1,106.6,116.2,108.6,110.7
+2006-07,115.6,145.6,118.8,145.6,121.9,128.6
+2007-08,125.9,216.2,127.5,193.8,134.3,151.2
+2008-09,128.1,240.6,127.6,215.4,127.7,152.6
+2009-10,134.1,243.0,135.3,252.0,129.5,164.3
+2010-11,142.2,278.9,145.3,287.7,135.0,178.3
+2011-12,150.0,267.8,144.4,295.1,142.9,186.1
+2012-13,153.6,251.5,146.7,301.2,146.8,190.6

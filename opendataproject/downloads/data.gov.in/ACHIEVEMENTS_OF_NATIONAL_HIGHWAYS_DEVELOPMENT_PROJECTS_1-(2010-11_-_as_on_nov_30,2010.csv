@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides components-wise data on achievements of National Highways Development Projects (NHDP) from 2007-08 to 2011-12. It gives details of NHDP component-wise total length, completed 4/6 lane, under implementation length & number of contracts and balance for award of civil work.", 
+ "file_name": "ACHIEVEMENTS_OF_NATIONAL_HIGHWAYS_DEVELOPMENT_PROJECTS_1.xls", 
+ "title": "Download XLS for Achievements of National Highways Development Projects From 2007-08 To 2011-12", 
+ "url": "http://data.gov.in/sites/default/files/ACHIEVEMENTS_OF_NATIONAL_HIGHWAYS_DEVELOPMENT_PROJECTS_1.xls"
+}
+-----
+"NHDP components","Total Length (km)","Competed 4/6 Lane (km)","Under implementation - Length  (km)                    ","Under implementation - No. of Contracts   ","Balance for Award of Civil Work (km)"
+"GQ",5846.0,5809.0,37.0,10.0,"NA"
+"NS-EW",7142.0,5385.0,1332.0,106.0,425.0
+"Port Connectivity",380.0,291.0,83.0,6.0,6.0
+"Other NHs",1383.0,926.0,437.0,7.0,20.0
+"SARDP-NE",388.0,"NA",112.0,2.0,276.0
+"NHDP Phase III",12109.0,1922.0,5207.0,73.0,4980.0
+"NHDP Phase IV",20000.0,"NA",486.0,4.0,19514.0
+"NHDP Phase V",6500.0,407.0,1893.0,16.0,4200.0
+"NHDP Phase VI",1000.0,"NA","NA","NA",1000.0
+"NHDP Phase VII",700.0,"NA",41.0,2.0,659.0
+"Total",55448.0,14740.0,9628.0,226.0,31080.0

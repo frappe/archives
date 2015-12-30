@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to The Farmers holding size. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.3.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to The Farmers holding size", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.3.csv"
+}
+-----
+"State","Marginal (0-1 ha)","Small (1-2 ha)","Medium (2-10 ha)","Big ( > 10 ha)","Total"
+"ANDHRA PRADESH",682,1804,2224,108,4818
+"ARUNACHAL PRADESH",0,0,0,0,0
+"ASSAM",169,88,47,60,364
+"BIHAR",26,21,27,27,101
+"CHHATTISGARH",3,3,11,14,31
+"GOA",3,0,1,0,4
+"GUJARAT",3774,5526,14053,1791,25144
+"HARYANA",219,1015,6086,6869,14189
+"HIMACHAL PRADESH",0,0,0,9,9
+"JAMMU & KASHMIR",0,0,0,0,0
+"JHARKHAND",0,0,0,0,0
+"KARNATAKA",0,0,0,0,0
+"KERALA",4,1,0,5,10
+"MADHYA PRADESH",702,1790,5166,618,8276
+"MAHARASHTRA",10943,13971,15017,1055,40986
+"MEGHALAYA",0,0,0,0,0
+"NAGALAND",0,2,0,0,2
+"ORISSA",5,0,1,6,12
+"PUNJAB",9,31,132,35,207
+"RAJASTHAN",538,2052,15781,4703,23074
+"TAMIL NADU",7441,9244,8796,2037,27518
+"TRIPURA",0,0,0,0,0
+"UTTAR PRADESH",129,117,1130,260,1636
+"UTTARANCHAL",11,9,38,13,71
+"WEST BENGAL",6,26,0,0,32
+"CHANDIGARH",0,0,1,0,1
+"DELHI",17,18,3,0,38
+"PONDICHERRY",11,5,0,0,16
+"ALL INDIA",24692,35723,68514,17610,146539

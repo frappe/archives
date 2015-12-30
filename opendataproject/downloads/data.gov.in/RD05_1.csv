@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The table states infant mortality rate and mortality under age of five for Rural India, Urban India separately and Combined (Rural+Urban) fertility, infant mortality rate and mortality under age of five for SC, ST, OBC and Other categories. It also informs about nutritional status in terms of BMI ...", 
+ "file_name": "RD05_1.csv", 
+ "title": "Download CSV for Health and Nutrition Indicators by Social Groups ", 
+ "url": "http://data.gov.in/sites/default/files/RD05_1.csv"
+}
+-----
+Indicators,Rural Schedule Caste,Rural Schedule Tribe,Rural Other Backward Caste,Rural Others,Urban Schedule Caste,Urban Schedule Tribe,Urban Other Backward Caste,Urban Others,Total Schedule Caste,Total Schedule Tribe,Total Other Backward Caste,Total Others
+Infant Mortality,71.00,63.90,61.10,55.70,50.70,43.80,42.20,36.10,66.40,62.10,56.60,48.90
+Under-five Mortality,94.70,99.80,78.70,68.20,65.40,53.80,54.50,42.10,88.10,95.70,72.80,59.20
+Nutritional Status - Mean Body Mass Index for Men,NA,NA,NA,NA,NA,NA,NA,NA,19.70,19.30,20.20,20.90
+Nutritional Status - Mean Body Mass Index  for Women,NA,NA,NA,NA,NA,NA,NA,NA,19.90,19.10,20.40,21.30
+Fertility,NA,NA,NA,NA,NA,NA,NA,NA,2.92,3.12,2.75,2.35

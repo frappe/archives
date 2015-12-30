@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise irrigation potential utilised through Deep Tubewells . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.14.csv", 
+ "title": "Download CSV for Village wise Irrigation potential utilised through Deep Tubewells for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.14.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes according to source of finance. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.7.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes according to Finance source for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.7.csv"
+}
+-----
+State,Government funds,Farmers saving,Loan & Saving,Subsidy & Bank loan,Subsidy only,Others,Total
+ANDHRA PRADESH,19235,1653,1090,392,885,3514,26769
+ARUNACHAL PRADESH,156,1493,38,8,197,157,2049
+ASSAM,95,562,34,28,770,10,1499
+BIHAR,7985,4253,704,11663,8646,864,34115
+GOA,244,1401,77,42,27,1341,3132
+GUJARAT,NA,NA,NA,NA,NA,NA,NA
+HARYANA,18,289,189,0,4,8,508
+HIMACHAL PRADESH,933,4675,67,105,321,3162,9263
+JAMMU & KASHMIR,3099,5602,14,230,45,154,9144
+KARNATAKA,17305,7611,4403,770,240,2597,32926
+KERALA,3167,2087,137,353,133,366,6243
+MADHYA PRADESH,14912,18947,1018,876,1115,3294,40162
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,0,0,0,0,0,0,0
+MEGHALAYA,1262,10538,280,36,1004,504,13624
+MIZORAM,348,3782,1,33,587,23,4774
+NAGALAND,1,8,4,3,13026,1016,14058
+ORISSA,5079,4856,345,652,789,243,11964
+PUNJAB,131,240,8,0,7,0,386
+RAJASTHAN,369,737,33,30,14,62,1245
+SIKKIM,0,0,0,0,0,239,239
+TAMIL NADU,41234,3881,9179,3848,5662,5209,69013
+TRIPURA,67,189,5,17,37,15,330
+UTTAR PRADESH,8683,2016,807,3247,3586,1100,19439
+WEST BENGAL,8635,41766,666,373,2753,6752,60945
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,0,1,0,1,0,0,2
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA
+DELHI,435,1,9,0,0,875,1320
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,13926,3411,240,0,0,0,17577
+ALL INDIA,147319,119999,19348,22707,39848,31505,380726

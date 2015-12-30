@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides Likely Under-Recoveries on Petroleum* Products. It is to be noted that Price of Petrol is made market determined. It assumes oil prices at US$ 100 per barrel with exchange rate of US$ = Rs.55.", 
+ "file_name": "Under-Recoveries_on_Petroleum_Products.xls", 
+ "title": "Download XLS for Likely Under-Recoveries on Petroleum Products", 
+ "url": "http://data.gov.in/sites/default/files/Under-Recoveries_on_Petroleum_Products.xls"
+}
+-----
+"Activity","Unit","ONGC","OIL","Private/JV","Total"
+"Seismic Surveys 2D","Km",28170.0,6850.0,103954.0,138974.0
+"Seismic Surveys 3D","Sq Km",24163.0,8364.0,49961.0,82488.0
+"Exploratory Wells","Nos",611.0,174.0,525.0,1310.0
+"Reserves Accretion IIH","MMTOE",1080.0,78.14,728.0,1886.14
+"Ultimate Hydrocarbon Reserve Accretion","MMTOE",360.0,26.0,341.0,727.0

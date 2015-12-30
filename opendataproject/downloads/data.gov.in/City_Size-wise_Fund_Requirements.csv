@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table gives data on city size-wise fund requirements during 11th Five-Year Plan.", 
+ "file_name": "City_Size-wise_Fund_Requirements.xls", 
+ "title": "Download XLS for City Size-wise Fund Requirements During Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/City_Size-wise_Fund_Requirements.xls"
+}
+-----
+"Cities (Population in Lakh)","Total No. of Towns","Percentage of Towns Proposed for Eleventh Plan","Average Requirement","Rs in Crore"
+"1–5 ",370.0,50.0,40.0,7400.0
+"5–10 ",39.0,50.0,400.0,7800.0
+"10–40 ",28.0,100.0,930.0,26040.0
+"greater than 40 ",7.0,100.0,3000.0,21000.0
+"MRTS ",8.0,100.0,0.0,32000.0
+"Capacity building and transport planning ",0.0,0.0,0.0,350.0

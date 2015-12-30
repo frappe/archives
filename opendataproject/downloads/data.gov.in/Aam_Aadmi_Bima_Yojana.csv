@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This data provides state-wise coverage, claims paid and scholarship disbursement under Aam Aadmi Bima Yojana as on 31st March 2013. Aam Aadmi Bima Yojana (AABY) is a social security insurance scheme which extends life and disability insurance cover to persons between the age of 18 years to 59 ...", 
+ "file_name": "Aam_Aadmi_Bima_Yojana.xls", 
+ "title": "Download XLS for Coverage under Aam Aadmi Bima Yojana upto 31st March 2013", 
+ "url": "http://data.gov.in/sites/default/files/Aam_Aadmi_Bima_Yojana.xls"
+}
+-----
+"States/UTs","Lives Covered","Claims Settled* - Nos","Claims Settled* - Amount (Rs in’ooo)","Scholarship Paid** - Nos","Scholarship Paid** - Amount (Rs in’ooo)"
+"Andhra Pradesh",11277341.0,71657.0,2334210.0,1223497.0,1440430.0
+"Arunachal Pradesh",12056.0,0.0,0.0,0.0,0.0
+"Assam",291442.0,569.0,30390.0,1726.0,1036.0
+"Bihar",354443.0,962.0,30735.0,11008.0,6605.0
+"Chandigarh",994.0,0.0,0.0,0.0,0.0
+"Chhattisgarh",3961067.0,5268.0,122460.0,96037.0,111434.0
+"Delhi",51121.0,27.0,1170.0,1284.0,1115.0
+"Goa",46668.0,80.0,2815.0,821.0,493.0
+"Gujarat",1582701.0,4473.0,142760.0,140395.0,84242.0
+"Haryana",78249.0,98.0,3165.0,5846.0,6454.0
+"Himachal Pradesh",68520.0,115.0,5865.0,4639.0,3896.0
+"Jammu & Kashmir",118141.0,182.0,6090.0,15076.0,9467.0
+"Jharkhand",195663.0,113.0,3840.0,655.0,392.0
+"Karnataka",1834849.0,6100.0,205777.5,92037.0,85976.0
+"Kerela",1169815.0,1315.0,44685.0,211749.0,151730.0
+"Madhya Pradesh",8861218.0,8597.0,273795.0,100750.0,60450.0
+"Maharashtra",5629587.0,7640.0,255410.0,391240.0,234744.0
+"Manipur",28804.0,0.0,0.0,0.0,0.0
+"Meghalaya",9118.0,0.0,0.0,0.0,0.0
+"Mizoram",4132.0,0.0,0.0,0.0,0.0
+"Nagaland",18237.0,0.0,0.0,0.0,0.0
+"Orissa",1309319.0,709.0,30755.0,13621.0,8173.0
+"Puducherry",78784.0,109.0,3270.0,0.0,0.0
+"Punjab",84365.0,90.0,3390.0,10266.0,8213.0
+"Rajasthan",3022175.0,11042.0,343873.0,242771.0,258024.0
+"Sikkim",2582.0,0.0,0.0,0.0,0.0
+"Tamil Nadu",1495965.0,4112.0,155505.0,216467.0,134437.0
+"Tripura",46557.0,0.0,0.0,0.0,0.0
+"Uttar Pradesh",4599578.0,4262.0,149486.0,12905.0,7835.0
+"Uttrakhand",681953.0,2080.0,68897.0,22898.0,27161.0
+"West Bengal",1200947.0,560.0,23460.0,10719.0,6431.0
+"A& N Island",1379.0,"NA","NA","NA","NA"
+"Dadra & Nagar Haveli",466.0,"NA","NA","NA","NA"
+"Daman & Diu",214.0,"NA","NA","NA","NA"
+"Lakshdweep",203.0,"NA","NA","NA","NA"
+"Total",48118653.0,130160.0,4241803.5,2826407.0,2648737.0

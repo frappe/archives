@@ -1,0 +1,13 @@
+-----
+{
+ "description": "The quality of water and its distribution are areas that require special attention in the Eleventh Plan. The table gives the status of city/town-wise access to drinking water. Facilities are almost absent in a large number of unauthorized and resettlement colonies and slum and squatter settlements. ...", 
+ "file_name": "City_And_Town-wise_Average_Access_To_Drinking_Water.xls", 
+ "title": "Download XLS for City And Town-wise Average Access To Drinking Water", 
+ "url": "http://data.gov.in/sites/default/files/City_And_Town-wise_Average_Access_To_Drinking_Water.xls"
+}
+-----
+"City/Towns (Population) ","Average Access to Drinking Water (Percentage)"
+"Class I cities (100000 and above) ",73.0
+"Class II cities (50000–99999) ",63.0
+"Class III cities (20000–49999) ",61.0
+"Other cities/towns ( Less than 20000) ",58.0

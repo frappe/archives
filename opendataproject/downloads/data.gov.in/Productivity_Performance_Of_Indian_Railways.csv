@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table gives an over view of the productivity performance of Indian Railways during eleventh five year plan.", 
+ "file_name": "Productivity_Performance_Of_Indian_Railways.xls", 
+ "title": "Download XLS for Productivity Performance Of Indian Railways During Eleventh Five Year Plan ", 
+ "url": "http://data.gov.in/sites/default/files/Productivity_Performance_Of_Indian_Railways.xls"
+}
+-----
+"Category","Productivity indicator ","Tenth Plan : 2006-07","Eleventh plan 2007-08","Eleventh plan 2008-09","Eleventh plan 2009-10","Eleventh plan 2010-11"
+"Wagon Utilisation","NTKM/VU/Day (Broad Gauge (BG)",3238.0,3539.0,8687.0,9022.0,9247.0
+"Wagon Utilisation","Wagon Km/Wagon/Day (BG)",230.0,248.9,253.7,256.2,262.1
+"Wagon Utilisation","Wagon turnaround in days) (BG)",5.49,5.23,5.19,4.98,4.97
+"Track Utilisation","NTKM/route Km (million)",9.67,10.19,10.43,11.07,11.34
+"Track Utilisation","Passenger Km/route Km (million0",13.47,14.63,15.53,16.35,17.36
+"NTKM/Engine Day Online (goods-BG) (in lakhs)","Diesel",268410.0,264137.0,270912.0,285008.0,302245.0
+"NTKM/Engine Day Online (goods-BG) (in lakhs)","Electric",361543.0,384981.0,425329.0,443386.0,453960.0
+"Human Resources Productivity","NTKM/employee (million)",0.34,0.37,0.39,0.44,0.47
+"Human Resources Productivity","PKM/employee (million)",0.49,0.55,0.6,0.66,0.73

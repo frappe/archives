@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides the details regarding the total number of reports of various parliamentary committees presented in each session of 15th Lok Sabha.", 
+ "file_name": "Total_No_of_Reports_of_Various_Parliamentary_Committees_Presented_in_Each_Session_of_15th_LS.xls", 
+ "title": "Download XLS for Total Number of Reports of Various Parliamentary Committees presented in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Total_No_of_Reports_of_Various_Parliamentary_Committees_Presented_in_Each_Session_of_15th_LS.xls"
+}
+-----
+"Sessions","Total No. of Reports by DRSCs"
+"First",4.0
+"Second",3.0
+"Third",67.0
+"Fourth",108.0
+"Fifth",55.0
+"Sixth",37.0
+"Seventh",63.0
+"Eighth ",63.0
+"Ninth",34.0
+"Tenth",92.0
+"Eleventh",25.0
+"Twelfth",37.0
+"Thirteenth",68.0

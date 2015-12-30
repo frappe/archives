@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The table states percentage of area of land owned, average area (ha) owned per household and percentage of household for SC, ST, OBC and others in Rural and Urban India for the year 2003.", 
+ "file_name": "RD07.csv", 
+ "title": "Download CSV for Land Owned per household by Social Group", 
+ "url": "http://data.gov.in/sites/default/files/RD07.csv"
+}
+-----
+Charecterstics,Land Owned per household by Rural Schedule Caste,Land Owned per household by Rural Schedule Tribe,Land Owned per household by Rural Other Backward Caste,Land Owned per household by Rural Others,Land Owned per household by Rural - All,Land Owned per household by Urban Schedule Caste,Land Owned per household by Urban Schedule Tribe,Land Owned per household by Urban Other Backward Caste,Land Owned per household by Urban Others,Land Owned per household by Urban - All
+Percentage of area of land owned,9.04,11.20,43.50,36.30,100.00,4.76,3.25,36.80,55.21,100.00
+Average area (hectares) owned per household,0.30,0.77,0.76,1.00,0.73,0.04,0.15,0.14,0.15,0.13
+Percentage of Household,21.60,10.60,41.60,26.60,100.00,15.00,2.91,34.50,47.57,100.00

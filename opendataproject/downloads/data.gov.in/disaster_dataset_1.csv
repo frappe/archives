@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This table provides data on year-wise damage caused due to floods, cyclonic storm, landslides etc. The Data pertaining to disaster management statistics during last twelve years.", 
+ "file_name": "disaster_dataset_1.xls", 
+ "title": "Download XLS for Year-wise Damage Caused Due To Floods, Cyclonic Storm, Landslides etc", 
+ "url": "http://data.gov.in/sites/default/files/disaster_dataset_1.xls"
+}
+-----
+"Year","Lives Lost (in Nos.)","Cattle Lost (in Nos.)","House damaged (in Nos.)","Cropped areas affected (in lakh ha)"
+"2001-02",834.0,21269.0,346878.0,18.72
+"2002-03",898.0,3729.0,462700.0,21.0
+"2003-04",1992.0,25393.0,682209.0,31.98
+"2004-05",1995.0,12389.0,1603300.0,32.53
+"2005-06",2698.0,110997.0,2120012.0,35.52
+"2006-07",2402.0,455619.0,1934680.0,70.87
+"2007-08",3764.0,119218.0,3527041.0,85.13
+"2008-09",3405.0,53833.0,1646905.0,35.56
+"2009-10",1677.0,128452.0,1359726.0,47.13
+"2010-11",2310.0,48778.0,1338619.0,46.25
+"2011-12",1600.0,9126.0,876168.0,18.87
+"2012-13",948.0,24360.0,671761.0,15.34

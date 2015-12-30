@@ -1,0 +1,16 @@
+-----
+{
+ "description": "The funds requirement for Urban Water Supply, Urban sewerage and sewage treatment, urban drainage, Solid waste management, MIS and RnD is shown in the table. The total amount estimated is Rs. 129237 Crore.", 
+ "file_name": "Funds_Requirement.xls", 
+ "title": "Download XLS for Funds Requirement - Urban Basic Services", 
+ "url": "http://data.gov.in/sites/default/files/Funds_Requirement.xls"
+}
+-----
+"Sub-Sector","Estimated Amount (Rs in Crore)"
+"Urban water supply ",53666.0
+"Urban sewerage and sewage treatment ",53168.0
+"Urban drainage",20173.0
+"Solid waste management ",2212.0
+" MIS ",8.0
+" RnD and PHE training",10.0
+"Total",129237.0

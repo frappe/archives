@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table describes incidence of poverty across social groups, the incidence of poverty among the SCs and STs. Even though the incidence of poverty among these groups has declined over the years, the headcount ratio (HCR) for SCs and STs remains higher than the national average. The table contains ...", 
+ "file_name": "SJ01.xls", 
+ "title": "Download XLS for Incidence of Poverty across Social Groups", 
+ "url": "http://data.gov.in/sites/default/files/SJ01.xls"
+}
+-----
+"Social Group","Rural Headcount Ratio : 1993-94 ","Rural Headcount Ratio : 2004-05","Rural Headcount Ratio : 2009-10","Annual Rate of Decline from 1993-94 to 2004-05","Annual Rate of Decline for Rural Category from 2004-05 to 2009-10","Urban Headcount Ratio : 1993-94 ","Urban Headcount Ratio : 2004-05","Urban Headcount Ratio : 2009-10","Annual Rate of Decline from 1993-94 to 2004-05","Annual Rate of Decline for Urban Category from 2004-05 to 2009-10"
+"Scheduled Caste",62.28,53.53,42.26,0.8,2.25,51.16,40.56,34.11,0.96,1.29
+"Scheduled Tribes ",66.02,62.28,47.37,0.34,2.98,39.46,35.52,30.38,0.36,1.03
+"All India ",50.19,41.79,33.8,0.76,1.6,31.45,25.68,20.9,0.52,0.96

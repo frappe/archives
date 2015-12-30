@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to major/medium irrigation command. The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.10.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to major/medium irrigation command for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.10.csv"
+}
+-----
+"State","Location of tubewell - On the command","Location of tubewlls - Outside command","Augmentation","Total"
+"ANDHRA PRADESH",1086,30116,14,31216
+"ARUNACHAL PRADESH",NA,NA,NA,NA
+"ASSAM",0,592,0,592
+"BIHAR",790,5617,33,6440
+"GOA",1,18,0,19
+"GUJARAT",NA,NA,NA,NA
+"HARYANA",648,5756,10,6414
+"HIMACHAL PRADESH",1,229,0,230
+"JAMMU & KASHMIR",59,38,0,97
+"KARNATAKA",24166,125594,822,150582
+"KERALA",9,189,0,198
+"MADHYA PRADESH",1267,23177,7,24451
+"MAHARASHTRA",NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA
+"MEGHALAYA",3,4,0,7
+"MIZORAM",NA,NA,NA,NA
+"NAGALAND",0,3,0,3
+"ORISSA",172,2736,3,2911
+"PUNJAB",679,1503,95,2277
+"RAJASTHAN",271,12255,24,12550
+"SIKKIM",NA,NA,NA,NA
+"TAMIL NADU",10009,22838,119,32966
+"TRIPURA",3,128,0,131
+"UTTAR PRADESH",3519,8064,42,11625
+"WEST BENGAL",488,3551,0,4039
+"ANDAMAN & NICOBARS",NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA
+"DELHI",3,688,0,691
+"LAKSHADWEEP",NA,NA,NA,NA
+"PONDICHERRY",0,418,0,418
+"ALL INDIA",43174,243514,1169,287857

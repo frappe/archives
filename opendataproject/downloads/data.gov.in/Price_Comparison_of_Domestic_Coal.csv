@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides a price comparison of Domestic Coal with other countries. It provides the Calorific Value, Price (US $ per tonne) and Price (Rupees per Mk Cal) for China, USA and India.", 
+ "file_name": "Price_Comparison_of_Domestic_Coal.xls", 
+ "title": "Download XLS for Price Comparison of Domestic Coal with other Countries", 
+ "url": "http://data.gov.in/sites/default/files/Price_Comparison_of_Domestic_Coal.xls"
+}
+-----
+"Country","Calorific Value K Cal/Kg","Price US $ per tonne","Price in Rs./Mk Cal"
+"China","5000-6000",70.0,636.0
+"USA","5000-6000",40.0,363.0
+"India","3500-4000",26.0,342.0

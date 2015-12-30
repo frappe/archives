@@ -1,0 +1,35 @@
+-----
+{
+ "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and Petrochemicals from the ...", 
+ "file_name": "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13.xls", 
+ "title": "Download XLS for Production of Major Petrochemicals - Product-wise / Group-wise From 2006-07 To 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13.xls"
+}
+-----
+"Major Groups","Products","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
+"SYNTHETIC FIBRES / YARN","Polyester Filament Yarn (PFY)   ",1264.655,1473.896,1387.125,1562.48,1788.648,1834.009,1833.271
+"SYNTHETIC FIBRES / YARN","Nylon Filament Yarn (NFY)     ",32.433,27.811,28.246,30.306,33.429,30.388,21.943
+"SYNTHETIC FIBRES / YARN","Nylon Industrial Yarn (NIY)    ",71.624,83.5,68.631,88.085,85.694,88.157,85.868
+"SYNTHETIC FIBRES / YARN","Polypropylene Filament Yarn (PPFY)",9.695,9.827,9.138,8.608,6.159,6.973,6.429
+"SYNTHETIC FIBRES / YARN","Acrylic Fibre (Dry Spun) (AF)",107.296,85.093,77.877,91.189,76.157,76.405,74.972
+"SYNTHETIC FIBRES / YARN","Polyester Staple Fibre (PSF)",784.617,919.274,842.892,980.282,1036.707,953.222,961.89
+"SYNTHETIC FIBRES / YARN","Polypropylene Staple Fibre (PPSF)",3.551,3.496,3.441,3.352,3.735,4.076,4.26
+"SYNTHETIC FIBRES / YARN","Polyester Staple Fibrefil (PSFF)",47.078,44.823,51.39,54.3,52.722,48.519,51.091
+"POLYMERS","Linear Low Density Polyethylene (LLDPE)",771.52,837.061,816.601,682.771,897.069,1032.939,1011.791
+"POLYMERS","High Density Polyethylene (HDPE)",958.389,973.607,941.586,856.3,887.193,1118.97,1176.899
+"POLYMERS","Low Density Polyethylene (LDPE)",194.882,198.148,191.214,192.601,178.628,194.236,186.583
+"POLYMERS","Polyestyrene (PS)",284.881,274.486,239.976,269.549,295.552,288.368,289.838
+"POLYMERS","Polypropylene (PP)",2000.942,1978.226,1770.649,1616.774,1684.307,2208.949,2386.857
+"POLYMERS","Poly Vinyl Chloride (PVC)",926.431,997.895,1050.931,1109.535,1278.177,1295.839,1256.648
+"POLYMERS","Expandable Polystyrene (EX-PS)",45.82,44.187,49.271,63.127,71.201,72.016,80.804
+"SYNTHETIC RUBBER","Styrene Butadiene Rubber (SBR)",13.118,17.404,13.496,19.45,12.24,9.032,8.169
+"SYNTHETIC RUBBER","Poly Butadiene Rubber (PBR)",71.693,74.403,71.976,72.971,76.367,78.924,77.253
+"SYNTHETIC RUBBER","Nitrile Butadiene Rubber (NBR)",10.076,13.24,10.621,13.309,6.026,0.074,0.1
+"SYNTHETIC  DETERGENT INTERMEDIATES","Linear Alkyl Benzene (LAB)",459.867,470.744,434.348,463.846,474.691,453.701,454.922
+"SYNTHETIC  DETERGENT INTERMEDIATES","Ethylene Oxide (EO)",96.444,114.078,117.346,154.198,163.504,168.999,171.846
+"PERFORMANCE PLASTICS","ABS Resin",74.228,78.436,68.431,84.126,90.394,88.964,90.529
+"PERFORMANCE PLASTICS","Nylon-6 & Nylon 66",17.823,17.172,15.731,17.604,20.661,18.435,19.341
+"PERFORMANCE PLASTICS","Polymethyl Methacrylate (PMMA)",2.709,2.643,2.424,2.615,2.511,2.922,2.54
+"PERFORMANCE PLASTICS","Styrene Acrylonitrile (SAN)",41.434,61.453,58.168,71.518,82.275,77.376,80.145
+"TOTAL BASIC MAJOR PETROCHEMICALS","","","","","","","",""
+"","",8291.206,8800.903,8321.509,8508.896,9304.047,10151.493,10333.989

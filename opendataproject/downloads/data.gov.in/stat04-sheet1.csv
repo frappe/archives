@@ -1,0 +1,92 @@
+-----
+{
+ "description": "It provides details of total non-plan expenditure by broad categories including subsidies and interest payments.", 
+ "file_name": "stat04.xls", 
+ "title": "Download XLS for Non-Plan Expenditure by Broad Categories(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/ub2013-14/eb/stat04.xls"
+}
+-----
+"Expenditure Budget Vol. I, 2013-2014","","","","","","",""
+"","","","","","","",""
+"STATEMENT 4","","","","","","",""
+"NON-PLAN EXPENDITURE BY BROAD CATEGORIES","","","","","","",""
+"(In crores of Rupees)","","","","","","",""
+"","","","","Actuals","Budget","Revised","Budget"
+"","","","","2011-2012","2012-2013","2012-2013","2013-2014"
+"","","","","","","",""
+1.0,"Interest Payments and Debt Servicing","","",273149.88,319759.43,316674.16,370684.49
+"",1.01,"Interest Payments","",273149.88,319659.43,316674.16,368684.49
+"",1.02,"Prepayment Premium for reduction of debt","","...",100.0,"...",2000.0
+2.0,"Defence","","",170913.28,193407.29,178503.52,203672.12
+"","On Revenue Account","","",103010.9,113828.66,108924.89,116931.41
+"","On Capital Account","","",67902.38,79578.63,69578.63,86740.71
+3.0,"Subsidies","","","","","",""
+"",3.1,"Major Subsidies","",211318.78,179554.1,247853.97,220971.5
+"","3.1.1","Fertiliser Subsidy","","","","",""
+"","","3.1.1.1","Imported (Urea) fertilizers",13716.12,13398.0,15398.0,15544.64
+"","","3.1.1.2","Indigenous (Urea) fertilizers",20208.0,19000.0,20000.0,21000.0
+"","","3.1.1.3","Sale of decontrolled fertilizers with concessions to farmers",36088.58,28576.1,30576.1,29426.86
+"","","Total - Fertiliser Subsidy","",70012.7,60974.1,65974.1,65971.5
+"","3.1.2","Food Subsidy","",72822.07,75000.0,85000.0,90000.0
+"","3.1.3","Petroleum Subsidy","",68484.01,43580.0,96879.87,65000.0
+"",3.2,"Interest Subsidies (Statement No-5)","",5049.45,7967.65,7415.88,8061.34
+"",3.3,"Other Subsidies (Statement No-6)","",1572.87,2493.38,2384.58,2050.68
+"Total - Subsidies","","","",217941.1,190015.13,257654.43,231083.52
+4.0,"Assistance to States from National Calamity Contigency Fund/ National Disaster Response Fund (NDRF) @","","",2458.92,4620.0,4375.0,4800.0
+5.0,"General Elections","","",79.12,91.5,72.48,230.2
+6.0,"Payment to lending institutions against Debt Waiver and Debt Relief Scheme for Farmers #","","",1176.39,0.01,"...","..."
+7.0,"Postal Deficit","","",5716.31,5727.12,5838.06,6717.09
+8.0,"Reimbursement of losses to Railways on operating Strategic Railway Lines","","",652.0,600.0,637.0,660.0
+9.0,"Subsidy to Railways towards dividend reliefs and other concessions","","",2034.37,3003.89,2384.23,2746.0
+10.0,"General Services","","",113418.03,120086.08,121989.83,134294.48
+"",10.01,"Organs of State","",3975.88,3836.17,3932.66,4258.85
+"",10.02,"Tax Collection","",7138.92,7565.42,7840.12,8702.27
+"",10.03,"Elections","",108.98,207.74,171.35,237.8
+"",10.04,"Secretariat - General Services","",2137.06,2401.77,2456.47,2711.94
+"",10.05,"Police","",33106.46,35611.28,37130.97,40895.49
+"",10.06,"External Affairs","",3828.47,4024.85,4085.8,4123.2
+"",10.07,"Pensions","",61166.05,63183.41,63836.41,70726.0
+"",10.08,"Public Works","",1244.66,1315.69,1298.84,1405.8
+"",10.09,"Others","",711.55,1939.75,1237.21,1233.13
+11.0,"Social Services","","",19444.21,20784.13,21303.7,23114.03
+"",11.01,"Education","",9433.32,10307.18,10422.99,11247.87
+"","","of which grants to UGC/IIMs/IITs/NITs","",6147.44,6729.96,6830.4,7364.69
+"",11.02,"Sports & Youth Services","",86.9,92.97,96.77,106.0
+"",11.03,"Art & Culture","",543.68,566.01,569.15,607.83
+"",11.04,"Medical, Public Health & Family Welfare","",3144.22,3309.69,3578.74,3774.91
+"",11.05,"Housing & Urban Development","",690.65,774.12,747.52,791.34
+"",11.06,"Information & Broadcasting","",1771.44,1784.73,1969.21,2077.91
+"","","of which grants to Prasar Bharati","",1462.35,1462.37,1650.02,1730.02
+"",11.07,"Labour Welfare","",1854.51,1916.43,1928.87,2616.42
+"",11.08,"Social Security & Welfare","",1296.9,1314.68,1258.36,1088.32
+"",11.09,"Secretariat - Social Services","",273.2,329.05,333.91,367.19
+"",11.1,"Others","",349.39,389.27,398.18,436.24
+12.0,"Economic Services","","",19043.3,20479.24,18643.55,20905.02
+"",12.01,"Agriculture & Allied Services","",2491.12,3557.97,2955.36,3007.36
+"",12.02,"Foreign Trade & Export Promotion","",1352.44,1658.49,1632.46,1700.35
+"",12.03,"Energy","",37.63,555.58,470.19,1090.37
+"",12.04,"Industry & Minerals","",2854.59,1498.21,1324.58,1354.26
+"",12.05,"Transport","",2381.81,3504.45,2607.49,3541.29
+"",12.06,"Science Technology & Environment","",5172.89,5386.5,5438.37,5863.25
+"",12.07,"Meteorology","",246.87,275.1,269.88,296.33
+"",12.08,"Irrigation & Flood Control","",377.54,396.09,424.2,452.13
+"",12.09,"Census, Surveys and Statistics","",1615.45,626.28,561.6,621.79
+"",12.1,"Tourism","",55.13,63.83,62.02,65.8
+"",12.11,"Secretariat - Economic Services","",1493.11,1916.65,1822.08,1922.96
+"",12.12,"Other Communication Services","",85.91,98.66,102.49,104.75
+"",12.13,"Others","",878.81,941.43,972.83,884.38
+13.0,"Non-Plan Grants to State Governments (Statement No-10)","","",50623.87,63352.48,57023.25,76105.18
+14.0,"Non-Plan Grants to Union Territory Governments (Statement No-10)","","",899.6,858.28,877.86,875.18
+15.0,"Non-Plan Grants to Foreign Governments (Statement No-11)","","",2163.15,3113.61,3228.87,4143.79
+16.0,"Non-Plan Capital Outlay (Statement No-8)*","","",11478.1,23970.74,8101.94,30130.54
+17.0,"Non-Plan Loans to State Governments (Statement No-10)","","","...",13.0,8.53,8.0
+18.0,"Non-Plan Loans to Union Territory Governments (Statement No-10)","","",72.0,72.0,3398.39,72.0
+19.0,"Non-Plan Grants and Loans to Public Enterprises (Statement No-9)","","",498.63,487.15,768.8,439.76
+20.0,"Non-Plan Loans to Foreign Governments (Statement No-11)","","",248.3,550.0,700.0,"..."
+21.0,"Other Non-Plan Loans","","",-168.71,-177.7,-161.0,-159.3
+22.0,"Expenditure of UTs without Legislature (Statement No-3)","","",3783.16,3706.92,3990.6,4253.22
+"# Amount met from Farmers Debt Relief Fund","","","",-1176.39,-0.01,"...","..."
+"@ Amount met from National Calamity Contigency Fund/ Contribution to National Disaster Response Fund (NDRF)","","","",-2458.92,-4620.0,-4375.0,-4800.0
+"GRAND TOTAL","","","",891989.7,969900.29,1001638.2,1109975.32
+"","","","","","","",""
+"* Excluding Capital Outlay of Defence Services and UTs without Legislature","","","","","","",""

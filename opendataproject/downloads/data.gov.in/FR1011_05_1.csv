@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides data related to the projection of Eleventh Plan central resources at 2006-07 prices.", 
+ "file_name": "FR1011_05_1.xls", 
+ "title": "Download XLS for Projection of the Eleventh Plan Resources of the Centre at 2006-07 Price", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_05_1.xls"
+}
+-----
+"Sl. No.","Sources of Funding","Projection (Rs. crore at 2006-07 price)","Percentages to GBS to Plan (S. No.3)"
+1.0,"Balance From Current Revenues",653989.0,46.0001364553
+2.0,"Borrowings including net MCR",767722.0,53.9998635447
+3.0,"Gross Budgetary Support to Plan (1+2)",1421711.0,100.0
+4.0,"Central Assistance to States & Uts",324851.0,22.8492991895
+5.0,"Total GBS for Central Plan (3-4)",1096860.0,77.1507008105
+6.0,"Resources of PSEs including borrowed resource",1059711.0,74.5377225048
+7.0,"Total Resources for Central Plan (5+6)",2156571.0,151.688423315

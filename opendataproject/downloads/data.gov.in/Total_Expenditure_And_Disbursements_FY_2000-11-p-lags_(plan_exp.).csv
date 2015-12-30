@@ -1,0 +1,63 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-LAGS","A UT Puducherry",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Andhra Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Assam",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Bihar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Chattisgarh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","D NCT Delhi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Goa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.33,0.6
+"P-LAGS","Gujarat",9.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Haryana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Himachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Jammu and Kashmir",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Jharkhand",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Karnataka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Kerala",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Madhya Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Maharastra",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Orissa",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Punjab",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Rajasthan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Tamil Nadu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Tripura",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAGS","Uttar Pradesh",19.2153,0.0,0.0,0.0,0.0,0.0,94.83,108.5859,66.1165,58.0025,86.61,257.9097
+"P-LAGS","Uttarakhand",0.0,0.0,1.0,0.1019,0.0,0.0,0.0,0.0,0.0,3.5354,0.0,0.0
+"P-LAGS","West Bengal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

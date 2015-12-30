@@ -1,0 +1,644 @@
+-----
+{
+ "description": "This table provides the number of dealers (Both Retailers and wholesalers) in each district of India.", 
+ "file_name": "No_of_Dealers_District-Wise_1.xls", 
+ "title": "Download XLS for Details Of Number of Dealers In Each District Of India", 
+ "url": "http://data.gov.in/sites/default/files/No_of_Dealers_District-Wise_1.xls"
+}
+-----
+"State","District","No of Wholesalers","No of Retailers"
+"Andaman Nicobar","South Andaman",2.0,0.0
+"Andhra Pradesh","Adilabad",92.0,464.0
+"Andhra Pradesh","Anantapur",26.0,471.0
+"Andhra Pradesh","Chittor",29.0,394.0
+"Andhra Pradesh","East Godavari",210.0,1070.0
+"Andhra Pradesh","Guntur",140.0,860.0
+"Andhra Pradesh","Hyderabad",5.0,4.0
+"Andhra Pradesh","KarimNagar",82.0,597.0
+"Andhra Pradesh","Khammam",29.0,690.0
+"Andhra Pradesh","Krishna",66.0,798.0
+"Andhra Pradesh","Kurnool",89.0,731.0
+"Andhra Pradesh","MahbubaNagar",82.0,453.0
+"Andhra Pradesh","Medak",54.0,436.0
+"Andhra Pradesh","Nalgonda",80.0,588.0
+"Andhra Pradesh","Nizamabad",55.0,473.0
+"Andhra Pradesh","Prakasam",88.0,732.0
+"Andhra Pradesh","RangaReddy",29.0,259.0
+"Andhra Pradesh","Srikakulam",21.0,357.0
+"Andhra Pradesh","SripottiSrimallu Nellor",38.0,398.0
+"Andhra Pradesh","Vishakapatnam",23.0,263.0
+"Andhra Pradesh","ViziaNagaram",29.0,262.0
+"Andhra Pradesh","Warangal",168.0,675.0
+"Andhra Pradesh","West Godavari",134.0,884.0
+"Andhra Pradesh","Y.S.R",20.0,309.0
+"Arunachal Pradesh","Anjaw",0.0,0.0
+"Arunachal Pradesh","Changlang",1.0,1.0
+"Arunachal Pradesh","Dibanga Valley",0.0,0.0
+"Arunachal Pradesh","East Kameng",0.0,0.0
+"Arunachal Pradesh","East Siang",0.0,0.0
+"Arunachal Pradesh","Kurung Kumey",0.0,0.0
+"Arunachal Pradesh","Lohit",0.0,0.0
+"Arunachal Pradesh","Lower Dibang Valley",1.0,1.0
+"Arunachal Pradesh","Lower Sibansiri",0.0,0.0
+"Arunachal Pradesh","Papum Pare",1.0,1.0
+"Arunachal Pradesh","Tawang",1.0,1.0
+"Arunachal Pradesh","Tirap",0.0,0.0
+"Arunachal Pradesh","Upper Siang",0.0,0.0
+"Arunachal Pradesh","Upper Sibansiri",0.0,0.0
+"Arunachal Pradesh","West Kameng",0.0,0.0
+"Arunachal Pradesh","West Siang",0.0,0.0
+"Assam","Baksa",0.0,7.0
+"Assam","Barpeta",9.0,131.0
+"Assam","Bongaigaon",6.0,38.0
+"Assam","Cachar",19.0,53.0
+"Assam","Chirang",0.0,10.0
+"Assam","Darrang",12.0,98.0
+"Assam","Dhemaji",0.0,8.0
+"Assam","Dhubri",12.0,55.0
+"Assam","Dibrugarh",19.0,113.0
+"Assam","Dima Hasao",0.0,1.0
+"Assam","Goalpara",7.0,37.0
+"Assam","Golaghat",20.0,58.0
+"Assam","Hailakandi",3.0,12.0
+"Assam","Jorhat",8.0,49.0
+"Assam","Kamrup",37.0,72.0
+"Assam","Kamrup Metropolitan",3.0,7.0
+"Assam","Karbi Anglong",4.0,3.0
+"Assam","Karimganj",7.0,18.0
+"Assam","Kokrajhar",1.0,9.0
+"Assam","Lakhimpur",3.0,37.0
+"Assam","Marigaon",5.0,33.0
+"Assam","Nagaon",17.0,94.0
+"Assam","Nalbari",3.0,23.0
+"Assam","Sivasagar",13.0,72.0
+"Assam","Sonitpur",6.0,102.0
+"Assam","Tinsukia",29.0,103.0
+"Assam","Udalguri",0.0,14.0
+"Bihar","Araria",19.0,436.0
+"Bihar","Arwal",13.0,231.0
+"Bihar","Aurangabad",21.0,491.0
+"Bihar","Banka",14.0,371.0
+"Bihar","Begusarai",22.0,495.0
+"Bihar","Bhagalpur",17.0,439.0
+"Bihar","Bhojpur",26.0,649.0
+"Bihar","Buxar",13.0,479.0
+"Bihar","Darbhanga",9.0,432.0
+"Bihar","Gaya",20.0,1008.0
+"Bihar","Gopalganj",11.0,455.0
+"Bihar","Jamui",13.0,241.0
+"Bihar","Jehanabad",12.0,268.0
+"Bihar","Katihar",19.0,499.0
+"Bihar","Khagaria",15.0,295.0
+"Bihar","Kishanganj",6.0,244.0
+"Bihar","Lakhisarai",12.0,268.0
+"Bihar","Madhepura",11.0,482.0
+"Bihar","Madhubani",24.0,347.0
+"Bihar","Munger",12.0,200.0
+"Bihar","Muzaffarpur",20.0,781.0
+"Bihar","Nalanda",26.0,603.0
+"Bihar","Nawada",11.0,433.0
+"Bihar","Pashchim Champaran",26.0,854.0
+"Bihar","Patna",33.0,893.0
+"Bihar","Purba Champaran",41.0,1064.0
+"Bihar","Purnia",16.0,739.0
+"Bihar","Rohtas",46.0,771.0
+"Bihar","Saharsa",17.0,407.0
+"Bihar","Samastipur",29.0,869.0
+"Bihar","Saran",26.0,583.0
+"Bihar","Sheikhpura",5.0,148.0
+"Bihar","Sheohar",12.0,107.0
+"Bihar","Sitamarhi",20.0,524.0
+"Bihar","Siwan",19.0,795.0
+"Bihar","Supaul",6.0,292.0
+"Bihar","Vaishali",29.0,504.0
+"Chandigarh","Chandigarh",0.0,0.0
+"Chhattisgarh","Bastar",21.0,90.0
+"Chhattisgarh","Bijapur",2.0,33.0
+"Chhattisgarh","Bilaspur",41.0,241.0
+"Chhattisgarh","Dakshin Bastar ",5.0,46.0
+"Chhattisgarh","Dhamtari",36.0,209.0
+"Chhattisgarh","Durg",77.0,428.0
+"Chhattisgarh","Janjgir-Champa",34.0,155.0
+"Chhattisgarh","Jashpur",8.0,42.0
+"Chhattisgarh","Kabeerdham",13.0,134.0
+"Chhattisgarh","Korba",6.0,54.0
+"Chhattisgarh","Koriya",11.0,77.0
+"Chhattisgarh","Mahasamund",22.0,150.0
+"Chhattisgarh","Narayanpur",1.0,8.0
+"Chhattisgarh","Raigarh",22.0,185.0
+"Chhattisgarh","Raipur",78.0,464.0
+"Chhattisgarh","Rajnandgaon",27.0,162.0
+"Chhattisgarh","Surguja",40.0,170.0
+"Chhattisgarh","Uttar Bastar Kanker",22.0,126.0
+"Dadra & Nagar Haveli","Dadra & Nagar Haveli",0.0,1.0
+"Daman & Diu","Daman",0.0,1.0
+"Daman & Diu","Diu",0.0,0.0
+"Goa","North Goa",9.0,51.0
+"Goa","South Goa",9.0,41.0
+"Gujarat","Ahmadabad",55.0,373.0
+"Gujarat","Amreli",35.0,344.0
+"Gujarat","Anand",83.0,471.0
+"Gujarat","Banas Kantha",64.0,763.0
+"Gujarat","Bharuch",44.0,218.0
+"Gujarat","Bhavnagar",38.0,558.0
+"Gujarat","Dohad",25.0,175.0
+"Gujarat","Gandhinagar",37.0,260.0
+"Gujarat","Jamnagar",45.0,400.0
+"Gujarat","Junagadh",53.0,552.0
+"Gujarat","Kachchh",40.0,298.0
+"Gujarat","Kheda",43.0,416.0
+"Gujarat","Mahesana",36.0,546.0
+"Gujarat","Narmada",19.0,80.0
+"Gujarat","Navsari",41.0,196.0
+"Gujarat","Panch Mahals",42.0,400.0
+"Gujarat","Patan",29.0,285.0
+"Gujarat","Porbandar",23.0,74.0
+"Gujarat","Rajkot",78.0,805.0
+"Gujarat","Sabar Kantha",63.0,812.0
+"Gujarat","Surat",36.0,256.0
+"Gujarat","Surendranagar",35.0,399.0
+"Gujarat","Tapi",16.0,134.0
+"Gujarat","The Dangs",5.0,8.0
+"Gujarat","Vadodara",58.0,489.0
+"Gujarat","Valsad",22.0,189.0
+"Haryana","Ambala",47.0,254.0
+"Haryana","Bhiwani",44.0,295.0
+"Haryana","Faridabad",7.0,60.0
+"Haryana","Fatehabad",67.0,264.0
+"Haryana","Gurgaon",22.0,90.0
+"Haryana","Hisar",65.0,298.0
+"Haryana","Jhajjar",19.0,110.0
+"Haryana","Jind",74.0,265.0
+"Haryana","Kaithal",53.0,230.0
+"Haryana","Karnal",62.0,482.0
+"Haryana","Kurukshetra",53.0,332.0
+"Haryana","Mahendragarh",32.0,141.0
+"Haryana","Mewat",26.0,90.0
+"Haryana","Palwal",31.0,175.0
+"Haryana","Panchkula",3.0,51.0
+"Haryana","Panipat",36.0,224.0
+"Haryana","Rewari",29.0,176.0
+"Haryana","Rohtak",18.0,186.0
+"Haryana","Sirsa",71.0,309.0
+"Haryana","Sonipat",33.0,282.0
+"Haryana","Yamunanagar",39.0,302.0
+"Himachal Pradesh","Bilaspur",7.0,115.0
+"Himachal Pradesh","Chamba",6.0,105.0
+"Himachal Pradesh","Hamirpur",5.0,254.0
+"Himachal Pradesh","Kangra",10.0,567.0
+"Himachal Pradesh","Kinnaur",1.0,10.0
+"Himachal Pradesh","Kullu",6.0,198.0
+"Himachal Pradesh","Lahul & Spiti",1.0,32.0
+"Himachal Pradesh","Mandi",10.0,342.0
+"Himachal Pradesh","Shimla",30.0,263.0
+"Himachal Pradesh","Sirmaur",10.0,116.0
+"Himachal Pradesh","Solan",6.0,136.0
+"Himachal Pradesh","Una",5.0,201.0
+"Jammu & Kashmir","Anantnag",25.0,67.0
+"Jammu & Kashmir","Badgam",16.0,25.0
+"Jammu & Kashmir","Bandipore",16.0,15.0
+"Jammu & Kashmir","Baramula",24.0,52.0
+"Jammu & Kashmir","Doda",4.0,16.0
+"Jammu & Kashmir","Ganderbal",12.0,7.0
+"Jammu & Kashmir","Jammu",20.0,166.0
+"Jammu & Kashmir","Kargil",6.0,0.0
+"Jammu & Kashmir","Kathua",9.0,93.0
+"Jammu & Kashmir","Kishtwar",2.0,1.0
+"Jammu & Kashmir","Kulgam",26.0,58.0
+"Jammu & Kashmir","Kupwara",17.0,22.0
+"Jammu & Kashmir","Pulwama",18.0,38.0
+"Jammu & Kashmir","Punch",5.0,26.0
+"Jammu & Kashmir","Rajauri",4.0,65.0
+"Jammu & Kashmir","Ramban",9.0,8.0
+"Jammu & Kashmir","Reasi",5.0,15.0
+"Jammu & Kashmir","Samba",7.0,21.0
+"Jammu & Kashmir","Shupiyan",20.0,40.0
+"Jammu & Kashmir","Srinagar",10.0,5.0
+"Jammu & Kashmir","Udhampur",6.0,48.0
+"Jharkhand","Bokaro",2.0,25.0
+"Jharkhand","Chatra",1.0,66.0
+"Jharkhand","Deoghar",17.0,141.0
+"Jharkhand","Dhanbad",0.0,21.0
+"Jharkhand","Dumka",3.0,89.0
+"Jharkhand","Garhwa",10.0,129.0
+"Jharkhand","Giridiha",10.0,95.0
+"Jharkhand","Goddda",3.0,109.0
+"Jharkhand","Gumla",3.0,67.0
+"Jharkhand","Hazaribagh",3.0,148.0
+"Jharkhand","Jamatra",1.0,30.0
+"Jharkhand","Khunti",0.0,27.0
+"Jharkhand","Kudarma",10.0,66.0
+"Jharkhand","Latehar",2.0,70.0
+"Jharkhand","Lohardaga",11.0,79.0
+"Jharkhand","Pakur",1.0,49.0
+"Jharkhand","Palmu",11.0,276.0
+"Jharkhand","Pashimi Singhbhum",4.0,51.0
+"Jharkhand","Purbi Singhbhum",3.0,32.0
+"Jharkhand","Ramgarh",2.0,74.0
+"Jharkhand","Ranchi",19.0,251.0
+"Jharkhand","Sahibagh",5.0,63.0
+"Jharkhand","Srikela-Kharswan",0.0,18.0
+"Jharkhand","Simdega",3.0,13.0
+"Karnataka","Bagalkot",42.0,508.0
+"Karnataka","Bangalore",72.0,203.0
+"Karnataka","Bangalore Rural",15.0,115.0
+"Karnataka","Belgaum",184.0,1099.0
+"Karnataka","Bellary",55.0,503.0
+"Karnataka","Bidar",20.0,259.0
+"Karnataka","Bijapur",18.0,448.0
+"Karnataka","Chamarajanagar",21.0,197.0
+"Karnataka","Chikkaballapura",18.0,236.0
+"Karnataka","Chikmaglur",31.0,325.0
+"Karnataka","Chitradurga",17.0,273.0
+"Karnataka","Dakshina Kannada",23.0,150.0
+"Karnataka","Davanagere",61.0,686.0
+"Karnataka","Dharwada",47.0,209.0
+"Karnataka","Gadag",30.0,314.0
+"Karnataka","Gulbarga",26.0,304.0
+"Karnataka","Hasan",38.0,555.0
+"Karnataka","Haveri",58.0,469.0
+"Karnataka","Kodagu",19.0,133.0
+"Karnataka","Kolar",47.0,191.0
+"Karnataka","Koppal",65.0,321.0
+"Karnataka","Mandya",35.0,380.0
+"Karnataka","Mysore",52.0,595.0
+"Karnataka","Raichur",261.0,478.0
+"Karnataka","Ramanagara",10.0,175.0
+"Karnataka","Shimoga",31.0,375.0
+"Karnataka","Tumkur",35.0,557.0
+"Karnataka","Udupi",17.0,74.0
+"Karnataka","Uttar Kannada",19.0,157.0
+"Karnataka","Yadgir",39.0,314.0
+"Kerala","Alappuzha",13.0,152.0
+"Kerala","Ernakulam",33.0,230.0
+"Kerala","Idduki",19.0,104.0
+"Kerala","Kannur",16.0,198.0
+"Kerala","od",11.0,103.0
+"Kerala","Kollam",10.0,205.0
+"Kerala","Kottayam",28.0,234.0
+"Kerala","Kozhikode",29.0,161.0
+"Kerala","Malappuram",20.0,265.0
+"Kerala","Palakkad",18.0,247.0
+"Kerala","Pathanamthitta",11.0,173.0
+"Kerala","Thiruvananthapuram",13.0,214.0
+"Kerala","Thrissur",17.0,220.0
+"Kerala","Wayanad",14.0,120.0
+"Lakshadweep","Lakshadweep",0.0,2.0
+"Madhya Pradesh","Alirajpur",18.0,107.0
+"Madhya Pradesh","Anuppur",5.0,35.0
+"Madhya Pradesh","Ashknagar",29.0,135.0
+"Madhya Pradesh","Balghat",17.0,152.0
+"Madhya Pradesh","Barwani",32.0,118.0
+"Madhya Pradesh","Betul",34.0,174.0
+"Madhya Pradesh","Bhind",36.0,161.0
+"Madhya Pradesh","Bhopal",35.0,90.0
+"Madhya Pradesh","Burhanpur",24.0,129.0
+"Madhya Pradesh","Chhatarpur",26.0,216.0
+"Madhya Pradesh","Chhindwara",46.0,279.0
+"Madhya Pradesh","Damoh",18.0,140.0
+"Madhya Pradesh","Datia",24.0,140.0
+"Madhya Pradesh","Dewas",84.0,214.0
+"Madhya Pradesh","Dhar",129.0,277.0
+"Madhya Pradesh","Dhindori",8.0,37.0
+"Madhya Pradesh","East Nimar",68.0,270.0
+"Madhya Pradesh","Guna",33.0,175.0
+"Madhya Pradesh","Gwalior",44.0,154.0
+"Madhya Pradesh","Harda",40.0,136.0
+"Madhya Pradesh","Hoshangabad",60.0,213.0
+"Madhya Pradesh","Indore",49.0,254.0
+"Madhya Pradesh","Jabalpur",47.0,166.0
+"Madhya Pradesh","Jhabua",30.0,137.0
+"Madhya Pradesh","Katni",18.0,133.0
+"Madhya Pradesh","Mandla",11.0,93.0
+"Madhya Pradesh","Mandsaur",111.0,278.0
+"Madhya Pradesh","Morena",39.0,235.0
+"Madhya Pradesh","Narasimhapur",62.0,108.0
+"Madhya Pradesh","Nemuch",60.0,143.0
+"Madhya Pradesh","Panna",13.0,162.0
+"Madhya Pradesh","Raisen",35.0,115.0
+"Madhya Pradesh","Rajgarh",63.0,214.0
+"Madhya Pradesh","Ratlam",75.0,220.0
+"Madhya Pradesh","Rewari",30.0,102.0
+"Madhya Pradesh","Sagar",51.0,210.0
+"Madhya Pradesh","Satna",30.0,155.0
+"Madhya Pradesh","Shore",68.0,37.0
+"Madhya Pradesh","Seoni",23.0,245.0
+"Madhya Pradesh","Shahdol",21.0,89.0
+"Madhya Pradesh","Shajapur",88.0,202.0
+"Madhya Pradesh","Sidhi",14.0,74.0
+"Madhya Pradesh","Singrauli",6.0,62.0
+"Madhya Pradesh","Tikamgarh",20.0,160.0
+"Madhya Pradesh","Ujjain",119.0,323.0
+"Madhya Pradesh","Umaria",6.0,62.0
+"Madhya Pradesh","Vidisha",34.0,219.0
+"Madhya Pradesh","WestNimar",43.0,306.0
+"Maharastra","AhamdNagar",257.0,1343.0
+"Maharastra","Akola",103.0,485.0
+"Maharastra","Amravati",115.0,914.0
+"Maharastra","Aurangabad",227.0,890.0
+"Maharastra","Bhandara",58.0,647.0
+"Maharastra","Bid",202.0,1188.0
+"Maharastra","Buldana",242.0,1042.0
+"Maharastra","Chandrapur",91.0,809.0
+"Maharastra","Dhule",110.0,514.0
+"Maharastra","Gadchiroli",65.0,787.0
+"Maharastra","Gondiya",68.0,673.0
+"Maharastra","Hingoli",90.0,485.0
+"Maharastra","Jalgaon",232.0,1913.0
+"Maharastra","Jalna",168.0,964.0
+"Maharastra","Kolhapur",339.0,1316.0
+"Maharastra","Latur",141.0,673.0
+"Maharastra","Mumbai",2.0,4.0
+"Maharastra","Nagpur",100.0,913.0
+"Maharastra","Nanded",201.0,1298.0
+"Maharastra","Nandurbar",51.0,304.0
+"Maharastra","Nashik",238.0,1461.0
+"Maharastra","Osmanabad",43.0,660.0
+"Maharastra","Parbhani",78.0,753.0
+"Maharastra","Pune",191.0,1108.0
+"Maharastra","Raigarh",40.0,182.0
+"Maharastra","Ratnagiri",36.0,432.0
+"Maharastra","Sangli",138.0,1123.0
+"Maharastra","Satara",115.0,1014.0
+"Maharastra","Sindhudurg",27.0,259.0
+"Maharastra","Solapur",262.0,1414.0
+"Maharastra","Thane",59.0,318.0
+"Maharastra","Wardha",97.0,658.0
+"Maharastra","Washim",63.0,444.0
+"Maharastra","Yavatmal",185.0,1052.0
+"Manipur","Bishnupur",8.0,4.0
+"Manipur","Chandel",0.0,0.0
+"Manipur","Churachandpur",0.0,0.0
+"Manipur","Imphal East",20.0,12.0
+"Manipur","ImphalWest",7.0,9.0
+"Manipur","Senapati",3.0,1.0
+"Manipur","Tamenglong",0.0,0.0
+"Manipur","Thoubal",14.0,9.0
+"Manipur","Ukhrul",0.0,0.0
+"Meghalaya","East Garo Hills",2.0,1.0
+"Meghalaya","East Khasi Hills",3.0,55.0
+"Meghalaya","Jaintia Hills",1.0,1.0
+"Meghalaya","Ribhoi",0.0,4.0
+"Meghalaya","South Garo Hills",0.0,0.0
+"Meghalaya","West Garo Hills",2.0,1.0
+"Meghalaya","West Khasi Hills",0.0,15.0
+"Mizoram","Aizawl",6.0,2.0
+"Mizoram","Champhai",7.0,0.0
+"Mizoram","Kolasib",0.0,0.0
+"Mizoram","Lawngtlai",1.0,0.0
+"Mizoram","Lunglei",1.0,0.0
+"Mizoram","Mamit",0.0,0.0
+"Mizoram","Saiha",0.0,0.0
+"Mizoram","Serchhip",0.0,0.0
+"Nagaland","Dimapur",2.0,2.0
+"Nagaland","Kiphire",0.0,0.0
+"Nagaland","Kohima",0.0,0.0
+"Nagaland","Longleng",0.0,0.0
+"Nagaland","Mokokchung",0.0,0.0
+"Nagaland","Mon",0.0,0.0
+"Nagaland","Perer",0.0,0.0
+"Nagaland","Phek",0.0,0.0
+"Nagaland","Tuensang",0.0,0.0
+"Nagaland","Wokha",0.0,0.0
+"Nagaland","Zunheboto",0.0,0.0
+"NCT Of Delhi","Central Delhi",35.0,29.0
+"NCT Of Delhi","East Delhi",2.0,4.0
+"NCT Of Delhi","New Delhi",1.0,1.0
+"NCT Of Delhi","NorthDelhi",1.0,1.0
+"NCT Of Delhi","North-East Delhi",1.0,1.0
+"NCT Of Delhi","North-West Delhi",15.0,22.0
+"NCT Of Delhi","Sahadara",0.0,0.0
+"NCT Of Delhi","South Delhi",0.0,2.0
+"NCT Of Delhi","South-West Delhi",1.0,1.0
+"NCT Of Delhi","West Delhi",2.0,1.0
+"Odisha","Anugul",29.0,214.0
+"Odisha","Balangir",25.0,775.0
+"Odisha","Baleswar",29.0,804.0
+"Odisha","Baragarh",57.0,407.0
+"Odisha","Baudh",8.0,214.0
+"Odisha","Bhadrak",41.0,634.0
+"Odisha","Cuttack",41.0,370.0
+"Odisha","Debagarh",7.0,95.0
+"Odisha","Dhenkanal",25.0,242.0
+"Odisha","Gajapati",16.0,72.0
+"Odisha","Ganjam",83.0,576.0
+"Odisha","Jagatsinghapur",21.0,156.0
+"Odisha","Jajpur",34.0,363.0
+"Odisha","Jharasuguda",9.0,64.0
+"Odisha","Kalahandi",47.0,784.0
+"Odisha","Kandhamal",3.0,70.0
+"Odisha","Kendrapada",22.0,291.0
+"Odisha","Kendujhar",22.0,415.0
+"Odisha","Khorda",28.0,229.0
+"Odisha","Koraput",33.0,260.0
+"Odisha","Malkangiri",14.0,216.0
+"Odisha","Mayurbhanj",39.0,587.0
+"Odisha","Nabarangapur",54.0,517.0
+"Odisha","Nayagarh",16.0,134.0
+"Odisha","Nuapada",15.0,326.0
+"Odisha","Puri",42.0,230.0
+"Odisha","Rayagada",19.0,194.0
+"Odisha","Sambalapur",26.0,301.0
+"Odisha","Subarnapur",16.0,250.0
+"Odisha","Sundargarh",17.0,269.0
+"Poducherry","Karaikal",3.0,2.0
+"Poducherry","Mahe",0.0,0.0
+"Poducherry","Poducherry",9.0,33.0
+"Poducherry","Yanam",0.0,3.0
+"Punjab","Amritsar",50.0,554.0
+"Punjab","Barnal",27.0,267.0
+"Punjab","Bathinda",60.0,521.0
+"Punjab","Faridkot",49.0,220.0
+"Punjab","Ftegarh Saheb",20.0,191.0
+"Punjab","Firozpur",93.0,792.0
+"Punjab","Gurdaspur",38.0,640.0
+"Punjab","Hoshiarpur",36.0,458.0
+"Punjab","Jalandhar",43.0,441.0
+"Punjab","Kapurthala",36.0,289.0
+"Punjab","Ludhiana",75.0,629.0
+"Punjab","Mansa",32.0,333.0
+"Punjab","Moga",30.0,303.0
+"Punjab","Muktsar",66.0,380.0
+"Punjab","Patiala",74.0,521.0
+"Punjab","Rupnagar",22.0,178.0
+"Punjab","Sahibazada Ajit Singh Nagar",21.0,126.0
+"Punjab","Sangrur",58.0,633.0
+"Punjab","Shahid Bhagat Singh Nagar",27.0,201.0
+"Punjab","Tarn Taran",53.0,515.0
+"Rajastan","Ajmer",29.0,262.0
+"Rajastan","Alwar",43.0,806.0
+"Rajastan","Banswara",26.0,304.0
+"Rajastan","Baran",30.0,267.0
+"Rajastan","Barmer",15.0,117.0
+"Rajastan","Bharatpur",49.0,359.0
+"Rajastan","Bhilwara",39.0,346.0
+"Rajastan","Bikaner",42.0,157.0
+"Rajastan","Bundi",39.0,325.0
+"Rajastan","Chittaurgarh",32.0,377.0
+"Rajastan","Churu",12.0,55.0
+"Rajastan","Dausa",32.0,268.0
+"Rajastan","Dhaulpur",29.0,182.0
+"Rajastan","Dungarpur",15.0,128.0
+"Rajastan","GangaNagar",102.0,568.0
+"Rajastan","Hanumangarh",107.0,405.0
+"Rajastan","Jaipur",69.0,722.0
+"Rajastan","Jaisalmer",15.0,82.0
+"Rajastan","Jalor",21.0,380.0
+"Rajastan","Jhalwar",37.0,387.0
+"Rajastan","Jhunjhunun",31.0,246.0
+"Rajastan","Jodhapur",26.0,346.0
+"Rajastan","Karauli",29.0,294.0
+"Rajastan","Kota",38.0,323.0
+"Rajastan","Nagaur",32.0,325.0
+"Rajastan","Pali",28.0,234.0
+"Rajastan","Pratapgarh",26.0,139.0
+"Rajastan","Rajsamand",10.0,129.0
+"Rajastan","Sawai Madhopur",30.0,302.0
+"Rajastan","Sikar",29.0,305.0
+"Rajastan","Sirohi",17.0,162.0
+"Rajastan","Tonk",24.0,395.0
+"Rajastan","Udaipur",25.0,262.0
+"Sikkim","East District",0.0,0.0
+"Sikkim","North District",0.0,0.0
+"Sikkim","South District",0.0,0.0
+"Sikkim","West District",0.0,0.0
+"Tamil Nadu","Ariyalur",17.0,141.0
+"Tamil Nadu","Chennai",0.0,1.0
+"Tamil Nadu","Coimbator",71.0,370.0
+"Tamil Nadu","Cuddalore",39.0,382.0
+"Tamil Nadu","Dharmapuri",29.0,379.0
+"Tamil Nadu","Dindigul",45.0,417.0
+"Tamil Nadu","Erode",76.0,530.0
+"Tamil Nadu","Kancheepuram",34.0,335.0
+"Tamil Nadu","Kanniyakumar",18.0,245.0
+"Tamil Nadu","Karur",24.0,228.0
+"Tamil Nadu","Krishnagiri",28.0,334.0
+"Tamil Nadu","Madurai",81.0,354.0
+"Tamil Nadu","Nagapattinam",24.0,264.0
+"Tamil Nadu","Namakkal",24.0,474.0
+"Tamil Nadu","Perambalur",21.0,197.0
+"Tamil Nadu","Poudukottai",58.0,349.0
+"Tamil Nadu","Ramanathapuram",19.0,253.0
+"Tamil Nadu","Salem",91.0,667.0
+"Tamil Nadu","Sivaganga",16.0,266.0
+"Tamil Nadu","Thanjavarur",53.0,481.0
+"Tamil Nadu","Theni",27.0,247.0
+"Tamil Nadu","The Nalgiris",23.0,209.0
+"Tamil Nadu","Thiruvallur",29.0,246.0
+"Tamil Nadu","Thiruvarur",23.0,361.0
+"Tamil Nadu","Thoothukkudi",27.0,293.0
+"Tamil Nadu","Tiruchirappalli",57.0,388.0
+"Tamil Nadu","Tirunelveli",59.0,437.0
+"Tamil Nadu","Tiruppur",16.0,284.0
+"Tamil Nadu","Tiruvannamalai",37.0,557.0
+"Tamil Nadu","Vellore",52.0,449.0
+"Tamil Nadu","Viluppuram",80.0,643.0
+"Tamil Nadu","Virudhunagar",22.0,317.0
+"Tripura","Dhalai",2.0,18.0
+"Tripura","North Tripura",5.0,31.0
+"Tripura","South Tripura",5.0,104.0
+"Tripura","West tripura",16.0,178.0
+"Uttarakhand","Almora",0.0,82.0
+"Uttarakhand","Bageswar",0.0,17.0
+"Uttarakhand","Chamoli",0.0,51.0
+"Uttarakhand","Champawat",0.0,17.0
+"Uttarakhand","Dehradun",3.0,66.0
+"Uttarakhand","Garhwal",0.0,23.0
+"Uttarakhand","Hardwar",24.0,101.0
+"Uttarakhand","Nainital",4.0,80.0
+"Uttarakhand","Pithoragarh",0.0,65.0
+"Uttarakhand","Rudraprayag",0.0,37.0
+"Uttarakhand","Tehri Garhwal",0.0,67.0
+"Uttarakhand","Udham Singh Nagar",39.0,371.0
+"Uttarakhand","Uttarkashi",0.0,44.0
+"Uttar Pradesh","Agra",52.0,463.0
+"Uttar Pradesh","Aligarh",47.0,632.0
+"Uttar Pradesh","Allahabad",50.0,691.0
+"Uttar Pradesh","Ambedkar Nagar",24.0,494.0
+"Uttar Pradesh","Auraiya",35.0,327.0
+"Uttar Pradesh","Azamgarh",40.0,722.0
+"Uttar Pradesh","Baghpat",9.0,101.0
+"Uttar Pradesh","Bahraich",35.0,643.0
+"Uttar Pradesh","Ballia",33.0,507.0
+"Uttar Pradesh","Balrampur",18.0,626.0
+"Uttar Pradesh","Banda",10.0,98.0
+"Uttar Pradesh","Bara Banki",45.0,865.0
+"Uttar Pradesh","Bareilly",33.0,469.0
+"Uttar Pradesh","Basti",30.0,390.0
+"Uttar Pradesh","Bijnor",22.0,390.0
+"Uttar Pradesh","Budaun",91.0,398.0
+"Uttar Pradesh","Bulandshahar",25.0,496.0
+"Uttar Pradesh","Chandauli",16.0,201.0
+"Uttar Pradesh","Chitrakoot",7.0,50.0
+"Uttar Pradesh","CSM Nagar",22.0,249.0
+"Uttar Pradesh","Deoria",32.0,1014.0
+"Uttar Pradesh","Etah",24.0,306.0
+"Uttar Pradesh","Etawah",38.0,239.0
+"Uttar Pradesh","Faizabad",26.0,567.0
+"Uttar Pradesh","Farrukhabad",28.0,773.0
+"Uttar Pradesh","Fatehpur",23.0,593.0
+"Uttar Pradesh","Firozabad",46.0,470.0
+"Uttar Pradesh","Gautam Budha Nagar",13.0,94.0
+"Uttar Pradesh","Ghaziabad",18.0,174.0
+"Uttar Pradesh","Ghazipur",25.0,478.0
+"Uttar Pradesh","Gonda",28.0,1200.0
+"Uttar Pradesh","Gorakhpur",37.0,1228.0
+"Uttar Pradesh","Hamirpur",10.0,148.0
+"Uttar Pradesh","Hardoi",45.0,810.0
+"Uttar Pradesh","Jalaun",28.0,201.0
+"Uttar Pradesh","Jaunpur",33.0,720.0
+"Uttar Pradesh","Jhansi",16.0,224.0
+"Uttar Pradesh","Jyotiba Phule Nagar",37.0,234.0
+"Uttar Pradesh","Kannauj",41.0,591.0
+"Uttar Pradesh","Kanpur Dehat",14.0,334.0
+"Uttar Pradesh","Kanpur Nagar",21.0,405.0
+"Uttar Pradesh","Kanshiram Nagar",24.0,322.0
+"Uttar Pradesh","Kaushambi",15.0,165.0
+"Uttar Pradesh","Kheri",44.0,744.0
+"Uttar Pradesh","KushiNagar",49.0,611.0
+"Uttar Pradesh","Lalitpur",29.0,217.0
+"Uttar Pradesh","Lucknow",38.0,489.0
+"Uttar Pradesh","Mahamaya Nagar",30.0,257.0
+"Uttar Pradesh","Mahoba",5.0,64.0
+"Uttar Pradesh","Maharajganj",46.0,828.0
+"Uttar Pradesh","Mainpuri",38.0,484.0
+"Uttar Pradesh","Mathura",23.0,483.0
+"Uttar Pradesh","Mau",24.0,342.0
+"Uttar Pradesh","Meerut",36.0,237.0
+"Uttar Pradesh","Mirzapur",13.0,204.0
+"Uttar Pradesh","Moradabad",30.0,554.0
+"Uttar Pradesh","Muzaffarnagar",28.0,371.0
+"Uttar Pradesh","Pilibhit",30.0,387.0
+"Uttar Pradesh","Pratapgarh",21.0,663.0
+"Uttar Pradesh","RaeBareli",21.0,600.0
+"Uttar Pradesh","Rampur",16.0,277.0
+"Uttar Pradesh","Saharnpur",18.0,277.0
+"Uttar Pradesh","Sant Kabir Nagar",24.0,388.0
+"Uttar Pradesh","Sant Ravidas Nagar",0.0,0.0
+"Uttar Pradesh","Shahjahanpur",48.0,541.0
+"Uttar Pradesh","Shrawasti",10.0,212.0
+"Uttar Pradesh","Siddharthnagar",28.0,777.0
+"Uttar Pradesh","Sitapur",33.0,669.0
+"Uttar Pradesh","Sonbhadra",29.0,167.0
+"Uttar Pradesh","Sultanpur",26.0,544.0
+"Uttar Pradesh","Unnao",25.0,571.0
+"Uttar Pradesh","Varanasi",47.0,271.0
+"West Bengal","Bankura",182.0,1020.0
+"West Bengal","Barddhaman",156.0,1039.0
+"West Bengal","Birbhum",62.0,754.0
+"West Bengal","Dakshin Dinajpur",105.0,941.0
+"West Bengal","Darjling",11.0,14.0
+"West Bengal","Howrah",80.0,364.0
+"West Bengal","Hugli",228.0,939.0
+"West Bengal","Jalpaiguri",165.0,895.0
+"West Bengal","Koch Bihar",182.0,907.0
+"West Bengal","Kolkata",1.0,9.0
+"West Bengal","Maldah",101.0,761.0
+"West Bengal","Murshidabad",143.0,1181.0
+"West Bengal","Nadia",264.0,2338.0
+"West Bengal","North Twenty Four Pargannas",193.0,2028.0
+"West Bengal","Paschim Medinipur",383.0,1514.0
+"West Bengal","Purba Medinipur",133.0,865.0
+"West Bengal","Puruliya",26.0,366.0
+"West Bengal","South Twenty Four Pargannas",168.0,975.0
+"West Bengal","Uttar Dinajpur",149.0,767.0

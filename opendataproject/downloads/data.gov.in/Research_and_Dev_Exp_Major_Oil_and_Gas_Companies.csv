@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table provides Research and Development (R&D) Expenditure by Major Oil and Gas Companies. It gives the actual and percentage of expenditure in 2009 as well as the estimates in Twelfth Five Year Plan (2012-17).", 
+ "file_name": "Research_and_Dev_Exp_Major_Oil_and_Gas_Companies.xls", 
+ "title": "Download XLS for Research and Development Expenditure by Major Oil and Gas Companies", 
+ "url": "http://data.gov.in/sites/default/files/Research_and_Dev_Exp_Major_Oil_and_Gas_Companies.xls"
+}
+-----
+"Category","Expenditure 2009-10 (Rs Crore)","Percent of R&D Expenditure/Revenue","Eleventh Plan Actual","Twelfth Plan Estimated"
+"Indian Oil",89.65,0.04,317.83,955.0
+"BPCL",26.0,0.02,155.38,429.0
+"HPCL",2.1,0.0,24.5,315.0
+"CPCL",0.3,0.0,7.4,14.0
+"RIL",41.0,0.02,1640.0,2000.0
+"EOL",0.0,0.0,12.0,25.0
+"ONGC",219.95,0.34,1289.32,2156.0
+"OIL",22.49,0.27,108.63,257.0
+"GAIL",16.17,0.06,17.23,71.0
+"EIL",11.0,0.54,46.0,104.0
+"Total",428.66,0.06,3618.29,6326.0

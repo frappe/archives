@@ -1,0 +1,90 @@
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to horse power of lifting device . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.9.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to Horse Power of Lifting Device for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.9.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to social status . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.4.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to Social status for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.4.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise Deep Tubewells according to water distribution system . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.7.csv", 
+ "title": "Download CSV for Village wise Deep Tubewells according to Water Distribution System for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.7.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to source of finance . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.6.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to source of Finance for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.6.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells according to water lifting device . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.8.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells according to Water Lifting Device for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.8.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of Deep Tubewells by status . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.5.csv", 
+ "title": "Download CSV for Village wise Distribution of Deep Tubewells by Status for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.5.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes by type. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.5.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes by its type for 2nd census of minor irrigation scheme (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.5.csv"
+}
+-----
+State,Flow schemes - Storage,Flow schemes - Permanent Diversion,Flow schemes - Temporary Diversion,Flow schemes - Water Circulation,Total
+ANDHRA PRADESH,70293,4177,2676,2807,79953
+ARUNACHAL PRADESH,62,440,3054,32,3588
+ASSAM,183,195,1953,16,2347
+BIHAR,50813,8112,1829,6494,67248
+GOA,1396,551,1180,49,3176
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,458,3,6,43,510
+HIMACHAL PRADESH,799,5865,7540,141,14345
+JAMMU & KASHMIR,116,8493,535,0,9144
+KARNATAKA,25105,6099,5178,2704,39086
+KERALA,6534,2442,1166,239,10381
+MADHYA PRADESH,34382,6534,11427,3781,56124
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,6,198,36,0,240
+MEGHALAYA,803,2526,10440,495,14264
+MIZORAM,55,584,4136,0,4775
+NAGALAND,15,1792,12250,2,14059
+ORISSA,17028,4264,1989,822,24103
+PUNJAB,213,150,26,5,394
+RAJASTHAN,2508,275,244,75,3102
+SIKKIM,34,390,430,0,854
+TAMIL NADU,62253,12455,5079,4936,84723
+TRIPURA,343,27,196,34,600
+UTTAR PRADESH,10835,4195,8027,827,23884
+WEST BENGAL,55401,4721,3984,2348,66454
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,4,4,3,0,11
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,13,1341,29,0,1383
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,1191,14342,2111,1,17645
+ALL INDIA,340843,90175,85524,25851,542393

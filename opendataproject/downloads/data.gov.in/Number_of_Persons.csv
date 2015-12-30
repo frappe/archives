@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The table gives the estimated number of persons in India as per NSS 61st and 66th Round (in millions). It gives details for Rural and Urban areas by Status of persons (Labour force or Work force or Unemployed).", 
+ "file_name": "Number_of_Persons.xls", 
+ "title": "Download XLS for Estimated number of persons in India (in millions) ", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Persons.xls"
+}
+-----
+"Usual Status (ps+ss)","61st Round of NSS (2004–05) Rural","61st Round of NSS (2004–05) Urban","61st Round of NSS (2004–05)Total","66th Round of NSS (2009–10) Rural","66th Round of NSS (2009–10) Urban","66th Round of NSS (2009–10) Total"
+"Labour Force",348.7,120.3,469.0,341.9,126.9,468.8
+"Work Force",342.9,115.0,457.9,336.4,122.6,459.0
+"Unemployed ",5.9,5.4,11.3,5.5,4.3,9.8

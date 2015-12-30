@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides data related to cases and deaths due to Japanese Encephalitis and Dengue / DHF during Tenth Plan.", 
+ "file_name": "Cases_and_Deaths_due_to_Japanese_Encephalitis_and_Dengue_or_DHF_during_Tenth_Plan.xls", 
+ "title": "Download XLS for Cases and Deaths due to Japanese Encephalitis and Dengue / DHF during Tenth Plan", 
+ "url": "http://data.gov.in/sites/default/files/Cases_and_Deaths_due_to_Japanese_Encephalitis_and_Dengue_or_DHF_during_Tenth_Plan.xls"
+}
+-----
+"Year","JE Cases","JE Deaths","DENGUE/DHF Cases  ","DENGUE/DHF Deaths"
+1997.0,2516.0,632.0,1177.0,36.0
+1998.0,2120.0,507.0,707.0,18.0
+1999.0,3428.0,680.0,944.0,17.0
+"2000 (P)",2313.0,535.0,605.0,7.0

@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides data related to resources of the centre in Eleventh and Twelfth Plan as percentage of GDP.", 
+ "file_name": "FR1011_06.xls", 
+ "title": "Download XLS for Resources of the Centre in Eleventh and Twelfth Plan as Percentage of GDP", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_06.xls"
+}
+-----
+"Sl. No.","Sources of Funding","Tenth Plan Realization","Eleventh Plan Projections","Increases (+)/Decreases (-)"
+1.0,"Balance From Current Revenues",-0.84,2.31,3.15
+2.0,"Borrowings including net MCR",5.03,2.86,-2.17
+3.0,"Net Flow from Abroad",0.6,0.0,0.0
+4.0,"Gross Budgetary Support to Plan (1 to3)",4.25,5.17,0.92
+5.0,"Central Assistance to States & UTs*",1.48,1.2,-0.28
+6.0,"GBS for Central Plan (4-5)",2.77,3.97,1.2
+7.0,"Resources of PSEs",2.61,4.02,1.41
+8.0,"Resources for Central Plan (6+7)",5.38,7.99,2.61

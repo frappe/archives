@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise irrigation through supplementary sources with dugwells. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.15.csv", 
+ "title": "Download CSV for Village wise Irrigation through supplementary sources with Dugwells for 2nd census of minor irrigation schemes(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.15.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to social status . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.4.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Social status for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.4.csv"
+}
+-----
+"State","Scheduled caste","Scheduled tribe","Other social status of farmers","Total"
+"ANDHRA PRADESH",266,23,1908,2197
+"ARUNACHAL PRADESH",NA,NA,NA,NA
+"ASSAM",0,0,0,0
+"BIHAR",34,0,99,133
+"GOA",0,0,1,1
+"GUJARAT",NA,NA,NA,NA
+"HARYANA",66,50,3953,4069
+"HIMACHAL PRADESH",0,0,15,15
+"JAMMU & KASHMIR",5,0,24,29
+"KARNATAKA",8162,6130,125302,139594
+"KERALA",4,2,20,26
+"MADHYA PRADESH",395,399,4367,5161
+"MAHARASHTRA",NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA
+"MEGHALAYA",0,0,0,0
+"MIZORAM",NA,NA,NA,NA
+"NAGALAND",0,0,0,0
+"ORISSA",0,0,12,12
+"PUNJAB",25,3,1217,1245
+"RAJASTHAN",545,139,6305,6989
+"SIKKIM",NA,NA,NA,NA
+"TAMIL NADU",953,289,14917,16159
+"TRIPURA",0,0,0,0
+"UTTAR PRADESH",18,2,296,316
+"WEST BENGAL",0,0,1,1
+"ANDAMAN & NICOBARS",NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA
+"DELHI",0,0,191,191
+"LAKSHADWEEP",NA,NA,NA,NA
+"PONDICHERRY",0,0,3,3
+"ALL INDIA",10473,7037,158631,176141

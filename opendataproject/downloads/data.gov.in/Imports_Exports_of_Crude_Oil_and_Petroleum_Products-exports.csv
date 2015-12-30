@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table consists of imports or exports of crude oil and petroleum products in India during 2006-07 to 2011-12.", 
+ "file_name": "Imports_Exports_of_Crude_Oil_and_Petroleum_Products.xls", 
+ "title": "Download XLS for Imports / Exports of Crude Oil And Petroleum Products During 2006-07 To 2011-12", 
+ "url": "http://data.gov.in/sites/default/files/Imports_Exports_of_Crude_Oil_and_Petroleum_Products.xls"
+}
+-----
+"Item","Sub Item","2006-07 Qty.","2006-07 Value","2007-08 Qty.","2007-08 Value","2008-09 Qty.","2008-09 Value","2009-10 Qty.","2009-10 Value","2010-11 Qty.","2010-11 Value","2011-12* Qty.","2011-12* Value"
+"Petroleum Products","Light Distillates:LPG",112.0,342.0,98.9,400.7,109.0,455.0,131.0,491.0,154.0,693.0,174.0,947.0
+"Petroleum Products","Light Distillates: MS",3615.0,10191.0,4258.0,13614.0,5432.5,17779.0,9762.0,31170.0,13578.0,49480.0,14524.0,73982.0
+"Petroleum Products","Light Distillates: Naphtha",8411.0,21431.0,9297.3,27364.6,7601.0,24849.0,9911.0,29848.0,10655.0,37138.0,10139.0,45620.0
+"Petroleum Products","Middle Distillates: ATF",3652.0,10254.0,4486.3,13556.0,3701.0,13478.8,4588.0,13331.0,4478.0,16140.0,4561.0,21857.0
+"Petroleum Products","Middle Distillates: SKO",150.0,541.0,136.6,491.9,77.0,362.0,46.0,154.0,33.0,141.0,34.0,191.0
+"Petroleum Products","Middle Distillates: HSD",11369.0,29198.0,14308.1,40871.4,14693.0,49563.0,18420.0,50833.0,20433.0,69560.0,20491.1,104903.15
+"Petroleum Products","Heavy Ends: FO / LSHS",3759.0,4988.0,4718.3,6811.0,6201.0,12240.0,5173.0,10501.0,6734.0,15098.0,7895.0,25576.0
+"Petroleum Products","Heavy Ends: VGO/Lubes",859.0,1826.0,1498.0,3236.2,122.2,1021.0,86.8,212.7,29.0,147.0,27.0,181.0
+"Petroleum Products","Heavy Ends: Coke/Bitumen/White Oil/Paraffin",66.0,77.0,408.6,613.8,132.0,306.0,285.2,543.5,56.0,124.0,5.0,27.0
+"Petroleum Products","Heavy Ends: Others",1425.0,1629.0,1286.0,2989.0,833.3,2010.2,2570.5,6952.4,2927.0,8340.0,2986.9,11359.85
+"Total","Total",33418.0,80477.0,40496.1,109948.6,38902.0,122064.0,50973.5,144036.6,59077.0,196861.0,60837.0,284644.0

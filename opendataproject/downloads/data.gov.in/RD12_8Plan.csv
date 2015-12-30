@@ -1,0 +1,15 @@
+-----
+{
+ "description": "An overview of Financial & Physical Performance under Poverty Alleviation Programmes IRDP, SGSY, JRY, JGSY and EAS during the 8th Five Year Plan - Yearwise (1992-93 to 1996-97). This includes total allocation by Center and States, expenditure and number of beneficiaries/families assisted under ...", 
+ "file_name": "RD12_8Plan.csv", 
+ "title": "Download CSV for Financial and Physical Performance under Poverty Alleviation Programmes IRDP, SGSY, JRY, JGSY and EAS during 8th Five Year Plan - Yearwise (1992-93 to 1996-97)", 
+ "url": "http://data.gov.in/sites/default/files/RD12_8Plan.csv"
+}
+-----
+S. No.,Years,Eight Five Year Plan (1192-93 to 1996-97) RDP/ SGSY Total Allocation (Centre and state) in Rs. crore,Eight Five Year Plan (1992-93 to 1996-97) RDP/ SGSY Total Expendtiure in Rs. Crore,Eight Five Year Plan (1992-93 to 1996-97) RDP/ SGSY Lakh Famllies Swarozgaries,Eight Five Year Plan (1992-93 to 1996-97) JRY/JGSY Total Allocation (Centre and state) in Rs. Crore,Eight Five Year Plan (1992-93 to 1996-97) JRY/JGSY Total Expendtiure in Rs. Crore,Eight Five Year Plan (1992-93 to 1996-97) JRY/JGSY Lakh Famllies Swarozgaries,Eight Five Year Plan (1992-93 to 1996-97) EAS Total Allocation (Centre and state) in Rs. Crore,Eight Five Year Plan (1992-93 to 1996-97) EAS Total Expendtiure in Rs. Crore,Eight Five Year Plan (1992-93 to 1996-97)EAS Lakh Famllies Swarozgaries
+1,1992-93,662.22 ,693.88 ,20.69 ,"3,169.05 ","2,709.59 ","7,821.02 ",0.00 ,0.00 ,0.00 
+2,1993-94,"1,093.43 ",956.65 ,25.39 ,"4,059.42 ","3,878.71 ","10,258.40 ",0.00 ,183.75 ,494.74 
+3,1994-95,"1,098.22 ","1,008.31 ",22.15 ,"4,376.92 ","4,268.33 ","9,517.07 ",0.00 ,"1,235.45 ","2,729.56 "
+4,1995-96,"1,097.21 ","1,077.16 ",20.89 ,"4,848.70 ","4,466.91 ","8,958.25 ",0.00 ,"1,720.61 ","3,465.27 "
+5,1996-97,"1,097.21 ","1,131.68 ",19.24 ,"2,236.79 ","2,163.98 ","4,006.32 ",0.00 ,"2,160.41 ","4,030.02 "
+Total,1992-97,"5,048.29 ","4,867.68 ",108.36 ,"18,690.88 ","17,487.52 ","40,561.06 ",0.00 ,"5,300.22 ","10,719.60 "

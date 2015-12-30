@@ -1,0 +1,41 @@
+-----
+{
+ "description": "The table refers to Statewise Surface Lift Schemes in the command of Major/Medium Projects and Supplimentary Irrigation. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.14.csv", 
+ "title": "Download CSV for Statewise Surface Lift Schemes in the command of Major/Medium Projects and Supplimentary Irrigation", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.14.csv"
+}
+-----
+"State","Location of  Schemes (Nos) - Inside Command","Location of Schemes (Nos) - Outside Command","Total","Supplementary Irrigation (Ha) - Kharif","Supplementary Irrigation (Ha) - Rabi","Supplementary Irrigation (Ha) - Perennial","Supplementary Irrigation (Ha) - Others","Total"
+"ANDHRA PRADESH",2044,22149,24193,15643,5034,475,144,21296
+"ARUNACHAL PRADESH",0,21,21,2,0,0,0,2
+"ASSAM",65,1643,1708,3,236,4,0,243
+"BIHAR",272,2615,2887,694,805,329,370,2198
+"CHHATTISGARH",6436,18990,25426,1207,265,4,1,1477
+"GOA",111,873,984,0,0,21,0,21
+"GUJARAT",514,2677,3191,0,0,0,0,0
+"HARYANA",378,268,646,629,693,0,0,1322
+"HIMACHAL PRADESH",13,711,724,199,202,0,0,401
+"JAMMU & KASHMIR",48,457,505,1571,414,2,91,2078
+"JHARKHAND",130,11867,11997,58,56,9,1,124
+"KARNATAKA",5602,54767,60369,0,0,0,0,0
+"KERALA",337,13156,13493,113,305,143,128,689
+"MADHYA PRADESH",18993,177149,196142,4491,27191,16,2,31700
+"MAHARASHTRA",37175,62727,99902,5841,7401,14459,713,28414
+"MANIPUR",0,44,44,0,0,0,0,0
+"MEGHALAYA",0,11,11,0,0,0,0,0
+"MIZORAM",3,213,216,0,0,0,0,0
+"NAGALAND",0,38,38,0,0,0,0,0
+"ORISSA",191,32653,32844,444,84,1,4,533
+"PUNJAB",55,1386,1441,13,13,0,0,26
+"RAJASTHAN",283,1941,2224,0,17,0,1,18
+"TAMIL NADU",333,9753,10086,599,173,86,3,861
+"TRIPURA",137,1030,1167,862,2255,72,205,3394
+"UTTAR PRADESH",1767,4777,6544,575,1458,316,19,2368
+"UTTARANCHAL",30,678,708,116,90,76,0,282
+"WEST BENGAL",20993,86602,107595,2096,840,60,540,3536
+"ANDAMAN & NICOBARS",4,1692,1696,0,0,0,0,0
+"DADRA & NAGAR HAVELI",0,71,71,0,0,0,0,0
+"DELHI",0,38,38,0,0,0,0,0
+"PONDICHERRY",0,7,7,0,0,0,0,0
+"ALL INDIA",95914,511004,606918,35156,47532,16073,2222,100983

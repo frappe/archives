@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides details on enrolment in different stages of higher education for different categories of Courses and Diplomas from 2007-08 to 2009-10.", 
+ "file_name": "enrolment04_1.xls", 
+ "title": "Download XLS for Enrolment In Different Stages Of Higher Education For Different Categories Of Courses And Diplomas", 
+ "url": "http://data.gov.in/sites/default/files/enrolment04_1.xls"
+}
+-----
+"Year","Enrolment : 2007-08","Enrolment : 2008-09","Enrolment : 2009-10 (Provisional)","% Enrolment : 2007-08","% Enrolment : 2008-09","% Enrolment : 2009-10"
+"UG enrolment",11063827.0,11814457.0,13872870.0,81.4006831025,80.5010427119,80.21278414
+"PG enrolment",1514115.0,1577162.0,1833507.0,11.1399062274,10.7464258007,10.6013176228
+"Doctoral",76227.0,78388.0,92211.0,0.560830341152,0.534118134765,0.533163003642
+"Post School Diploma",849689.0,1099127.0,1407406.0,6.25147745212,7.48920323404,8.13760625417
+"Post Graduate Diploma",87953.0,107020.0,89092.0,0.647102876872,0.729210118673,0.515128979411
+"Grand Total",13591811.0,14676154.0,17295086.0,100.0,100.0,100.0

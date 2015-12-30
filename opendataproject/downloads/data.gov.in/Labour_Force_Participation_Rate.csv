@@ -1,0 +1,11 @@
+-----
+{
+ "description": "The table provides Labour Force Participation Rate (LFPR) by Gender on Usual Principal and Subsidiary Status (UPSS) basis for the years 2004\u201305 and 2009\u201310 in percentage terms.", 
+ "file_name": "Labour_Force_Participation_Rate.xls", 
+ "title": "Download XLS for Labour Force Participation Rate by Gender (in percentage)", 
+ "url": "http://data.gov.in/sites/default/files/Labour_Force_Participation_Rate.xls"
+}
+-----
+"Category","2004-05 Male","2004-05 Female","2009-10 Male","2009-10 Female"
+"Rural ",85.9,49.4,82.5,37.8
+"Urban ",79.2,24.4,76.2,19.4

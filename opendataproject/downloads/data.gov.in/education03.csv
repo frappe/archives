@@ -1,0 +1,15 @@
+-----
+{
+ "description": "The dropout rate represent percentage of pupils who dropout from a given grade or cycle or level of education in a given school year and the method used to calculate it is apparent cohort method.  This could be generated for various social classes.", 
+ "file_name": "education03.csv", 
+ "title": "Download CSV for Dropout Rates by Social Composition for the year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/education03.csv"
+}
+-----
+Category,Boy,Girls,Total
+"Dropout Rates by Social Composition, 2004–05 of SCs  at Primary (I-V)",32.70,36.10,34.20
+"Dropout Rates by Social Composition, 2004–05 of STs at primary (I-V)",42.60,42.00,42.30
+All at primary Level,31.80,25.40,29.00
+"Dropout Rates by Social Composition, 2004–05 SCs of at  Elementary Level ( I-VIII)",55.20,60.00,57.30
+"Dropout Rates by Social Composition, 2004–05 STs of at  Elementary Level ( I-VIII)",65.00,67.10,65.90
+All at Elementary Level ( I-VIII),50.50,51.30,50.80

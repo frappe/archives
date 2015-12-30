@@ -1,0 +1,23 @@
+-----
+{
+ "description": "This data provides details on Import Export Classification, ITC (HS) Code and Import Policy 2012. ITC (HS) codes are better known as Indian Trade Clarification (ITC) and are based on Harmonized System (HS) of Coding. It was adopted in India for import-export operations. Indian custom uses an eight ...", 
+ "file_name": "ITCHS_2012.xls", 
+ "title": "Download XLS for Import Export Classification, ITC (HS) Code And Import Policy 2012", 
+ "url": "http://data.gov.in/sites/default/files/ITCHS_2012.xls"
+}
+-----
+-----
+{
+ "description": "This table gives an overview of year-wise awards of Public Private Partnership (PPP) projects during Eleventh Five Year Plan.", 
+ "file_name": "Year-wise_Awards_of_PPP_Projects_During_Eleventh_Five_Year_Plan.xls", 
+ "title": "Download XLS for Year-wise Awards of Public Private Partnership (PPP) Projects During Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Year-wise_Awards_of_PPP_Projects_During_Eleventh_Five_Year_Plan.xls"
+}
+-----
+"Years","Investment/Awards (Rs. in crore)","Capacity Addition (in MMT)"
+"2007-08",703.34,7.5
+"2008-09",749.43,18.0
+"2009-10",618.95,19.5
+"2010-11",3147.13,30.5
+"2011-12",7977.0,79.0
+"Total",13195.85,154.5

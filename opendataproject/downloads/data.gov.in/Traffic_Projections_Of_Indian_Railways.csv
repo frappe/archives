@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table gives an overview of traffic projections of India Railways during Twelfth Five Year Plan.", 
+ "file_name": "Traffic_Projections_Of_Indian_Railways.xls", 
+ "title": "Download XLS for Traffic Projections Of Indian Railways For Twelfth Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Traffic_Projections_Of_Indian_Railways.xls"
+}
+-----
+"Loading","2012-13","2013-14","2014-15","2015-16","2016-17","CAGR 2016-17 (Percentage)"
+"MT (Million)",1038.0,1119.0,1206.0,1300.0,1405.0,7.8
+"NTKM (billion)",690.0,737.0,795.0,857.0,927.0,7.8
+"Lead",665.0,664.0,663.0,661.0,660.0,7.7

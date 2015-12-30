@@ -1,0 +1,35 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Flow Schemes(Water conservation -cum Ground Water Recharge) in use and their Potential Created and Utilized according to Public and Private. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water ...", 
+ "file_name": "srfcflowNat4.18.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes(Water conservation -cum Ground Water Recharge) in use and their Potential Created and Utilized according to Public and Private", 
+ "url": "http://data.gov.in/sites/default/files/srfcflowNat4.18.csv"
+}
+-----
+"State","No. in use - Public","No. in use - Private","No. in use - Total","Potential created (Ha) - Public","Potential created (Ha) - Private","Potential created (Ha) - Total","Potential utilised (Ha) - Public","Potential utilised (Ha) - Private","Potential utilised (Ha) - Total"
+"ANDHRA PRADESH",1369,171,1540,13795,424,14219,10834,154,10988
+"ARUNACHAL PRADESH",1,1,2,10,1,11,9,1,10
+"ASSAM",1,151,152,20,917,937,20,553,573
+"BIHAR",1752,154,1906,37538,2050,39588,32311,1472,33783
+"CHHATTISGARH",632,1131,1763,23160,1615,24775,12488,1506,13994
+"GOA",3,180,183,135,459,594,135,455,590
+"GUJARAT",10059,498,10557,201856,3001,204857,7837,65,7902
+"HARYANA",14,7,21,50,178,228,50,154,204
+"JAMMU & KASHMIR",7,79,86,339,2171,2510,324,2021,2345
+"JHARKHAND",2135,2512,4647,11017,7637,18654,8091,4549,12640
+"KARNATAKA",245,95,340,3486,168,3654,2493,168,2661
+"KERALA",208,63,271,5675,838,6513,5068,791,5859
+"MADHYA PRADESH",1910,1066,2976,28637,2281,30918,16705,1883,18588
+"MAHARASHTRA",7,73,80,41,1353,1394,32,1055,1087
+"MEGHALAYA",5,10,15,106,66,172,79,61,140
+"MIZORAM",0,2,2,0,4,4,0,3,3
+"NAGALAND",0,6,6,0,77,77,0,25,25
+"ORISSA",519,114,633,9018,721,9739,2895,565,3460
+"PUNJAB",100,112,212,450,856,1306,264,856,1120
+"RAJASTHAN",11,4,15,1005,32,1037,792,17,809
+"TAMIL NADU",318,384,702,4136,9355,13491,2413,7784,10197
+"TRIPURA",21,172,193,441,1973,2414,323,1289,1612
+"UTTAR PRADESH",6,143,149,166,450,616,166,427,593
+"UTTARANCHAL",117,32,149,2457,250,2707,1985,54,2039
+"WEST BENGAL",87,119,206,5154,1244,6398,3030,853,3883
+"ALL INDIA",19527,7279,26806,348692,38121,386813,108344,26761,135105

@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells in use according to Utilization of Potential Created. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.14.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells in use according to Utilization of Potential Created", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.14.csv"
+}
+-----
+"State","No constraints in utilisation","Constraints in utilisation - Inadequate power supply","Constraints in utilisation - Mechanical break down","Constraints in utilisation - Less water discharge","Constraints in utilisation - Other reason","Total - Constraints in utilisation","Total in use"
+"ANDHRA PRADESH",44638,5734,448,34216,565,40963,85601
+"ARUNACHAL PRADESH",0,0,1,0,0,1,1
+"ASSAM",89,24,17,2,195,238,327
+"BIHAR",1034,492,626,430,830,2378,3412
+"CHHATTISGARH",1147,354,17,81,3542,3994,5141
+"GOA",47,2,0,6,0,8,55
+"GUJARAT",3264,31475,6927,20282,20890,79574,82838
+"HARYANA",0,2382,105,250,21057,23794,23794
+"HIMACHAL PRADESH",219,9,5,9,107,130,349
+"JAMMU & KASHMIR",8,0,1,0,10,11,19
+"JHARKHAND",0,4,8,15,0,27,27
+"KARNATAKA",11,8,2,6,2,18,29
+"KERALA",119,9,12,32,46,99,218
+"MADHYA PRADESH",8141,1562,322,17841,2618,22343,30484
+"MAHARASHTRA",21358,3352,54,39958,2003,45367,66725
+"MEGHALAYA",0,0,1,2,2,5,5
+"NAGALAND",0,0,0,0,0,0,0
+"ORISSA",298,119,63,132,1097,1411,1709
+"PUNJAB",7091,2630,52,10,46,2738,9829
+"RAJASTHAN",21454,18114,421,10010,2334,30879,52333
+"TAMIL NADU",9888,3808,757,22838,29598,57001,66889
+"TRIPURA",35,35,22,37,22,116,151
+"UTTAR PRADESH",3255,12771,4871,3110,9314,30066,33321
+"UTTARANCHAL",541,23,4,16,273,316,857
+"WEST BENGAL",535,28,20,15,3913,3976,4511
+"CHANDIGARH",55,0,0,0,0,0,55
+"DELHI",600,34,0,2,7,43,643
+"PONDICHERRY",320,0,1,0,0,1,321
+"ALL INDIA",124147,82969,14757,149300,98471,345497,469644

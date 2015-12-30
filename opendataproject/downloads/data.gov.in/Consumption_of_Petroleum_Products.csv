@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table relates to the consumption of Petroleum Products. It provides details regarding the actual consumption and consumption in working group of Eleventh plan- Base scenario and upper scenario along with the Compounded Annual Growth Rate (CAGR) for the years 2007-12.", 
+ "file_name": "Consumption_of_Petroleum_Products.xls", 
+ "title": "Download XLS for Consumption of Petroleum Products (2007-12)", 
+ "url": "http://data.gov.in/sites/default/files/Consumption_of_Petroleum_Products.xls"
+}
+-----
+"Category","2007-08","2008-09","2009-10","2010-11","2011-12","CAGR (%)"
+"Consumption - Actual",128.95,133.6,137.81,141.75,147.98,4.19
+"Consumption - Working Group Eleventh Plan - Base",116.35,119.1,121.99,126.97,131.77,2.93
+"Consumption - Working Group Eleventh Plan - Upper Scenario",117.56,121.95,127.79,136.59,141.79,4.45

@@ -1,0 +1,38 @@
+[
+ {
+  "creation": "2013-09-19 12:41:38", 
+  "docstatus": 0, 
+  "modified": "2013-09-19 12:41:38", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "Prompt", 
+  "doctype": "DocType", 
+  "module": "OpenDataProject", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldtype": "Date", 
+  "name": "__common__", 
+  "parent": "Period", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Period"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "start_date", 
+  "label": "Start Date"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "end_date", 
+  "label": "End Date"
+ }
+]

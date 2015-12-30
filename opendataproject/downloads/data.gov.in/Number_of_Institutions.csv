@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The Table illustrates the growth of centrally funded institutions in higher education during the eleventh plan, over the years 2006-07 and 2011-12. Note: Other universities/institutions include deemed universities fully funded by the Central Government (via UGC) and institutions under other ...", 
+ "file_name": "Number_of_Institutions.xls", 
+ "title": "Download XLS for Growth Of Central Institutions During The Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Institutions.xls"
+}
+-----
+"Type of Institution ","No. of Institutions in 2007-08","No. of Institutions in 2011-12","Increase in no. of institutions from 2007-08 to 2011-12"
+"Central Universities",19.0,40.0,21.0
+"Indian Institute of Technology",7.0,15.0,8.0
+"Indian Institute of Management ",6.0,13.0,7.0
+"Indian Institute of Science, Education and Research",2.0,5.0,3.0
+"School of Planning and Architecture",1.0,3.0,2.0
+"National Institute of Technology ",20.0,30.0,10.0
+"Other Technical Institutions",15.0,15.0,0.0
+"Other Universities/Institutions",17.0,31.0,14.0
+"Total",87.0,152.0,65.0

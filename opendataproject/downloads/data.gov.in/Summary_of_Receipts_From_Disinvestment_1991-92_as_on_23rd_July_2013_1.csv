@@ -1,0 +1,32 @@
+-----
+{
+ "description": "This data provides year-on-year summary of receipts from disinvestment from 1991-92 onwards as on 23rd July 2013.", 
+ "file_name": "Summary_of_Receipts_From_Disinvestment_1991-92_as_on_23rd_July_2013_1.xls", 
+ "title": "Download XLS for Summary of Receipts From Disinvestment From 1991-92 onwards as on 23rd July 2013", 
+ "url": "http://data.gov.in/sites/default/files/Summary_of_Receipts_From_Disinvestment_1991-92_as_on_23rd_July_2013_1.xls"
+}
+-----
+"Year","Budgeted receipt (Rs. crore)","Receipts through sale of minority shareholding in CPSEs  (Rs. crore)","Receipts through sale of majority shareholding of one CPSE to another CPSE (Rs. crore)","Receipts through Strategic sale (Rs.crore)","Receipts from other related transactions (Rs. crore)","Receipts from sale of residual shareholding in disinvested CPSEs / companies  (Rs. crore)","Total receipts (Rs. crore)","Transactions"
+"1991-92",2500.0,3037.74,"NA","NA","NA","NA",3037.74,"Minority shares sold in Dec, 1991 and Feb, 1992 by auction method in bundles of ""very good"", ""good"" and ""average"" companies"
+"1992-93",2500.0,1912.51,"NA","NA","NA","NA",1912.51,"Shares sold separately for each company by auction method"
+"1993-94",3500.0,"NA","NA","NA","NA","NA",0.0,"Equity of 6 companies sold by auction method but proceeds received in 94-95. "
+"1994-95",4000.0,4843.1,"NA","NA","NA","NA",4843.1,"Shares sold by auction method."
+"1995-96",7000.0,168.48,"NA","NA","NA","NA",168.48,"Shares sold by auction method."
+"1996-97",5000.0,379.67,"NA","NA","NA","NA",379.67,"GDR -VSNL"
+"1997-98",4800.0,910.0,"NA","NA","NA","NA",910.0,"GDR -MTNL"
+"1998-99*",5000.0,"*5371.11","NA","NA","NA","NA",5371.11,"GDR-VSNL; Domestic offerings of CONCOR and GAIL; Cross purchase by 3 Oil sector companies i.e. GAIL, ONGC and IOC."
+"1999-00**",10000.0,"**1479.27","NA",105.45,275.42,"NA",1860.14,"GDR-GAIL; Domestic offering of VSNL; capital reduction and dividend from BALCO; Strategic sale of MFIL."
+"2000-01",10000.0,"NA",1317.23,554.03,"NA","NA",1871.26,"Sale of  KRL, CPCL and  BRPL to CPSEs; Strategic sale of BALCO and LJMC."
+"2001-02",12000.0,"NA","NA",3090.09,2567.6,"NA",5657.69,"Strategic sale of CMC, HTL, VSNL, IBP, PPL, hotel properties of ITDC and HCI, slump sale of Hotel Centaur Juhu Beach, Mumbai and leasing of Ashok Bangalore; Special dividend from VSNL, STC and MMTC; sale of shares to VSNL employees."
+"2002-03",12000.0,"NA","NA",2252.72,1095.26,"NA",3347.98,"Strategic sale of HZL, IPCL, hotel properties of ITDC, slump sale of Centaur Hotel Mumbai Airport, Mumbai; Premium for renunciation of rights issue in favour of SMC ;  Put Option of  MFIL; Sale of shares to employees of HZL and CMC."
+"2003-04",14500.0,12741.62,"NA",342.06,"NA",2463.73,15547.41,"Strategic sale of JCL; Call Option of HZL;  Offer for Sale of MUL, IBP, IPCL, CMC, DCI, GAIL and ONGC; Sale of shares of  ICI Ltd."
+"2004-05",4000.0,2700.06,"NA","NA",64.81,"NA",2764.87,"Offer for Sale of NTPC and spill over of ONGC; sale of shares to IPCL employees."
+"2005-06","NULL","NA","NA","NA",2.08,1567.6,1569.68,"Sale of MUL shares to Indian public sector financial institutions & banks and employees"
+"2006-07","NULL","NA","NA","NA","NA","NA","NA","NA"
+"2007-08","NULL",1814.45,"NA","NA","NA",2366.94,4181.39,"Sale of MUL  (Rs.2366.94 cr)shares to public sector financial institutions, public sector banks and Indian mutual funds and sale of PGCIL (Rs.994.82 cr) and REC (Rs.819.63 cr) shares through Offer for Sale. "
+"2008-09","NULL","NA","NA","NA","NA","NA","NA","NA"
+"2009-10","NULL",23552.9287173,"NA","NA","NA","NA",23552.9287173,"(Rs.2012.85 - NHPC, Rs.2247.05 - OIL and NTPC - 8480.098, REC Rs.882.52, Rs.9330.42 NMDC,  )"
+"2010-11",40000.0,22144.2064501,"NA","NA","NA","NA",22144.2064501,"RS.1062.74 SJVN, EIL 959.65, COAL INDIA 15199 CR; PGCIL 3721.17, MOIL 618.75; SCI 582.45"
+"2011-12",40000.0,13894.05,"NA","NA","NA","NA",13894.05,"Rs.1144.55 PFC; Rs.12749.50 ONGC."
+"2012-13",30000.0,23956.0583601,"NA","NA","NA","NA",23956.0583601,"Rs.124.97 NBCC, Rs.807.03 HCL, Rs.5973.27 NMDC, Rs.3141 OIL. Rs.11,456.78 NTPC; Rs.310.15 RCF; Rs.627.84 NALCO; Rs.1514.50 SAIL"
+"2013-14",40000.0,831.27,"NA","NA","NA","NA",831.27,"Rs.571.71 MMTC; Rs. 259.56 HCL"

@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to Water Lifting Device. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.8_1.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Water Lifting Device", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.8_1.csv"
+}
+-----
+"State","Submersible pumps","Turbine pumps","Others","Total"
+"ANDHRA PRADESH",86185,460,837,87482
+"ARUNACHAL PRADESH",2,0,1,3
+"ASSAM",447,299,14,760
+"BIHAR",3209,2687,294,6190
+"CHHATTISGARH",5197,8,22,5227
+"GOA",58,2,0,60
+"GUJARAT",90829,1971,1382,94182
+"HARYANA",20631,2828,880,24339
+"HIMACHAL PRADESH",332,14,5,351
+"JAMMU & KASHMIR",14,3,3,20
+"JHARKHAND",1,21,6,28
+"KARNATAKA",30,1,1,32
+"KERALA",91,35,101,227
+"MADHYA PRADESH",33133,1663,1602,36398
+"MAHARASHTRA",74689,511,2023,77223
+"MEGHALAYA",1,7,0,8
+"NAGALAND",2,0,1,3
+"ORISSA",3988,231,373,4592
+"PUNJAB",8049,392,1549,9990
+"RAJASTHAN",52219,3094,1451,56764
+"TAMIL NADU",69632,5586,8792,84010
+"TRIPURA",154,14,0,168
+"UTTAR PRADESH",26097,4415,4573,35085
+"UTTARANCHAL",724,77,82,883
+"WEST BENGAL",4657,396,86,5139
+"CHANDIGARH",57,0,0,57
+"DELHI",641,4,0,645
+"PONDICHERRY",325,3,0,328
+"ALL INDIA",481394,24722,24078,530194

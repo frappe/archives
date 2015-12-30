@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at current prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "SikkimNSDPcurrent.csv", 
+ "title": "Download CSV for Sikkim Net State Domestic Product at factor cost at Current Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/SikkimNSDPcurrent.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","24574","27350","28838","34244","39718","43869","50432","58508"
+"Foresty and Logging","3694","3155","3207","3201","3749","3408","3575","3753"
+"Fishing","68","79","90","101","107","132","155","188"
+"Ag and Allied","28337","30583","32135","37546","43574","47409","54162","62449"
+"Mining and Quarrying","173","186","192","205","395","450","544","666"
+"Sub total of primary","28510","30769","32327","37751","43969","47859","54705","63114"
+"Manufacturing","6395","6883","8218","10155","11387","167406","178555","202206"
+"Registered","3373","3780","4537","5501","6507","162436","173036","195956"
+"Unregistered","3022","3103","3681","4654","4880","4969","5519","6250"
+"Construction","32149","39116","41000","44670","50933","58611","70834","86764"
+"Electricity, Gas and water Supply","4404","4118","4131","6589","35406","84152","105864","124345"
+"Sub total of secondary","42948","50117","53348","61413","97726","310169","355253","413315"
+"Industry","43121","50303","53541","61618","98121","310619","355797","413980"
+"Transport Storage and Communication","5684","6340","6906","7892","9098","11760","14491","18137"
+"Railways","0","0","0","0","0","0","0","0"
+"Transport by other means","3599","4069","4432","4921","5447","7798","9219","10925"
+"Storage","55","57","68","79","93","117","144","178"
+"Communication","2029","2214","2405","2892","3558","3845","5128","7034"
+"Trade, hotels and restaurants","8471","9258","10491","12035","13442","14947","16869","19381"
+"Banking and Insurance","4406","5131","6447","7736","8543","10573","14851","20859"
+"Real estate, ownership of dwelling and business","15879","17510","19130","24254","28267","30755","35377","40753"
+"Pubic Administration","20418","24392","27018","28054","37903","60114","70564","83823"
+"Other Services","24750","29827","31408","34814","40602","60134","74331","88690"
+"Sub total of tertiary","79608","92458","101399","114785","137855","188283","226484","271642"
+"State domestic product","151066","173345","187075","213949","279550","546311","636442","748071"
+
+"Figures are in Rs. Lakh"

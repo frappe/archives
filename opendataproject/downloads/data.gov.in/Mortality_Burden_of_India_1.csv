@@ -1,0 +1,32 @@
+-----
+{
+ "description": "This data provides details on Mortality Burden of India, 2008 (estimated number of deaths by cause). The causes of mortality have been classified into 3 major categories namely: Communicable, Maternal, Perinatal and Nutritional Conditions, Non Communicable diseases and Injuries.", 
+ "file_name": "Mortality_Burden_of_India_1.xls", 
+ "title": "Download XLS for Mortality Burden of India, 2008 - Estimated Number of Deaths By Cause", 
+ "url": "http://data.gov.in/sites/default/files/Mortality_Burden_of_India_1.xls"
+}
+-----
+"Mortality Causes (For all age groups)","Total Deaths","Percentage Share of Total"
+"Communicable, maternal, perinatal and nutritional conditions",3672.9557,37.1204989589
+"Infectious and parasitic diseases",2149.1306,21.7200551043
+"Respiratory infections",680.20615,6.87446126369
+"Perinatal conditions (h)",727.0208,7.34759062013
+"Maternal conditions",62.78259,0.634508351607
+"Nutritional deficiencies",53.81613,0.543889379781
+"Non Communicable ",5241.4104,52.9719890976
+"Cardiovascular diseases",2333.11085,23.5794400892
+"Respiratory diseases",1090.798684,11.0240892407
+"Malignant Cancer",634.43962,6.41192466702
+"Digestive diseases",480.63704,4.85752843219
+"Genitourinary diseases",226.663659,2.29076221037
+"Diabetes mellitus",176.69159,1.78572259465
+"Neuropsychiatric conditions",142.36132,1.43876585031
+"Congenital anomalies",66.1001364,0.66803692852
+"Endocrine disorders",40.257157,0.406856460182
+"Musculoskeletal diseases",25.0628827,0.253296469427
+"Other Cancer",13.564323,0.137086989042
+"Skin diseases",10.7600614,0.108745893123
+"Injuries",980.3173,9.90751598611
+"Unintentional injuries",705.7286,7.13240232153
+"Intentional injuries",274.588608,2.77511273479
+"Total Mortality Causes",9894.683,100.0

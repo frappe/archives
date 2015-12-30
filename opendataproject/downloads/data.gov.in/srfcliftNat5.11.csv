@@ -1,0 +1,41 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Lift Schemes according to Average Pumping Hours. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.11.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Lift Schemes according to Average Pumping Hours", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.11.csv"
+}
+-----
+"State","Avg pumping hours (0-4)","Avg pumping hours (4 - 8)","Avg pumping hours (8-12)","Avg pumping hours (12 -16)","Avg pumping hours (16 - 20)","Avg pumping hours (20 - 24)","Total"
+"ANDHRA PRADESH",5261,12864,5676,203,84,105,24193
+"ARUNACHAL PRADESH",15,5,1,0,0,0,21
+"ASSAM",717,890,81,15,4,1,1708
+"BIHAR",1157,1523,163,22,14,8,2887
+"CHHATTISGARH",10164,13006,589,645,670,352,25426
+"GOA",691,182,94,5,0,12,984
+"GUJARAT",2338,726,126,0,0,1,3191
+"HARYANA",291,292,62,0,0,1,646
+"HIMACHAL PRADESH",224,263,122,54,33,28,724
+"JAMMU & KASHMIR",73,166,176,71,8,11,505
+"JHARKHAND",9821,2003,167,3,3,0,11997
+"KARNATAKA",22686,34029,3397,175,34,48,60369
+"KERALA",9979,2887,272,216,107,32,13493
+"MADHYA PRADESH",79869,102331,11762,1392,765,23,196142
+"MAHARASHTRA",52048,36444,8029,962,1122,1297,99902
+"MANIPUR",0,9,31,4,0,0,44
+"MEGHALAYA",4,7,0,0,0,0,11
+"MIZORAM",197,19,0,0,0,0,216
+"NAGALAND",23,15,0,0,0,0,38
+"ORISSA",23957,7167,1402,148,156,14,32844
+"PUNJAB",178,617,469,144,11,22,1441
+"RAJASTHAN",985,850,285,27,14,63,2224
+"TAMIL NADU",6719,2276,906,65,106,14,10086
+"TRIPURA",374,721,67,2,0,3,1167
+"UTTAR PRADESH",2661,2180,1492,143,46,22,6544
+"UTTARANCHAL",163,206,120,68,137,14,708
+"WEST BENGAL",46972,42614,12519,3629,1657,204,107595
+"ANDAMAN & NICOBARS",1621,75,0,0,0,0,1696
+"DADRA & NAGAR HAVELI",34,37,0,0,0,0,71
+"DELHI",12,11,4,4,6,1,38
+"PONDICHERRY",0,7,0,0,0,0,7
+"ALL INDIA",279234,264422,48012,7997,4977,2276,606918

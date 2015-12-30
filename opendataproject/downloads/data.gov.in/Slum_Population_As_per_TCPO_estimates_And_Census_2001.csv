@@ -1,0 +1,15 @@
+-----
+{
+ "description": "The details of slum population as per TCPO estimates (during 1991, 2001) and Census 2001 (Towns with population of 50000 or more) is shown in the table.", 
+ "file_name": "Slum_Population_As_per_TCPO_estimates_And_Census_2001.xls", 
+ "title": "Download XLS for Slum Population As per TCPO estimates And Census 2001", 
+ "url": "http://data.gov.in/sites/default/files/Slum_Population_As_per_TCPO_estimates_And_Census_2001.xls"
+}
+-----
+"Category","Nos."
+"Slum population 1991 (TCPO estimates) in millions",46.26
+"Slum population 2001(TCPO estimates) in millions",61.82
+"No. of towns reporting slums in Census 2001 in millions",640.0
+"Reported slum population in 640 towns, 2001 in millions",42.58
+"Population of towns/cities reporting slums, 2001 in millions",184.35
+"Share of slum population to population of towns/cities reporting slums, 2001 (in percentage)",23.1

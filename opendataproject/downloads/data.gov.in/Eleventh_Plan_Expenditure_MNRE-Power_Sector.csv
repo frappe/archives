@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides Eleventh Five Year Plan Financial Allocations and Expenditure for Ministry of New and Renewable Energy (MNRE) pertaining to Power Sector. The Budget Estimates (BE) and expenditure are given for each programme component.", 
+ "file_name": "Eleventh_Plan_Expenditure_MNRE-Power_Sector.xls", 
+ "title": "Download XLS for Eleventh Five Year Plan Financial Allocations and Expenditure: MNRE - Power Sector", 
+ "url": "http://data.gov.in/sites/default/files/Eleventh_Plan_Expenditure_MNRE-Power_Sector.xls"
+}
+-----
+"Programme Component","BE","Expenditure"
+"Grid-connected and Distributed Renewable Power",1779.0,1839.82
+"Renewable Energy for Rural Applications",910.0,910.95
+"Renewable Energy for Urban, Industrial and Commercial Applications",216.0,147.28
+"Research, Design & Development in Renewable Energy",481.0,340.33
+"Supporting Programmes",682.0,559.98
+"Total",4068.0,3798.36

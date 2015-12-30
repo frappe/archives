@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the Status of Supplementary Nutrition (Food). It gives state-wise details regarding the percentage of children receiving food and the average number of days they received food along with, the state-wise figures on the awareness of food entitlement (%) under ICDS scheme. ", 
+ "file_name": "ICDS_Table7.1.xls", 
+ "title": "Download XLS for Status of Supplementary Nutrition (Food)", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table7.1.xls"
+}
+-----
+"States/UTs","Receiving food-% Child","Receiving food-Average number of days","Awareness of food entitlement (%)"
+"Andhra Pradesh",73.7,16.0,86.2
+"Assam",73.5,2.0,40.1
+"Bihar",52.6,14.0,16.4
+"Chhattisgarh",85.6,19.0,18.0
+"Gujarat",86.5,19.0,66.5
+"Haryana",51.9,21.0,14.6
+"Himachal Pradesh",77.1,17.0,31.6
+"Jammu and Kashmir",91.5,18.0,10.1
+"Jharkhand",88.3,18.0,20.1
+"Karnataka",80.4,21.0,90.0
+"Kerala",75.8,20.0,95.1
+"Madhya Pradesh",68.2,14.0,14.5
+"Maharashtra",69.6,21.0,67.7
+"Orissa",69.9,21.0,17.5
+"Punjab",59.1,17.0,18.3
+"Rajasthan",55.6,15.0,25.9
+"Tamil Nadu",75.8,21.0,87.7
+"Uttar Pradesh",40.6,14.0,11.5
+"Uttrakhand",81.9,8.0,19.4
+"West Bengal",78.3,21.0,14.5
+"Delhi",56.4,22.0,14.1
+"Chandigarh",68.0,22.0,0.0
+"Arunachal Pradesh",94.4,8.0,0.4
+"Manipur",44.9,12.0,12.6
+"Meghalaya",79.8,18.0,63.6
+"Mizoram",91.8,19.0,89.9
+"Nagaland",82.4,6.0,93.6
+"Tripura",77.6,17.0,17.0
+"Sikkim",93.8,14.0,9.3
+"Dadar& Nagar Haveli",60.0,24.0,92.4
+"Daman & Diu",54.7,23.0,81.2
+"Goa",73.4,20.0,100.0
+"Puducherry",56.7,22.0,100.0
+"Andaman & Nicobar Islands","NA",24.0,6.9
+"All India",64.0,16.0,33.8

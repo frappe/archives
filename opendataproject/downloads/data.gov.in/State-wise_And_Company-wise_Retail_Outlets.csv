@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This table consists of state-wise and company-wise retail outlets of petroleum products in India as on 01st April 2012.", 
+ "file_name": "State-wise_And_Company-wise_Retail_Outlets.xls", 
+ "title": "Download XLS for State-wise And Company-wise Retail Outlets As on 01st April 2012", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_And_Company-wise_Retail_Outlets.xls"
+}
+-----
+"State / UT","IOCL/AOD","HPCL","BPCL"," TOTAL","TOTAL (As on 1.4.2011)"
+"Andhra Pradesh",1651.0,1173.0,970.0,3794.0,3374.0
+"Arunachal Pradesh",48.0,0.0,1.0,49.0,48.0
+"Assam",474.0,72.0,43.0,589.0,561.0
+"Bihar",1074.0,331.0,466.0,1871.0,1653.0
+"Chhattisgarh",284.0,235.0,212.0,731.0,632.0
+"Delhi",201.0,97.0,110.0,408.0,409.0
+"Goa",27.0,34.0,44.0,105.0,100.0
+"Gujarat",995.0,560.0,509.0,2064.0,1926.0
+"Haryana",1038.0,522.0,324.0,1884.0,1721.0
+"Himachal Pradesh",197.0,99.0,55.0,351.0,320.0
+"Jammu & Kashmir",200.0,116.0,106.0,422.0,404.0
+"Jharkhand",413.0,221.0,223.0,857.0,769.0
+"Karnataka",1431.0,768.0,694.0,2893.0,2585.0
+"Kerala",782.0,543.0,438.0,1763.0,1710.0
+"Madhya Pradesh",913.0,580.0,654.0,2147.0,1929.0
+"Maharashtra",1397.0,1212.0,1228.0,3837.0,3565.0
+"Manipur",56.0,0.0,2.0,58.0,57.0
+"Meghalaya",105.0,19.0,10.0,134.0,132.0
+"Mizoram",23.0,3.0,0.0,26.0,25.0
+"Nagaland",46.0,3.0,3.0,52.0,50.0
+"Orissa",580.0,246.0,326.0,1152.0,1052.0
+"Punjab",1554.0,795.0,585.0,2934.0,2814.0
+"Rajasthan",1277.0,805.0,638.0,2720.0,2572.0
+"Sikkim",13.0,6.0,15.0,34.0,31.0
+"Tamil Nadu",1671.0,1008.0,1015.0,3694.0,3401.0
+"Tripura",45.0,0.0,0.0,45.0,43.0
+"Uttar Pradesh",2714.0,1169.0,1054.0,4937.0,4643.0
+"Uttarakhand",210.0,139.0,90.0,439.0,413.0
+"West Bengal",1032.0,435.0,458.0,1925.0,1808.0
+"Andaman & Nicobar",9.0,0.0,0.0,9.0,9.0
+"Chandigarh",20.0,11.0,10.0,41.0,41.0
+"Dadra & Nagar Haveli",9.0,6.0,1.0,16.0,15.0
+"Daman & Diu",11.0,7.0,3.0,21.0,21.0
+"Lakshadweep",0.0,0.0,0.0,0.0,0.0
+"Puducherry",75.0,38.0,23.0,136.0,131.0
+"Grand Total",20575.0,11253.0,10310.0,42138.0,38964.0

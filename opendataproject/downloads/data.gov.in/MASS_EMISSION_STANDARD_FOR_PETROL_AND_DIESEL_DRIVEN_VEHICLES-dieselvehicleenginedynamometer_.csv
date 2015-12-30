@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides mass emission standard for petrol and diesel driven vehicles for the period 2000 onwards.", 
+ "file_name": "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES.xls", 
+ "title": "Download XLS for Mass Emission Standard For Petrol And Diesel Driven Vehicles", 
+ "url": "http://data.gov.in/sites/default/files/MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES.xls"
+}
+-----
+"Diesel Vehicles (GVW Upto 3.5 Tons)-Engine Dynamometer  (g/kwh)  ","2000 #","BS II"
+"Carbon Monoxide(CO)",4.5,4.0
+"Hydrocarbon(HC)",1.1,1.1
+"Oxide of Nitrogen (NOX)",8.0,7.0
+"Hydrocarbon and Oxide of Nitrogen(HC+NOX)","NA","NA"
+"Particulate Matter (PM)","0.36/0.61",0.15

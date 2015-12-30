@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides details regarding the estimated potential for renewable energy in the country from solar, wind, small hydro and biomass as on 15th April 2013.", 
+ "file_name": "Estimated_Renewable_Energy_Potential_As_On_15th_April_2013.xls", 
+ "title": "Download XLS for Estimated Renewable Energy Potential As on 15th April 2013", 
+ "url": "http://data.gov.in/sites/default/files/Estimated_Renewable_Energy_Potential_As_On_15th_April_2013.xls"
+}
+-----
+"S.No.","Resource","Estimated Potential (MW)","Comments"
+1.0,"Solar Power",100000.0,"30-50 MW/sq. km"
+2.0,"Wind Power ",100000.0,"At 80 m. height"
+3.0,"Small Hydro Power (up to 25 MW) ",20000.0,""
+"4 i)","Bio-Power: Agro-Residues",17000.0,""
+"4 ii)","Bio-Power: Cogeneration - Bagasse",5000.0,""
+"4 iii)","Waste to Energy: Municipal Solid Waste to Energy",2600.0,""
+"4 iv)","Waste to Energy: Industrial Waste to Energy",1280.0,""
+"TOTAL","TOTAL","2,45,880",""

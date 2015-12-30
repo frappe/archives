@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at constant prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPConsMizoram.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Mizoram at factor cost at constant prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPConsMizoram.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture",36138,37055,38559,47274,56909,64153,65950,70996
+"Forestry & Logging",23867,23925,23551,24007,23317,23196,23024,22879
+"Fishing",3020,3073,2117,1977,1972,2388,2892,3502
+"Agriculture & Allied",63025,64053,64227,73258,82198,89737,91866,97377
+"Mining & Quarrying",802,551,1046,1355,2028,1241,752,458
+"Manufacturing",3767,3844,4480,5361,5194,5047,6087,6414
+"Manufacturing - Registered",571,789,522,578,434,512,848,918
+"Manufacturing - Unregistered",3196,3055,3958,4783,4760,4535,5239,5496
+"Construction",28901,40790,40361,44492,57771,60171,73676,83202
+"Electricity, Gas and Water supply",11059,12012,11939,14119,11296,12358,11077,10969
+"Industry",44529,57197,57826,65327,76289,78817,91592,101043
+"Transport, Storage & Communication",7187,7804,8850,9965,10616,10595,12044,12855
+"Railways",25,26,33,41,27,29,27,27
+"Transport by other means",5592,5725,6103,6676,6919,6443,7434,7706
+"Storage",54,55,61,71,79,92,109,128
+"Communication",1516,1998,2653,3177,3591,4031,4474,4994
+"Trade, Hotels and restaurants",25717,27950,30126,34254,37624,41700,46290,51345
+"Banking & Insurance",7297,8309,9913,11314,12472,14451,15699,17613
+"Real estate, Ownership of dwellings and Business services",36517,39656,43019,46837,50986,56209,60527,65947
+"Public Administration",49498,47541,49840,52254,62274,74286,81163,92658
+"Other services",34427,34432,36786,40412,45678,59101,56491,62823
+"Services",160643,165692,178534,195036,219650,256342,272214,303241
+"State Domestic Product",268197,286942,300587,333621,378137,424896,455672,501661

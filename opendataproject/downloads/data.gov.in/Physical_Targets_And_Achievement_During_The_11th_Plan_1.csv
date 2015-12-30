@@ -1,0 +1,27 @@
+-----
+{
+ "description": "This table provide details regarding physical targets and achievement during the 11th plan period on the installed capacity of various renewable energy technologies.", 
+ "file_name": "Physical_Targets_And_Achievement_During_The_11th_Plan_1.xls", 
+ "title": "Download XLS for Physical Targets And Achievement During The 11th Plan", 
+ "url": "http://data.gov.in/sites/default/files/Physical_Targets_And_Achievement_During_The_11th_Plan_1.xls"
+}
+-----
+"S. No.","Type","Programme","System","2007-08 Target","2007-08 Ach. ","2008-09 Target","2008-09 Ach.","2009-10 Target","2009-10 Ach.","2010-11 Target","2010-11 Ach.","2011-12 Target","2011-12 Ach.","Total 11th Plan Target","Total 11th Plan Ach."
+1.0,"Grid Power","Wind Power","Wind Power",1500.0,1663.0,2000.0,1485.0,2500.0,1565.0,2000.0,2350.0,2400.0,3197.0,10500.0,10260.0
+2.0,"Grid Power","Small Hydro ","Small Hydro ",200.0,204.75,250.0,248.93,300.0,305.27,300.0,307.22,350.0,353.0,1400.0,1419.17
+3.0,"Grid Power","Bio Power","Bio Power","NA",81.0,"NA",97.0,"NA",151.0,455.0,144.0,"NA",153.0,2100.0,626.0
+4.0,"Grid Power","Bagasse Cogeneration","Bagasse Cogeneration",250.0,185.0,300.0,248.0,400.0,297.0,"NA",322.0,450.0,317.7,"NA",1369.7
+5.0,"Grid Power","Waste to Power","Urban",2.0,"NA",5.0,"NA",14.0,4.72,17.0,"NA",25.0,17.2,"NA",21.92
+"5a","Grid Power","Waste to Power","Indstl.",10.0,11.72,8.0,5.06,10.0,"NA","NA",7.5,"NA","NA","NA",24.28
+6.0,"Grid Power","Solar Power ","Solar Power ","NA","NA",14.0,"NA",2.0,8.15,200.0,26.59,200.0,905.0,"NA",939.74
+7.0,"Off - Grid","Waste to Power","Urban",3.0,3.0,5.0,"NA","NA","NA","NA","NA","NA","NA",8.0,3.0
+"7a","Off - Grid","Waste to Power","Indstl",5.0,4.0,7.0,7.36,10.0,15.88,13.0,23.7,15.0,31.21,50.0,82.15
+8.0,"Off - Grid","Non-bag Cogen","Non-bag Cogen",20.0,49.2,30.0,75.77,50.0,50.0,75.0,80.73,80.0,80.89,255.0,336.59
+9.0,"Off - Grid","Gasifiers","Rural",1.0,1.02,1.0,1.03,3.0,1.08,4.0,1.37,3.0,1.12,12.0,5.62
+"9a","Off - Grid","Gasifiers","Indstl",10.0,11.62,10.0,13.2,10.0,11.08,15.0,9.0,10.0,12.71,55.0,57.61
+10.0,"Off - Grid","Aero-Gens/ Hybrid systems","Aero-Gens/ Hybrid systems",0.15,0.11,0.3,0.11,0.3,0.22,0.5,0.18,0.5,0.52,1.75,1.14
+11.0,"Off - Grid","SPV Systems","SPV Systems","NA",3.56,"NA",2.59,5.0,9.18,32.0,10.63,20.0,16.0,57.0,41.96
+12.0,"Off - Grid","Water Mills (WMs) / Micro/ Mini-hydel plants","Water Mills (WMs)/Micro/mini-hydel plants","NA",0.37,"NA",0.7,"NA ",1.72,2.5,2.2,"2.00 MW 400.00 nos.","2.20 MW 400.00 nos.","4.50/ 400.00 nos.","7.19/ 400.00 nos."
+13.0,"Decentralised Renewable Energy Systems And Other Programmes","Remote Village Electrification  (Nos. of Villages+ Hamlets)","Remote Village Electrification  (Nos. of Villages + Hamlets)",2000.0,1279.0,1500.0,326.0,1500.0,1536.0,1500.0,1740.0,500.0,1066.0,7000.0,5947.0
+14.0,"Decentralised Renewable Energy Systems And Other Programmes","Family type Biogas Plants (No. in Lakh)","Family type Biogas Plants (No.in Lakh)",1.04,0.89,1.24,1.08,1.5,1.2,1.5,1.51,1.52,1.4,6.8,6.08
+15.0,"Decentralised Renewable Energy Systems And Other Programmes","Solar Water Heating – collector area (Million sq. meter)","Solar Water Heating-collector area (Million sq.meter)",0.6,0.45,0.6,0.56,0.6,0.62,1.0,1.0,0.6,1.1,3.4,3.73

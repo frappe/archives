@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The table states infant mortality rate and mortality under age of five for Rural India, Urban India separately and Combined (Rural+Urban) fertility, infant mortality rate and mortality under age of five for SC, ST, OBC and Other categories. It also informs about nutritional status in terms of BMI ...", 
+ "file_name": "RD05.csv", 
+ "title": "Download CSV for Health and Nutrition Indicators by Social Groups in 2005-06 (NFHS-3)", 
+ "url": "http://data.gov.in/sites/default/files/RD05.csv"
+}
+-----
+Indicators,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Rural SC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Rural  ST,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Rural OBC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Rural Others,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Urban SC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Urban ST,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Urban OBC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Urban Others,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Total SC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Total ST,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Total OBC,Health and Nutrition Indicators  in 2005-06 (NFHS-3) Total Others
+Infant Mortality,71.0 ,63.9 ,61.1 ,55.7 ,50.7 ,43.8 ,42.2 ,36.1 ,66.4 ,62.1 ,56.6 ,48.9 
+Under-five Mortality,94.7 ,99.8 ,78.7 ,68.2 ,65.4 ,53.8 ,54.5 ,42.1 ,88.1 ,95.7 ,72.8 ,59.2 
+Nutritional Status - Mean BMI for Men,,,,,,,,,19.7 ,19.3 ,20.2 ,20.9 
+Nutritional Status - Mean BMI for Women,,,,,,,,,19.9 ,19.1 ,20.4 ,21.3 
+Fertility,,,,,,,,,2.9 ,3.1 ,2.8 ,2.4 

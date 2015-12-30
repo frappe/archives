@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This data provides details of Indira Awaas Yojana (IAY) financial performance during Eleventh Plan from 2007-08 to 2011-12 (Twelfth Five Year Plan document) including year-wise total available funds and its utilization, both in absolute and percentage terms.", 
+ "file_name": "Indira_Awaas_Yojana_Financial_Performance_1_1.xls", 
+ "title": "Download XLS for Indira Awaas Yojana Financial Performance During Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Indira_Awaas_Yojana_Financial_Performance_1_1.xls"
+}
+-----
+"Year","Total Fund Available Fund -In Rs. Crore","Utilization - In Rs. Crore","Percentage Utilisation to Total Fund Available"
+"2007-08",6527.17,5464.54,83.72
+"2008-09",14460.35,8348.34,57.73
+"2009-10",15852.35,13292.46,83.85
+"2010-11",17956.54,13465.73,74.99
+"2011-12",18982.69,12451.12,65.59

@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table provide details on cumulative achievements of Ministry of New and Renewable Energy (MNRE) as on 30th April 2013.", 
+ "file_name": "Ministry_of_New_And_Renewable_Energy_Cumulative_Achievements.xls", 
+ "title": "Download XLS for Ministry of New And Renewable Energy Cumulative Achievements as on 30th April 2013", 
+ "url": "http://data.gov.in/sites/default/files/Ministry_of_New_And_Renewable_Energy_Cumulative_Achievements.xls"
+}
+-----
+"Type (Capacities In MWEQ)","Sector","Installed Capacity (as on 30.04.2013)"
+"Off-Grid/ Captive Power        ","Waste to Energy                   ",115.57
+"Off-Grid/ Captive Power        ","Biomass(non-bagasse) Cogeneration",471.15
+"Off-Grid/ Captive Power        ","Biomass Gasifiers                                              ",16.792
+"Off-Grid/ Captive Power        ","Rural + Industrial",141.58
+"Off-Grid/ Captive Power        ","Aero-Genrators/Hybrid systems",2.11
+"Off-Grid/ Captive Power        ","SPV Systems ",124.67
+"Off-Grid/ Captive Power        ","Water mills/micro hydel (2131 nos)",10.65
+"Off-Grid/ Captive Power        ","Bio-gas based energy system","NA"
+"Total","Total",882.52

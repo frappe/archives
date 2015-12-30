@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the percentage of AWC having a source of drinking water. The table provides state-wise details regarding the AWCs equipped with piped water, hand pump water or other.", 
+ "file_name": "ICDS_Table6.6.xls", 
+ "title": "Download XLS for Percentage of AWC having source of drinking water", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table6.6.xls"
+}
+-----
+"States/UTs ","Piped","Hand pump","Others"
+"Andhra Pradesh",38.7,37.6,23.7
+"Assam",8.1,75.1,16.8
+"Bihar",9.3,88.6,2.1
+"Chhattisgarh",5.6,88.4,6.1
+"Gujarat",69.4,18.8,11.8
+"Haryana",30.7,20.9,48.4
+"Himachal Pradesh",78.8,12.5,8.7
+"Jammu and Kashmir",21.8,41.5,36.8
+"Jharkhand",9.7,71.4,18.9
+"Karnataka",42.2,39.1,18.7
+"Kerala",36.6,5.9,57.5
+"Madhya Pradesh",16.5,76.1,7.4
+"Maharashtra",52.2,39.4,8.4
+"Orissa",5.1,90.7,4.3
+"Punjab",29.7,70.3,0.0
+"Rajasthan",36.5,48.3,15.3
+"Tamil Nadu",60.7,15.6,23.7
+"Uttar Pradesh",3.0,94.4,2.7
+"Uttrakhand",42.9,46.4,10.7
+"West Bengal",21.6,73.4,5.1
+"Delhi",90.8,9.2,0.0
+"Chandigarh",100.0,0.0,0.0
+"Arunachal Pradesh",87.6,0.0,12.4
+"Manipur",40.0,32.0,28.0
+"Meghalaya",13.5,13.5,72.9
+"Mizoram",60.0,0.0,40.0
+"Nagaland",26.3,48.9,24.9
+"Tripura",96.5,1.9,1.6
+"Sikkim",0.0,0.0,100.0
+"Dadar & Nagar Haveli",100.0,0.0,0.0
+"Daman & Diu",100.0,0.0,0.0
+"Goa",100.0,0.0,0.0
+"Puducherry",100.0,0.0,0.0
+"Andaman & Nicobar Island",94.3,0.0,5.7
+"All India",28.4,58.8,12.9

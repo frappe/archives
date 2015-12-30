@@ -1,0 +1,67 @@
+{% extends "app/templates/includes/base.html" %}
+
+{% block javascript %}
+	<script>
+	var datasets = {{ data_sets|json }};
+	$(document).ready(function() {
+		window.data_set_viewer = new DataSetViewer();
+		window.data_set_viewer.make();
+		data_set_viewer.set_view_from_route();
+		$(window).on("resize", function() { data_set_viewer.resize(); });
+		$(window).on("hashchange", function() { data_set_viewer.set_view_from_route(); });
+	})
+	
+	</script>
+{% endblock %}
+
+{% block style %}
+	<style>
+	.navbar-default {
+		background-color: white;
+		border-color: white;
+	}
+	
+	.slick-headerrow-column {
+		background-color: #ecf0f1;
+	}
+	
+	.slick-cell-checkboxsel {
+		
+	}
+	
+	.slick-cell.selected {
+		background-color: #E0F3FF;
+	}
+	
+	.slick-header-columns {
+		
+	}
+	
+	@media (min-width: 992px) {
+		#slickgrid {
+			border-left: 2px solid #FFA700;
+		}
+	}
+	</style>
+{% endblock %}
+
+{% block content %}
+	<div id="data-set-view" data-for-list=1>
+		<div id="datasetgrid" style="height: 400px; font-size: 11px;">
+		</div>
+	</div> 
+	<div style="margin-top: -21px;" id="chart-view" data-for-chart=1>
+		<div class="row" style="margin: 0px;">
+			<div class="col-md-6" id="left-pane">
+				<h3 id="dataset-title"></h3>
+				<canvas id="chart" height="400" style="margin-top: 15px;">
+				</canvas>
+				<div id="legend"></div>
+			</div>
+			<div class="col-md-6" style="padding: 0px;">
+				<div id="slickgrid" style="height: 400px; font-size: 11px;">
+				</div>
+			</div>
+		</div>
+	</div> 
+{% endblock %}

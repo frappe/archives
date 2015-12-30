@@ -1,0 +1,25 @@
+-----
+{
+ "description": "This table provides data related to Maternal Mortality Ratio (MMR) India and major states during Eleventh Plan. ", 
+ "file_name": "Maternal_Mortality_Ratio_India_and_Major_States_During_Eleventh_Plan.xls", 
+ "title": "Download XLS for Maternal Mortality Ratio India and Major States during Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Maternal_Mortality_Ratio_India_and_Major_States_During_Eleventh_Plan.xls"
+}
+-----
+"India & Major States","MMR 1998 (per 100000 live births)","MMR 2001–03 (per 100000 live births)","Eleventh Five Year Plan Goal (per 100000 live births)"
+"India",407.0,301.0,100.0
+"Assam",409.0,490.0,163.0
+"Bihar/Jharkhand",452.0,371.0,123.0
+"Madhya Pradesh/Chhattisgarh",498.0,379.0,126.0
+"Orissa",367.0,358.0,119.0
+"Rajasthan",670.0,445.0,148.0
+"Uttar Pradesh/Uttarakhand",707.0,517.0,172.0
+"Andhra Pradesh",159.0,195.0,65.0
+"Karnataka",195.0,228.0,76.0
+"Kerala",198.0,110.0,37.0
+"Tamil Nadu",79.0,134.0,45.0
+"Gujarat",28.0,172.0,57.0
+"Haryana",103.0,162.0,54.0
+"Maharashtra",135.0,149.0,50.0
+"Punjab",199.0,178.0,59.0
+"West Bengal",266.0,194.0,64.0

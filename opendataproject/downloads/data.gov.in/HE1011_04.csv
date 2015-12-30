@@ -1,0 +1,19 @@
+-----
+{
+ "description": "The table shows the number of institutions and total expenditure across various sectors.", 
+ "file_name": "HE1011_04.csv", 
+ "title": "Download CSV for Oversight Committee\u2014Sector-wise Expenditure in Higher Education", 
+ "url": "http://data.gov.in/sites/default/files/HE1011_04.csv"
+}
+-----
+S. No.,Sector,No. of Institutions,"Total Expenditure
+(in Rs. Crores)"
+1,Agriculture,5,133
+2,Central Universities,17,3298
+3,Management ,7,285
+4,Medical,11,1877
+5,Engineering,39,6746
+6,Merit Scholarship scheme,0,1680
+7,Research Fellowship,0,1500
+8,IT Infrastructure ,0,1752
+0,Grand Total - all Sectors,79,17270

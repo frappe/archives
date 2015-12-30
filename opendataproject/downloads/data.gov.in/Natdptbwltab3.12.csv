@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to average length of water conveyance channel . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.12.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to average length of water conveyance channel for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.12.csv"
+}
+-----
+"State","Total number of deep tubewells","Average length of channel - Pucca","Average length of channel - Kuccha","Average length of channel - Underground","Total - Average length of channels"
+"ANDHRA PRADESH",31216,7,93,38,138
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA
+"ASSAM",592,128,67,719,914
+"BIHAR",6440,298,562,431,1291
+"GOA",19,125,437,0,562
+"GUJARAT",NA,NA,NA,NA,NA
+"HARYANA",6414,40,189,33,262
+"HIMACHAL PRADESH",230,144,339,739,1222
+"JAMMU & KASHMIR",97,260,293,0,553
+"KARNATAKA",150582,26,54,33,113
+"KERALA",198,24,78,255,357
+"MADHYA PRADESH",24451,11,69,38,118
+"MAHARASHTRA",NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA
+"MEGHALAYA",7,219,168,4,391
+"MIZORAM",NA,NA,NA,NA,NA
+"NAGALAND",3,0,0,0,0
+"ORISSA",2911,52,122,32,206
+"PUNJAB",2277,22,303,84,409
+"RAJASTHAN",12550,20,197,41,258
+"SIKKIM",NA,NA,NA,NA,NA
+"TAMIL NADU",32966,27,28,23,78
+"TRIPURA",131,42,75,1381,1498
+"UTTAR PRADESH",11625,200,163,107,470
+"WEST BENGAL",4039,81,356,1418,1855
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA
+"DELHI",691,24,17,77,118
+"LAKSHADWEEP",NA,NA,NA,NA,NA
+"PONDICHERRY",418,12,185,45,242
+"ALL INDIA",287857,1762,3795,5498,11055

@@ -1,0 +1,13 @@
+-----
+{
+ "description": "The table states number of persons (in lakhs) in Rural and Urban India separately and Combined (Rural+Urban) for the year of 1973, 1983, 1993 and 2004.", 
+ "file_name": "RD08.csv", 
+ "title": "Download CSV for Number of Persons Below Poverty Line in India", 
+ "url": "http://data.gov.in/sites/default/files/RD08.csv"
+}
+-----
+Years ,Number of Persons Below Poverty Line in Rural India,Number of Persons Below Poverty Line in Urban India,Number of Persons Below Poverty Line in India,,,,,,
+1973,2612.90,600.46,3213.36,,,,,,
+1983,2519.57,709.40,3228.97,,,,,,
+1993,2440.31,763.37,3203.68,,,,,,
+2004,2209.24,807.96,3017.20,,,,,,

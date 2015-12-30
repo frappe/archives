@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides projected vis-a-vis Realized Financing Pattern of the Plan Outlay of the Centre (including UTs) during 11th plan. All figures in Rs. crore at 2001-02 prices.", 
+ "file_name": "FR1011_01.csv", 
+ "title": "Download CSV for Projected vis-a-vis Realized Financing Pattern of the Plan Outlay of the Centre (including UTs)", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_01.csv"
+}
+-----
+S. No,Sources of Funding,Tenth Plan Projection (Rs. Crore at 2001-02 Prices),Tenth Plan Realization (Rs. Crore at 2001-02 Prices),Tenth Plan Percentage Realization,Percentage of Gross Budgetary Support to Plan for 10th Plan Projection,Percentage of Gross Budgetary Support to Plan for 10th Plan Realisation 
+1,Balance from Current Revenues,-6385,-10280,161.00,-0.90,-1.73
+2,Borrowings including net Miscellaneous Capital Receipts,685185,683962,99.82,97.05,115.02
+3,Net Flow from Abroad,27200,12966,47.67,3.85,2.18
+4,Gross Budgetary Support for the Plan (1+2+3),706000,594649,84.23,100.00,100.00
+5,Central assitance to States and UTs,300265,203117,67.65,42.53,34.16
+6,GBS for Central Plan (4-5),405735,391532,96.50,57.47,65.84
+7,Resources of PSEs,515556,368796,71.53,73.02,62.02
+8,Resources for Central Plan (6+7),921291,760328,82.53,130.49,127.86

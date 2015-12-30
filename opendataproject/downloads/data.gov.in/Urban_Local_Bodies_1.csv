@@ -1,0 +1,28 @@
+-----
+{
+ "description": "This dataset provides details of Lok Sabha Government Bills (as on 20th July 2013). It gives bill number, year, short title of bill, ministry, category, status, date of introduction, etc.\r\rThe basic function of Parliament is to make laws. All legislative proposals have to be brought in the form ...", 
+ "file_name": "Lok_Sabha_Government_Bills_as_on_20th_July_2013.xls", 
+ "title": "Download XLS for Lok Sabha Government Bills as on 20th July 2013", 
+ "url": "http://data.gov.in/sites/default/files/Lok_Sabha_Government_Bills_as_on_20th_July_2013.xls"
+}
+-----
+-----
+{
+ "description": "The advantages of using municipal bonds to finance urban infrastructure are increasingly evident in India. The Indian Bond Market is becoming vibrant. Ahmedabad Municipal Corporation issued a first historical Municipal Bond in Asia to raise Rs 100 crore from the capital market for part financing a ...", 
+ "file_name": "Urban_Local_Bodies_1.xls", 
+ "title": "Download XLS for Urban Local Bodies/Parastatals Which have been Granted Permission For Issue Of Tax-Free Bonds", 
+ "url": "http://data.gov.in/sites/default/files/Urban_Local_Bodies_1.xls"
+}
+-----
+"Name ","Year ","Amount (Rs in Crore)"
+"Ahmedabad Municipal Corporation ",2001.0,100.0
+"Hyderabad Municipal Corporation ",2002.0,82.5
+"Nasik Municipal Corporation",2003.0,50.0
+"Visakhapatnam Municipal Corporation",2003.0,50.0
+"Hyderabad Metropolitan Water Supply and Sewerage Board ",2003.0,50.0
+"Ahmedabad Municipal Corporation ",2004.0,58.0
+"Chennai Metropolitan Water Supply and Sewerage Board ",2004.0,42.0
+"Karnataka Water and Sanitation Pooled Fund Trust ",2004.0,100.0
+"Chennai Metropolitan Water Supply and Sewerage Board ",2005.0,50.0
+"Chennai Corporation ",2005.0,44.8
+"Ahmedabad Municipal Corporation ",2005.0,100.0

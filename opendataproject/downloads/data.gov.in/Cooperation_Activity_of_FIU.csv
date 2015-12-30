@@ -1,0 +1,85 @@
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2004. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2004.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2004(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2004.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2009. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2009.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2009(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2009.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2008. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2008.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2008(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2008.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2006. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2006.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2006(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2006.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2003. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2003.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2003(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2003.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2007. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2007.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2007(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2007.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2005. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2005.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2005(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2005.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2002. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2002.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2002(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2002.csv"
+}
+-----
+-----
+{
+ "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2010. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of ...", 
+ "file_name": "agmarkwheat2010.csv", 
+ "title": "Download CSV for Variety-wise Daily Market Prices Data for Wheat for 2010(External Link that opens in a new window)", 
+ "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2010.csv"
+}
+-----
+-----
+{
+ "description": "As a part of Global Anti Money Laundering and Combating of Financial Terrorism efforts, Timely dissemination of Intelligence is an essential activity of FIU and FIU receives /sends request on Money Laundering, Terrorist Financing, Corporate frauds, Organised crimes, Fake currency & Tax evasion.", 
+ "file_name": "Cooperation_Activity_of_FIU.xls", 
+ "title": "Download XLS for Financial Intellegence Unit India cooperation with domestic and international law enforcement agencies in 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/Cooperation_Activity_of_FIU.xls"
+}
+-----
+"Category","Requests 2007-08","Requests 2008-09","Requests 2009-10","Requests 2010-11","Requests  till 31st March 2011"
+"Request Received from Intelligence Agencies",87.0,190.0,226.0,428.0,971.0
+"Request Received from Law Enforcement Agencies",13.0,42.0,118.0,186.0,359.0
+"Request Received from Foreign FIUs",39.0,69.0,84.0,93.0,299.0
+"Request Sent to Foreign FIUs",13.0,17.0,46.0,67.0,145.0

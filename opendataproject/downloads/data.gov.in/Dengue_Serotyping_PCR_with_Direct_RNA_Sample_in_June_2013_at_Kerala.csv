@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This data shows Dengue Serotyping, PCR with Direct RNA Sample, in the month of June 2013 at Thiruvananthapuram, Kerala. This test was performed at the division of Laboratory Medicine & Molecular Diagnostics at Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram, Kerala.", 
+ "file_name": "Dengue_Serotyping_PCR_with_Direct_RNA_Sample_in_June_2013_at_Kerala.xls", 
+ "title": "Download XLS for Dengue Serotyping, PCR with Direct RNA Sample in the Month of June 2013 at Rajiv Gandhi Centre for Biotechnology", 
+ "url": "http://data.gov.in/sites/default/files/Dengue_Serotyping_PCR_with_Direct_RNA_Sample_in_June_2013_at_Kerala.xls"
+}
+-----
+"S.No.","Detail","Total"
+1.0,"Total number of samples analyzed",451.0
+2.0,"Total number of Dengue positives confirmed ",143.0
+3.0,"Total number of Dengue positive samples serotyped",96.0
+4.1,"Total number of Serotypes: DENGUE S1",55.0
+4.2,"Total number of Serotypes: DENGUE S2",8.0
+4.3,"Total number of Serotypes: DENGUE S3",8.0
+4.4,"Total number of Serotypes: DENGUE S4 ",14.0
+4.5,"Total number of Serotypes: DENGUE Co INFECTION",11.0

@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table consists of imports or exports of crude oil and petroleum products in India during 2006-07 to 2011-12.", 
+ "file_name": "Imports_Exports_of_Crude_Oil_and_Petroleum_Products.xls", 
+ "title": "Download XLS for Imports / Exports of Crude Oil And Petroleum Products During 2006-07 To 2011-12", 
+ "url": "http://data.gov.in/sites/default/files/Imports_Exports_of_Crude_Oil_and_Petroleum_Products.xls"
+}
+-----
+"Item","Trade","2006-07 Qty.","2006-07  Value","2007-08  Qty.","2007-08  Value","2008-09  Qty.","2008-09  Value","2009-10  Qty.","2009-10  Value","2010-11  Qty.","2010-11  Value","2011-12*  Qty.","2011-12*  Value"
+"A. Crude Oil","Net Imports",111502.0,219029.0,121672.0,272699.0,132775.4,348149.0,159259.2,375277.0,163595.0,455276.0,171729.0,672220.0
+"B. LNG","Net Imports",6810.0,5650.0,8320.0,7197.0,8060.0,9548.0,8828.33,10297.37,8949.0,12719.0,9703.0,20373.0
+"C. Pol.Products","Net Imports",-15758.0,-39317.0,-18377.4,-49863.1,-20377.8,-61219.0,-36308.5,-110236.6,-42262.0,-144755.0,-45840.0,-230478.0
+"Grand Total","Net Imports",102554.0,185362.0,111614.6,230032.9,120457.6,296478.0,131779.03,275337.77,130282.0,323240.0,135592.0,462115.0

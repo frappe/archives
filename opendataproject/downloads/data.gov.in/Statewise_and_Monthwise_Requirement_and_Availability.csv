@@ -1,0 +1,2529 @@
+-----
+{
+ "description": "This dataset represents the requirement and availability of major fertilizer products like DAP, MAP, MOP, TSP, NPK, and UREA State-wise and month-wise in the year 2012-13(April-2012 to March-2013).", 
+ "file_name": "Statewise_and_Monthwise_Requirement_and_Availability.xls", 
+ "title": "Download XLS for Requirement And Availability Of Major Fertilizers In The Year 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_and_Monthwise_Requirement_and_Availability.xls"
+}
+-----
+"Year","Month","Product","State","Requirement(in 000'MTS)","Availability(in 000'MTS)"
+"2012-13","April","DAP","Andaman & Nicobar",50.0,0.0
+"2012-13","April","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","April","MOP","Andaman & Nicobar",20.0,0.0
+"2012-13","April","NPK","Andaman & Nicobar",15.0,0.0
+"2012-13","April","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","April","UREA","Andaman & Nicobar",15.0,0.0
+"2012-13","April","DAP","Andhra Pradesh",75000.0,45663.65
+"2012-13","April","MAP","Andhra Pradesh",0.0,1586.85
+"2012-13","April","MOP","Andhra Pradesh",25000.0,60966.75
+"2012-13","April","NPK","Andhra Pradesh",125000.0,213431.533
+"2012-13","April","TSP","Andhra Pradesh",0.0,1785.8
+"2012-13","April","UREA","Andhra Pradesh",12500.0,52647.5
+"2012-13","April","DAP","Arunachal Pradesh",10.0,0.0
+"2012-13","April","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","April","MOP","Arunachal Pradesh",10.0,0.0
+"2012-13","April","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","April","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","April","UREA","Arunachal Pradesh",125.0,0.0
+"2012-13","April","DAP","Assam",2250.0,7961.9
+"2012-13","April","MAP","Assam",0.0,0.0
+"2012-13","April","MOP","Assam",5400.0,3584.6
+"2012-13","April","NPK","Assam",675.0,1977.9
+"2012-13","April","TSP","Assam",0.0,0.0
+"2012-13","April","UREA","Assam",13050.0,0.0
+"2012-13","April","DAP","Bihar",15000.0,18549.5
+"2012-13","April","MAP","Bihar",0.0,4331.25
+"2012-13","April","MOP","Bihar",5000.0,2550.8
+"2012-13","April","NPK","Bihar",15000.0,46111.1
+"2012-13","April","TSP","Bihar",0.0,7551.55
+"2012-13","April","UREA","Bihar",75000.0,5375.75
+"2012-13","April","DAP","Chandigarh",0.0,0.0
+"2012-13","April","MAP","Chandigarh",0.0,0.0
+"2012-13","April","MOP","Chandigarh",0.0,0.0
+"2012-13","April","NPK","Chandigarh",0.0,0.0
+"2012-13","April","TSP","Chandigarh",0.0,0.0
+"2012-13","April","UREA","Chandigarh",0.0,0.0
+"2012-13","April","DAP","Chattishgarh",12000.0,7676.1
+"2012-13","April","MAP","Chattishgarh",0.0,0.0
+"2012-13","April","MOP","Chattishgarh",5000.0,1929.65
+"2012-13","April","NPK","Chattishgarh",6000.0,24659.3
+"2012-13","April","TSP","Chattishgarh",0.0,4455.7
+"2012-13","April","UREA","Chattishgarh",30000.0,75.9
+"2012-13","April","DAP","Dadra & Nagar Haveli",150.0,5900.0
+"2012-13","April","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","April","MOP","Dadra & Nagar Haveli",40.0,0.0
+"2012-13","April","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","April","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","April","UREA","Dadra & Nagar Haveli",150.0,16.95
+"2012-13","April","DAP","Daman & Diu",10.0,0.0
+"2012-13","April","MAP","Daman & Diu",0.0,0.0
+"2012-13","April","MOP","Daman & Diu",0.0,0.0
+"2012-13","April","NPK","Daman & Diu",0.0,0.0
+"2012-13","April","TSP","Daman & Diu",0.0,0.0
+"2012-13","April","UREA","Daman & Diu",40.0,0.0
+"2012-13","April","DAP","Delhi",0.0,0.0
+"2012-13","April","MAP","Delhi",0.0,0.0
+"2012-13","April","MOP","Delhi",0.0,0.0
+"2012-13","April","NPK","Delhi",0.0,0.0
+"2012-13","April","TSP","Delhi",0.0,0.0
+"2012-13","April","UREA","Delhi",0.0,0.0
+"2012-13","April","DAP","Goa",100.0,0.0
+"2012-13","April","MAP","Goa",0.0,0.0
+"2012-13","April","MOP","Goa",50.0,0.0
+"2012-13","April","NPK","Goa",350.0,62.25
+"2012-13","April","TSP","Goa",0.0,0.0
+"2012-13","April","UREA","Goa",250.0,123.5
+"2012-13","April","DAP","Gujarat",65000.0,10197.25
+"2012-13","April","MAP","Gujarat",0.0,0.0
+"2012-13","April","MOP","Gujarat",12000.0,2611.3
+"2012-13","April","NPK","Gujarat",41000.0,23773.61
+"2012-13","April","TSP","Gujarat",0.0,6297.55
+"2012-13","April","UREA","Gujarat",125000.0,8167.62
+"2012-13","April","DAP","Harayana",10000.0,8091.6
+"2012-13","April","MAP","Harayana",0.0,3411.55
+"2012-13","April","MOP","Harayana",10000.0,1713.1
+"2012-13","April","NPK","Harayana",10000.0,7519.95
+"2012-13","April","TSP","Harayana",0.0,0.0
+"2012-13","April","UREA","Harayana",50000.0,30904.1
+"2012-13","April","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","April","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","April","MOP","Himachal Pradesh",50.0,0.0
+"2012-13","April","NPK","Himachal Pradesh",250.0,119.65
+"2012-13","April","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","April","UREA","Himachal Pradesh",2500.0,0.0
+"2012-13","April","DAP","Jammu & Kashmir",5000.0,2313.215
+"2012-13","April","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","April","MOP","Jammu & Kashmir",2000.0,26.5
+"2012-13","April","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","April","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","April","UREA","Jammu & Kashmir",15000.0,229.4
+"2012-13","April","DAP","Jharkhand",5000.0,1356.75
+"2012-13","April","MAP","Jharkhand",0.0,2007.85
+"2012-13","April","MOP","Jharkhand",2500.0,0.0
+"2012-13","April","NPK","Jharkhand",2600.0,4861.95
+"2012-13","April","TSP","Jharkhand",0.0,0.0
+"2012-13","April","UREA","Jharkhand",11000.0,3307.55
+"2012-13","April","DAP","Karnataka",100000.0,18113.377
+"2012-13","April","MAP","Karnataka",0.0,3944.85
+"2012-13","April","MOP","Karnataka",25000.0,17941.2
+"2012-13","April","NPK","Karnataka",61300.0,92571.837
+"2012-13","April","TSP","Karnataka",0.0,9768.0
+"2012-13","April","UREA","Karnataka",50000.0,8551.11
+"2012-13","April","DAP","Kerala",3000.0,7.6
+"2012-13","April","MAP","Kerala",0.0,0.0
+"2012-13","April","MOP","Kerala",9000.0,8385.957
+"2012-13","April","NPK","Kerala",14000.0,20805.011
+"2012-13","April","TSP","Kerala",0.0,3651.25
+"2012-13","April","UREA","Kerala",11000.0,975.584
+"2012-13","April","DAP","Lakshadeeep",0.0,0.0
+"2012-13","April","MAP","Lakshadeeep",0.0,0.0
+"2012-13","April","MOP","Lakshadeeep",0.0,0.0
+"2012-13","April","NPK","Lakshadeeep",0.0,0.0
+"2012-13","April","TSP","Lakshadeeep",0.0,0.0
+"2012-13","April","UREA","Lakshadeeep",0.0,0.0
+"2012-13","April","DAP","Madhya Pradesh",19825.0,28150.5
+"2012-13","April","MAP","Madhya Pradesh",0.0,6418.15
+"2012-13","April","MOP","Madhya Pradesh",6660.0,18641.2
+"2012-13","April","NPK","Madhya Pradesh",6593.0,65340.6
+"2012-13","April","TSP","Madhya Pradesh",0.0,8380.0
+"2012-13","April","UREA","Madhya Pradesh",22031.0,30128.55
+"2012-13","April","DAP","Maharastra",165000.0,23483.44
+"2012-13","April","MAP","Maharastra",0.0,4051.8
+"2012-13","April","MOP","Maharastra",40000.0,26230.2
+"2012-13","April","NPK","Maharastra",118000.0,110762.68
+"2012-13","April","TSP","Maharastra",0.0,16.2
+"2012-13","April","UREA","Maharastra",260000.0,24238.575
+"2012-13","April","DAP","Manipur",300.0,0.0
+"2012-13","April","MAP","Manipur",0.0,0.0
+"2012-13","April","MOP","Manipur",200.0,0.0
+"2012-13","April","NPK","Manipur",0.0,0.0
+"2012-13","April","TSP","Manipur",0.0,0.0
+"2012-13","April","UREA","Manipur",3600.0,0.0
+"2012-13","April","DAP","Megalaya",200.0,300.0
+"2012-13","April","MAP","Megalaya",0.0,0.0
+"2012-13","April","MOP","Megalaya",30.0,0.0
+"2012-13","April","NPK","Megalaya",0.0,0.0
+"2012-13","April","TSP","Megalaya",0.0,0.0
+"2012-13","April","UREA","Megalaya",250.0,0.0
+"2012-13","April","DAP","Mizoram",850.0,0.0
+"2012-13","April","MAP","Mizoram",0.0,0.0
+"2012-13","April","MOP","Mizoram",700.0,0.0
+"2012-13","April","NPK","Mizoram",50.0,0.0
+"2012-13","April","TSP","Mizoram",0.0,0.0
+"2012-13","April","UREA","Mizoram",1700.0,0.0
+"2012-13","April","DAP","Nagaland",120.0,0.0
+"2012-13","April","MAP","Nagaland",0.0,0.0
+"2012-13","April","MOP","Nagaland",48.0,0.0
+"2012-13","April","NPK","Nagaland",30.0,0.0
+"2012-13","April","TSP","Nagaland",0.0,0.0
+"2012-13","April","UREA","Nagaland",182.0,0.0
+"2012-13","April","DAP","Odisha",6520.0,16697.35
+"2012-13","April","MAP","Odisha",0.0,0.0
+"2012-13","April","MOP","Odisha",3440.0,7377.05
+"2012-13","April","NPK","Odisha",11410.0,34261.7
+"2012-13","April","TSP","Odisha",0.0,0.0
+"2012-13","April","UREA","Odisha",19190.0,17750.297
+"2012-13","April","DAP","Pondicherry",700.0,0.0
+"2012-13","April","MAP","Pondicherry",0.0,0.0
+"2012-13","April","MOP","Pondicherry",800.0,0.0
+"2012-13","April","NPK","Pondicherry",1610.0,994.6
+"2012-13","April","TSP","Pondicherry",0.0,0.0
+"2012-13","April","UREA","Pondicherry",2000.0,0.0
+"2012-13","April","DAP","Punjab",30000.0,32084.6
+"2012-13","April","MAP","Punjab",0.0,6575.3
+"2012-13","April","MOP","Punjab",8000.0,3715.75
+"2012-13","April","NPK","Punjab",10000.0,11224.0
+"2012-13","April","TSP","Punjab",0.0,3355.3
+"2012-13","April","UREA","Punjab",125000.0,24311.95
+"2012-13","April","DAP","Rajasthan",10000.0,4985.53
+"2012-13","April","MAP","Rajasthan",0.0,0.0
+"2012-13","April","MOP","Rajasthan",5000.0,1708.15
+"2012-13","April","NPK","Rajasthan",5700.0,13655.8
+"2012-13","April","TSP","Rajasthan",0.0,3526.25
+"2012-13","April","UREA","Rajasthan",45000.0,67814.005
+"2012-13","April","DAP","Sikkim",0.0,0.0
+"2012-13","April","MAP","Sikkim",0.0,0.0
+"2012-13","April","MOP","Sikkim",0.0,0.0
+"2012-13","April","NPK","Sikkim",0.0,0.0
+"2012-13","April","TSP","Sikkim",0.0,0.0
+"2012-13","April","UREA","Sikkim",0.0,0.0
+"2012-13","April","DAP","Tamil Nadu",22000.0,11663.2
+"2012-13","April","MAP","Tamil Nadu",0.0,0.0
+"2012-13","April","MOP","Tamil Nadu",21000.0,10108.55
+"2012-13","April","NPK","Tamil Nadu",32400.0,117979.1
+"2012-13","April","TSP","Tamil Nadu",0.0,1750.55
+"2012-13","April","UREA","Tamil Nadu",55000.0,2796.6
+"2012-13","April","DAP","Tripura",280.0,0.0
+"2012-13","April","MAP","Tripura",0.0,0.0
+"2012-13","April","MOP","Tripura",2500.0,0.0
+"2012-13","April","NPK","Tripura",0.0,0.0
+"2012-13","April","TSP","Tripura",0.0,0.0
+"2012-13","April","UREA","Tripura",330.0,0.0
+"2012-13","April","DAP","Uttar Pradesh",60000.0,33609.45
+"2012-13","April","MAP","Uttar Pradesh",0.0,2522.8
+"2012-13","April","MOP","Uttar Pradesh",10000.0,1905.3
+"2012-13","April","NPK","Uttar Pradesh",50000.0,156931.45
+"2012-13","April","TSP","Uttar Pradesh",0.0,15173.5
+"2012-13","April","UREA","Uttar Pradesh",250000.0,107480.85
+"2012-13","April","DAP","Uttaranchal",5000.0,1747.85
+"2012-13","April","MAP","Uttaranchal",0.0,0.0
+"2012-13","April","MOP","Uttaranchal",2000.0,0.0
+"2012-13","April","NPK","Uttaranchal",7500.0,2534.65
+"2012-13","April","TSP","Uttaranchal",0.0,0.0
+"2012-13","April","UREA","Uttaranchal",10000.0,1470.95
+"2012-13","April","DAP","West Bengal",22300.0,18660.39
+"2012-13","April","MAP","West Bengal",0.0,0.0
+"2012-13","April","MOP","West Bengal",13550.0,2652.85
+"2012-13","April","NPK","West Bengal",42200.0,82327.232
+"2012-13","April","TSP","West Bengal",0.0,7377.55
+"2012-13","April","UREA","West Bengal",37400.0,1881.38
+"2012-13","May","DAP","Andaman & Nicobar",80.0,0.0
+"2012-13","May","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","May","MOP","Andaman & Nicobar",50.0,0.0
+"2012-13","May","NPK","Andaman & Nicobar",85.0,0.0
+"2012-13","May","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","May","UREA","Andaman & Nicobar",25.0,0.0
+"2012-13","May","DAP","Andhra Pradesh",125.0,52919.05
+"2012-13","May","MAP","Andhra Pradesh",0.0,1586.85
+"2012-13","May","MOP","Andhra Pradesh",25.0,42110.45
+"2012-13","May","NPK","Andhra Pradesh",200.0,241.983
+"2012-13","May","TSP","Andhra Pradesh",0.0,1.9
+"2012-13","May","UREA","Andhra Pradesh",125.0,86503.8
+"2012-13","May","DAP","Arunachal Pradesh",7.0,0.0
+"2012-13","May","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","May","MOP","Arunachal Pradesh",10.0,0.0
+"2012-13","May","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","May","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","May","UREA","Arunachal Pradesh",110.0,0.0
+"2012-13","May","DAP","Assam",3250.0,10185.45
+"2012-13","May","MAP","Assam",0.0,0.0
+"2012-13","May","MOP","Assam",7800.0,3254.4
+"2012-13","May","NPK","Assam",975.0,1935.35
+"2012-13","May","TSP","Assam",0.0,0.0
+"2012-13","May","UREA","Assam",18850.0,0.0
+"2012-13","May","DAP","Bihar",40000.0,29314.2
+"2012-13","May","MAP","Bihar",0.0,4320.8
+"2012-13","May","MOP","Bihar",5000.0,2130.55
+"2012-13","May","NPK","Bihar",20000.0,45532.25
+"2012-13","May","TSP","Bihar",0.0,7550.15
+"2012-13","May","UREA","Bihar",75000.0,14059.548
+"2012-13","May","DAP","Chandigarh",0.0,0.0
+"2012-13","May","MAP","Chandigarh",0.0,0.0
+"2012-13","May","MOP","Chandigarh",0.0,0.0
+"2012-13","May","NPK","Chandigarh",0.0,0.0
+"2012-13","May","TSP","Chandigarh",0.0,0.0
+"2012-13","May","UREA","Chandigarh",0.0,0.0
+"2012-13","May","DAP","Chattishgarh",12000.0,20357.5
+"2012-13","May","MAP","Chattishgarh",0.0,0.0
+"2012-13","May","MOP","Chattishgarh",5000.0,3769.7
+"2012-13","May","NPK","Chattishgarh",6000.0,26680.1
+"2012-13","May","TSP","Chattishgarh",0.0,4015.55
+"2012-13","May","UREA","Chattishgarh",30000.0,9631.8
+"2012-13","May","DAP","Dadra & Nagar Haveli",150.0,0.0
+"2012-13","May","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","May","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","May","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","May","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","May","UREA","Dadra & Nagar Haveli",150.0,3.4
+"2012-13","May","DAP","Daman & Diu",20.0,0.0
+"2012-13","May","MAP","Daman & Diu",0.0,0.0
+"2012-13","May","MOP","Daman & Diu",5.0,0.0
+"2012-13","May","NPK","Daman & Diu",0.0,0.0
+"2012-13","May","TSP","Daman & Diu",0.0,0.0
+"2012-13","May","UREA","Daman & Diu",30.0,0.0
+"2012-13","May","DAP","Delhi",200.0,0.0
+"2012-13","May","MAP","Delhi",0.0,0.0
+"2012-13","May","MOP","Delhi",0.0,0.0
+"2012-13","May","NPK","Delhi",100.0,0.0
+"2012-13","May","TSP","Delhi",0.0,0.0
+"2012-13","May","UREA","Delhi",400.0,0.0
+"2012-13","May","DAP","Goa",150.0,0.0
+"2012-13","May","MAP","Goa",0.0,0.0
+"2012-13","May","MOP","Goa",80.0,0.0
+"2012-13","May","NPK","Goa",570.0,52.25
+"2012-13","May","TSP","Goa",0.0,0.0
+"2012-13","May","UREA","Goa",400.0,113.5
+"2012-13","May","DAP","Gujarat",110000.0,27624.95
+"2012-13","May","MAP","Gujarat",0.0,0.0
+"2012-13","May","MOP","Gujarat",14000.0,2752.05
+"2012-13","May","NPK","Gujarat",60000.0,46124.085
+"2012-13","May","TSP","Gujarat",0.0,6287.55
+"2012-13","May","UREA","Gujarat",170000.0,36186.79
+"2012-13","May","DAP","Harayana",40000.0,10175.75
+"2012-13","May","MAP","Harayana",0.0,3411.55
+"2012-13","May","MOP","Harayana",5000.0,1713.1
+"2012-13","May","NPK","Harayana",10000.0,7440.15
+"2012-13","May","TSP","Harayana",0.0,0.0
+"2012-13","May","UREA","Harayana",110000.0,43226.1
+"2012-13","May","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","May","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","May","MOP","Himachal Pradesh",50.0,0.0
+"2012-13","May","NPK","Himachal Pradesh",2500.0,70.7
+"2012-13","May","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","May","UREA","Himachal Pradesh",7500.0,1160.55
+"2012-13","May","DAP","Jammu & Kashmir",10000.0,4789.94
+"2012-13","May","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","May","MOP","Jammu & Kashmir",2000.0,1888.45
+"2012-13","May","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","May","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","May","UREA","Jammu & Kashmir",12000.0,1014.05
+"2012-13","May","DAP","Jharkhand",10000.0,1356.75
+"2012-13","May","MAP","Jharkhand",0.0,0.0
+"2012-13","May","MOP","Jharkhand",2500.0,0.0
+"2012-13","May","NPK","Jharkhand",5600.0,4861.95
+"2012-13","May","TSP","Jharkhand",0.0,0.0
+"2012-13","May","UREA","Jharkhand",11000.0,5480.35
+"2012-13","May","DAP","Karnataka",88000.0,29678.97
+"2012-13","May","MAP","Karnataka",0.0,3944.85
+"2012-13","May","MOP","Karnataka",25000.0,17823.2
+"2012-13","May","NPK","Karnataka",84200.0,95896.987
+"2012-13","May","TSP","Karnataka",0.0,12023.4
+"2012-13","May","UREA","Karnataka",100000.0,21466.487
+"2012-13","May","DAP","Kerala",4000.0,1039.6
+"2012-13","May","MAP","Kerala",0.0,0.0
+"2012-13","May","MOP","Kerala",11000.0,10777.95
+"2012-13","May","NPK","Kerala",15000.0,25413.311
+"2012-13","May","TSP","Kerala",0.0,3626.25
+"2012-13","May","UREA","Kerala",12000.0,4.5
+"2012-13","May","DAP","Lakshadeeep",0.0,0.0
+"2012-13","May","MAP","Lakshadeeep",0.0,0.0
+"2012-13","May","MOP","Lakshadeeep",0.0,0.0
+"2012-13","May","NPK","Lakshadeeep",0.0,0.0
+"2012-13","May","TSP","Lakshadeeep",0.0,0.0
+"2012-13","May","UREA","Lakshadeeep",0.0,0.0
+"2012-13","May","DAP","Madhya Pradesh",78488.0,37446.65
+"2012-13","May","MAP","Madhya Pradesh",0.0,6418.15
+"2012-13","May","MOP","Madhya Pradesh",17730.0,17733.6
+"2012-13","May","NPK","Madhya Pradesh",26719.0,68436.1
+"2012-13","May","TSP","Madhya Pradesh",0.0,8380.0
+"2012-13","May","UREA","Madhya Pradesh",46875.0,49518.75
+"2012-13","May","DAP","Maharastra",155000.0,45059.19
+"2012-13","May","MAP","Maharastra",0.0,4041.8
+"2012-13","May","MOP","Maharastra",50000.0,22928.35
+"2012-13","May","NPK","Maharastra",149000.0,121736.63
+"2012-13","May","TSP","Maharastra",0.0,16.2
+"2012-13","May","UREA","Maharastra",255000.0,64594.925
+"2012-13","May","DAP","Manipur",450.0,0.0
+"2012-13","May","MAP","Manipur",0.0,0.0
+"2012-13","May","MOP","Manipur",300.0,0.0
+"2012-13","May","NPK","Manipur",0.0,0.0
+"2012-13","May","TSP","Manipur",0.0,0.0
+"2012-13","May","UREA","Manipur",6400.0,0.0
+"2012-13","May","DAP","Megalaya",200.0,300.0
+"2012-13","May","MAP","Megalaya",0.0,0.0
+"2012-13","May","MOP","Megalaya",30.0,0.0
+"2012-13","May","NPK","Megalaya",0.0,0.0
+"2012-13","May","TSP","Megalaya",0.0,0.0
+"2012-13","May","UREA","Megalaya",300.0,0.0
+"2012-13","May","DAP","Mizoram",850.0,0.0
+"2012-13","May","MAP","Mizoram",0.0,0.0
+"2012-13","May","MOP","Mizoram",700.0,0.0
+"2012-13","May","NPK","Mizoram",0.0,0.0
+"2012-13","May","TSP","Mizoram",0.0,0.0
+"2012-13","May","UREA","Mizoram",1700.0,0.0
+"2012-13","May","DAP","Nagaland",105.0,0.0
+"2012-13","May","MAP","Nagaland",0.0,0.0
+"2012-13","May","MOP","Nagaland",40.0,0.0
+"2012-13","May","NPK","Nagaland",35.0,0.0
+"2012-13","May","TSP","Nagaland",0.0,0.0
+"2012-13","May","UREA","Nagaland",182.0,0.0
+"2012-13","May","DAP","Odisha",11940.0,23383.65
+"2012-13","May","MAP","Odisha",0.0,0.0
+"2012-13","May","MOP","Odisha",11070.0,9535.7
+"2012-13","May","NPK","Odisha",20045.0,38445.3
+"2012-13","May","TSP","Odisha",0.0,0.0
+"2012-13","May","UREA","Odisha",22630.0,24890.347
+"2012-13","May","DAP","Pondicherry",700.0,0.0
+"2012-13","May","MAP","Pondicherry",0.0,0.0
+"2012-13","May","MOP","Pondicherry",800.0,0.0
+"2012-13","May","NPK","Pondicherry",1610.0,839.8
+"2012-13","May","TSP","Pondicherry",0.0,0.0
+"2012-13","May","UREA","Pondicherry",1600.0,0.0
+"2012-13","May","DAP","Punjab",50000.0,47014.15
+"2012-13","May","MAP","Punjab",0.0,6575.3
+"2012-13","May","MOP","Punjab",8000.0,8992.65
+"2012-13","May","NPK","Punjab",8000.0,11851.1
+"2012-13","May","TSP","Punjab",0.0,3355.3
+"2012-13","May","UREA","Punjab",400000.0,22789.05
+"2012-13","May","DAP","Rajasthan",45000.0,21363.03
+"2012-13","May","MAP","Rajasthan",0.0,0.0
+"2012-13","May","MOP","Rajasthan",5000.0,1391.6
+"2012-13","May","NPK","Rajasthan",14700.0,13953.6
+"2012-13","May","TSP","Rajasthan",0.0,3526.25
+"2012-13","May","UREA","Rajasthan",80000.0,69238.205
+"2012-13","May","DAP","Sikkim",0.0,0.0
+"2012-13","May","MAP","Sikkim",0.0,0.0
+"2012-13","May","MOP","Sikkim",0.0,0.0
+"2012-13","May","NPK","Sikkim",0.0,0.0
+"2012-13","May","TSP","Sikkim",0.0,0.0
+"2012-13","May","UREA","Sikkim",0.0,0.0
+"2012-13","May","DAP","Tamil Nadu",26000.0,4340.0
+"2012-13","May","MAP","Tamil Nadu",0.0,0.0
+"2012-13","May","MOP","Tamil Nadu",26000.0,9287.4
+"2012-13","May","NPK","Tamil Nadu",48400.0,127131.35
+"2012-13","May","TSP","Tamil Nadu",0.0,0.0
+"2012-13","May","UREA","Tamil Nadu",60000.0,1691.15
+"2012-13","May","DAP","Tripura",476.0,0.0
+"2012-13","May","MAP","Tripura",0.0,0.0
+"2012-13","May","MOP","Tripura",2500.0,0.0
+"2012-13","May","NPK","Tripura",0.0,0.0
+"2012-13","May","TSP","Tripura",0.0,0.0
+"2012-13","May","UREA","Tripura",9700.0,2711.5
+"2012-13","May","DAP","Uttar Pradesh",80000.0,104487.85
+"2012-13","May","MAP","Uttar Pradesh",0.0,2522.8
+"2012-13","May","MOP","Uttar Pradesh",10000.0,5698.75
+"2012-13","May","NPK","Uttar Pradesh",65000.0,169142.85
+"2012-13","May","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","May","UREA","Uttar Pradesh",400000.0,161598.2
+"2012-13","May","DAP","Uttaranchal",5000.0,4994.1
+"2012-13","May","MAP","Uttaranchal",0.0,0.0
+"2012-13","May","MOP","Uttaranchal",2000.0,0.0
+"2012-13","May","NPK","Uttaranchal",7500.0,6138.9
+"2012-13","May","TSP","Uttaranchal",0.0,0.0
+"2012-13","May","UREA","Uttaranchal",30000.0,2389.65
+"2012-13","May","DAP","West Bengal",26800.0,29316.99
+"2012-13","May","MAP","West Bengal",0.0,0.0
+"2012-13","May","MOP","West Bengal",20200.0,5631.8
+"2012-13","May","NPK","West Bengal",54250.0,87277.532
+"2012-13","May","TSP","West Bengal",0.0,7377.55
+"2012-13","May","UREA","West Bengal",63400.0,30443.884
+"2012-13","June","DAP","Andaman & Nicobar",100.0,0.0
+"2012-13","June","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","June","MOP","Andaman & Nicobar",60.0,0.0
+"2012-13","June","NPK","Andaman & Nicobar",40.0,0.0
+"2012-13","June","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","June","UREA","Andaman & Nicobar",85.0,0.0
+"2012-13","June","DAP","Andhra Pradesh",130000.0,33457.9
+"2012-13","June","MAP","Andhra Pradesh",0.0,848.85
+"2012-13","June","MOP","Andhra Pradesh",50000.0,27382.0
+"2012-13","June","NPK","Andhra Pradesh",200000.0,173793.533
+"2012-13","June","TSP","Andhra Pradesh",0.0,1.9
+"2012-13","June","UREA","Andhra Pradesh",250000.0,83.802
+"2012-13","June","DAP","Arunachal Pradesh",7.0,0.0
+"2012-13","June","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","June","MOP","Arunachal Pradesh",8.0,0.0
+"2012-13","June","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","June","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","June","UREA","Arunachal Pradesh",95.0,0.0
+"2012-13","June","DAP","Assam",5250.0,8631.3
+"2012-13","June","MAP","Assam",0.0,0.0
+"2012-13","June","MOP","Assam",12600.0,246.95
+"2012-13","June","NPK","Assam",1575.0,1359.35
+"2012-13","June","TSP","Assam",0.0,0.0
+"2012-13","June","UREA","Assam",30450.0,0.0
+"2012-13","June","DAP","Bihar",60.0,24458.7
+"2012-13","June","MAP","Bihar",0.0,4273.15
+"2012-13","June","MOP","Bihar",20000.0,1979.3
+"2012-13","June","NPK","Bihar",50000.0,32608.0
+"2012-13","June","TSP","Bihar",0.0,7673.75
+"2012-13","June","UREA","Bihar",190000.0,17665.85
+"2012-13","June","DAP","Chandigarh",0.0,0.0
+"2012-13","June","MAP","Chandigarh",0.0,0.0
+"2012-13","June","MOP","Chandigarh",0.0,0.0
+"2012-13","June","NPK","Chandigarh",0.0,0.0
+"2012-13","June","TSP","Chandigarh",0.0,0.0
+"2012-13","June","UREA","Chandigarh",0.0,0.0
+"2012-13","June","DAP","Chattishgarh",55000.0,4860.1
+"2012-13","June","MAP","Chattishgarh",0.0,0.0
+"2012-13","June","MOP","Chattishgarh",17000.0,702.0
+"2012-13","June","NPK","Chattishgarh",38000.0,16165.25
+"2012-13","June","TSP","Chattishgarh",0.0,3858.25
+"2012-13","June","UREA","Chattishgarh",100000.0,18752.4
+"2012-13","June","DAP","Dadra & Nagar Haveli",450.0,658.0
+"2012-13","June","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","June","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","June","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","June","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","June","UREA","Dadra & Nagar Haveli",450.0,9.7
+"2012-13","June","DAP","Daman & Diu",20.0,0.0
+"2012-13","June","MAP","Daman & Diu",0.0,0.0
+"2012-13","June","MOP","Daman & Diu",5.0,0.0
+"2012-13","June","NPK","Daman & Diu",5.0,0.0
+"2012-13","June","TSP","Daman & Diu",0.0,0.0
+"2012-13","June","UREA","Daman & Diu",70.0,0.0
+"2012-13","June","DAP","Delhi",400.0,0.0
+"2012-13","June","MAP","Delhi",0.0,0.0
+"2012-13","June","MOP","Delhi",150.0,0.0
+"2012-13","June","NPK","Delhi",200.0,0.0
+"2012-13","June","TSP","Delhi",0.0,0.0
+"2012-13","June","UREA","Delhi",500.0,0.0
+"2012-13","June","DAP","Goa",1000.0,50.0
+"2012-13","June","MAP","Goa",0.0,0.0
+"2012-13","June","MOP","Goa",120.0,30.0
+"2012-13","June","NPK","Goa",1380.0,20.0
+"2012-13","June","TSP","Goa",0.0,0.0
+"2012-13","June","UREA","Goa",800.0,43.5
+"2012-13","June","DAP","Gujarat",110.0,21544.83
+"2012-13","June","MAP","Gujarat",0.0,0.0
+"2012-13","June","MOP","Gujarat",22000.0,1596.1
+"2012-13","June","NPK","Gujarat",59000.0,35171.238
+"2012-13","June","TSP","Gujarat",0.0,6250.55
+"2012-13","June","UREA","Gujarat",215000.0,36999.42
+"2012-13","June","DAP","Harayana",85000.0,6366.05
+"2012-13","June","MAP","Harayana",0.0,3598.9
+"2012-13","June","MOP","Harayana",5000.0,3598.9
+"2012-13","June","NPK","Harayana",10000.0,6715.05
+"2012-13","June","TSP","Harayana",0.0,0.0
+"2012-13","June","UREA","Harayana",220000.0,20845.45
+"2012-13","June","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","June","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","June","MOP","Himachal Pradesh",200.0,0.0
+"2012-13","June","NPK","Himachal Pradesh",2500.0,106.6
+"2012-13","June","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","June","UREA","Himachal Pradesh",15000.0,108.95
+"2012-13","June","DAP","Jammu & Kashmir",10000.0,0.0
+"2012-13","June","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","June","MOP","Jammu & Kashmir",2500.0,1002.05
+"2012-13","June","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","June","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","June","UREA","Jammu & Kashmir",15000.0,133.7
+"2012-13","June","DAP","Jharkhand",15000.0,1807.15
+"2012-13","June","MAP","Jharkhand",0.0,0.0
+"2012-13","June","MOP","Jharkhand",5000.0,95.55
+"2012-13","June","NPK","Jharkhand",8000.0,42333.05
+"2012-13","June","TSP","Jharkhand",0.0,0.0
+"2012-13","June","UREA","Jharkhand",27000.0,6360.7
+"2012-13","June","DAP","Karnataka",123000.0,24677.947
+"2012-13","June","MAP","Karnataka",0.0,2917.15
+"2012-13","June","MOP","Karnataka",50000.0,14857.05
+"2012-13","June","NPK","Karnataka",144600.0,88825.687
+"2012-13","June","TSP","Karnataka",0.0,11905.4
+"2012-13","June","UREA","Karnataka",15000.0,13824.232
+"2012-13","June","DAP","Kerala",5000.0,239.6
+"2012-13","June","MAP","Kerala",0.0,0.0
+"2012-13","June","MOP","Kerala",24000.0,6921.199
+"2012-13","June","NPK","Kerala",30000.0,24354.289
+"2012-13","June","TSP","Kerala",0.0,3348.75
+"2012-13","June","UREA","Kerala",24000.0,623.05
+"2012-13","June","DAP","Lakshadeeep",0.0,0.0
+"2012-13","June","MAP","Lakshadeeep",0.0,0.0
+"2012-13","June","MOP","Lakshadeeep",0.0,0.0
+"2012-13","June","NPK","Lakshadeeep",0.0,0.0
+"2012-13","June","TSP","Lakshadeeep",0.0,0.0
+"2012-13","June","UREA","Lakshadeeep",0.0,0.0
+"2012-13","June","DAP","Madhya Pradesh",162500.0,14215.0
+"2012-13","June","MAP","Madhya Pradesh",0.0,6388.15
+"2012-13","June","MOP","Madhya Pradesh",42120.0,6739.55
+"2012-13","June","NPK","Madhya Pradesh",55174.0,55573.25
+"2012-13","June","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","June","UREA","Madhya Pradesh",187500.0,31635.15
+"2012-13","June","DAP","Maharastra",135000.0,50633.14
+"2012-13","June","MAP","Maharastra",0.0,2409.0
+"2012-13","June","MOP","Maharastra",60000.0,8867.65
+"2012-13","June","NPK","Maharastra",208500.0,127589.68
+"2012-13","June","TSP","Maharastra",0.0,16.2
+"2012-13","June","UREA","Maharastra",260000.0,73611.925
+"2012-13","June","DAP","Manipur",1500.0,0.0
+"2012-13","June","MAP","Manipur",0.0,0.0
+"2012-13","June","MOP","Manipur",400.0,0.0
+"2012-13","June","NPK","Manipur",0.0,0.0
+"2012-13","June","TSP","Manipur",0.0,0.0
+"2012-13","June","UREA","Manipur",8500.0,0.0
+"2012-13","June","DAP","Megalaya",450.0,300.0
+"2012-13","June","MAP","Megalaya",0.0,0.0
+"2012-13","June","MOP","Megalaya",50.0,0.0
+"2012-13","June","NPK","Megalaya",0.0,0.0
+"2012-13","June","TSP","Megalaya",0.0,0.0
+"2012-13","June","UREA","Megalaya",500.0,0.0
+"2012-13","June","DAP","Mizoram",1050.0,0.0
+"2012-13","June","MAP","Mizoram",0.0,0.0
+"2012-13","June","MOP","Mizoram",1400.0,0.0
+"2012-13","June","NPK","Mizoram",100.0,0.0
+"2012-13","June","TSP","Mizoram",0.0,0.0
+"2012-13","June","UREA","Mizoram",1700.0,0.0
+"2012-13","June","DAP","Nagaland",140.0,0.0
+"2012-13","June","MAP","Nagaland",0.0,0.0
+"2012-13","June","MOP","Nagaland",31.0,0.0
+"2012-13","June","NPK","Nagaland",36.0,0.0
+"2012-13","June","TSP","Nagaland",0.0,0.0
+"2012-13","June","UREA","Nagaland",186.0,0.0
+"2012-13","June","DAP","Odisha",30160.0,17315.15
+"2012-13","June","MAP","Odisha",0.0,0.0
+"2012-13","June","MOP","Odisha",18550.0,4615.45
+"2012-13","June","NPK","Odisha",44840.0,34829.95
+"2012-13","June","TSP","Odisha",0.0,0.0
+"2012-13","June","UREA","Odisha",44650.0,29783.047
+"2012-13","June","DAP","Pondicherry",1000.0,0.0
+"2012-13","June","MAP","Pondicherry",0.0,0.0
+"2012-13","June","MOP","Pondicherry",800.0,0.0
+"2012-13","June","NPK","Pondicherry",4053.0,1236.6
+"2012-13","June","TSP","Pondicherry",0.0,0.0
+"2012-13","June","UREA","Pondicherry",4000.0,0.0
+"2012-13","June","DAP","Punjab",100000.0,43094.3
+"2012-13","June","MAP","Punjab",0.0,6575.3
+"2012-13","June","MOP","Punjab",10000.0,7135.85
+"2012-13","June","NPK","Punjab",8000.0,6496.5
+"2012-13","June","TSP","Punjab",0.0,3355.3
+"2012-13","June","UREA","Punjab",300000.0,22989.2
+"2012-13","June","DAP","Rajasthan",45000.0,11093.98
+"2012-13","June","MAP","Rajasthan",0.0,0.0
+"2012-13","June","MOP","Rajasthan",4000.0,66.6
+"2012-13","June","NPK","Rajasthan",15200.0,10432.5
+"2012-13","June","TSP","Rajasthan",0.0,3526.25
+"2012-13","June","UREA","Rajasthan",120000.0,"51.867.961"
+"2012-13","June","DAP","Sikkim",0.0,0.0
+"2012-13","June","MAP","Sikkim",0.0,0.0
+"2012-13","June","MOP","Sikkim",0.0,0.0
+"2012-13","June","NPK","Sikkim",0.0,0.0
+"2012-13","June","TSP","Sikkim",0.0,0.0
+"2012-13","June","UREA","Sikkim",0.0,0.0
+"2012-13","June","DAP","Tamil Nadu",30000.0,2859.3
+"2012-13","June","MAP","Tamil Nadu",0.0,0.0
+"2012-13","June","MOP","Tamil Nadu",35000.0,4484.55
+"2012-13","June","NPK","Tamil Nadu",43800.0,117819.5
+"2012-13","June","TSP","Tamil Nadu",0.0,0.0
+"2012-13","June","UREA","Tamil Nadu",80000.0,855.65
+"2012-13","June","DAP","Tripura",588.0,0.0
+"2012-13","June","MAP","Tripura",0.0,0.0
+"2012-13","June","MOP","Tripura",2500.0,0.0
+"2012-13","June","NPK","Tripura",0.0,0.0
+"2012-13","June","TSP","Tripura",0.0,0.0
+"2012-13","June","UREA","Tripura",5920.0,2569.5
+"2012-13","June","DAP","Uttar Pradesh",100000.0,55962.05
+"2012-13","June","MAP","Uttar Pradesh",0.0,122.8
+"2012-13","June","MOP","Uttar Pradesh",15000.0,7455.65
+"2012-13","June","NPK","Uttar Pradesh",100000.0,112148.05
+"2012-13","June","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","June","UREA","Uttar Pradesh",500000.0,94273.25
+"2012-13","June","DAP","Uttaranchal",4000.0,402.65
+"2012-13","June","MAP","Uttaranchal",0.0,0.0
+"2012-13","June","MOP","Uttaranchal",500.0,0.0
+"2012-13","June","NPK","Uttaranchal",5000.0,4097.4
+"2012-13","June","TSP","Uttaranchal",0.0,0.0
+"2012-13","June","UREA","Uttaranchal",35000.0,7375.75
+"2012-13","June","DAP","West Bengal",42700.0,22184.29
+"2012-13","June","MAP","West Bengal",0.0,0.0
+"2012-13","June","MOP","West Bengal",25700.0,4839.7
+"2012-13","June","NPK","West Bengal",72400.0,91583.997
+"2012-13","June","TSP","West Bengal",0.0,7377.55
+"2012-13","June","UREA","West Bengal",96200.0,27062.784
+"2012-13","July","DAP","Andaman & Nicobar",100.0,0.0
+"2012-13","July","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","July","MOP","Andaman & Nicobar",100.0,0.0
+"2012-13","July","NPK","Andaman & Nicobar",30.0,0.0
+"2012-13","July","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","July","UREA","Andaman & Nicobar",85.0,0.0
+"2012-13","July","DAP","Andhra Pradesh",200.0,25510.0
+"2012-13","July","MAP","Andhra Pradesh",0.0,23.05
+"2012-13","July","MOP","Andhra Pradesh",55000.0,16479.45
+"2012-13","July","NPK","Andhra Pradesh",200000.0,149359.673
+"2012-13","July","TSP","Andhra Pradesh",0.0,1.9
+"2012-13","July","UREA","Andhra Pradesh",350000.0,69811.75
+"2012-13","July","DAP","Arunachal Pradesh",8.0,0.0
+"2012-13","July","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","July","MOP","Arunachal Pradesh",7.0,0.0
+"2012-13","July","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","July","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","July","UREA","Arunachal Pradesh",80.0,0.0
+"2012-13","July","DAP","Assam",5750.0,1541.75
+"2012-13","July","MAP","Assam",0.0,0.0
+"2012-13","July","MOP","Assam",13800.0,-413.25
+"2012-13","July","NPK","Assam",1725.0,2414.1
+"2012-13","July","TSP","Assam",0.0,0.0
+"2012-13","July","UREA","Assam",33350.0,2572.5
+"2012-13","July","DAP","Bihar",70000.0,12513.45
+"2012-13","July","MAP","Bihar",0.0,2224.95
+"2012-13","July","MOP","Bihar",20000.0,495.95
+"2012-13","July","NPK","Bihar",50000.0,21337.05
+"2012-13","July","TSP","Bihar",0.0,7673.75
+"2012-13","July","UREA","Bihar",225000.0,19201.0
+"2012-13","July","DAP","Chandigarh",0.0,0.0
+"2012-13","July","MAP","Chandigarh",0.0,0.0
+"2012-13","July","MOP","Chandigarh",0.0,0.0
+"2012-13","July","NPK","Chandigarh",0.0,0.0
+"2012-13","July","TSP","Chandigarh",0.0,0.0
+"2012-13","July","UREA","Chandigarh",0.0,0.0
+"2012-13","July","DAP","Chattishgarh",66000.0,7561.2
+"2012-13","July","MAP","Chattishgarh",0.0,-400.0
+"2012-13","July","MOP","Chattishgarh",29000.0,5807.95
+"2012-13","July","NPK","Chattishgarh",38000.0,10399.2
+"2012-13","July","TSP","Chattishgarh",0.0,3858.25
+"2012-13","July","UREA","Chattishgarh",145000.0,9440.2
+"2012-13","July","DAP","Dadra & Nagar Haveli",100.0,35.25
+"2012-13","July","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","July","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","July","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","July","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","July","UREA","Dadra & Nagar Haveli",100.0,43.8
+"2012-13","July","DAP","Daman & Diu",20.0,0.0
+"2012-13","July","MAP","Daman & Diu",0.0,0.0
+"2012-13","July","MOP","Daman & Diu",5.0,0.0
+"2012-13","July","NPK","Daman & Diu",0.0,0.0
+"2012-13","July","TSP","Daman & Diu",0.0,0.0
+"2012-13","July","UREA","Daman & Diu",30.0,0.0
+"2012-13","July","DAP","Delhi",800.0,0.0
+"2012-13","July","MAP","Delhi",0.0,0.0
+"2012-13","July","MOP","Delhi",200.0,0.0
+"2012-13","July","NPK","Delhi",250.0,0.0
+"2012-13","July","TSP","Delhi",0.0,0.0
+"2012-13","July","UREA","Delhi",800.0,0.0
+"2012-13","July","DAP","Goa",850.0,70.0
+"2012-13","July","MAP","Goa",0.0,0.0
+"2012-13","July","MOP","Goa",200.0,0.0
+"2012-13","July","NPK","Goa",1155.0,252.65
+"2012-13","July","TSP","Goa",0.0,0.0
+"2012-13","July","UREA","Goa",900.0,73.5
+"2012-13","July","DAP","Gujarat",70000.0,16219.9
+"2012-13","July","MAP","Gujarat",0.0,0.0
+"2012-13","July","MOP","Gujarat",20000.0,1239.2
+"2012-13","July","NPK","Gujarat",48000.0,29946.898
+"2012-13","July","TSP","Gujarat",0.0,6250.55
+"2012-13","July","UREA","Gujarat",240000.0,15313.89
+"2012-13","July","DAP","Harayana",65000.0,3184.15
+"2012-13","July","MAP","Harayana",0.0,3179.95
+"2012-13","July","MOP","Harayana",5000.0,3928.5
+"2012-13","July","NPK","Harayana",5000.0,6628.15
+"2012-13","July","TSP","Harayana",0.0,0.0
+"2012-13","July","UREA","Harayana",240000.0,19494.35
+"2012-13","July","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","July","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","July","MOP","Himachal Pradesh",0.0,0.0
+"2012-13","July","NPK","Himachal Pradesh",0.0,39.05
+"2012-13","July","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","July","UREA","Himachal Pradesh",7500.0,179.85
+"2012-13","July","DAP","Jammu & Kashmir",10000.0,0.0
+"2012-13","July","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","July","MOP","Jammu & Kashmir",2500.0,723.75
+"2012-13","July","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","July","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","July","UREA","Jammu & Kashmir",12500.0,2683.3
+"2012-13","July","DAP","Jharkhand",30000.0,-0.35
+"2012-13","July","MAP","Jharkhand",0.0,0.0
+"2012-13","July","MOP","Jharkhand",5000.0,-0.45
+"2012-13","July","NPK","Jharkhand",10500.0,2945.1
+"2012-13","July","TSP","Jharkhand",0.0,0.0
+"2012-13","July","UREA","Jharkhand",45000.0,4661.15
+"2012-13","July","DAP","Karnataka",150000.0,14656.13
+"2012-13","July","MAP","Karnataka",0.0,163.9
+"2012-13","July","MOP","Karnataka",55000.0,14378.706
+"2012-13","July","NPK","Karnataka",131900.0,63870.091
+"2012-13","July","TSP","Karnataka",0.0,11905.4
+"2012-13","July","UREA","Karnataka",150000.0,20619.636
+"2012-13","July","DAP","Kerala",5000.0,1207.2
+"2012-13","July","MAP","Kerala",0.0,0.0
+"2012-13","July","MOP","Kerala",21000.0,6081.947
+"2012-13","July","NPK","Kerala",36000.0,12257.639
+"2012-13","July","TSP","Kerala",0.0,3260.95
+"2012-13","July","UREA","Kerala",25000.0,116.05
+"2012-13","July","DAP","Lakshadeeep",0.0,0.0
+"2012-13","July","MAP","Lakshadeeep",0.0,0.0
+"2012-13","July","MOP","Lakshadeeep",0.0,0.0
+"2012-13","July","NPK","Lakshadeeep",0.0,0.0
+"2012-13","July","TSP","Lakshadeeep",0.0,0.0
+"2012-13","July","UREA","Lakshadeeep",0.0,0.0
+"2012-13","July","DAP","Madhya Pradesh",110500.0,29956.2
+"2012-13","July","MAP","Madhya Pradesh",0.0,377.05
+"2012-13","July","MOP","Madhya Pradesh",13050.0,8928.6
+"2012-13","July","NPK","Madhya Pradesh",30189.0,36469.95
+"2012-13","July","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","July","UREA","Madhya Pradesh",134063.0,18126.2
+"2012-13","July","DAP","Maharastra",200000.0,35572.79
+"2012-13","July","MAP","Maharastra",0.0,165.85
+"2012-13","July","MOP","Maharastra",60000.0,14799.9
+"2012-13","July","NPK","Maharastra",161500.0,71706.38
+"2012-13","July","TSP","Maharastra",0.0,16.2
+"2012-13","July","UREA","Maharastra",265000.0,24198.63
+"2012-13","July","DAP","Manipur",1150.0,0.0
+"2012-13","July","MAP","Manipur",20.0,0.0
+"2012-13","July","MOP","Manipur",450.0,0.0
+"2012-13","July","NPK","Manipur",0.0,0.0
+"2012-13","July","TSP","Manipur",0.0,0.0
+"2012-13","July","UREA","Manipur",9000.0,0.0
+"2012-13","July","DAP","Megalaya",800.0,250.0
+"2012-13","July","MAP","Megalaya",0.0,0.0
+"2012-13","July","MOP","Megalaya",100.0,0.0
+"2012-13","July","NPK","Megalaya",0.0,0.0
+"2012-13","July","TSP","Megalaya",0.0,0.0
+"2012-13","July","UREA","Megalaya",1300.0,0.0
+"2012-13","July","DAP","Mizoram",300.0,0.0
+"2012-13","July","MAP","Mizoram",0.0,0.0
+"2012-13","July","MOP","Mizoram",1100.0,0.0
+"2012-13","July","NPK","Mizoram",50.0,0.0
+"2012-13","July","TSP","Mizoram",0.0,0.0
+"2012-13","July","UREA","Mizoram",1700.0,0.0
+"2012-13","July","DAP","Nagaland",82.0,0.0
+"2012-13","July","MAP","Nagaland",0.0,0.0
+"2012-13","July","MOP","Nagaland",36.0,0.0
+"2012-13","July","NPK","Nagaland",28.0,0.0
+"2012-13","July","TSP","Nagaland",0.0,0.0
+"2012-13","July","UREA","Nagaland",208.0,0.0
+"2012-13","July","DAP","Odisha",57170.0,16949.0
+"2012-13","July","MAP","Odisha",0.0,0.0
+"2012-13","July","MOP","Odisha",29750.0,2969.85
+"2012-13","July","NPK","Odisha",61330.0,21933.5
+"2012-13","July","TSP","Odisha",0.0,0.0
+"2012-13","July","UREA","Odisha",105230.0,25404.847
+"2012-13","July","DAP","Pondicherry",1000.0,0.0
+"2012-13","July","MAP","Pondicherry",0.0,0.0
+"2012-13","July","MOP","Pondicherry",800.0,0.0
+"2012-13","July","NPK","Pondicherry",3907.0,1035.6
+"2012-13","July","TSP","Pondicherry",0.0,0.0
+"2012-13","July","UREA","Pondicherry",4000.0,0.0
+"2012-13","July","DAP","Punjab",100000.0,17959.4
+"2012-13","July","MAP","Punjab",0.0,6575.3
+"2012-13","July","MOP","Punjab",10000.0,9164.8
+"2012-13","July","NPK","Punjab",4000.0,8294.1
+"2012-13","July","TSP","Punjab",0.0,3355.3
+"2012-13","July","UREA","Punjab",300000.0,11389.25
+"2012-13","July","DAP","Rajasthan",103000.0,5132.35
+"2012-13","July","MAP","Rajasthan",0.0,0.0
+"2012-13","July","MOP","Rajasthan",5500.0,584.9
+"2012-13","July","NPK","Rajasthan",16200.0,3686.45
+"2012-13","July","TSP","Rajasthan",0.0,3526.25
+"2012-13","July","UREA","Rajasthan",130000.0,30997.979
+"2012-13","July","DAP","Sikkim",0.0,0.0
+"2012-13","July","MAP","Sikkim",0.0,0.0
+"2012-13","July","MOP","Sikkim",0.0,0.0
+"2012-13","July","NPK","Sikkim",0.0,0.0
+"2012-13","July","TSP","Sikkim",0.0,0.0
+"2012-13","July","UREA","Sikkim",0.0,0.0
+"2012-13","July","DAP","Tamil Nadu",40000.0,3641.15
+"2012-13","July","MAP","Tamil Nadu",0.0,0.0
+"2012-13","July","MOP","Tamil Nadu",45000.0,8715.1
+"2012-13","July","NPK","Tamil Nadu",50000.0,93292.3
+"2012-13","July","TSP","Tamil Nadu",0.0,0.0
+"2012-13","July","UREA","Tamil Nadu",80000.0,521.15
+"2012-13","July","DAP","Tripura",504.0,0.0
+"2012-13","July","MAP","Tripura",0.0,0.0
+"2012-13","July","MOP","Tripura",0.0,0.0
+"2012-13","July","NPK","Tripura",0.0,0.0
+"2012-13","July","TSP","Tripura",0.0,0.0
+"2012-13","July","UREA","Tripura",3400.0,2269.5
+"2012-13","July","DAP","Uttar Pradesh",250000.0,53115.57
+"2012-13","July","MAP","Uttar Pradesh",0.0,1.55
+"2012-13","July","MOP","Uttar Pradesh",25000.0,42.3
+"2012-13","July","NPK","Uttar Pradesh",110000.0,102355.6
+"2012-13","July","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","July","UREA","Uttar Pradesh",600000.0,92113.95
+"2012-13","July","DAP","Uttaranchal",2500.0,2691.85
+"2012-13","July","MAP","Uttaranchal",0.0,0.0
+"2012-13","July","MOP","Uttaranchal",500.0,0.0
+"2012-13","July","NPK","Uttaranchal",5000.0,1518.85
+"2012-13","July","TSP","Uttaranchal",0.0,0.0
+"2012-13","July","UREA","Uttaranchal",30000.0,7727.35
+"2012-13","July","DAP","West Bengal",81000.0,15080.34
+"2012-13","July","MAP","West Bengal",0.0,0.0
+"2012-13","July","MOP","West Bengal",37600.0,4450.4
+"2012-13","July","NPK","West Bengal",94800.0,68895.4
+"2012-13","July","TSP","West Bengal",0.0,7377.55
+"2012-13","July","UREA","West Bengal",111800.0,34181.134
+"2012-13","August","DAP","Andaman & Nicobar",100.0,500.0
+"2012-13","August","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","August","MOP","Andaman & Nicobar",70.0,0.0
+"2012-13","August","NPK","Andaman & Nicobar",35.0,0.0
+"2012-13","August","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","August","UREA","Andaman & Nicobar",70.0,0.0
+"2012-13","August","DAP","Andhra Pradesh",100000.0,58041.15
+"2012-13","August","MAP","Andhra Pradesh",0.0,1110.9
+"2012-13","August","MOP","Andhra Pradesh",75000.0,24238.6
+"2012-13","August","NPK","Andhra Pradesh",220000.0,167710.183
+"2012-13","August","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","August","UREA","Andhra Pradesh",400000.0,37355.6
+"2012-13","August","DAP","Arunachal Pradesh",8.0,0.0
+"2012-13","August","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","August","MOP","Arunachal Pradesh",7.0,0.0
+"2012-13","August","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","August","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","August","UREA","Arunachal Pradesh",80.0,0.0
+"2012-13","August","DAP","Assam",5250.0,1383.0
+"2012-13","August","MAP","Assam",0.0,0.0
+"2012-13","August","MOP","Assam",12600.0,5478.75
+"2012-13","August","NPK","Assam",1575.0,2076.6
+"2012-13","August","TSP","Assam",0.0,0.0
+"2012-13","August","UREA","Assam",30450.0,9039.3
+"2012-13","August","DAP","Bihar",20000.0,10211.05
+"2012-13","August","MAP","Bihar",0.0,287.3
+"2012-13","August","MOP","Bihar",20000.0,6074.45
+"2012-13","August","NPK","Bihar",25000.0,16818.95
+"2012-13","August","TSP","Bihar",0.0,7673.75
+"2012-13","August","UREA","Bihar",225000.0,13909.95
+"2012-13","August","DAP","Chandigarh",0.0,0.0
+"2012-13","August","MAP","Chandigarh",0.0,0.0
+"2012-13","August","MOP","Chandigarh",0.0,0.0
+"2012-13","August","NPK","Chandigarh",0.0,0.0
+"2012-13","August","TSP","Chandigarh",0.0,0.0
+"2012-13","August","UREA","Chandigarh",0.0,0.0
+"2012-13","August","DAP","Chattishgarh",66000.0,13302.35
+"2012-13","August","MAP","Chattishgarh",0.0,2904.4
+"2012-13","August","MOP","Chattishgarh",25000.0,2239.0
+"2012-13","August","NPK","Chattishgarh",32000.0,12582.8
+"2012-13","August","TSP","Chattishgarh",0.0,3858.25
+"2012-13","August","UREA","Chattishgarh",145000.0,6220.55
+"2012-13","August","DAP","Dadra & Nagar Haveli",60.0,16.85
+"2012-13","August","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","August","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","August","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","August","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","August","UREA","Dadra & Nagar Haveli",60.0,15.7
+"2012-13","August","DAP","Daman & Diu",20.0,0.0
+"2012-13","August","MAP","Daman & Diu",0.0,0.0
+"2012-13","August","MOP","Daman & Diu",5.0,0.0
+"2012-13","August","NPK","Daman & Diu",5.0,0.0
+"2012-13","August","TSP","Daman & Diu",0.0,0.0
+"2012-13","August","UREA","Daman & Diu",20.0,0.0
+"2012-13","August","DAP","Delhi",400.0,0.0
+"2012-13","August","MAP","Delhi",0.0,0.0
+"2012-13","August","MOP","Delhi",100.0,0.0
+"2012-13","August","NPK","Delhi",50.0,0.0
+"2012-13","August","TSP","Delhi",0.0,0.0
+"2012-13","August","UREA","Delhi",300.0,0.0
+"2012-13","August","DAP","Goa",200.0,50.0
+"2012-13","August","MAP","Goa",0.0,0.0
+"2012-13","August","MOP","Goa",200.0,0.0
+"2012-13","August","NPK","Goa",815.0,12.65
+"2012-13","August","TSP","Goa",0.0,0.0
+"2012-13","August","UREA","Goa",850.0,90.0
+"2012-13","August","DAP","Gujarat",55000.0,19131.2
+"2012-13","August","MAP","Gujarat",0.0,0.0
+"2012-13","August","MOP","Gujarat",16000.0,2515.75
+"2012-13","August","NPK","Gujarat",40000.0,36088.001
+"2012-13","August","TSP","Gujarat",0.0,6250.05
+"2012-13","August","UREA","Gujarat",230000.0,14350.455
+"2012-13","August","DAP","Harayana",25000.0,3480.05
+"2012-13","August","MAP","Harayana",0.0,1.2
+"2012-13","August","MOP","Harayana",5000.0,5107.4
+"2012-13","August","NPK","Harayana",5000.0,8344.75
+"2012-13","August","TSP","Harayana",0.0,0.0
+"2012-13","August","UREA","Harayana",155000.0,7377.95
+"2012-13","August","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","August","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","August","MOP","Himachal Pradesh",0.0,0.0
+"2012-13","August","NPK","Himachal Pradesh",2500.0,13.3
+"2012-13","August","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","August","UREA","Himachal Pradesh",2500.0,115.35
+"2012-13","August","DAP","Jammu & Kashmir",2500.0,2639.55
+"2012-13","August","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","August","MOP","Jammu & Kashmir",500.0,701.25
+"2012-13","August","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","August","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","August","UREA","Jammu & Kashmir",8000.0,1095.55
+"2012-13","August","DAP","Jharkhand",10000.0,2540.3
+"2012-13","August","MAP","Jharkhand",0.0,0.0
+"2012-13","August","MOP","Jharkhand",2500.0,1005.65
+"2012-13","August","NPK","Jharkhand",9000.0,1869.7
+"2012-13","August","TSP","Jharkhand",0.0,0.0
+"2012-13","August","UREA","Jharkhand",44000.0,3295.0
+"2012-13","August","DAP","Karnataka",74000.0,46739.516
+"2012-13","August","MAP","Karnataka",0.0,2006.1
+"2012-13","August","MOP","Karnataka",65000.0,37919.383
+"2012-13","August","NPK","Karnataka",138600.0,80270.251
+"2012-13","August","TSP","Karnataka",0.0,11905.4
+"2012-13","August","UREA","Karnataka",200000.0,9648.794
+"2012-13","August","DAP","Kerala",5000.0,2419.1
+"2012-13","August","MAP","Kerala",0.0,0.0
+"2012-13","August","MOP","Kerala",13000.0,3626.127
+"2012-13","August","NPK","Kerala",19000.0,13516.089
+"2012-13","August","TSP","Kerala",0.0,3260.95
+"2012-13","August","UREA","Kerala",14000.0,525.9
+"2012-13","August","DAP","Lakshadeeep",0.0,0.0
+"2012-13","August","MAP","Lakshadeeep",0.0,0.0
+"2012-13","August","MOP","Lakshadeeep",0.0,0.0
+"2012-13","August","NPK","Lakshadeeep",0.0,0.0
+"2012-13","August","TSP","Lakshadeeep",0.0,0.0
+"2012-13","August","UREA","Lakshadeeep",0.0,0.0
+"2012-13","August","DAP","Madhya Pradesh",109687.0,24438.2
+"2012-13","August","MAP","Madhya Pradesh",0.0,5104.6
+"2012-13","August","MOP","Madhya Pradesh",4410.0,16452.65
+"2012-13","August","NPK","Madhya Pradesh",29842.0,32877.1
+"2012-13","August","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","August","UREA","Madhya Pradesh",180000.0,20806.8
+"2012-13","August","DAP","Maharastra",135000.0,58733.64
+"2012-13","August","MAP","Maharastra",0.0,12666.75
+"2012-13","August","MOP","Maharastra",60000.0,48614.75
+"2012-13","August","NPK","Maharastra",161500.0,98288.13
+"2012-13","August","TSP","Maharastra",0.0,16.2
+"2012-13","August","UREA","Maharastra",300000.0,24643.53
+"2012-13","August","DAP","Manipur",1200.0,0.0
+"2012-13","August","MAP","Manipur",0.0,0.0
+"2012-13","August","MOP","Manipur",500.0,0.0
+"2012-13","August","NPK","Manipur",0.0,0.0
+"2012-13","August","TSP","Manipur",0.0,0.0
+"2012-13","August","UREA","Manipur",6500.0,0.0
+"2012-13","August","DAP","Megalaya",700.0,0.0
+"2012-13","August","MAP","Megalaya",0.0,0.0
+"2012-13","August","MOP","Megalaya",50.0,0.0
+"2012-13","August","NPK","Megalaya",0.0,0.0
+"2012-13","August","TSP","Megalaya",0.0,0.0
+"2012-13","August","UREA","Megalaya",1100.0,1160.0
+"2012-13","August","DAP","Mizoram",1000.0,0.0
+"2012-13","August","MAP","Mizoram",0.0,0.0
+"2012-13","August","MOP","Mizoram",1400.0,0.0
+"2012-13","August","NPK","Mizoram",0.0,0.0
+"2012-13","August","TSP","Mizoram",0.0,0.0
+"2012-13","August","UREA","Mizoram",1600.0,0.0
+"2012-13","August","DAP","Nagaland",78.0,0.0
+"2012-13","August","MAP","Nagaland",0.0,0.0
+"2012-13","August","MOP","Nagaland",40.0,0.0
+"2012-13","August","NPK","Nagaland",27.0,0.0
+"2012-13","August","TSP","Nagaland",0.0,0.0
+"2012-13","August","UREA","Nagaland",165.0,0.0
+"2012-13","August","DAP","Odisha",43350.0,16934.65
+"2012-13","August","MAP","Odisha",0.0,0.0
+"2012-13","August","MOP","Odisha",26580.0,10624.8
+"2012-13","August","NPK","Odisha",43335.0,23725.45
+"2012-13","August","TSP","Odisha",0.0,0.0
+"2012-13","August","UREA","Odisha",140440.0,16523.247
+"2012-13","August","DAP","Pondicherry",800.0,0.0
+"2012-13","August","MAP","Pondicherry",0.0,0.0
+"2012-13","August","MOP","Pondicherry",1000.0,0.0
+"2012-13","August","NPK","Pondicherry",1595.0,607.85
+"2012-13","August","TSP","Pondicherry",0.0,0.0
+"2012-13","August","UREA","Pondicherry",1900.0,0.0
+"2012-13","August","DAP","Punjab",100000.0,13188.5
+"2012-13","August","MAP","Punjab",0.0,1221.45
+"2012-13","August","MOP","Punjab",7500.0,3571.9
+"2012-13","August","NPK","Punjab",10000.0,7683.35
+"2012-13","August","TSP","Punjab",0.0,3355.3
+"2012-13","August","UREA","Punjab",100000.0,3301.35
+"2012-13","August","DAP","Rajasthan",55000.0,9481.4
+"2012-13","August","MAP","Rajasthan",0.0,0.0
+"2012-13","August","MOP","Rajasthan",5000.0,1482.0
+"2012-13","August","NPK","Rajasthan",16200.0,3300.15
+"2012-13","August","TSP","Rajasthan",0.0,3526.25
+"2012-13","August","UREA","Rajasthan",180000.0,14624.074
+"2012-13","August","DAP","Sikkim",0.0,0.0
+"2012-13","August","MAP","Sikkim",0.0,0.0
+"2012-13","August","MOP","Sikkim",0.0,0.0
+"2012-13","August","NPK","Sikkim",0.0,0.0
+"2012-13","August","TSP","Sikkim",0.0,0.0
+"2012-13","August","UREA","Sikkim",0.0,0.0
+"2012-13","August","DAP","Tamil Nadu",50000.0,6434.75
+"2012-13","August","MAP","Tamil Nadu",0.0,0.0
+"2012-13","August","MOP","Tamil Nadu",38000.0,14620.95
+"2012-13","August","NPK","Tamil Nadu",60100.0,88957.4
+"2012-13","August","TSP","Tamil Nadu",0.0,0.0
+"2012-13","August","UREA","Tamil Nadu",80000.0,43.9
+"2012-13","August","DAP","Tripura",448.0,0.0
+"2012-13","August","MAP","Tripura",0.0,0.0
+"2012-13","August","MOP","Tripura",0.0,0.0
+"2012-13","August","NPK","Tripura",0.0,0.0
+"2012-13","August","TSP","Tripura",0.0,0.0
+"2012-13","August","UREA","Tripura",3458.0,1581.55
+"2012-13","August","DAP","Uttar Pradesh",250000.0,47815.42
+"2012-13","August","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","August","MOP","Uttar Pradesh",30000.0,24261.0
+"2012-13","August","NPK","Uttar Pradesh",120000.0,83263.15
+"2012-13","August","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","August","UREA","Uttar Pradesh",600000.0,53103.95
+"2012-13","August","DAP","Uttaranchal",2500.0,1726.9
+"2012-13","August","MAP","Uttaranchal",0.0,0.0
+"2012-13","August","MOP","Uttaranchal",0.0,0.0
+"2012-13","August","NPK","Uttaranchal",0.0,2130.95
+"2012-13","August","TSP","Uttaranchal",0.0,0.0
+"2012-13","August","UREA","Uttaranchal",25000.0,7972.6
+"2012-13","August","DAP","West Bengal",47700.0,16699.94
+"2012-13","August","MAP","West Bengal",0.0,-8.5
+"2012-13","August","MOP","West Bengal",29850.0,32760.95
+"2012-13","August","NPK","West Bengal",83150.0,74121.85
+"2012-13","August","TSP","West Bengal",0.0,7377.55
+"2012-13","August","UREA","West Bengal",109200.0,31097.589
+"2012-13","September","DAP","Andaman & Nicobar",70.0,500.0
+"2012-13","September","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","September","MOP","Andaman & Nicobar",50.0,0.0
+"2012-13","September","NPK","Andaman & Nicobar",45.0,0.0
+"2012-13","September","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","September","UREA","Andaman & Nicobar",50.0,0.0
+"2012-13","September","DAP","Andhra Pradesh",100000.0,106511.0
+"2012-13","September","MAP","Andhra Pradesh",0.0,17.85
+"2012-13","September","MOP","Andhra Pradesh",95000.0,36488.31
+"2012-13","September","NPK","Andhra Pradesh",205000.0,117240.583
+"2012-13","September","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","September","UREA","Andhra Pradesh",400000.0,12107.8
+"2012-13","September","DAP","Arunachal Pradesh",10.0,0.0
+"2012-13","September","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","September","MOP","Arunachal Pradesh",8.0,0.0
+"2012-13","September","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","September","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","September","UREA","Arunachal Pradesh",80.0,0.0
+"2012-13","September","DAP","Assam",3250.0,1952.05
+"2012-13","September","MAP","Assam",0.0,0.0
+"2012-13","September","MOP","Assam",7800.0,8224.5
+"2012-13","September","NPK","Assam",975.0,1793.3
+"2012-13","September","TSP","Assam",0.0,0.0
+"2012-13","September","UREA","Assam",18850.0,3569.1
+"2012-13","September","DAP","Bihar",20000.0,45775.5
+"2012-13","September","MAP","Bihar",0.0,71.65
+"2012-13","September","MOP","Bihar",10000.0,7993.3
+"2012-13","September","NPK","Bihar",15000.0,22904.95
+"2012-13","September","TSP","Bihar",0.0,7673.75
+"2012-13","September","UREA","Bihar",210000.0,10839.3
+"2012-13","September","DAP","Chandigarh",0.0,0.0
+"2012-13","September","MAP","Chandigarh",0.0,0.0
+"2012-13","September","MOP","Chandigarh",0.0,0.0
+"2012-13","September","NPK","Chandigarh",0.0,0.0
+"2012-13","September","TSP","Chandigarh",0.0,0.0
+"2012-13","September","UREA","Chandigarh",0.0,0.0
+"2012-13","September","DAP","Chattishgarh",10840.0,19348.45
+"2012-13","September","MAP","Chattishgarh",0.0,0.0
+"2012-13","September","MOP","Chattishgarh",4000.0,3997.45
+"2012-13","September","NPK","Chattishgarh",5000.0,9257.45
+"2012-13","September","TSP","Chattishgarh",0.0,3858.25
+"2012-13","September","UREA","Chattishgarh",50000.0,2072.9
+"2012-13","September","DAP","Dadra & Nagar Haveli",20.0,12.25
+"2012-13","September","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","September","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","September","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","September","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","September","UREA","Dadra & Nagar Haveli",50.0,18.0
+"2012-13","September","DAP","Daman & Diu",10.0,0.0
+"2012-13","September","MAP","Daman & Diu",0.0,0.0
+"2012-13","September","MOP","Daman & Diu",0.0,0.0
+"2012-13","September","NPK","Daman & Diu",0.0,0.0
+"2012-13","September","TSP","Daman & Diu",0.0,0.0
+"2012-13","September","UREA","Daman & Diu",20.0,0.0
+"2012-13","September","DAP","Delhi",200.0,0.0
+"2012-13","September","MAP","Delhi",0.0,0.0
+"2012-13","September","MOP","Delhi",50.0,0.0
+"2012-13","September","NPK","Delhi",0.0,0.0
+"2012-13","September","TSP","Delhi",0.0,0.0
+"2012-13","September","UREA","Delhi",200.0,0.0
+"2012-13","September","DAP","Goa",100.0,0.0
+"2012-13","September","MAP","Goa",0.0,0.0
+"2012-13","September","MOP","Goa",200.0,0.0
+"2012-13","September","NPK","Goa",580.0,0.0
+"2012-13","September","TSP","Goa",0.0,0.0
+"2012-13","September","UREA","Goa",800.0,127.75
+"2012-13","September","DAP","Gujarat",70000.0,33750.828
+"2012-13","September","MAP","Gujarat",0.0,0.0
+"2012-13","September","MOP","Gujarat",16000.0,1007.55
+"2012-13","September","NPK","Gujarat",27000.0,40202.35
+"2012-13","September","TSP","Gujarat",0.0,6313.85
+"2012-13","September","UREA","Gujarat",220000.0,16396.975
+"2012-13","September","DAP","Harayana",95000.0,10559.8
+"2012-13","September","MAP","Harayana",0.0,0.0
+"2012-13","September","MOP","Harayana",5000.0,7121.8
+"2012-13","September","NPK","Harayana",10000.0,7149.3
+"2012-13","September","TSP","Harayana",0.0,0.0
+"2012-13","September","UREA","Harayana",100000.0,3286.7
+"2012-13","September","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","September","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","September","MOP","Himachal Pradesh",200.0,0.0
+"2012-13","September","NPK","Himachal Pradesh",7500.0,69.5
+"2012-13","September","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","September","UREA","Himachal Pradesh",0.0,128.85
+"2012-13","September","DAP","Jammu & Kashmir",2500.0,3485.95
+"2012-13","September","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","September","MOP","Jammu & Kashmir",500.0,665.75
+"2012-13","September","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","September","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","September","UREA","Jammu & Kashmir",5000.0,1380.95
+"2012-13","September","DAP","Jharkhand",10000.0,8815.6
+"2012-13","September","MAP","Jharkhand",0.0,0.0
+"2012-13","September","MOP","Jharkhand",2500.0,0.0
+"2012-13","September","NPK","Jharkhand",4300.0,3056.3
+"2012-13","September","TSP","Jharkhand",0.0,0.0
+"2012-13","September","UREA","Jharkhand",32000.0,477.0
+"2012-13","September","DAP","Karnataka",80000.0,71641.472
+"2012-13","September","MAP","Karnataka",0.0,20.2
+"2012-13","September","MOP","Karnataka",70000.0,45568.497
+"2012-13","September","NPK","Karnataka",179400.0,80438.954
+"2012-13","September","TSP","Karnataka",0.0,11905.4
+"2012-13","September","UREA","Karnataka",150000.0,4062.45
+"2012-13","September","DAP","Kerala",3000.0,2152.05
+"2012-13","September","MAP","Kerala",0.0,0.0
+"2012-13","September","MOP","Kerala",12000.0,6576.211
+"2012-13","September","NPK","Kerala",16000.0,19170.332
+"2012-13","September","TSP","Kerala",0.0,3260.95
+"2012-13","September","UREA","Kerala",14000.0,387.6
+"2012-13","September","DAP","Lakshadeeep",0.0,0.0
+"2012-13","September","MAP","Lakshadeeep",0.0,0.0
+"2012-13","September","MOP","Lakshadeeep",0.0,0.0
+"2012-13","September","NPK","Lakshadeeep",0.0,0.0
+"2012-13","September","TSP","Lakshadeeep",0.0,0.0
+"2012-13","September","UREA","Lakshadeeep",0.0,0.0
+"2012-13","September","DAP","Madhya Pradesh",169000.0,98048.75
+"2012-13","September","MAP","Madhya Pradesh",0.0,30.55
+"2012-13","September","MOP","Madhya Pradesh",6030.0,20640.0
+"2012-13","September","NPK","Madhya Pradesh",71483.0,20046.3
+"2012-13","September","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","September","UREA","Madhya Pradesh",179531.0,9035.35
+"2012-13","September","DAP","Maharastra",210000.0,96055.59
+"2012-13","September","MAP","Maharastra",0.0,62.3
+"2012-13","September","MOP","Maharastra",55000.0,53012.85
+"2012-13","September","NPK","Maharastra",151500.0,109606.63
+"2012-13","September","TSP","Maharastra",0.0,16.2
+"2012-13","September","UREA","Maharastra",210000.0,20264.18
+"2012-13","September","DAP","Manipur",600.0,0.0
+"2012-13","September","MAP","Manipur",0.0,0.0
+"2012-13","September","MOP","Manipur",300.0,0.0
+"2012-13","September","NPK","Manipur",0.0,0.0
+"2012-13","September","TSP","Manipur",0.0,0.0
+"2012-13","September","UREA","Manipur",3000.0,0.0
+"2012-13","September","DAP","Megalaya",350.0,0.0
+"2012-13","September","MAP","Megalaya",0.0,0.0
+"2012-13","September","MOP","Megalaya",40.0,0.0
+"2012-13","September","NPK","Megalaya",0.0,0.0
+"2012-13","September","TSP","Megalaya",0.0,0.0
+"2012-13","September","UREA","Megalaya",500.0,1200.0
+"2012-13","September","DAP","Mizoram",950.0,0.0
+"2012-13","September","MAP","Mizoram",0.0,0.0
+"2012-13","September","MOP","Mizoram",700.0,0.0
+"2012-13","September","NPK","Mizoram",0.0,0.0
+"2012-13","September","TSP","Mizoram",0.0,0.0
+"2012-13","September","UREA","Mizoram",1600.0,0.0
+"2012-13","September","DAP","Nagaland",120.0,0.0
+"2012-13","September","MAP","Nagaland",0.0,0.0
+"2012-13","September","MOP","Nagaland",55.0,0.0
+"2012-13","September","NPK","Nagaland",35.0,0.0
+"2012-13","September","TSP","Nagaland",0.0,0.0
+"2012-13","September","UREA","Nagaland",182.0,0.0
+"2012-13","September","DAP","Odisha",25860.0,18360.55
+"2012-13","September","MAP","Odisha",0.0,0.0
+"2012-13","September","MOP","Odisha",20610.0,14734.8
+"2012-13","September","NPK","Odisha",24040.0,23861.95
+"2012-13","September","TSP","Odisha",0.0,0.0
+"2012-13","September","UREA","Odisha",107860.0,14101.597
+"2012-13","September","DAP","Pondicherry",1000.0,0.0
+"2012-13","September","MAP","Pondicherry",0.0,0.0
+"2012-13","September","MOP","Pondicherry",1000.0,240.0
+"2012-13","September","NPK","Pondicherry",3280.0,1999.1
+"2012-13","September","TSP","Pondicherry",0.0,0.0
+"2012-13","September","UREA","Pondicherry",3000.0,0.0
+"2012-13","September","DAP","Punjab",170000.0,13747.1
+"2012-13","September","MAP","Punjab",0.0,39.65
+"2012-13","September","MOP","Punjab",12500.0,7219.95
+"2012-13","September","NPK","Punjab",10000.0,3089.15
+"2012-13","September","TSP","Punjab",0.0,3355.3
+"2012-13","September","UREA","Punjab",100000.0,5196.25
+"2012-13","September","DAP","Rajasthan",123000.0,6549.64
+"2012-13","September","MAP","Rajasthan",0.0,0.0
+"2012-13","September","MOP","Rajasthan",7500.0,4953.85
+"2012-13","September","NPK","Rajasthan",22000.0,830.85
+"2012-13","September","TSP","Rajasthan",0.0,3526.25
+"2012-13","September","UREA","Rajasthan",120000.0,11388.677
+"2012-13","September","DAP","Sikkim",0.0,0.0
+"2012-13","September","MAP","Sikkim",0.0,0.0
+"2012-13","September","MOP","Sikkim",0.0,0.0
+"2012-13","September","NPK","Sikkim",0.0,0.0
+"2012-13","September","TSP","Sikkim",0.0,0.0
+"2012-13","September","UREA","Sikkim",0.0,0.0
+"2012-13","September","DAP","Tamil Nadu",57000.0,6232.4
+"2012-13","September","MAP","Tamil Nadu",0.0,0.0
+"2012-13","September","MOP","Tamil Nadu",46000.0,15275.65
+"2012-13","September","NPK","Tamil Nadu",71300.0,71542.2
+"2012-13","September","TSP","Tamil Nadu",0.0,0.0
+"2012-13","September","UREA","Tamil Nadu",95000.0,1053.55
+"2012-13","September","DAP","Tripura",504.0,0.0
+"2012-13","September","MAP","Tripura",0.0,0.0
+"2012-13","September","MOP","Tripura",0.0,-15.2
+"2012-13","September","NPK","Tripura",0.0,0.0
+"2012-13","September","TSP","Tripura",0.0,0.0
+"2012-13","September","UREA","Tripura",2165.0,1006.75
+"2012-13","September","DAP","Uttar Pradesh",160000.0,113433.3
+"2012-13","September","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","September","MOP","Uttar Pradesh",10000.0,12467.95
+"2012-13","September","NPK","Uttar Pradesh",130000.0,56071.4
+"2012-13","September","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","September","UREA","Uttar Pradesh",250000.0,34893.15
+"2012-13","September","DAP","Uttaranchal",1000.0,543.45
+"2012-13","September","MAP","Uttaranchal",0.0,0.0
+"2012-13","September","MOP","Uttaranchal",0.0,0.0
+"2012-13","September","NPK","Uttaranchal",0.0,2899.95
+"2012-13","September","TSP","Uttaranchal",0.0,0.0
+"2012-13","September","UREA","Uttaranchal",5000.0,2849.35
+"2012-13","September","DAP","West Bengal",29500.0,43723.3
+"2012-13","September","MAP","West Bengal",0.0,0.0
+"2012-13","September","MOP","West Bengal",23100.0,29020.5
+"2012-13","September","NPK","West Bengal",53200.0,64792.64
+"2012-13","September","TSP","West Bengal",0.0,7377.55
+"2012-13","September","UREA","West Bengal",82000.0,15554.485
+"2012-13","October","DAP","Andaman & Nicobar",0.0,0.0
+"2012-13","October","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","October","MOP","Andaman & Nicobar",0.0,0.0
+"2012-13","October","NPK","Andaman & Nicobar",0.0,0.0
+"2012-13","October","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","October","UREA","Andaman & Nicobar",0.0,0.0
+"2012-13","October","DAP","Andhra Pradesh",100000.0,87696.05
+"2012-13","October","MAP","Andhra Pradesh",0.0,17.85
+"2012-13","October","MOP","Andhra Pradesh",75000.0,44384.11
+"2012-13","October","NPK","Andhra Pradesh",150000.0,104307.848
+"2012-13","October","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","October","UREA","Andhra Pradesh",300000.0,13489.485
+"2012-13","October","DAP","Arunachal Pradesh",60.0,0.0
+"2012-13","October","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","October","MOP","Arunachal Pradesh",30.0,0.0
+"2012-13","October","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","October","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","October","UREA","Arunachal Pradesh",50.0,0.0
+"2012-13","October","DAP","Assam",3600.0,3218.6
+"2012-13","October","MAP","Assam",0.0,0.0
+"2012-13","October","MOP","Assam",8100.0,9788.05
+"2012-13","October","NPK","Assam",1800.0,988.45
+"2012-13","October","TSP","Assam",0.0,0.0
+"2012-13","October","UREA","Assam",13000.0,270.85
+"2012-13","October","DAP","Bihar",80000.0,78900.15
+"2012-13","October","MAP","Bihar",0.0,71.65
+"2012-13","October","MOP","Bihar",40000.0,9122.0
+"2012-13","October","NPK","Bihar",40000.0,23988.3
+"2012-13","October","TSP","Bihar",0.0,7673.75
+"2012-13","October","UREA","Bihar",180000.0,11331.35
+"2012-13","October","DAP","Chandigarh",0.0,0.0
+"2012-13","October","MAP","Chandigarh",0.0,0.0
+"2012-13","October","MOP","Chandigarh",0.0,0.0
+"2012-13","October","NPK","Chandigarh",0.0,0.0
+"2012-13","October","TSP","Chandigarh",0.0,0.0
+"2012-13","October","UREA","Chandigarh",0.0,0.0
+"2012-13","October","DAP","Chattishgarh",10000.0,23617.5
+"2012-13","October","MAP","Chattishgarh",0.0,0.0
+"2012-13","October","MOP","Chattishgarh",4000.0,7563.2
+"2012-13","October","NPK","Chattishgarh",5000.0,5461.85
+"2012-13","October","TSP","Chattishgarh",0.0,3858.25
+"2012-13","October","UREA","Chattishgarh",20000.0,5482.7
+"2012-13","October","DAP","Dadra & Nagar Haveli",70.0,11.8
+"2012-13","October","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","October","MOP","Dadra & Nagar Haveli",10.0,0.0
+"2012-13","October","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","October","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","October","UREA","Dadra & Nagar Haveli",80.0,13.1
+"2012-13","October","DAP","Daman & Diu",30.0,0.0
+"2012-13","October","MAP","Daman & Diu",0.0,0.0
+"2012-13","October","MOP","Daman & Diu",40.0,0.0
+"2012-13","October","NPK","Daman & Diu",70.0,0.0
+"2012-13","October","TSP","Daman & Diu",0.0,0.0
+"2012-13","October","UREA","Daman & Diu",130.0,0.0
+"2012-13","October","DAP","Delhi",1000.0,0.0
+"2012-13","October","MAP","Delhi",0.0,0.0
+"2012-13","October","MOP","Delhi",600.0,0.0
+"2012-13","October","NPK","Delhi",800.0,0.0
+"2012-13","October","TSP","Delhi",0.0,0.0
+"2012-13","October","UREA","Delhi",1300.0,0.0
+"2012-13","October","DAP","Goa",50.0,0.0
+"2012-13","October","MAP","Goa",0.0,0.0
+"2012-13","October","MOP","Goa",50.0,0.0
+"2012-13","October","NPK","Goa",300.0,0.0
+"2012-13","October","TSP","Goa",0.0,0.0
+"2012-13","October","UREA","Goa",300.0,0.0
+"2012-13","October","DAP","Gujarat",110000.0,44183.12
+"2012-13","October","MAP","Gujarat",0.0,0.0
+"2012-13","October","MOP","Gujarat",18000.0,3738.65
+"2012-13","October","NPK","Gujarat",73700.0,46172.0
+"2012-13","October","TSP","Gujarat",0.0,6313.85
+"2012-13","October","UREA","Gujarat",220000.0,14057.74
+"2012-13","October","DAP","Harayana",225000.0,34313.95
+"2012-13","October","MAP","Harayana",0.0,0.0
+"2012-13","October","MOP","Harayana",10000.0,2585.55
+"2012-13","October","NPK","Harayana",15000.0,6191.05
+"2012-13","October","TSP","Harayana",0.0,0.0
+"2012-13","October","UREA","Harayana",250000.0,11628.9
+"2012-13","October","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","October","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","October","MOP","Himachal Pradesh",0.0,0.0
+"2012-13","October","NPK","Himachal Pradesh",7500.0,101.95
+"2012-13","October","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","October","UREA","Himachal Pradesh",5000.0,62.2
+"2012-13","October","DAP","Jammu & Kashmir",7790.0,981.4
+"2012-13","October","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","October","MOP","Jammu & Kashmir",4380.0,556.2
+"2012-13","October","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","October","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","October","UREA","Jammu & Kashmir",13700.0,680.95
+"2012-13","October","DAP","Jharkhand",11500.0,11827.7
+"2012-13","October","MAP","Jharkhand",0.0,0.0
+"2012-13","October","MOP","Jharkhand",2500.0,-0.15
+"2012-13","October","NPK","Jharkhand",20000.0,2348.85
+"2012-13","October","TSP","Jharkhand",0.0,0.0
+"2012-13","October","UREA","Jharkhand",21250.0,1184.05
+"2012-13","October","DAP","Karnataka",60000.0,60561.868
+"2012-13","October","MAP","Karnataka",0.0,20.2
+"2012-13","October","MOP","Karnataka",60000.0,40379.25
+"2012-13","October","NPK","Karnataka",125000.0,74922.324
+"2012-13","October","TSP","Karnataka",0.0,11905.4
+"2012-13","October","UREA","Karnataka",140000.0,8058.196
+"2012-13","October","DAP","Kerala",7000.0,1568.2
+"2012-13","October","MAP","Kerala",0.0,0.0
+"2012-13","October","MOP","Kerala",25000.0,7574.044
+"2012-13","October","NPK","Kerala",40000.0,15283.81
+"2012-13","October","TSP","Kerala",0.0,3260.95
+"2012-13","October","UREA","Kerala",26000.0,693.4
+"2012-13","October","DAP","Lakshadeeep",0.0,0.0
+"2012-13","October","MAP","Lakshadeeep",0.0,0.0
+"2012-13","October","MOP","Lakshadeeep",0.0,0.0
+"2012-13","October","NPK","Lakshadeeep",0.0,0.0
+"2012-13","October","TSP","Lakshadeeep",0.0,0.0
+"2012-13","October","UREA","Lakshadeeep",0.0,0.0
+"2012-13","October","DAP","Madhya Pradesh",223790.0,119655.35
+"2012-13","October","MAP","Madhya Pradesh",0.0,30.55
+"2012-13","October","MOP","Madhya Pradesh",21520.0,14996.35
+"2012-13","October","NPK","Madhya Pradesh",89460.0,26261.1
+"2012-13","October","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","October","UREA","Madhya Pradesh",240990.0,15920.5
+"2012-13","October","DAP","Maharastra",86000.0,89952.34
+"2012-13","October","MAP","Maharastra",0.0,54.5
+"2012-13","October","MOP","Maharastra",48000.0,85582.5
+"2012-13","October","NPK","Maharastra",205000.0,82062.9
+"2012-13","October","TSP","Maharastra",0.0,0.0
+"2012-13","October","UREA","Maharastra",195000.0,12460.83
+"2012-13","October","DAP","Manipur",1000.0,0.0
+"2012-13","October","MAP","Manipur",0.0,0.0
+"2012-13","October","MOP","Manipur",600.0,0.0
+"2012-13","October","NPK","Manipur",0.0,0.0
+"2012-13","October","TSP","Manipur",0.0,0.0
+"2012-13","October","UREA","Manipur",1550.0,0.0
+"2012-13","October","DAP","Megalaya",300.0,0.0
+"2012-13","October","MAP","Megalaya",0.0,0.0
+"2012-13","October","MOP","Megalaya",30.0,0.0
+"2012-13","October","NPK","Megalaya",0.0,0.0
+"2012-13","October","TSP","Megalaya",0.0,0.0
+"2012-13","October","UREA","Megalaya",200.0,0.0
+"2012-13","October","DAP","Mizoram",80.0,0.0
+"2012-13","October","MAP","Mizoram",0.0,0.0
+"2012-13","October","MOP","Mizoram",120.0,0.0
+"2012-13","October","NPK","Mizoram",0.0,0.0
+"2012-13","October","TSP","Mizoram",0.0,0.0
+"2012-13","October","UREA","Mizoram",290.0,0.0
+"2012-13","October","DAP","Nagaland",140.0,0.0
+"2012-13","October","MAP","Nagaland",0.0,0.0
+"2012-13","October","MOP","Nagaland",100.0,0.0
+"2012-13","October","NPK","Nagaland",40.0,0.0
+"2012-13","October","TSP","Nagaland",0.0,0.0
+"2012-13","October","UREA","Nagaland",200.0,0.0
+"2012-13","October","DAP","Odisha",10000.0,11668.05
+"2012-13","October","MAP","Odisha",0.0,0.0
+"2012-13","October","MOP","Odisha",15000.0,14013.0
+"2012-13","October","NPK","Odisha",8500.0,21948.45
+"2012-13","October","TSP","Odisha",0.0,0.0
+"2012-13","October","UREA","Odisha",40000.0,5998.947
+"2012-13","October","DAP","Pondicherry",500.0,0.0
+"2012-13","October","MAP","Pondicherry",0.0,0.0
+"2012-13","October","MOP","Pondicherry",1000.0,0.0
+"2012-13","October","NPK","Pondicherry",1850.0,929.75
+"2012-13","October","TSP","Pondicherry",0.0,0.0
+"2012-13","October","UREA","Pondicherry",2000.0,0.0
+"2012-13","October","DAP","Punjab",230000.0,29164.35
+"2012-13","October","MAP","Punjab",0.0,0.0
+"2012-13","October","MOP","Punjab",15000.0,9585.65
+"2012-13","October","NPK","Punjab",35000.0,1574.85
+"2012-13","October","TSP","Punjab",0.0,3355.3
+"2012-13","October","UREA","Punjab",300000.0,1315.85
+"2012-13","October","DAP","Rajasthan",112360.0,12070.152
+"2012-13","October","MAP","Rajasthan",0.0,0.0
+"2012-13","October","MOP","Rajasthan",4970.0,4402.56
+"2012-13","October","NPK","Rajasthan",34490.0,1478.85
+"2012-13","October","TSP","Rajasthan",0.0,3526.25
+"2012-13","October","UREA","Rajasthan",177100.0,964.097
+"2012-13","October","DAP","Sikkim",0.0,0.0
+"2012-13","October","MAP","Sikkim",0.0,0.0
+"2012-13","October","MOP","Sikkim",0.0,0.0
+"2012-13","October","NPK","Sikkim",0.0,0.0
+"2012-13","October","TSP","Sikkim",0.0,0.0
+"2012-13","October","UREA","Sikkim",0.0,0.0
+"2012-13","October","DAP","Tamil Nadu",70000.0,12344.15
+"2012-13","October","MAP","Tamil Nadu",0.0,0.0
+"2012-13","October","MOP","Tamil Nadu",84000.0,12932.85
+"2012-13","October","NPK","Tamil Nadu",90760.0,19489.25
+"2012-13","October","TSP","Tamil Nadu",0.0,0.0
+"2012-13","October","UREA","Tamil Nadu",173000.0,1458.6
+"2012-13","October","DAP","Tripura",340.0,0.0
+"2012-13","October","MAP","Tripura",0.0,0.0
+"2012-13","October","MOP","Tripura",2660.0,0.0
+"2012-13","October","NPK","Tripura",0.0,0.0
+"2012-13","October","TSP","Tripura",0.0,0.0
+"2012-13","October","UREA","Tripura",9170.0,10.0
+"2012-13","October","DAP","Uttar Pradesh",400000.0,161745.7
+"2012-13","October","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","October","MOP","Uttar Pradesh",65000.0,6559.15
+"2012-13","October","NPK","Uttar Pradesh",175000.0,41441.2
+"2012-13","October","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","October","UREA","Uttar Pradesh",500000.0,42903.35
+"2012-13","October","DAP","Uttaranchal",1500.0,3249.3
+"2012-13","October","MAP","Uttaranchal",0.0,0.0
+"2012-13","October","MOP","Uttaranchal",2000.0,0.0
+"2012-13","October","NPK","Uttaranchal",6000.0,1361.1
+"2012-13","October","TSP","Uttaranchal",0.0,0.0
+"2012-13","October","UREA","Uttaranchal",5000.0,2687.25
+"2012-13","October","DAP","West Bengal",24530.0,44726.35
+"2012-13","October","MAP","West Bengal",0.0,0.0
+"2012-13","October","MOP","West Bengal",24840.0,35166.2
+"2012-13","October","NPK","West Bengal",56740.0,38808.595
+"2012-13","October","TSP","West Bengal",0.0,7377.55
+"2012-13","October","UREA","West Bengal",78000.0,14175.519
+"2012-13","November","DAP","Andaman & Nicobar",0.0,0.0
+"2012-13","November","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","November","MOP","Andaman & Nicobar",0.0,0.0
+"2012-13","November","NPK","Andaman & Nicobar",0.0,0.0
+"2012-13","November","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","November","UREA","Andaman & Nicobar",0.0,0.0
+"2012-13","November","DAP","Andhra Pradesh",100000.0,93404.0
+"2012-13","November","MAP","Andhra Pradesh",0.0,17.85
+"2012-13","November","MOP","Andhra Pradesh",75000.0,45191.96
+"2012-13","November","NPK","Andhra Pradesh",300000.0,169378.978
+"2012-13","November","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","November","UREA","Andhra Pradesh",300000.0,44754.2
+"2012-13","November","DAP","Arunachal Pradesh",60.0,0.0
+"2012-13","November","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","November","MOP","Arunachal Pradesh",30.0,0.0
+"2012-13","November","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","November","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","November","UREA","Arunachal Pradesh",50.0,0.0
+"2012-13","November","DAP","Assam",5200.0,3788.9
+"2012-13","November","MAP","Assam",0.0,0.0
+"2012-13","November","MOP","Assam",11700.0,14492.8
+"2012-13","November","NPK","Assam",2600.0,2003.1
+"2012-13","November","TSP","Assam",0.0,0.0
+"2012-13","November","UREA","Assam",21000.0,1716.15
+"2012-13","November","DAP","Bihar",100000.0,86781.5
+"2012-13","November","MAP","Bihar",0.0,71.65
+"2012-13","November","MOP","Bihar",60000.0,2422.95
+"2012-13","November","NPK","Bihar",75000.0,27290.05
+"2012-13","November","TSP","Bihar",0.0,7673.75
+"2012-13","November","UREA","Bihar",250000.0,18630.85
+"2012-13","November","DAP","Chandigarh",0.0,0.0
+"2012-13","November","MAP","Chandigarh",0.0,0.0
+"2012-13","November","MOP","Chandigarh",0.0,0.0
+"2012-13","November","NPK","Chandigarh",0.0,0.0
+"2012-13","November","TSP","Chandigarh",0.0,0.0
+"2012-13","November","UREA","Chandigarh",0.0,0.0
+"2012-13","November","DAP","Chattishgarh",20000.0,32524.25
+"2012-13","November","MAP","Chattishgarh",0.0,0.0
+"2012-13","November","MOP","Chattishgarh",8000.0,16070.5
+"2012-13","November","NPK","Chattishgarh",10000.0,5459.4
+"2012-13","November","TSP","Chattishgarh",0.0,3858.25
+"2012-13","November","UREA","Chattishgarh",40000.0,7764.55
+"2012-13","November","DAP","Dadra & Nagar Haveli",80.0,11.35
+"2012-13","November","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","November","MOP","Dadra & Nagar Haveli",30.0,0.0
+"2012-13","November","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","November","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","November","UREA","Dadra & Nagar Haveli",90.0,6.3
+"2012-13","November","DAP","Daman & Diu",0.0,0.0
+"2012-13","November","MAP","Daman & Diu",0.0,0.0
+"2012-13","November","MOP","Daman & Diu",0.0,0.0
+"2012-13","November","NPK","Daman & Diu",0.0,0.0
+"2012-13","November","TSP","Daman & Diu",0.0,0.0
+"2012-13","November","UREA","Daman & Diu",0.0,0.0
+"2012-13","November","DAP","Delhi",1300.0,0.0
+"2012-13","November","MAP","Delhi",0.0,0.0
+"2012-13","November","MOP","Delhi",400.0,0.0
+"2012-13","November","NPK","Delhi",800.0,0.0
+"2012-13","November","TSP","Delhi",0.0,0.0
+"2012-13","November","UREA","Delhi",1500.0,0.0
+"2012-13","November","DAP","Goa",100.0,0.0
+"2012-13","November","MAP","Goa",0.0,0.0
+"2012-13","November","MOP","Goa",50.0,0.0
+"2012-13","November","NPK","Goa",550.0,0.0
+"2012-13","November","TSP","Goa",0.0,0.0
+"2012-13","November","UREA","Goa",350.0,0.0
+"2012-13","November","DAP","Gujarat",110000.0,51374.486
+"2012-13","November","MAP","Gujarat",0.0,0.0
+"2012-13","November","MOP","Gujarat",21000.0,6516.8
+"2012-13","November","NPK","Gujarat",68200.0,42138.1
+"2012-13","November","TSP","Gujarat",0.0,6313.85
+"2012-13","November","UREA","Gujarat",230000.0,41269.865
+"2012-13","November","DAP","Harayana",100000.0,64759.65
+"2012-13","November","MAP","Harayana",0.0,0.0
+"2012-13","November","MOP","Harayana",10000.0,3089.85
+"2012-13","November","NPK","Harayana",10000.0,5006.0
+"2012-13","November","TSP","Harayana",0.0,0.0
+"2012-13","November","UREA","Harayana",325000.0,17338.4
+"2012-13","November","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","November","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","November","MOP","Himachal Pradesh",2500.0,2121.4
+"2012-13","November","NPK","Himachal Pradesh",5000.0,166.0
+"2012-13","November","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","November","UREA","Himachal Pradesh",5000.0,35.95
+"2012-13","November","DAP","Jammu & Kashmir",16540.0,5755.8
+"2012-13","November","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","November","MOP","Jammu & Kashmir",8400.0,1889.15
+"2012-13","November","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","November","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","November","UREA","Jammu & Kashmir",24430.0,3085.2
+"2012-13","November","DAP","Jharkhand",13000.0,12650.95
+"2012-13","November","MAP","Jharkhand",0.0,0.0
+"2012-13","November","MOP","Jharkhand",2500.0,163.25
+"2012-13","November","NPK","Jharkhand",20000.0,3667.2
+"2012-13","November","TSP","Jharkhand",0.0,0.0
+"2012-13","November","UREA","Jharkhand",22500.0,6868.05
+"2012-13","November","DAP","Karnataka",50000.0,56780.636
+"2012-13","November","MAP","Karnataka",0.0,20.2
+"2012-13","November","MOP","Karnataka",55000.0,50844.45
+"2012-13","November","NPK","Karnataka",100000.0,108280.564
+"2012-13","November","TSP","Karnataka",0.0,11905.4
+"2012-13","November","UREA","Karnataka",155000.0,21743.668
+"2012-13","November","DAP","Kerala",5000.0,1408.55
+"2012-13","November","MAP","Kerala",0.0,0.0
+"2012-13","November","MOP","Kerala",29000.0,11066.258
+"2012-13","November","NPK","Kerala",30000.0,11405.074
+"2012-13","November","TSP","Kerala",0.0,3140.15
+"2012-13","November","UREA","Kerala",23000.0,724.5
+"2012-13","November","DAP","Lakshadeeep",0.0,0.0
+"2012-13","November","MAP","Lakshadeeep",0.0,0.0
+"2012-13","November","MOP","Lakshadeeep",0.0,0.0
+"2012-13","November","NPK","Lakshadeeep",0.0,0.0
+"2012-13","November","TSP","Lakshadeeep",0.0,0.0
+"2012-13","November","UREA","Lakshadeeep",0.0,0.0
+"2012-13","November","DAP","Madhya Pradesh",213070.0,184680.15
+"2012-13","November","MAP","Madhya Pradesh",0.0,0.0
+"2012-13","November","MOP","Madhya Pradesh",18960.0,19838.55
+"2012-13","November","NPK","Madhya Pradesh",93460.0,29343.6
+"2012-13","November","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","November","UREA","Madhya Pradesh",378420.0,27632.2
+"2012-13","November","DAP","Maharastra",112000.0,99887.09
+"2012-13","November","MAP","Maharastra",0.0,54.5
+"2012-13","November","MOP","Maharastra",52000.0,92524.05
+"2012-13","November","NPK","Maharastra",195000.0,115008.5
+"2012-13","November","TSP","Maharastra",0.0,0.0
+"2012-13","November","UREA","Maharastra",210000.0,36010.795
+"2012-13","November","DAP","Manipur",900.0,0.0
+"2012-13","November","MAP","Manipur",0.0,0.0
+"2012-13","November","MOP","Manipur",600.0,0.0
+"2012-13","November","NPK","Manipur",0.0,0.0
+"2012-13","November","TSP","Manipur",0.0,0.0
+"2012-13","November","UREA","Manipur",1300.0,0.0
+"2012-13","November","DAP","Megalaya",250.0,0.0
+"2012-13","November","MAP","Megalaya",0.0,0.0
+"2012-13","November","MOP","Megalaya",30.0,0.0
+"2012-13","November","NPK","Megalaya",0.0,0.0
+"2012-13","November","TSP","Megalaya",0.0,0.0
+"2012-13","November","UREA","Megalaya",200.0,0.0
+"2012-13","November","DAP","Mizoram",40.0,0.0
+"2012-13","November","MAP","Mizoram",0.0,0.0
+"2012-13","November","MOP","Mizoram",60.0,0.0
+"2012-13","November","NPK","Mizoram",0.0,0.0
+"2012-13","November","TSP","Mizoram",0.0,0.0
+"2012-13","November","UREA","Mizoram",140.0,0.0
+"2012-13","November","DAP","Nagaland",120.0,0.0
+"2012-13","November","MAP","Nagaland",0.0,0.0
+"2012-13","November","MOP","Nagaland",40.0,0.0
+"2012-13","November","NPK","Nagaland",40.0,0.0
+"2012-13","November","TSP","Nagaland",0.0,0.0
+"2012-13","November","UREA","Nagaland",170.0,0.0
+"2012-13","November","DAP","Odisha",10000.0,8588.25
+"2012-13","November","MAP","Odisha",0.0,0.0
+"2012-13","November","MOP","Odisha",10000.0,11178.7
+"2012-13","November","NPK","Odisha",10000.0,27240.55
+"2012-13","November","TSP","Odisha",0.0,0.0
+"2012-13","November","UREA","Odisha",17000.0,20673.697
+"2012-13","November","DAP","Pondicherry",500.0,25.0
+"2012-13","November","MAP","Pondicherry",0.0,0.0
+"2012-13","November","MOP","Pondicherry",500.0,0.0
+"2012-13","November","NPK","Pondicherry",1660.0,1519.8
+"2012-13","November","TSP","Pondicherry",0.0,0.0
+"2012-13","November","UREA","Pondicherry",1500.0,45.0
+"2012-13","November","DAP","Punjab",60000.0,77033.25
+"2012-13","November","MAP","Punjab",0.0,0.0
+"2012-13","November","MOP","Punjab",15000.0,9569.3
+"2012-13","November","NPK","Punjab",25000.0,1237.0
+"2012-13","November","TSP","Punjab",0.0,3355.3
+"2012-13","November","UREA","Punjab",300000.0,3868.45
+"2012-13","November","DAP","Rajasthan",81440.0,47505.565
+"2012-13","November","MAP","Rajasthan",0.0,0.0
+"2012-13","November","MOP","Rajasthan",6280.0,5344.21
+"2012-13","November","NPK","Rajasthan",14970.0,3203.15
+"2012-13","November","TSP","Rajasthan",0.0,3526.25
+"2012-13","November","UREA","Rajasthan",205000.0,661.645
+"2012-13","November","DAP","Sikkim",0.0,0.0
+"2012-13","November","MAP","Sikkim",0.0,0.0
+"2012-13","November","MOP","Sikkim",0.0,0.0
+"2012-13","November","NPK","Sikkim",0.0,0.0
+"2012-13","November","TSP","Sikkim",0.0,0.0
+"2012-13","November","UREA","Sikkim",0.0,0.0
+"2012-13","November","DAP","Tamil Nadu",55000.0,27231.5
+"2012-13","November","MAP","Tamil Nadu",0.0,0.0
+"2012-13","November","MOP","Tamil Nadu",80000.0,8687.05
+"2012-13","November","NPK","Tamil Nadu",84030.0,22442.25
+"2012-13","November","TSP","Tamil Nadu",0.0,0.0
+"2012-13","November","UREA","Tamil Nadu",172000.0,1841.2
+"2012-13","November","DAP","Tripura",580.0,0.0
+"2012-13","November","MAP","Tripura",0.0,0.0
+"2012-13","November","MOP","Tripura",3050.0,-12.4
+"2012-13","November","NPK","Tripura",0.0,0.0
+"2012-13","November","TSP","Tripura",0.0,0.0
+"2012-13","November","UREA","Tripura",4420.0,0.0
+"2012-13","November","DAP","Uttar Pradesh",400000.0,221468.05
+"2012-13","November","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","November","MOP","Uttar Pradesh",45000.0,8423.6
+"2012-13","November","NPK","Uttar Pradesh",175000.0,73687.55
+"2012-13","November","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","November","UREA","Uttar Pradesh",650000.0,72633.35
+"2012-13","November","DAP","Uttaranchal",2500.0,1035.75
+"2012-13","November","MAP","Uttaranchal",0.0,0.0
+"2012-13","November","MOP","Uttaranchal",2000.0,0.0
+"2012-13","November","NPK","Uttaranchal",8500.0,2170.2
+"2012-13","November","TSP","Uttaranchal",0.0,0.0
+"2012-13","November","UREA","Uttaranchal",16000.0,3435.3
+"2012-13","November","DAP","West Bengal",29480.0,30050.045
+"2012-13","November","MAP","West Bengal",0.0,0.0
+"2012-13","November","MOP","West Bengal",37030.0,9174.45
+"2012-13","November","NPK","West Bengal",71210.0,42631.71
+"2012-13","November","TSP","West Bengal",0.0,7377.55
+"2012-13","November","UREA","West Bengal",108000.0,20565.052
+"2012-13","December","DAP","Andaman & Nicobar",600.0,0.0
+"2012-13","December","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","December","MOP","Andaman & Nicobar",0.0,0.0
+"2012-13","December","NPK","Andaman & Nicobar",0.0,0.0
+"2012-13","December","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","December","UREA","Andaman & Nicobar",0.0,0.0
+"2012-13","December","DAP","Andhra Pradesh",125000.0,110443.15
+"2012-13","December","MAP","Andhra Pradesh",0.0,17.85
+"2012-13","December","MOP","Andhra Pradesh",75000.0,56121.26
+"2012-13","December","NPK","Andhra Pradesh",325000.0,207214.578
+"2012-13","December","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","December","UREA","Andhra Pradesh",350000.0,80048.13
+"2012-13","December","DAP","Arunachal Pradesh",60.0,0.0
+"2012-13","December","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","December","MOP","Arunachal Pradesh",30.0,0.0
+"2012-13","December","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","December","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","December","UREA","Arunachal Pradesh",50.0,0.0
+"2012-13","December","DAP","Assam",8400.0,3609.6
+"2012-13","December","MAP","Assam",0.0,0.0
+"2012-13","December","MOP","Assam",18900.0,14536.95
+"2012-13","December","NPK","Assam",4200.0,2237.85
+"2012-13","December","TSP","Assam",0.0,0.0
+"2012-13","December","UREA","Assam",37000.0,7134.7
+"2012-13","December","DAP","Bihar",50000.0,101174.15
+"2012-13","December","MAP","Bihar",0.0,71.65
+"2012-13","December","MOP","Bihar",30000.0,18937.7
+"2012-13","December","NPK","Bihar",45000.0,36304.45
+"2012-13","December","TSP","Bihar",0.0,7673.75
+"2012-13","December","UREA","Bihar",270000.0,27864.05
+"2012-13","December","DAP","Chandigarh",0.0,0.0
+"2012-13","December","MAP","Chandigarh",0.0,0.0
+"2012-13","December","MOP","Chandigarh",0.0,0.0
+"2012-13","December","NPK","Chandigarh",0.0,0.0
+"2012-13","December","TSP","Chandigarh",0.0,0.0
+"2012-13","December","UREA","Chandigarh",0.0,0.0
+"2012-13","December","DAP","Chattishgarh",20000.0,36439.25
+"2012-13","December","MAP","Chattishgarh",0.0,0.0
+"2012-13","December","MOP","Chattishgarh",11000.0,15839.0
+"2012-13","December","NPK","Chattishgarh",10000.0,11879.85
+"2012-13","December","TSP","Chattishgarh",0.0,3858.25
+"2012-13","December","UREA","Chattishgarh",40000.0,23299.9
+"2012-13","December","DAP","Dadra & Nagar Haveli",50.0,8.65
+"2012-13","December","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","December","MOP","Dadra & Nagar Haveli",20.0,0.0
+"2012-13","December","NPK","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","December","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","December","UREA","Dadra & Nagar Haveli",70.0,0.75
+"2012-13","December","DAP","Daman & Diu",0.0,0.0
+"2012-13","December","MAP","Daman & Diu",0.0,0.0
+"2012-13","December","MOP","Daman & Diu",0.0,0.0
+"2012-13","December","NPK","Daman & Diu",0.0,0.0
+"2012-13","December","TSP","Daman & Diu",0.0,0.0
+"2012-13","December","UREA","Daman & Diu",0.0,0.0
+"2012-13","December","DAP","Delhi",500.0,0.0
+"2012-13","December","MAP","Delhi",0.0,0.0
+"2012-13","December","MOP","Delhi",200.0,0.0
+"2012-13","December","NPK","Delhi",300.0,0.0
+"2012-13","December","TSP","Delhi",0.0,0.0
+"2012-13","December","UREA","Delhi",1500.0,0.0
+"2012-13","December","DAP","Goa",350.0,0.0
+"2012-13","December","MAP","Goa",0.0,0.0
+"2012-13","December","MOP","Goa",50.0,0.0
+"2012-13","December","NPK","Goa",610.0,20.0
+"2012-13","December","TSP","Goa",0.0,0.0
+"2012-13","December","UREA","Goa",700.0,0.0
+"2012-13","December","DAP","Gujarat",70000.0,48665.233
+"2012-13","December","MAP","Gujarat",0.0,0.0
+"2012-13","December","MOP","Gujarat",21000.0,2683.5
+"2012-13","December","NPK","Gujarat",46200.0,36612.44
+"2012-13","December","TSP","Gujarat",0.0,6313.85
+"2012-13","December","UREA","Gujarat",250000.0,37364.44
+"2012-13","December","DAP","Harayana",25000.0,71699.0
+"2012-13","December","MAP","Harayana",0.0,0.0
+"2012-13","December","MOP","Harayana",5000.0,3089.85
+"2012-13","December","NPK","Harayana",10000.0,4788.95
+"2012-13","December","TSP","Harayana",0.0,0.0
+"2012-13","December","UREA","Harayana",300000.0,11941.6
+"2012-13","December","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","December","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","December","MOP","Himachal Pradesh",0.0,119.0
+"2012-13","December","NPK","Himachal Pradesh",10000.0,88.7
+"2012-13","December","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","December","UREA","Himachal Pradesh",10000.0,192.65
+"2012-13","December","DAP","Jammu & Kashmir",11600.0,7047.65
+"2012-13","December","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","December","MOP","Jammu & Kashmir",6020.0,3446.7
+"2012-13","December","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","December","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","December","UREA","Jammu & Kashmir",19170.0,1255.9
+"2012-13","December","DAP","Jharkhand",13000.0,11679.3
+"2012-13","December","MAP","Jharkhand",0.0,0.0
+"2012-13","December","MOP","Jharkhand",2500.0,163.25
+"2012-13","December","NPK","Jharkhand",10000.0,3516.8
+"2012-13","December","TSP","Jharkhand",0.0,0.0
+"2012-13","December","UREA","Jharkhand",27500.0,5267.3
+"2012-13","December","DAP","Karnataka",50000.0,76347.311
+"2012-13","December","MAP","Karnataka",0.0,20.2
+"2012-13","December","MOP","Karnataka",40000.0,55988.429
+"2012-13","December","NPK","Karnataka",130000.0,130480.734
+"2012-13","December","TSP","Karnataka",0.0,11905.4
+"2012-13","December","UREA","Karnataka",135000.0,50395.739
+"2012-13","December","DAP","Kerala",3000.0,211.65
+"2012-13","December","MAP","Kerala",0.0,0.0
+"2012-13","December","MOP","Kerala",20000.0,7523.346
+"2012-13","December","NPK","Kerala",21000.0,12165.713
+"2012-13","December","TSP","Kerala",0.0,3092.6
+"2012-13","December","UREA","Kerala",21000.0,817.95
+"2012-13","December","DAP","Lakshadeeep",0.0,0.0
+"2012-13","December","MAP","Lakshadeeep",0.0,0.0
+"2012-13","December","MOP","Lakshadeeep",0.0,0.0
+"2012-13","December","NPK","Lakshadeeep",0.0,0.0
+"2012-13","December","TSP","Lakshadeeep",0.0,0.0
+"2012-13","December","UREA","Lakshadeeep",0.0,0.0
+"2012-13","December","DAP","Madhya Pradesh",48380.0,181221.5
+"2012-13","December","MAP","Madhya Pradesh",0.0,0.0
+"2012-13","December","MOP","Madhya Pradesh",7330.0,17991.45
+"2012-13","December","NPK","Madhya Pradesh",26050.0,23419.4
+"2012-13","December","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","December","UREA","Madhya Pradesh",315120.0,44121.1
+"2012-13","December","DAP","Maharastra",103000.0,118651.34
+"2012-13","December","MAP","Maharastra",0.0,44.65
+"2012-13","December","MOP","Maharastra",57000.0,90472.95
+"2012-13","December","NPK","Maharastra",172000.0,146115.7
+"2012-13","December","TSP","Maharastra",0.0,0.0
+"2012-13","December","UREA","Maharastra",235000.0,59461.495
+"2012-13","December","DAP","Manipur",900.0,0.0
+"2012-13","December","MAP","Manipur",0.0,0.0
+"2012-13","December","MOP","Manipur",300.0,0.0
+"2012-13","December","NPK","Manipur",0.0,0.0
+"2012-13","December","TSP","Manipur",0.0,0.0
+"2012-13","December","UREA","Manipur",1100.0,0.0
+"2012-13","December","DAP","Megalaya",350.0,0.0
+"2012-13","December","MAP","Megalaya",0.0,0.0
+"2012-13","December","MOP","Megalaya",60.0,0.0
+"2012-13","December","NPK","Megalaya",0.0,0.0
+"2012-13","December","TSP","Megalaya",0.0,0.0
+"2012-13","December","UREA","Megalaya",800.0,0.0
+"2012-13","December","DAP","Mizoram",20.0,150.0
+"2012-13","December","MAP","Mizoram",0.0,0.0
+"2012-13","December","MOP","Mizoram",30.0,0.0
+"2012-13","December","NPK","Mizoram",0.0,0.0
+"2012-13","December","TSP","Mizoram",0.0,0.0
+"2012-13","December","UREA","Mizoram",70.0,0.0
+"2012-13","December","DAP","Nagaland",160.0,0.0
+"2012-13","December","MAP","Nagaland",0.0,0.0
+"2012-13","December","MOP","Nagaland",40.0,0.0
+"2012-13","December","NPK","Nagaland",40.0,0.0
+"2012-13","December","TSP","Nagaland",0.0,0.0
+"2012-13","December","UREA","Nagaland",140.0,0.0
+"2012-13","December","DAP","Odisha",10000.0,17100.55
+"2012-13","December","MAP","Odisha",0.0,0.0
+"2012-13","December","MOP","Odisha",10000.0,13839.45
+"2012-13","December","NPK","Odisha",25000.0,35918.3
+"2012-13","December","TSP","Odisha",0.0,0.0
+"2012-13","December","UREA","Odisha",18000.0,20341.147
+"2012-13","December","DAP","Pondicherry",1000.0,20.0
+"2012-13","December","MAP","Pondicherry",0.0,0.0
+"2012-13","December","MOP","Pondicherry",500.0,0.0
+"2012-13","December","NPK","Pondicherry",2350.0,744.15
+"2012-13","December","TSP","Pondicherry",0.0,0.0
+"2012-13","December","UREA","Pondicherry",2000.0,265.0
+"2012-13","December","DAP","Punjab",10000.0,72378.75
+"2012-13","December","MAP","Punjab",0.0,0.0
+"2012-13","December","MOP","Punjab",5000.0,3574.6
+"2012-13","December","NPK","Punjab",2500.0,2328.65
+"2012-13","December","TSP","Punjab",0.0,3355.3
+"2012-13","December","UREA","Punjab",300000.0,3704.05
+"2012-13","December","DAP","Rajasthan",24680.0,62784.25
+"2012-13","December","MAP","Rajasthan",0.0,0.0
+"2012-13","December","MOP","Rajasthan",590.0,4916.7
+"2012-13","December","NPK","Rajasthan",5000.0,4312.75
+"2012-13","December","TSP","Rajasthan",0.0,3526.25
+"2012-13","December","UREA","Rajasthan",292000.0,18247.845
+"2012-13","December","DAP","Sikkim",0.0,0.0
+"2012-13","December","MAP","Sikkim",0.0,0.0
+"2012-13","December","MOP","Sikkim",0.0,0.0
+"2012-13","December","NPK","Sikkim",0.0,0.0
+"2012-13","December","TSP","Sikkim",0.0,0.0
+"2012-13","December","UREA","Sikkim",0.0,0.0
+"2012-13","December","DAP","Tamil Nadu",40000.0,30813.4
+"2012-13","December","MAP","Tamil Nadu",0.0,0.0
+"2012-13","December","MOP","Tamil Nadu",68000.0,4526.38
+"2012-13","December","NPK","Tamil Nadu",71670.0,29800.0
+"2012-13","December","TSP","Tamil Nadu",0.0,0.0
+"2012-13","December","UREA","Tamil Nadu",146000.0,14009.55
+"2012-13","December","DAP","Tripura",810.0,0.0
+"2012-13","December","MAP","Tripura",0.0,0.0
+"2012-13","December","MOP","Tripura",2160.0,0.0
+"2012-13","December","NPK","Tripura",0.0,0.0
+"2012-13","December","TSP","Tripura",0.0,0.0
+"2012-13","December","UREA","Tripura",3100.0,6.8
+"2012-13","December","DAP","Uttar Pradesh",50000.0,222769.05
+"2012-13","December","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","December","MOP","Uttar Pradesh",45000.0,12174.95
+"2012-13","December","NPK","Uttar Pradesh",125000.0,72393.65
+"2012-13","December","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","December","UREA","Uttar Pradesh",850000.0,36298.45
+"2012-13","December","DAP","Uttaranchal",5000.0,1467.4
+"2012-13","December","MAP","Uttaranchal",0.0,0.0
+"2012-13","December","MOP","Uttaranchal",500.0,0.0
+"2012-13","December","NPK","Uttaranchal",7500.0,7099.3
+"2012-13","December","TSP","Uttaranchal",0.0,0.0
+"2012-13","December","UREA","Uttaranchal",30000.0,5138.75
+"2012-13","December","DAP","West Bengal",46970.0,47771.845
+"2012-13","December","MAP","West Bengal",0.0,0.0
+"2012-13","December","MOP","West Bengal",47120.0,19411.0
+"2012-13","December","NPK","West Bengal",96140.0,78727.69
+"2012-13","December","TSP","West Bengal",0.0,7377.55
+"2012-13","December","UREA","West Bengal",165000.0,29390.672
+"2012-13","January","DAP","Andaman & Nicobar",0.0,0.0
+"2012-13","January","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","January","MOP","Andaman & Nicobar",500.0,0.0
+"2012-13","January","NPK","Andaman & Nicobar",0.0,0.0
+"2012-13","January","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","January","UREA","Andaman & Nicobar",0.0,0.0
+"2012-13","January","DAP","Andhra Pradesh",75000.0,88111.5
+"2012-13","January","MAP","Andhra Pradesh",0.0,11.85
+"2012-13","January","MOP","Andhra Pradesh",50000.0,45798.76
+"2012-13","January","NPK","Andhra Pradesh",175000.0,169362.248
+"2012-13","January","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","January","UREA","Andhra Pradesh",350000.0,82421.81
+"2012-13","January","DAP","Arunachal Pradesh",60.0,0.0
+"2012-13","January","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","January","MOP","Arunachal Pradesh",30.0,0.0
+"2012-13","January","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","January","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","January","UREA","Arunachal Pradesh",50.0,0.0
+"2012-13","January","DAP","Assam",9200.0,6828.55
+"2012-13","January","MAP","Assam",0.0,0.0
+"2012-13","January","MOP","Assam",20700.0,15587.15
+"2012-13","January","NPK","Assam",4600.0,1986.8
+"2012-13","January","TSP","Assam",0.0,0.0
+"2012-13","January","UREA","Assam",41000.0,7953.25
+"2012-13","January","DAP","Bihar",25000.0,61813.7
+"2012-13","January","MAP","Bihar",0.0,0.0
+"2012-13","January","MOP","Bihar",10000.0,17026.15
+"2012-13","January","NPK","Bihar",20000.0,38128.25
+"2012-13","January","TSP","Bihar",0.0,7673.75
+"2012-13","January","UREA","Bihar",235000.0,19449.0
+"2012-13","January","DAP","Chandigarh",0.0,0.0
+"2012-13","January","MAP","Chandigarh",0.0,0.0
+"2012-13","January","MOP","Chandigarh",0.0,0.0
+"2012-13","January","NPK","Chandigarh",0.0,0.0
+"2012-13","January","TSP","Chandigarh",0.0,0.0
+"2012-13","January","UREA","Chandigarh",0.0,0.0
+"2012-13","January","DAP","Chattishgarh",20000.0,30664.55
+"2012-13","January","MAP","Chattishgarh",0.0,0.0
+"2012-13","January","MOP","Chattishgarh",10000.0,21021.4
+"2012-13","January","NPK","Chattishgarh",10000.0,15063.65
+"2012-13","January","TSP","Chattishgarh",0.0,3858.25
+"2012-13","January","UREA","Chattishgarh",40000.0,24611.2
+"2012-13","January","DAP","Dadra & Nagar Haveli",20.0,22.6
+"2012-13","January","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","January","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","January","NPK","Dadra & Nagar Haveli",0.0,30.95
+"2012-13","January","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","January","UREA","Dadra & Nagar Haveli",40.0,37.15
+"2012-13","January","DAP","Daman & Diu",0.0,0.0
+"2012-13","January","MAP","Daman & Diu",0.0,0.0
+"2012-13","January","MOP","Daman & Diu",0.0,0.0
+"2012-13","January","NPK","Daman & Diu",0.0,0.0
+"2012-13","January","TSP","Daman & Diu",0.0,0.0
+"2012-13","January","UREA","Daman & Diu",0.0,0.0
+"2012-13","January","DAP","Delhi",150.0,0.0
+"2012-13","January","MAP","Delhi",0.0,0.0
+"2012-13","January","MOP","Delhi",150.0,0.0
+"2012-13","January","NPK","Delhi",60.0,0.0
+"2012-13","January","TSP","Delhi",0.0,0.0
+"2012-13","January","UREA","Delhi",400.0,0.0
+"2012-13","January","DAP","Goa",400.0,0.0
+"2012-13","January","MAP","Goa",0.0,0.0
+"2012-13","January","MOP","Goa",100.0,30.0
+"2012-13","January","NPK","Goa",500.0,0.0
+"2012-13","January","TSP","Goa",0.0,0.0
+"2012-13","January","UREA","Goa",450.0,0.0
+"2012-13","January","DAP","Gujarat",40000.0,54296.07
+"2012-13","January","MAP","Gujarat",0.0,0.0
+"2012-13","January","MOP","Gujarat",13000.0,5286.7
+"2012-13","January","NPK","Gujarat",32200.0,41035.61
+"2012-13","January","TSP","Gujarat",0.0,6313.85
+"2012-13","January","UREA","Gujarat",235000.0,20141.91
+"2012-13","January","DAP","Harayana",10000.0,89269.773
+"2012-13","January","MAP","Harayana",0.0,0.0
+"2012-13","January","MOP","Harayana",5000.0,3089.85
+"2012-13","January","NPK","Harayana",5000.0,5896.45
+"2012-13","January","TSP","Harayana",0.0,0.0
+"2012-13","January","UREA","Harayana",200000.0,3678.45
+"2012-13","January","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","January","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","January","MOP","Himachal Pradesh",2500.0,0.0
+"2012-13","January","NPK","Himachal Pradesh",5000.0,80.55
+"2012-13","January","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","January","UREA","Himachal Pradesh",5000.0,78.5
+"2012-13","January","DAP","Jammu & Kashmir",4300.0,6142.4
+"2012-13","January","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","January","MOP","Jammu & Kashmir",2970.0,2704.35
+"2012-13","January","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","January","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","January","UREA","Jammu & Kashmir",9150.0,4416.7
+"2012-13","January","DAP","Jharkhand",2500.0,6904.25
+"2012-13","January","MAP","Jharkhand",0.0,0.0
+"2012-13","January","MOP","Jharkhand",2500.0,163.25
+"2012-13","January","NPK","Jharkhand",5000.0,2310.7
+"2012-13","January","TSP","Jharkhand",0.0,0.0
+"2012-13","January","UREA","Jharkhand",16250.0,5473.1
+"2012-13","January","DAP","Karnataka",45000.0,59564.932
+"2012-13","January","MAP","Karnataka",0.0,3.8
+"2012-13","January","MOP","Karnataka",45000.0,46441.231
+"2012-13","January","NPK","Karnataka",125000.0,165740.264
+"2012-13","January","TSP","Karnataka",0.0,11905.4
+"2012-13","January","UREA","Karnataka",90000.0,62454.789
+"2012-13","January","DAP","Kerala",2000.0,1402.9
+"2012-13","January","MAP","Kerala",0.0,0.0
+"2012-13","January","MOP","Kerala",20000.0,7398.059
+"2012-13","January","NPK","Kerala",14000.0,15213.82
+"2012-13","January","TSP","Kerala",0.0,3156.75
+"2012-13","January","UREA","Kerala",15000.0,3187.0
+"2012-13","January","DAP","Lakshadeeep",0.0,0.0
+"2012-13","January","MAP","Lakshadeeep",0.0,0.0
+"2012-13","January","MOP","Lakshadeeep",0.0,0.0
+"2012-13","January","NPK","Lakshadeeep",0.0,0.0
+"2012-13","January","TSP","Lakshadeeep",0.0,0.0
+"2012-13","January","UREA","Lakshadeeep",0.0,0.0
+"2012-13","January","DAP","Madhya Pradesh",8630.0,202752.0
+"2012-13","January","MAP","Madhya Pradesh",0.0,0.0
+"2012-13","January","MOP","Madhya Pradesh",1230.0,15064.85
+"2012-13","January","NPK","Madhya Pradesh",3460.0,28366.05
+"2012-13","January","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","January","UREA","Madhya Pradesh",137510.0,41638.55
+"2012-13","January","DAP","Maharastra",100000.0,74208.09
+"2012-13","January","MAP","Maharastra",0.0,20.8
+"2012-13","January","MOP","Maharastra",52000.0,74038.3
+"2012-13","January","NPK","Maharastra",149000.0,177872.6
+"2012-13","January","TSP","Maharastra",0.0,0.0
+"2012-13","January","UREA","Maharastra",225000.0,43150.295
+"2012-13","January","DAP","Manipur",820.0,0.0
+"2012-13","January","MAP","Manipur",0.0,0.0
+"2012-13","January","MOP","Manipur",800.0,0.0
+"2012-13","January","NPK","Manipur",0.0,0.0
+"2012-13","January","TSP","Manipur",0.0,0.0
+"2012-13","January","UREA","Manipur",2200.0,0.0
+"2012-13","January","DAP","Megalaya",700.0,0.0
+"2012-13","January","MAP","Megalaya",0.0,0.0
+"2012-13","January","MOP","Megalaya",200.0,0.0
+"2012-13","January","NPK","Megalaya",0.0,0.0
+"2012-13","January","TSP","Megalaya",0.0,0.0
+"2012-13","January","UREA","Megalaya",1200.0,0.0
+"2012-13","January","DAP","Mizoram",20.0,0.0
+"2012-13","January","MAP","Mizoram",0.0,0.0
+"2012-13","January","MOP","Mizoram",30.0,0.0
+"2012-13","January","NPK","Mizoram",0.0,0.0
+"2012-13","January","TSP","Mizoram",0.0,0.0
+"2012-13","January","UREA","Mizoram",70.0,0.0
+"2012-13","January","DAP","Nagaland",120.0,0.0
+"2012-13","January","MAP","Nagaland",0.0,0.0
+"2012-13","January","MOP","Nagaland",50.0,0.0
+"2012-13","January","NPK","Nagaland",40.0,0.0
+"2012-13","January","TSP","Nagaland",0.0,0.0
+"2012-13","January","UREA","Nagaland",170.0,0.0
+"2012-13","January","DAP","Odisha",30000.0,21831.05
+"2012-13","January","MAP","Odisha",0.0,0.0
+"2012-13","January","MOP","Odisha",20000.0,13137.1
+"2012-13","January","NPK","Odisha",40000.0,46589.35
+"2012-13","January","TSP","Odisha",0.0,0.0
+"2012-13","January","UREA","Odisha",30000.0,22999.597
+"2012-13","January","DAP","Pondicherry",500.0,20.0
+"2012-13","January","MAP","Pondicherry",0.0,0.0
+"2012-13","January","MOP","Pondicherry",1000.0,0.0
+"2012-13","January","NPK","Pondicherry",3340.0,1402.4
+"2012-13","January","TSP","Pondicherry",0.0,0.0
+"2012-13","January","UREA","Pondicherry",3000.0,224.0
+"2012-13","January","DAP","Punjab",10000.0,59217.55
+"2012-13","January","MAP","Punjab",0.0,0.0
+"2012-13","January","MOP","Punjab",5000.0,3502.1
+"2012-13","January","NPK","Punjab",2500.0,3057.9
+"2012-13","January","TSP","Punjab",0.0,3355.3
+"2012-13","January","UREA","Punjab",275000.0,3497.15
+"2012-13","January","DAP","Rajasthan",28340.0,66639.65
+"2012-13","January","MAP","Rajasthan",0.0,0.0
+"2012-13","January","MOP","Rajasthan",2560.0,4751.7
+"2012-13","January","NPK","Rajasthan",2500.0,5880.15
+"2012-13","January","TSP","Rajasthan",0.0,3526.25
+"2012-13","January","UREA","Rajasthan",219260.0,18957.845
+"2012-13","January","DAP","Sikkim",0.0,0.0
+"2012-13","January","MAP","Sikkim",0.0,0.0
+"2012-13","January","MOP","Sikkim",0.0,0.0
+"2012-13","January","NPK","Sikkim",0.0,0.0
+"2012-13","January","TSP","Sikkim",0.0,0.0
+"2012-13","January","UREA","Sikkim",0.0,0.0
+"2012-13","January","DAP","Tamil Nadu",26000.0,30168.1
+"2012-13","January","MAP","Tamil Nadu",0.0,0.0
+"2012-13","January","MOP","Tamil Nadu",48000.0,3242.18
+"2012-13","January","NPK","Tamil Nadu",55150.0,34859.45
+"2012-13","January","TSP","Tamil Nadu",0.0,0.0
+"2012-13","January","UREA","Tamil Nadu",92000.0,14149.8
+"2012-13","January","DAP","Tripura",480.0,0.0
+"2012-13","January","MAP","Tripura",0.0,0.0
+"2012-13","January","MOP","Tripura",630.0,0.0
+"2012-13","January","NPK","Tripura",0.0,0.0
+"2012-13","January","TSP","Tripura",0.0,0.0
+"2012-13","January","UREA","Tripura",2500.0,6.8
+"2012-13","January","DAP","Uttar Pradesh",40000.0,250642.6
+"2012-13","January","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","January","MOP","Uttar Pradesh",35000.0,4490.8
+"2012-13","January","NPK","Uttar Pradesh",75000.0,72999.2
+"2012-13","January","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","January","UREA","Uttar Pradesh",800000.0,45621.3
+"2012-13","January","DAP","Uttaranchal",2000.0,1213.05
+"2012-13","January","MAP","Uttaranchal",0.0,0.0
+"2012-13","January","MOP","Uttaranchal",500.0,0.0
+"2012-13","January","NPK","Uttaranchal",5000.0,5324.1
+"2012-13","January","TSP","Uttaranchal",0.0,0.0
+"2012-13","January","UREA","Uttaranchal",30000.0,1052.75
+"2012-13","January","DAP","West Bengal",89100.0,32940.795
+"2012-13","January","MAP","West Bengal",0.0,0.0
+"2012-13","January","MOP","West Bengal",68930.0,22827.15
+"2012-13","January","NPK","West Bengal",132720.0,72672.225
+"2012-13","January","TSP","West Bengal",0.0,7377.55
+"2012-13","January","UREA","West Bengal",201000.0,42683.622
+"2012-13","February","DAP","Andaman & Nicobar",0.0,0.0
+"2012-13","February","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","February","MOP","Andaman & Nicobar",0.0,0.0
+"2012-13","February","NPK","Andaman & Nicobar",550.0,0.0
+"2012-13","February","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","February","UREA","Andaman & Nicobar",600.0,0.0
+"2012-13","February","DAP","Andhra Pradesh",50000.0,70726.6
+"2012-13","February","MAP","Andhra Pradesh",0.0,0.0
+"2012-13","February","MOP","Andhra Pradesh",40000.0,76745.31
+"2012-13","February","NPK","Andhra Pradesh",75000.0,177306.418
+"2012-13","February","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","February","UREA","Andhra Pradesh",200000.0,55326.53
+"2012-13","February","DAP","Arunachal Pradesh",60.0,0.0
+"2012-13","February","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","February","MOP","Arunachal Pradesh",20.0,0.0
+"2012-13","February","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","February","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","February","UREA","Arunachal Pradesh",40.0,0.0
+"2012-13","February","DAP","Assam",8400.0,3815.35
+"2012-13","February","MAP","Assam",0.0,0.0
+"2012-13","February","MOP","Assam",18900.0,14318.35
+"2012-13","February","NPK","Assam",0.0,1719.9
+"2012-13","February","TSP","Assam",0.0,0.0
+"2012-13","February","UREA","Assam",37000.0,7373.85
+"2012-13","February","DAP","Bihar",10000.0,41609.51
+"2012-13","February","MAP","Bihar",0.0,0.0
+"2012-13","February","MOP","Bihar",5000.0,17222.1
+"2012-13","February","NPK","Bihar",5000.0,30594.8
+"2012-13","February","TSP","Bihar",0.0,7673.75
+"2012-13","February","UREA","Bihar",125000.0,41304.6
+"2012-13","February","DAP","Chandigarh",0.0,0.0
+"2012-13","February","MAP","Chandigarh",0.0,0.0
+"2012-13","February","MOP","Chandigarh",0.0,0.0
+"2012-13","February","NPK","Chandigarh",15000.0,0.0
+"2012-13","February","TSP","Chandigarh",0.0,0.0
+"2012-13","February","UREA","Chandigarh",0.0,0.0
+"2012-13","February","DAP","Chattishgarh",15000.0,58789.5
+"2012-13","February","MAP","Chattishgarh",0.0,0.0
+"2012-13","February","MOP","Chattishgarh",4000.0,24234.95
+"2012-13","February","NPK","Chattishgarh",10000.0,22519.8
+"2012-13","February","TSP","Chattishgarh",0.0,3858.25
+"2012-13","February","UREA","Chattishgarh",40000.0,11303.05
+"2012-13","February","DAP","Dadra & Nagar Haveli",10.0,11.9
+"2012-13","February","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","February","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","February","NPK","Dadra & Nagar Haveli",5000.0,5.05
+"2012-13","February","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","February","UREA","Dadra & Nagar Haveli",10.0,0.0
+"2012-13","February","DAP","Daman & Diu",0.0,0.0
+"2012-13","February","MAP","Daman & Diu",0.0,0.0
+"2012-13","February","MOP","Daman & Diu",0.0,0.0
+"2012-13","February","NPK","Daman & Diu",0.0,0.0
+"2012-13","February","TSP","Daman & Diu",0.0,0.0
+"2012-13","February","UREA","Daman & Diu",0.0,0.0
+"2012-13","February","DAP","Delhi",50.0,0.0
+"2012-13","February","MAP","Delhi",0.0,0.0
+"2012-13","February","MOP","Delhi",100.0,0.0
+"2012-13","February","NPK","Delhi",0.0,0.0
+"2012-13","February","TSP","Delhi",0.0,0.0
+"2012-13","February","UREA","Delhi",200.0,0.0
+"2012-13","February","DAP","Goa",200.0,0.0
+"2012-13","February","MAP","Goa",0.0,0.0
+"2012-13","February","MOP","Goa",80.0,30.0
+"2012-13","February","NPK","Goa",390.0,0.0
+"2012-13","February","TSP","Goa",0.0,0.0
+"2012-13","February","UREA","Goa",450.0,20.0
+"2012-13","February","DAP","Gujarat",30000.0,63442.468
+"2012-13","February","MAP","Gujarat",0.0,0.0
+"2012-13","February","MOP","Gujarat",12000.0,9930.6
+"2012-13","February","NPK","Gujarat",29500.0,40000.085
+"2012-13","February","TSP","Gujarat",0.0,6313.85
+"2012-13","February","UREA","Gujarat",130000.0,19166.264
+"2012-13","February","DAP","Harayana",20000.0,43495.3
+"2012-13","February","MAP","Harayana",0.0,0.0
+"2012-13","February","MOP","Harayana",5000.0,3089.85
+"2012-13","February","NPK","Harayana",2500.0,2057.35
+"2012-13","February","TSP","Harayana",0.0,0.0
+"2012-13","February","UREA","Harayana",25000.0,21980.35
+"2012-13","February","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","February","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","February","MOP","Himachal Pradesh",500.0,900.1
+"2012-13","February","NPK","Himachal Pradesh",0.0,79.75
+"2012-13","February","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","February","UREA","Himachal Pradesh",2500.0,13.9
+"2012-13","February","DAP","Jammu & Kashmir",2910.0,5849.95
+"2012-13","February","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","February","MOP","Jammu & Kashmir",1750.0,5314.45
+"2012-13","February","NPK","Jammu & Kashmir",20.0,0.0
+"2012-13","February","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","February","UREA","Jammu & Kashmir",7550.0,1411.8
+"2012-13","February","DAP","Jharkhand",2500.0,2302.9
+"2012-13","February","MAP","Jharkhand",0.0,0.0
+"2012-13","February","MOP","Jharkhand",2500.0,0.0
+"2012-13","February","NPK","Jharkhand",28500.0,341.6
+"2012-13","February","TSP","Jharkhand",0.0,0.0
+"2012-13","February","UREA","Jharkhand",6250.0,8356.35
+"2012-13","February","DAP","Karnataka",30000.0,51008.294
+"2012-13","February","MAP","Karnataka",0.0,0.0
+"2012-13","February","MOP","Karnataka",40000.0,43365.65
+"2012-13","February","NPK","Karnataka",120000.0,131919.634
+"2012-13","February","TSP","Karnataka",0.0,11905.4
+"2012-13","February","UREA","Karnataka",100000.0,43639.889
+"2012-13","February","DAP","Kerala",1500.0,440.9
+"2012-13","February","MAP","Kerala",0.0,0.0
+"2012-13","February","MOP","Kerala",5000.0,10582.298
+"2012-13","February","NPK","Kerala",9000.0,18628.798
+"2012-13","February","TSP","Kerala",0.0,3156.75
+"2012-13","February","UREA","Kerala",12000.0,466.55
+"2012-13","February","DAP","Lakshadeeep",0.0,0.0
+"2012-13","February","MAP","Lakshadeeep",0.0,0.0
+"2012-13","February","MOP","Lakshadeeep",0.0,0.0
+"2012-13","February","NPK","Lakshadeeep",0.0,0.0
+"2012-13","February","TSP","Lakshadeeep",0.0,0.0
+"2012-13","February","UREA","Lakshadeeep",0.0,0.0
+"2012-13","February","DAP","Madhya Pradesh",3790.0,218056.8
+"2012-13","February","MAP","Madhya Pradesh",0.0,0.0
+"2012-13","February","MOP","Madhya Pradesh",710.0,13985.75
+"2012-13","February","NPK","Madhya Pradesh",1210.0,31502.95
+"2012-13","February","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","February","UREA","Madhya Pradesh",19510.0,20273.25
+"2012-13","February","DAP","Maharastra",86000.0,75145.24
+"2012-13","February","MAP","Maharastra",0.0,0.0
+"2012-13","February","MOP","Maharastra",48000.0,55163.36
+"2012-13","February","NPK","Maharastra",130000.0,111906.699
+"2012-13","February","TSP","Maharastra",0.0,0.0
+"2012-13","February","UREA","Maharastra",210000.0,42911.045
+"2012-13","February","DAP","Manipur",1200.0,0.0
+"2012-13","February","MAP","Manipur",0.0,0.0
+"2012-13","February","MOP","Manipur",1100.0,0.0
+"2012-13","February","NPK","Manipur",0.0,0.0
+"2012-13","February","TSP","Manipur",0.0,0.0
+"2012-13","February","UREA","Manipur",2600.0,0.0
+"2012-13","February","DAP","Megalaya",900.0,0.0
+"2012-13","February","MAP","Megalaya",0.0,0.0
+"2012-13","February","MOP","Megalaya",350.0,0.0
+"2012-13","February","NPK","Megalaya",40.0,0.0
+"2012-13","February","TSP","Megalaya",0.0,0.0
+"2012-13","February","UREA","Megalaya",1500.0,1300.0
+"2012-13","February","DAP","Mizoram",40.0,0.0
+"2012-13","February","MAP","Mizoram",0.0,0.0
+"2012-13","February","MOP","Mizoram",60.0,0.0
+"2012-13","February","NPK","Mizoram",0.0,0.0
+"2012-13","February","TSP","Mizoram",0.0,0.0
+"2012-13","February","UREA","Mizoram",140.0,0.0
+"2012-13","February","DAP","Nagaland",100.0,0.0
+"2012-13","February","MAP","Nagaland",0.0,0.0
+"2012-13","February","MOP","Nagaland",30.0,0.0
+"2012-13","February","NPK","Nagaland",0.0,0.0
+"2012-13","February","TSP","Nagaland",0.0,0.0
+"2012-13","February","UREA","Nagaland",140.0,0.0
+"2012-13","February","DAP","Odisha",35000.0,9253.8
+"2012-13","February","MAP","Odisha",0.0,0.0
+"2012-13","February","MOP","Odisha",25000.0,9952.65
+"2012-13","February","NPK","Odisha",100990.0,20479.8
+"2012-13","February","TSP","Odisha",0.0,0.0
+"2012-13","February","UREA","Odisha",45000.0,24668.847
+"2012-13","February","DAP","Pondicherry",800.0,20.0
+"2012-13","February","MAP","Pondicherry",0.0,0.0
+"2012-13","February","MOP","Pondicherry",500.0,300.0
+"2012-13","February","NPK","Pondicherry",2140.0,2281.7
+"2012-13","February","TSP","Pondicherry",0.0,0.0
+"2012-13","February","UREA","Pondicherry",2500.0,181.0
+"2012-13","February","DAP","Punjab",10000.0,59891.8
+"2012-13","February","MAP","Punjab",0.0,0.0
+"2012-13","February","MOP","Punjab",5000.0,2500.35
+"2012-13","February","NPK","Punjab",2500.0,1662.4
+"2012-13","February","TSP","Punjab",0.0,3355.3
+"2012-13","February","UREA","Punjab",70000.0,13256.3
+"2012-13","February","DAP","Rajasthan",91380.0,57472.804
+"2012-13","February","MAP","Rajasthan",0.0,0.0
+"2012-13","February","MOP","Rajasthan",1040.0,3226.3
+"2012-13","February","NPK","Rajasthan",7990.0,1758.25
+"2012-13","February","TSP","Rajasthan",0.0,3526.25
+"2012-13","February","UREA","Rajasthan",92510.0,35545.212
+"2012-13","February","DAP","Sikkim",0.0,0.0
+"2012-13","February","MAP","Sikkim",0.0,0.0
+"2012-13","February","MOP","Sikkim",0.0,0.0
+"2012-13","February","NPK","Sikkim",0.0,0.0
+"2012-13","February","TSP","Sikkim",0.0,0.0
+"2012-13","February","UREA","Sikkim",0.0,0.0
+"2012-13","February","DAP","Tamil Nadu",20000.0,22562.25
+"2012-13","February","MAP","Tamil Nadu",0.0,0.0
+"2012-13","February","MOP","Tamil Nadu",34000.0,12156.764
+"2012-13","February","NPK","Tamil Nadu",41480.0,38869.9
+"2012-13","February","TSP","Tamil Nadu",0.0,0.0
+"2012-13","February","UREA","Tamil Nadu",66000.0,11752.95
+"2012-13","February","DAP","Tripura",430.0,0.0
+"2012-13","February","MAP","Tripura",0.0,0.0
+"2012-13","February","MOP","Tripura",450.0,0.0
+"2012-13","February","NPK","Tripura",0.0,0.0
+"2012-13","February","TSP","Tripura",0.0,0.0
+"2012-13","February","UREA","Tripura",2400.0,190.0
+"2012-13","February","DAP","Uttar Pradesh",15000.0,88218.25
+"2012-13","February","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","February","MOP","Uttar Pradesh",50000.0,21910.4
+"2012-13","February","NPK","Uttar Pradesh",2500.0,23376.5
+"2012-13","February","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","February","UREA","Uttar Pradesh",500000.0,108090.6
+"2012-13","February","DAP","Uttaranchal",2000.0,731.0
+"2012-13","February","MAP","Uttaranchal",0.0,0.0
+"2012-13","February","MOP","Uttaranchal",0.0,0.0
+"2012-13","February","NPK","Uttaranchal",2500.0,3040.5
+"2012-13","February","TSP","Uttaranchal",0.0,0.0
+"2012-13","February","UREA","Uttaranchal",20000.0,1545.15
+"2012-13","February","DAP","West Bengal",52470.0,14760.995
+"2012-13","February","MAP","West Bengal",0.0,0.0
+"2012-13","February","MOP","West Bengal",54740.0,27253.85
+"2012-13","February","NPK","West Bengal",4200.0,22224.175
+"2012-13","February","TSP","West Bengal",0.0,7377.55
+"2012-13","February","UREA","West Bengal",176000.0,51967.884
+"2012-13","March","DAP","Andaman & Nicobar",0.0,0.0
+"2012-13","March","MAP","Andaman & Nicobar",0.0,0.0
+"2012-13","March","MOP","Andaman & Nicobar",0.0,0.0
+"2012-13","March","NPK","Andaman & Nicobar",0.0,0.0
+"2012-13","March","TSP","Andaman & Nicobar",0.0,0.0
+"2012-13","March","UREA","Andaman & Nicobar",0.0,0.0
+"2012-13","March","DAP","Andhra Pradesh",50000.0,60948.5
+"2012-13","March","MAP","Andhra Pradesh",0.0,0.0
+"2012-13","March","MOP","Andhra Pradesh",20000.0,53358.79
+"2012-13","March","NPK","Andhra Pradesh",75000.0,139929.548
+"2012-13","March","TSP","Andhra Pradesh",0.0,0.0
+"2012-13","March","UREA","Andhra Pradesh",100000.0,56985.25
+"2012-13","March","DAP","Arunachal Pradesh",50.0,0.0
+"2012-13","March","MAP","Arunachal Pradesh",0.0,0.0
+"2012-13","March","MOP","Arunachal Pradesh",20.0,0.0
+"2012-13","March","NPK","Arunachal Pradesh",0.0,0.0
+"2012-13","March","TSP","Arunachal Pradesh",0.0,0.0
+"2012-13","March","UREA","Arunachal Pradesh",40.0,0.0
+"2012-13","March","DAP","Assam",5200.0,5197.85
+"2012-13","March","MAP","Assam",0.0,0.0
+"2012-13","March","MOP","Assam",11700.0,8020.95
+"2012-13","March","NPK","Assam",2600.0,1609.4
+"2012-13","March","TSP","Assam",0.0,0.0
+"2012-13","March","UREA","Assam",21000.0,3056.1
+"2012-13","March","DAP","Bihar",10000.0,35798.56
+"2012-13","March","MAP","Bihar",0.0,0.0
+"2012-13","March","MOP","Bihar",5000.0,9590.55
+"2012-13","March","NPK","Bihar",5000.0,27567.2
+"2012-13","March","TSP","Bihar",0.0,7673.75
+"2012-13","March","UREA","Bihar",90000.0,35727.1
+"2012-13","March","DAP","Chandigarh",0.0,0.0
+"2012-13","March","MAP","Chandigarh",0.0,0.0
+"2012-13","March","MOP","Chandigarh",0.0,0.0
+"2012-13","March","NPK","Chandigarh",0.0,0.0
+"2012-13","March","TSP","Chandigarh",0.0,0.0
+"2012-13","March","UREA","Chandigarh",0.0,0.0
+"2012-13","March","DAP","Chattishgarh",5000.0,44652.95
+"2012-13","March","MAP","Chattishgarh",0.0,0.0
+"2012-13","March","MOP","Chattishgarh",5000.0,7630.9
+"2012-13","March","NPK","Chattishgarh",5000.0,19838.05
+"2012-13","March","TSP","Chattishgarh",0.0,3858.25
+"2012-13","March","UREA","Chattishgarh",10000.0,19923.9
+"2012-13","March","DAP","Dadra & Nagar Haveli",10.0,5.4
+"2012-13","March","MAP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","March","MOP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","March","NPK","Dadra & Nagar Haveli",0.0,2.35
+"2012-13","March","TSP","Dadra & Nagar Haveli",0.0,0.0
+"2012-13","March","UREA","Dadra & Nagar Haveli",10.0,6.55
+"2012-13","March","DAP","Daman & Diu",0.0,0.0
+"2012-13","March","MAP","Daman & Diu",0.0,0.0
+"2012-13","March","MOP","Daman & Diu",0.0,0.0
+"2012-13","March","NPK","Daman & Diu",0.0,0.0
+"2012-13","March","TSP","Daman & Diu",0.0,0.0
+"2012-13","March","UREA","Daman & Diu",0.0,0.0
+"2012-13","March","DAP","Delhi",0.0,0.0
+"2012-13","March","MAP","Delhi",0.0,0.0
+"2012-13","March","MOP","Delhi",50.0,0.0
+"2012-13","March","NPK","Delhi",20.0,0.0
+"2012-13","March","TSP","Delhi",0.0,0.0
+"2012-13","March","UREA","Delhi",100.0,0.0
+"2012-13","March","DAP","Goa",100.0,0.0
+"2012-13","March","MAP","Goa",0.0,0.0
+"2012-13","March","MOP","Goa",70.0,0.0
+"2012-13","March","NPK","Goa",300.0,0.0
+"2012-13","March","TSP","Goa",0.0,0.0
+"2012-13","March","UREA","Goa",250.0,10.0
+"2012-13","March","DAP","Gujarat",40000.0,77003.025
+"2012-13","March","MAP","Gujarat",0.0,0.0
+"2012-13","March","MOP","Gujarat",15000.0,4784.6
+"2012-13","March","NPK","Gujarat",30200.0,25753.1
+"2012-13","March","TSP","Gujarat",0.0,6313.85
+"2012-13","March","UREA","Gujarat",110000.0,63655.289
+"2012-13","March","DAP","Harayana",20000.0,44312.4
+"2012-13","March","MAP","Harayana",0.0,0.0
+"2012-13","March","MOP","Harayana",5000.0,2582.05
+"2012-13","March","NPK","Harayana",5000.0,2140.75
+"2012-13","March","TSP","Harayana",0.0,0.0
+"2012-13","March","UREA","Harayana",25000.0,70141.4
+"2012-13","March","DAP","Himachal Pradesh",0.0,0.0
+"2012-13","March","MAP","Himachal Pradesh",0.0,0.0
+"2012-13","March","MOP","Himachal Pradesh",500.0,123.2
+"2012-13","March","NPK","Himachal Pradesh",500.0,56.9
+"2012-13","March","TSP","Himachal Pradesh",0.0,0.0
+"2012-13","March","UREA","Himachal Pradesh",2000.0,99.85
+"2012-13","March","DAP","Jammu & Kashmir",1860.0,3725.95
+"2012-13","March","MAP","Jammu & Kashmir",0.0,0.0
+"2012-13","March","MOP","Jammu & Kashmir",1480.0,1708.3
+"2012-13","March","NPK","Jammu & Kashmir",0.0,0.0
+"2012-13","March","TSP","Jammu & Kashmir",0.0,0.0
+"2012-13","March","UREA","Jammu & Kashmir",4000.0,1081.7
+"2012-13","March","DAP","Jharkhand",2500.0,109.5
+"2012-13","March","MAP","Jharkhand",0.0,0.0
+"2012-13","March","MOP","Jharkhand",2500.0,0.0
+"2012-13","March","NPK","Jharkhand",5000.0,224.1
+"2012-13","March","TSP","Jharkhand",0.0,0.0
+"2012-13","March","UREA","Jharkhand",6250.0,6226.4
+"2012-13","March","DAP","Karnataka",40000.0,32686.593
+"2012-13","March","MAP","Karnataka",0.0,0.0
+"2012-13","March","MOP","Karnataka",35000.0,35353.414
+"2012-13","March","NPK","Karnataka",100000.0,120699.445
+"2012-13","March","TSP","Karnataka",0.0,11905.4
+"2012-13","March","UREA","Karnataka",80000.0,27462.54
+"2012-13","March","DAP","Kerala",1500.0,37.45
+"2012-13","March","MAP","Kerala",0.0,0.0
+"2012-13","March","MOP","Kerala",5000.0,3235.414
+"2012-13","March","NPK","Kerala",7000.0,11534.633
+"2012-13","March","TSP","Kerala",0.0,3156.75
+"2012-13","March","UREA","Kerala",8000.0,161.95
+"2012-13","March","DAP","Lakshadeeep",0.0,0.0
+"2012-13","March","MAP","Lakshadeeep",0.0,0.0
+"2012-13","March","MOP","Lakshadeeep",0.0,0.0
+"2012-13","March","NPK","Lakshadeeep",0.0,0.0
+"2012-13","March","TSP","Lakshadeeep",0.0,0.0
+"2012-13","March","UREA","Lakshadeeep",0.0,0.0
+"2012-13","March","DAP","Madhya Pradesh",2340.0,163941.6
+"2012-13","March","MAP","Madhya Pradesh",0.0,0.0
+"2012-13","March","MOP","Madhya Pradesh",250.0,12859.15
+"2012-13","March","NPK","Madhya Pradesh",360.0,25243.85
+"2012-13","March","TSP","Madhya Pradesh",0.0,8443.85
+"2012-13","March","UREA","Madhya Pradesh",8450.0,31059.3
+"2012-13","March","DAP","Maharastra",73000.0,64545.965
+"2012-13","March","MAP","Maharastra",0.0,0.0
+"2012-13","March","MOP","Maharastra",43000.0,28297.06
+"2012-13","March","NPK","Maharastra",99000.0,100546.263
+"2012-13","March","TSP","Maharastra",0.0,0.0
+"2012-13","March","UREA","Maharastra",175000.0,68822.862
+"2012-13","March","DAP","Manipur",1990.0,0.0
+"2012-13","March","MAP","Manipur",0.0,0.0
+"2012-13","March","MOP","Manipur",1360.0,0.0
+"2012-13","March","NPK","Manipur",0.0,0.0
+"2012-13","March","TSP","Manipur",0.0,0.0
+"2012-13","March","UREA","Manipur",2310.0,0.0
+"2012-13","March","DAP","Megalaya",500.0,0.0
+"2012-13","March","MAP","Megalaya",0.0,0.0
+"2012-13","March","MOP","Megalaya",80.0,0.0
+"2012-13","March","NPK","Megalaya",0.0,0.0
+"2012-13","March","TSP","Megalaya",0.0,0.0
+"2012-13","March","UREA","Megalaya",600.0,1838.25
+"2012-13","March","DAP","Mizoram",80.0,0.0
+"2012-13","March","MAP","Mizoram",0.0,0.0
+"2012-13","March","MOP","Mizoram",120.0,0.0
+"2012-13","March","NPK","Mizoram",0.0,0.0
+"2012-13","March","TSP","Mizoram",0.0,0.0
+"2012-13","March","UREA","Mizoram",300.0,0.0
+"2012-13","March","DAP","Nagaland",100.0,0.0
+"2012-13","March","MAP","Nagaland",0.0,0.0
+"2012-13","March","MOP","Nagaland",40.0,0.0
+"2012-13","March","NPK","Nagaland",40.0,0.0
+"2012-13","March","TSP","Nagaland",0.0,0.0
+"2012-13","March","UREA","Nagaland",180.0,0.0
+"2012-13","March","DAP","Odisha",5000.0,8549.75
+"2012-13","March","MAP","Odisha",0.0,0.0
+"2012-13","March","MOP","Odisha",10000.0,4010.0
+"2012-13","March","NPK","Odisha",8000.0,19406.3
+"2012-13","March","TSP","Odisha",0.0,0.0
+"2012-13","March","UREA","Odisha",50000.0,31451.25
+"2012-13","March","DAP","Pondicherry",700.0,20.0
+"2012-13","March","MAP","Pondicherry",0.0,0.0
+"2012-13","March","MOP","Pondicherry",500.0,300.0
+"2012-13","March","NPK","Pondicherry",2660.0,1070.5
+"2012-13","March","TSP","Pondicherry",0.0,0.0
+"2012-13","March","UREA","Pondicherry",3000.0,877.6
+"2012-13","March","DAP","Punjab",10000.0,40304.35
+"2012-13","March","MAP","Punjab",0.0,0.0
+"2012-13","March","MOP","Punjab",5000.0,2400.35
+"2012-13","March","NPK","Punjab",2500.0,3821.4
+"2012-13","March","TSP","Punjab",0.0,3355.3
+"2012-13","March","UREA","Punjab",70000.0,62897.2
+"2012-13","March","DAP","Rajasthan",41800.0,49292.325
+"2012-13","March","MAP","Rajasthan",0.0,0.0
+"2012-13","March","MOP","Rajasthan",710.0,3086.3
+"2012-13","March","NPK","Rajasthan",11150.0,1228.75
+"2012-13","March","TSP","Rajasthan",0.0,3526.25
+"2012-13","March","UREA","Rajasthan",64130.0,34818.467
+"2012-13","March","DAP","Sikkim",0.0,0.0
+"2012-13","March","MAP","Sikkim",0.0,0.0
+"2012-13","March","MOP","Sikkim",0.0,0.0
+"2012-13","March","NPK","Sikkim",0.0,0.0
+"2012-13","March","TSP","Sikkim",0.0,0.0
+"2012-13","March","UREA","Sikkim",0.0,0.0
+"2012-13","March","DAP","Tamil Nadu",19000.0,19914.1
+"2012-13","March","MAP","Tamil Nadu",0.0,0.0
+"2012-13","March","MOP","Tamil Nadu",30000.0,6529.909
+"2012-13","March","NPK","Tamil Nadu",32910.0,32514.95
+"2012-13","March","TSP","Tamil Nadu",0.0,0.0
+"2012-13","March","UREA","Tamil Nadu",51000.0,6933.85
+"2012-13","March","DAP","Tripura",460.0,0.0
+"2012-13","March","MAP","Tripura",0.0,0.0
+"2012-13","March","MOP","Tripura",380.0,0.0
+"2012-13","March","NPK","Tripura",0.0,0.0
+"2012-13","March","TSP","Tripura",0.0,0.0
+"2012-13","March","UREA","Tripura",1510.0,2744.5
+"2012-13","March","DAP","Uttar Pradesh",10000.0,72321.45
+"2012-13","March","MAP","Uttar Pradesh",0.0,0.0
+"2012-13","March","MOP","Uttar Pradesh",10000.0,22133.15
+"2012-13","March","NPK","Uttar Pradesh",20000.0,19212.95
+"2012-13","March","TSP","Uttar Pradesh",0.0,16125.25
+"2012-13","March","UREA","Uttar Pradesh",100000.0,163214.95
+"2012-13","March","DAP","Uttaranchal",2000.0,518.1
+"2012-13","March","MAP","Uttaranchal",0.0,0.0
+"2012-13","March","MOP","Uttaranchal",0.0,0.0
+"2012-13","March","NPK","Uttaranchal",2500.0,2610.05
+"2012-13","March","TSP","Uttaranchal",0.0,0.0
+"2012-13","March","UREA","Uttaranchal",9000.0,2293.65
+"2012-13","March","DAP","West Bengal",32450.0,17113.19
+"2012-13","March","MAP","West Bengal",0.0,0.0
+"2012-13","March","MOP","West Bengal",42340.0,19464.0
+"2012-13","March","NPK","West Bengal",67200.0,17948.27
+"2012-13","March","TSP","West Bengal",0.0,7377.55
+"2012-13","March","UREA","West Bengal",122000.0,38199.865

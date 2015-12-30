@@ -1,0 +1,17 @@
+-----
+{
+ "description": "Data provide all India (1999, 2004 and 2009) and state-wise (2009) details on women's participation in election to the Lok Sabha (House of People) including the number of constituencies, electors and votes polled.", 
+ "file_name": "WOMENS_PARTICIPATION_IN_ELECTION_TO_THE_LOK_SABHA.xls", 
+ "title": "Download XLS for Women Participation In Election To The Lok Sabha - House of People", 
+ "url": "http://data.gov.in/sites/default/files/WOMENS_PARTICIPATION_IN_ELECTION_TO_THE_LOK_SABHA.xls"
+}
+-----
+"Year","Total 
+constituencies (Number of constituencies)","Elected
+Women (Number of constituencies)","Total (Number of electors)","Women 
+Electors (Number of electors)","Total (Number of votes polled)","Women (Number of votes polled)","Elected women over total seats (Percentage)","Women electors over total electors (Percentage)","Womens 
+votes over total votes polled (Percentage)","Women 
+ voters over women electors (Percentage)"
+1999.0,543.0,49.0,619559944.0,295723180.0,371669282.0,164539004.0,9.02394106814,47.7311651381,44.2702725161,55.6395355954
+2004.0,543.0,45.0,671487930.0,321997066.0,389948330.0,172714226.0,8.28729281768,47.9527704988,44.2915670392,53.638447128
+2009.0,543.0,59.0,716985101.0,342226300.0,417236311.0,191028997.0,10.8655616943,47.7312986731,45.7843653497,55.8194963391

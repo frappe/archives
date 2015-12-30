@@ -1,0 +1,68 @@
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes according to source of finance. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.7.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes according to sources of finance for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.7.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes according to the farmers holding size. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.3.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes according to the farmers holding size for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.3.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes by status. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.6.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes by its status for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.6.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes according to ownership. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.2.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes according to ownership for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.2.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes by type. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.5.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes by its type for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.5.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise distribution of surface lift schemes according to construction over the years. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.1.csv", 
+ "title": "Download CSV for Villagewise Distribution of surface lift schemes according to construction over the years for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.1.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise surface lift schemes according to water distribution system. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.8.csv", 
+ "title": "Download CSV for Villagewise surface lift Schemes according to water distribution system for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.8.csv"
+}
+-----
+-----
+{
+ "description": "This table provides data related to shortfall in health infrastructure during Eleventh Plan.", 
+ "file_name": "Shortfall_in_Health_Infrastructure_during_Eleventh_Plan.xls", 
+ "title": "Download XLS for Shortfall in Health Infrastructure during Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Shortfall_in_Health_Infrastructure_during_Eleventh_Plan.xls"
+}
+-----
+"Category - As per 2001 Population","Required","Existing","Shortfall","% Shortfall"
+"Sub-Centres",158792.0,144998.0,20903.0,13.16
+"PHCs",26022.0,22669.0,4803.0,18.46
+"CHCs",6491.0,3910.0,2653.0,40.87

@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at constant prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "SikkimNSDPconst_1.csv", 
+ "title": "Download CSV for Sikkim Net State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/SikkimNSDPconst_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","24574","25785","26401","27979","30390","31567","32510","34073"
+"Foresty and Logging","3694","3704","3665","3578","3385","3366","3402","3441"
+"Fishing","68","73","76","75","74","75","80","88"
+"Ag and Allied","28337","29561","30142","31632","33849","35007","35992","37602"
+"Mining and Quarrying","173","179","186","199","321","313","346","389"
+"Sub total of primary","28510","29741","30328","31831","34170","35320","36338","37991"
+"Manufacturing","6395","6530","7036","8106","8834","113699","116145","120796"
+"Registered","3373","3467","3698","4252","4807","109581","111927","116389"
+"Unregistered","3022","3063","3338","3854","4026","4118","4218","4407"
+"Construction","32149","36366","37671","38844","37217","40902","45792","51557"
+"Electricity, Gas and water Supply","4404","5912","7247","6695","20238","37906","42769","46476"
+"Sub total of secondary","42948","48808","51954","53645","66290","192508","204706","218829"
+"Industry","43121","48987","52140","53844","66610","192821","205052","219218"
+"Transport Storage and Communication","5684","6441","7142","8052","8885","10399","12148","14675"
+"Railways","0","0","0","0","0","0","0","0"
+"Transport by other means","3599","3908","3979","4025","4031","5343","5733","6178"
+"Storage","55","55","65","70","74","84","95","108"
+"Communication","2029","2477","3097","3957","4780","4972","6320","8389"
+"Trade, hotels and restaurants","8471","8639","8665","9028","9344","9785","10014","10419"
+"Banking and Insurance","4406","5540","7149","8671","9118","11322","14665","18994"
+"Real estate, ownership of dwelling and business","15879","16283","16833","19717","21903","22246","23525","24809"
+"Pubic Administration","20418","23149","25276","26014","29913","43072","45958","49585"
+"Other Services","24750","27613","28656","29252","30971","41208","46630","50981"
+"Sub total of tertiary","79608","87665","93721","100734","110134","138032","152939","169464"
+"State domestic product","151066","166214","176003","186210","210594","365860","393982","426284"
+
+"Figures are in Rs. Lakh"

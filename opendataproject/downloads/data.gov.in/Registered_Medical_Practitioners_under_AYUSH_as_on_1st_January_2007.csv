@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides data related to the number of registered medical practitioners under AYUSH as on 1st January 2007 (Eleventh Five Year Plan).", 
+ "file_name": "Registered_Medical_Practitioners_under_AYUSH_as_on_1st_January_2007.xls", 
+ "title": "Download XLS for Registered Medical Practitioners under AYUSH as on 1st January 2007", 
+ "url": "http://data.gov.in/sites/default/files/Registered_Medical_Practitioners_under_AYUSH_as_on_1st_January_2007.xls"
+}
+-----
+"System","Number of Practitioners"
+"Ayurveda",453661.0
+"Unani",46558.0
+"Siddha",6381.0
+"Naturopathy ",888.0
+"Homeopathy",217850.0
+"Total ",725383.0

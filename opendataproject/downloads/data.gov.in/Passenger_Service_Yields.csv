@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table gives an overview of passenger service yields in some Major Economies.", 
+ "file_name": "Passenger_Service_Yields.xls", 
+ "title": "Download XLS for Passenger Service Yields In Some Major Economies", 
+ "url": "http://data.gov.in/sites/default/files/Passenger_Service_Yields.xls"
+}
+-----
+"Country","Passenger Service Yield US Cents/Passenger-KM at nominal prices","Passenger Service Yield US Cents/Passenger-KM adjusted for PPP (India=1) "
+"India",0.6,1.0
+"China",2.4,2.7
+"Russia",5.2,6.7
+"Japan",19.0,9.4
+"Germany",12.6,6.2

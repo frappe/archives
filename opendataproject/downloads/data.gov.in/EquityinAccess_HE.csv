@@ -1,0 +1,19 @@
+-----
+{
+ "description": "Data provides details on gender-wise percentage enrolment across education levels in age bracket 20 years to 24 years. The data is based on National Sample Survey, NSS Fifty-second Round\u00b8\u201dAttending an Educational Institution in India: Its Level, Nature and Cost\u201d, July 1995 - June 1996, ...", 
+ "file_name": "EquityinAccess_HE.xls", 
+ "title": "Download XLS for Gender-wise Enrollment (%) Across Education Levels In Age Bracket 20 To 24 Years", 
+ "url": "http://data.gov.in/sites/default/files/EquityinAccess_HE.xls"
+}
+-----
+"Education Level","Male Enrolment (%) : 1995-96","Female Enrolment (%) : 1995-96","Male Enrolment (%) : 2007-08","Female Enrolment (%)  : 2007-08"
+"Not Enrolled",87.3,95.1,85.3,91.0
+"Primary",0.1,0.0,0.0,0.0
+"Middle",0.3,0.0,0.1,0.0
+"Secondary",1.3,0.3,0.6,0.3
+"Higher secondary",2.6,0.7,1.7,0.9
+"Diploma/certificate course (below graduate level)",1.3,0.4,2.0,1.0
+"Diploma/certificate course (graduate and above level)","","",2.0,1.0
+"Graduate",5.7,2.7,7.0,4.0
+"Postgraduate and above",1.4,0.9,1.0,2.0
+"Total",100.0,100.0,100.0,100.0

@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to Social status. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.4.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Social status", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.4.csv"
+}
+-----
+"STATE","Scheduled caste","Scheduled tribe","Other social status of farmers","Total","Owned by other than individual farmers","Total.1"
+"ANDHRA PRADESH",402,161,4255,4818,82664,87482
+"ARUNACHAL PRADESH",0,0,0,0,3,3
+"ASSAM",24,132,208,364,396,760
+"BIHAR",23,1,77,101,6089,6190
+"CHHATTISGARH",2,4,25,31,5196,5227
+"GOA",0,0,4,4,56,60
+"GUJARAT",1133,1255,22756,25144,69038,94182
+"HARYANA",197,68,13924,14189,10150,24339
+"HIMACHAL PRADESH",0,0,9,9,342,351
+"JAMMU & KASHMIR",0,0,0,0,20,20
+"JHARKHAND",0,0,0,0,28,28
+"KARNATAKA",0,0,0,0,32,32
+"KERALA",0,0,10,10,217,227
+"MADHYA PRADESH",596,362,7318,8276,28122,36398
+"MAHARASHTRA",1541,3945,35500,40986,36237,77223
+"MEGHALAYA",0,0,0,0,8,8
+"NAGALAND",0,2,0,2,1,3
+"ORISSA",5,0,7,12,4580,4592
+"PUNJAB",8,1,198,207,9783,9990
+"RAJASTHAN",1984,2082,19008,23074,33690,56764
+"TAMIL NADU",961,205,26352,27518,56492,84010
+"TRIPURA",0,0,0,0,168,168
+"UTTAR PRADESH",101,14,1521,1636,33449,35085
+"UTTARANCHAL",3,2,66,71,812,883
+"WEST BENGAL",0,0,32,32,5107,5139
+"CHANDIGARH",0,0,1,1,56,57
+"DELHI",1,4,33,38,607,645
+"PONDICHERRY",1,0,15,16,312,328
+"ALL INDIA",6982,8238,131319,146539,383655,530194

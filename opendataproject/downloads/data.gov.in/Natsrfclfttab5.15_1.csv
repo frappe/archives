@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise irrigation through supplemntary sources under surface lift schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.15_1.csv", 
+ "title": "Download CSV for Statewise Irrigation through supplementary sources for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.15_1.csv"
+}
+-----
+State,Supplementary irrigation - Kharif,Supplementary irrigation - Rabi,Supplementary irrigation - Perennial,Supplementary irrigation - Others,Total
+ANDHRA PRADESH,13056,4741,465,43,18305
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA
+ASSAM,0,0,0,0,0
+BIHAR,3152,1408,51,37,4648
+GOA,0,27,502,40,569
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,35,35,0,0,70
+HIMACHAL PRADESH,0,0,0,0,0
+JAMMU & KASHMIR,1740,335,0,0,2075
+KARNATAKA,8213,2973,1868,1096,14151
+KERALA,1899,2984,1170,1375,7428
+MADHYA PRADESH,5024,8158,5,14,13201
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,0,0,0,0,0
+MEGHALAYA,0,0,0,1,1
+MIZORAM,0,0,0,0,0
+NAGALAND,0,0,0,0,0
+ORISSA,3071,1064,1841,19,5995
+PUNJAB,1481,1504,12,74,3071
+RAJASTHAN,0,4,0,0,4
+SIKKIM,NA,NA,NA,NA,NA
+TAMIL NADU,5096,2412,791,196,8495
+TRIPURA,0,0,0,0,0
+UTTAR PRADESH,3756,4608,141,199,8704
+WEST BENGAL,4122,4464,478,1340,10404
+ANDAMAN & NICOBARS,0,0,0,0,0
+CHANDIGARH,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,0,0,0,0,0
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,0,0,0,0,0
+ALL INDIA,50645,34717,7324,4435,97121

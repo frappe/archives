@@ -1,0 +1,23 @@
+-----
+{
+ "description": "This table provides data related to the dispensaries and hospitals, Crude Birth Rate (CBR) etc. for the years 1951, 1981 and 2000 in health care.", 
+ "file_name": "Time_Trends_1951_1981_2000_in_Health_Care.xls", 
+ "title": "Download XLS for Time Trends (1951/ 1981/ 2000) in Health Care", 
+ "url": "http://data.gov.in/sites/default/files/Time_Trends_1951_1981_2000_in_Health_Care.xls"
+}
+-----
+"Category",1951.0,1981.0,2000.0,"Source"
+"SC/PHC/CHC",725.0,57363.0,163181.0,"(99-RHS)"
+"Dispensaries & Hospitals (all)",9209.0,23555.0,43322.0,"(95-96-CBHI)"
+"Beds (Pvt. & Public)",117198.0,569495.0,870161.0,"(95-96-CBHI)"
+"Doctors (Modern System)",61800.0,268700.0,503900.0,"(98-99-MCI)"
+"Nursing Personnel",18054.0,143887.0,737000.0,"(98-99-INC)"
+"Malaria (cases in million)",75.0,2.7,2.2,"NA"
+"Leprosy (cases/ 10,000 population)",38.1,57.3,3.74,"NA"
+"Small Pox (no. of cases)",44887.0,0.0,0.0,"NA"
+"Guineaworm (no. of cases)","NA",39792.0,0.0,"NA"
+"Polio (no. of cases)","NA",29709.0,265.0,"NA"
+"Life Expectancy (Years)",36.7,54.0,64.6,"RGI"
+"Crude Birth Rate",40.8,33.9,26.1,"99 SRS"
+"Crude Death Rate",25.0,12.5,8.7,"99 SRS"
+"IMR",146.0,110.0,70.0,"99 SRS"

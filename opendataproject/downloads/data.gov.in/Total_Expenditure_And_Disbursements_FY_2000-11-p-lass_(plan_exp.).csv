@@ -1,0 +1,63 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-LASS","A UT Puducherry",0.1,0.097,0.0976,0.0,0.045,0.0,0.0,0.0,0.0195,0.0,0.0,0.0
+"P-LASS","Andhra Pradesh",103.5447,2.2579,29.8455,53.8096,267.1593,315.7939,191.385,22.0941,1919.3681,2952.3925,1418.4778,2545.3365
+"P-LASS","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Assam",12.2909,7.64,5.5649,1.339,8.01,15.7006,20.0537,1.7429,25.4498,9.4417,22.9627,2.2728
+"P-LASS","Bihar",0.653,0.0,0.0,7.7133,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Chattisgarh",0.0,3.2145,22.5335,14.3,9.6578,16.0089,37.0694,542.7893,53.0851,45.2817,48.2331,66.0544
+"P-LASS","D NCT Delhi",0.0,449.5144,492.2125,647.0163,648.45,791.5346,821.958,935.1514,1337.55,1424.6,1605.35,1480.72
+"P-LASS","Goa",0.1472,0.2424,1.487,2.7161,4.6641,4.3165,1.5773,4.7149,4.5509,4.5056,2.5019,2.407
+"P-LASS","Gujarat",60.1475,13.0671,1.0717,1.004,74.7598,2.9734,3.2778,18.8054,14.2127,23.0382,21.4269,23.3985
+"P-LASS","Haryana",7.135,6.3697,4.0525,3.06,1.2523,2.7343,0.0,0.0,0.0,0.0,417.61,246.817
+"P-LASS","Himachal Pradesh",0.874,0.0,0.0,0.025,0.02,0.02,0.0,0.21,0.3,0.4,0.4,0.3
+"P-LASS","Jammu and Kashmir",0.4771,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Jharkhand",0.0,0.0,0.0,44.0181,29.6138,34.2565,71.5125,52.7963,67.9707,64.65,41.2205,2.85
+"P-LASS","Karnataka",194.0593,328.2932,281.192,230.0276,256.473,238.8028,142.7206,280.8372,594.8023,168.1395,805.1041,1489.5056
+"P-LASS","Kerala",59.2931,60.8812,29.8004,78.4687,23.4851,31.0998,105.2291,162.7464,666.47,385.2,417.1152,108.6745
+"P-LASS","Madhya Pradesh",75.3308,48.6444,83.5041,258.6431,28.2586,59.551,69.4447,51.3415,334.031,220.3895,19.9644,183.4931
+"P-LASS","Maharastra",105.5561,98.7758,127.3811,92.287,75.7735,40.8571,52.5029,137.5209,54.4291,102.6689,297.057,235.4818
+"P-LASS","Manipur",0.0,0.369,0.4903,0.5361,0.0,20.0,60.0,50.0,0.0,0.74,0.0,0.0
+"P-LASS","Meghalaya",0.1791,0.02,0.0297,0.0,0.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Mizoram",40.98,28.0,33.78,34.43,34.71,33.959,31.4803,0.0,3.96,3.28,5.05,5.0
+"P-LASS","Nagaland",7.5095,10.8466,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Orissa",7.0897,10.3058,4.3588,3.4302,1.0844,1.0117,5.8913,10.0749,193.7078,54.5202,0.0,0.6747
+"P-LASS","Punjab",0.0,0.0,0.0,12.5,0.0,0.0,11.2773,7.7665,0.0,0.0,0.0,0.0
+"P-LASS","Rajasthan",3.8061,0.2787,1.9863,0.235,19.7752,0.1106,0.4012,0.25,0.7578,0.55,0.65,161.249
+"P-LASS","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.65,5.75
+"P-LASS","Tamil Nadu",187.807,185.936,140.5422,249.7818,184.4681,4.2512,143.0391,119.3325,50.885,712.4837,468.4666,150.75
+"P-LASS","Tripura",0.0089,0.0038,0.0,0.0318,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LASS","Uttar Pradesh",47.84,210.8812,79.8537,81.5022,137.292,133.92,218.5635,235.4469,207.3744,197.3967,21.6123,239.0669
+"P-LASS","Uttarakhand",0.0,0.0,2.1707,11.518,3.0,7.15,3.0,4.0,4.5,2.7309,0.0,0.0
+"P-LASS","West Bengal",21.4531,42.4448,40.6513,14.6477,35.8067,20.0283,26.9585,69.3752,84.0625,149.4765,72.0058,137.6436

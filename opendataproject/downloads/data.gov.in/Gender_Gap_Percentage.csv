@@ -1,0 +1,13 @@
+-----
+{
+ "description": "Between 2001 and 2011, the overall literacy levels rose from 64.8 per cent to 74 per cent. Female literacy rates increased at a faster rate (11.79 per cent) than that for males (6.88 per cent), thus reducing gender gap in literacy from 21.59  to 16.68 percentage points.", 
+ "file_name": "Gender_Gap_Percentage.xls", 
+ "title": "Download XLS for Improvements in Literacy Levels from 1981 to 2011", 
+ "url": "http://data.gov.in/sites/default/files/Gender_Gap_Percentage.xls"
+}
+-----
+"Year","Persons","Male","Female","Gender Gap Per Cent"
+1981.0,43.6,56.4,29.8,26.6
+1991.0,52.2,64.1,39.3,24.8
+2001.0,64.8,75.3,53.7,21.6
+2011.0,74.0,82.1,65.5,16.7

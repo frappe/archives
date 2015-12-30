@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This data provides summary of net exported power (NVVN Projects Phase-I Batch-II) for the month of April 2013.", 
+ "file_name": "April_13_Batch-2_Power_Generation_Data_1.xls", 
+ "title": "Download XLS for Summary of Net Exported Power For The Month of April 2013 - NVVN Projects Phase-I Batch-II", 
+ "url": "http://data.gov.in/sites/default/files/April_13_Batch-2_Power_Generation_Data_1.xls"
+}
+-----
+"Sr. No.","Project Code","Company Name","State","Capacity (MW)","  Net Exported Power (kwh)*","CUF"
+1.0,"95","Azure Solar Private Limited","RAJASTHAN",20.0,3650719.0,"25.47 %"
+2.0,"96","Azure Solar Private Limted","RAJASTHAN",15.0,2746055.0,"25.54 %"
+3.0,"184","Fonroche Saaras Energy Private Limited","RAJASTHAN",15.0,2915254.0,"27.05 %"
+4.0,"22","Mahindra Suryaprakash Private Limited","RAJASTHAN",20.0,2734488.0,"19.11 %"
+5.0,"23","Mahindra Suryaprakash Private Limited","RAJASTHAN",10.0,1300877.0,"18.90 %"
+6.0,"44","Sai Maithili Power Company Private Limited","RAJASTHAN",10.0,1676839.0,"23.97 %"
+7.0,"12","Shree Saibaba Greenpower Pvt Ltd","MAHARASHTRA",5.0,948369.0,"26.74 %"
+8.0,"21","Solarfield Energy Two Private Limited","RAJASTHAN",20.0,2718990.0,"18.96 %"
+9.0,"25","SunBorne Energy Rajasthan Solar Private Limited","RAJASTHAN",5.0,785280.0,"21.95 %"
+10.0,"13","Welspun Solar AP Private Limited","RAJASTHAN",20.0,3352782.0,"23.42 %"
+11.0,"14","Welspun Solar AP Private Limited","RAJASTHAN",15.0,2677749.0,"24.94 %"
+12.0,"15","Welspun Solar AP Private Limited","RAJASTHAN",15.0,2601991.0,"25.06 %"

@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provide details on cumulative achievements of Ministry of New and Renewable Energy (MNRE) as on 30th April 2013.", 
+ "file_name": "Ministry_of_New_And_Renewable_Energy_Cumulative_Achievements.xls", 
+ "title": "Download XLS for Ministry of New And Renewable Energy Cumulative Achievements as on 30th April 2013", 
+ "url": "http://data.gov.in/sites/default/files/Ministry_of_New_And_Renewable_Energy_Cumulative_Achievements.xls"
+}
+-----
+"Type (Capacities In MW)","Sector","Installed Capacity (as on 30.04.2013)"
+"Grid-Interactive Power ","Wind Power",19201.25
+"Grid-Interactive Power ","Small Hydro Power",3647.25
+"Grid-Interactive Power ","Biomass Power & Gasification",1264.8
+"Grid-Interactive Power ","Bagasse Cogeneration",2337.43
+"Grid-Interactive Power ","Waste to Power",96.08
+"Grid-Interactive Power ","Solar Power",1686.44
+"Total","Total",28233.25

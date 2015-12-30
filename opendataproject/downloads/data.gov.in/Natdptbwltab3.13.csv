@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise culturable command area and potential created through Deep Tubewells . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.13.csv", 
+ "title": "Download CSV for Statewise Culturable Command Area and Potential Created through Deep Tubewells for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.13.csv"
+}
+-----
+"State","Culturable Command Area","Irrigation Potential Created - Kharif","Irrigation Potential Created - Rabi","Irrigation Potential Created - Perennial","Irrigation Potential Created - Others","Total - Irrigation Potential Created"
+"ANDHRA PRADESH",100530,73865,58465,10407,5908,148645
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA,NA
+"ASSAM",19319,17200,9737,75,338,27350
+"BIHAR",150189,98307,119408,11678,9838,239231
+"GOA",48,0,12,33,4,49
+"GUJARAT",NA,NA,NA,NA,NA,NA
+"HARYANA",19517,19054,19251,3,1,38309
+"HIMACHAL PRADESH",5484,3719,4742,97,31,8589
+"JAMMU & KASHMIR",2080,2245,1747,0,0,3992
+"KARNATAKA",275154,195002,88924,82225,30367,396518
+"KERALA",727,175,188,467,149,979
+"MADHYA PRADESH",97906,42981,78682,6162,992,128817
+"MAHARASHTRA",NA,NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA,NA
+"MEGHALAYA",218,204,141,11,25,381
+"MIZORAM",NA,NA,NA,NA,NA,NA
+"NAGALAND",14,7,7,0,0,14
+"ORISSA",51626,40284,37021,358,4468,82131
+"PUNJAB",25330,20435,24079,890,520,45924
+"RAJASTHAN",132181,18479,134523,566,2402,155970
+"SIKKIM",NA,NA,NA,NA,NA,NA
+"TAMIL NADU",59192,31546,24293,8529,4733,69102
+"TRIPURA",3116,1745,2105,81,124,4055
+"UTTAR PRADESH",769432,360321,501816,113406,53145,1028688
+"WEST BENGAL",154065,121253,85521,8559,42859,258192
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA,NA
+"DELHI",4130,3559,3518,50,8,7135
+"LAKSHADWEEP",NA,NA,NA,NA,NA,NA
+"PONDICHERRY",950,444,472,468,47,1431
+"ALL INDIA",1871208,1050825,1194653,244065,155959,2645502

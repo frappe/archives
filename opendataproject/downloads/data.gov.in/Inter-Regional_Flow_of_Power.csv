@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table provides Inter-Regional Flow of Power at the end of Twelfth Five Year Plan (2012-17). The region-wise details are given at the end of Eleventh and Twelfth Five Year Plan period.\r", 
+ "file_name": "Inter-Regional_Flow_of_Power.xls", 
+ "title": "Download XLS for Inter-Regional Flow of Power - Twelfth Five Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Inter-Regional_Flow_of_Power.xls"
+}
+-----
+"Region","End of 11th Plan","End of 12th Plan (Tentative)"
+"Eastern / Southern",3630.0,3630.0
+"Eastern / Northern",12130.0,17930.0
+"Eastern / Western",4390.0,12790.0
+"Eastern / North Eastern",1260.0,2860.0
+"Northern / Western",4220.0,14420.0
+"Western / Southern",1520.0,7920.0
+"132/110 KV Lines",600.0,0.0
+"North Eastern / Eastern – Northern / Western",0.0,6000.0
+"Total",27750.0,65550.0

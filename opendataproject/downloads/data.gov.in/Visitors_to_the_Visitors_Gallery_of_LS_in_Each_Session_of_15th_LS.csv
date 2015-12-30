@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details regarding the number of visitors to the visitors\u2019 gallery of Lok Sabha in each session of 15th Lok Sabha.", 
+ "file_name": "Visitors_to_the_Visitors_Gallery_of_LS_in_Each_Session_of_15th_LS.xls", 
+ "title": "Download XLS for Visitors to the Visitors Gallery of Lok Sabha in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Visitors_to_the_Visitors_Gallery_of_LS_in_Each_Session_of_15th_LS.xls"
+}
+-----
+"Sessions","No. of Visitors Passes Issued During the Session"
+"First",4911.0
+"Second",13589.0
+"Third",14168.0
+"Fourth",24752.0
+"Fifth",16230.0
+"Sixth",6775.0
+"Seventh",15628.0
+"Eighth",15091.0
+"Ninth",13820.0
+"Tenth",23081.0
+"Eleventh ",15000.0
+"Twelfth",13000.0
+"Thirteenth ",22424.0

@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table gives an overview of commodity-wise capacity at Indian Ports by the end of Twelfth Five Year Plan (2016-17). It gives details regarding the number of existing major ports in 2011-12 and forecasts of number of major ports in 2016-17.", 
+ "file_name": "Commodity-Wise_Capacity_at_Indian_Ports_by_the_end_of_Twelfth_Five_Year_Plan_2016-17_1.xls", 
+ "title": "Download XLS for Commodity-Wise Capacity at Indian Ports by the end of Twelfth Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Commodity-Wise_Capacity_at_Indian_Ports_by_the_end_of_Twelfth_Five_Year_Plan_2016-17_1.xls"
+}
+-----
+"Commodity","Major ports Existing (2011-12)","Major ports Forecast (2016-17)","Non-major ports Existing (2011-12)","Non-major ports Forecast (2016-17)","Total Existing (2011-12)","Total Forecast (2016-17)"
+"POL (incl.  LNG)",".228.76",299.66,276.74,299.9,505.5,599.56
+"Iron Ore",79.5,143.55,75.07,101.4,154.57,244.95
+"Coal",65.95,178.65,113.35,365.2,179.3,543.85
+"Containers",137.53,306.19,27.97,130.0,165.5,436.19
+"Others including Fert & FRM",178.09,301.19,51.52,163.3,229.61,464.49
+"Total",689.83,1229.24,544.65,1059.8,1234.48,2289.04

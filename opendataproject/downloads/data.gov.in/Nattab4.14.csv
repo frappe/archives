@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise surface flow schemes according to constraints. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.14.csv", 
+ "title": "Download CSV for Statewise Surface Flow Schemes according to the constraints for 2nd census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.14.csv"
+}
+-----
+State,Total No. of Schemes in use,No. of Schemes with no constraints,Constraints in utilisation of irrigation potential created - Non-filling of storage,Constraints in utilisation of irrigation potential created - Siltation of storage,Constraints in utilisation of irrigation potential created - Break down of channel,Constraints in utilisation of irrigation potential created - Other reason,Total - Constraints in utilisation,Grand Total
+ANDHRA PRADESH,50766,26715,14112,1118,3854,4967,24051,50766
+ARUNACHAL PRADESH,2994,1500,67,114,586,727,1494,2994
+ASSAM,2201,0,56,12,204,1929,2201,2201
+BIHAR,59992,2648,18775,9237,4985,24347,57344,59992
+GOA,3110,0,219,33,32,2826,3110,3110
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,507,0,84,21,20,382,507,507
+HIMACHAL PRADESH,13921,9213,109,17,1894,2688,4708,13921
+JAMMU & KASHMIR,9113,0,0,0,0,31,31,31
+KARNATAKA,29269,18089,4464,1885,2256,2575,11180,29269
+KERALA,10094,0,1261,1264,786,6783,10094,10094
+MADHYA PRADESH,53578,25629,1267,198,4247,22237,27949,53578
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,240,0,0,0,0,240,240,240
+MEGHALAYA,12363,0,4104,79,1562,6618,12363,12363
+MIZORAM,4389,4300,0,0,0,89,89,4389
+NAGALAND,13119,5377,8,1,684,7049,7742,13119
+ORISSA,21807,4214,2260,2427,1303,11603,17593,21807
+PUNJAB,390,0,294,18,3,75,390,390
+RAJASTHAN,2170,1735,255,29,66,85,435,2170
+SIKKIM,766,0,0,9,407,350,766,766
+TAMIL NADU,76915,203,5741,1255,32452,37264,76712,76915
+TRIPURA,587,258,58,8,218,45,329,587
+UTTAR PRADESH,17568,26,2194,550,4508,10290,17542,17568
+WEST BENGAL,61892,0,11014,10035,1829,39014,61892,61892
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,11,11,0,0,0,0,0,11
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,1372,1339,0,0,0,33,33,1372
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,17641,14189,5,2,14,3431,3452,17641
+ALL INDIA,466775,115446,66347,28312,61910,185678,342247,457693

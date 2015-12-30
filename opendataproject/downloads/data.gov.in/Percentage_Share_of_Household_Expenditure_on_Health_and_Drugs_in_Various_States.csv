@@ -1,0 +1,29 @@
+-----
+{
+ "description": "This table provides data related to percentage share of household expenditure on health and drugs in various states during Eleventh Five Year Plan.\r", 
+ "file_name": "Percentage_Share_of_Household_Expenditure_on_Health_and_Drugs_in_Various_States.xls", 
+ "title": "Download XLS for Percentage Share of Household Expenditure on Health and Drugs in Various States during Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Percentage_Share_of_Household_Expenditure_on_Health_and_Drugs_in_Various_States.xls"
+}
+-----
+"State","Share of Health to Total Household Expenditure - Rural","Share of Health to Total Household Expenditure - Urban","Share of Drug Expenditure to Total Household Health Expenditure - Rural","Share of Drug Expenditure to Total Household Health Expenditure - Urban"
+"Andhra Pradesh",6.56,4.13,72.42,71.36
+"Assam",2.47,4.04,70.65,68.49
+"Bihar",4.4,2.96,89.14,82.16
+"Delhi",3.34,3.34,61.83,72.69
+"Goa",4.28,5.16,79.19,73.87
+"Gujarat",5.03,4.22,63.9,69.56
+"Haryana",6.99,6.56,76.8,76.28
+"Himachal Pradesh",5.25,3.91,88.96,74.39
+"Jammu and Kashmir",2.9,3.61,90.39,81.33
+"Karnataka",4.58,4.17,68.75,55.96
+"Kerala",7.79,7.15,71.83,64.05
+"Madhya Pradesh",6.05,5.25,81.28,78.21
+"Maharashtra",7.5,5.98,68.75,59.08
+"Orissa",5.46,4.51,90.64,90.26
+"Punjab",7.66,5.6,79.47,73.9
+"Rajasthan",4.79,4.7,89.43,83.88
+"Tamil Nadu",5.8,4.45,61.41,61.44
+"Uttar Pradesh",8.2,5.64,86.76,81.47
+"West Bengal",4.64,4.84,72.89,67.8
+"All India",6.05,4.91,77.33,69.18

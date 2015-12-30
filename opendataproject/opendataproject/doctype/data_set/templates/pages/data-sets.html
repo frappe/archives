@@ -1,0 +1,14 @@
+{% extends base_template %}
+
+{% set title="Data Sets" %}
+
+{% block content %}
+<h1>Data Sets</h1>
+
+<div class="list-group">
+{% for d in data_sets %}
+	<a class="list-group-item" href="{{ d.name }}">{{ d.title }}</a>
+{% endfor %}
+</div>
+
+{% endblock %}

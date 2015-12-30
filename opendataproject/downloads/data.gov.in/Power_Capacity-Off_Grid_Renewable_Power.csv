@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides Power Capacity Addition through Off Grid Renewable Power. It gives the target and Actual (MW) Off- grid renewable power addition.", 
+ "file_name": "Power_Capacity-Off_Grid_Renewable_Power.xls", 
+ "title": "Download XLS for Power Capacity Addition through Off Grid Renewable Power", 
+ "url": "http://data.gov.in/sites/default/files/Power_Capacity-Off_Grid_Renewable_Power.xls"
+}
+-----
+"Source","Target (MW)","Actual (MW)"
+"Waste to Power (Urban + Industrial)",58.0,85.15
+"Non-bag Cogen",255.0,336.59
+"Gasifiers",67.0,63.23
+"Acro-Gens/Hybrid Systems",1.75,1.14
+"SPV Systems",20.0,40.96
+"Total",401.75,532.75

@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table gives an overview of state roads progress during Eleventh Five Year Plan.", 
+ "file_name": "State_Roads_Progress.xls", 
+ "title": "Download XLS for State Roads Progress During Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/State_Roads_Progress.xls"
+}
+-----
+"Categories","Lane wise Length of SH in 2007  Total Length(km)","Lane wise Length of SH in 2007  SL/IL(km)","Lane wise Length of SH in 2007  2 Lanekm)","Lane wise Length of SH in 2007  4 Lane and above(km)","Lane wise Length of SH in 2011 Total Length (km)","Lane wise Length of SH in 2011 SL/IL (km)","Lane wise Length of SH in 2011 2 Lane(km)","Lane wise Length of SH in 2011 4 Lane and above(km)"
+"States",150492.0,111850.0,36349.0,2293.0,165724.0,100819.0,60747.0,4157.0
+"Union Territories",221.0,145.0,56.0,20.0,405.0,230.0,63.0,112.0
+"Total",150713.0,111995.0,36405.0,2313.0,166129.0,101049.0,60811.0,4269.0

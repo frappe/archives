@@ -1,0 +1,30 @@
+-----
+{
+ "description": "This data provides summary of net exported power (NVVN projects phase-I Batch-I) for the month of April 2013.", 
+ "file_name": "April_13_Batch-1_Power_Generation_Data_1.xls", 
+ "title": "Download XLS for Summary of Net Exported Power For The Month of April 2013 - NVVN Projects Phase-I Batch-I", 
+ "url": "http://data.gov.in/sites/default/files/April_13_Batch-1_Power_Generation_Data_1.xls"
+}
+-----
+"Sr. No.","Project Code","Company Name","State","Capacity (MW)","Net Exported Power (kwh)*","CUF"
+1.0,"0357","Aftaab Solar Private Limited","ORISSA",5.0,779900.0,"21.80 %"
+2.0,"PV-0355","Alex Spectrum Radiation Pvt Limited","RAJASTHAN",5.0,834003.0,"23.97 %"
+3.0,"419","Amrit Energy Private Limited","RAJASTHAN",5.0,878497.0,"24.60 %"
+4.0,"0072","Azure Power (Rajasthan) Pvt Ltd","RAJASTHAN",5.0,828617.0,"23.19 %"
+5.0,"0263","CCCL Infrastructure Limted","TAMIL NADU",5.0,719979.0,"20.33 %"
+6.0,"368","DDE Renewable Energy Private Limited","RAJASTHAN",5.0,810159.0,"22.71 %"
+7.0,"0380","Electromech Maritech Private Limited","RAJASTHAN",5.0,856646.0,"23.91 %"
+8.0,"080","EMC LTD.","UTTAR PRADESH",5.0,809991.0,"22.77 %"
+9.0,"258","FINEHOPE ALLIED ENERGY PRIVATE LIMITED","RAJASTHAN",5.0,1005748.0,"28.05 %"
+10.0,"00096","Indian Oil Corporation Ltd.","RAJASTHAN",5.0,609816.0,"17.07 %"
+11.0,"0198","Khaya Solar Projects Pvt Ltd","RAJASTHAN",5.0,952983.0,"26.59 %"
+12.0,"0245","Mahindra Solar One Private Limited","RAJASTHAN",5.0,967184.0,"27.39 %"
+13.0,"81","Newton Solar Private Limited","RAJASTHAN",5.0,780330.0,"21.79 %"
+14.0,"144","NORTHWEST ENERGY PRIVATE LIMITED","RAJASTHAN",5.0,875563.0,"24.57 %"
+15.0,"398","Saidham Overseas Private Limited","RAJASTHAN",5.0,991785.0,"27.66 %"
+16.0,"0074","SAISUDHIR Energy Limited","ANDHRA PRADESH",5.0,838200.0,"24.37 %"
+17.0,"NVVN/CM/JNNSM/PHASE1/BATCH1/0115","SunEdison Energy India P Ltd","RAJASTHAN",5.0,814072.0,"22.71 %"
+18.0,"389","UNJ LLOYD SOLAR POWER LTD","RAJASTHAN",5.0,771500.0,"21.56 %"
+19.0,"218","VASAVI SOLAR POWER PRIVATE LIMITED","RAJASTHAN",5.0,972686.0,"27.13 %"
+20.0,"412","VIRAJ RENEWABLE ENERGY","RAJASTHAN",5.0,814848.0,"22.88 %"
+21.0,"00098","WELSPUN SOLAR AP PRIVATE LIMITED","ANDHRA PRADESH",5.0,849900.0,"23.89 %"

@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details regarding the time lost due to disruptions or forced interruptions in 1st to 13th Sessions of 15th Lok Sabha.", 
+ "file_name": "Sittings_Hrs_and_Time_Lost_Due_to_Disruptions_or_Forced_Adjournments_in_Each_Session_of_15th_LS.xls", 
+ "title": "Download XLS for Time Lost Due to Disruptions or Forced Interruptions in 1st to 13th Sessions of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Sittings_Hrs_and_Time_Lost_Due_to_Disruptions_or_Forced_Adjournments_in_Each_Session_of_15th_LS.xls"
+}
+-----
+"Sessions","Sitting Hours","Time Lost Due to Disruptions or Forced Adjournments (hours)"
+"First",28.03,0.0
+"Second",162.11,23.45
+"Third",105.12,31.49
+"Fourth",137.51,69.51
+"Fifth",136.22,45.0
+"Sixth",7.35,124.4
+"Seventh",116.4,25.18
+"Eighth",104.15,51.06
+"Ninth",85.01,76.21
+"Tenth ",187.36,48.42
+"Eleventh ",24.22,77.51
+"Twelfth",61.45,59.07
+"Thirteenth",94.42,92.4

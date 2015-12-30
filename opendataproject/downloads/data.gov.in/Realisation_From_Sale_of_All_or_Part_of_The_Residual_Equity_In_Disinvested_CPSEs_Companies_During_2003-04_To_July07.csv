@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This data provides details on realisation from sale of all or part of the residual equity in disinvested CPSEs / companies during 2003-04, 2005-06 & 2007-08.", 
+ "file_name": "Realisation_From_Sale_of_All_or_Part_of_The_Residual_Equity_In_Disinvested_CPSEs_Companies_During_2003-04_To_July07.xls", 
+ "title": "Download XLS for Realisation From Sale of All or Part of The Residual Equity in Disinvested CPSEs / Companies During 2003-04, 2005-06 &amp; 2007-08", 
+ "url": "http://data.gov.in/sites/default/files/Realisation_From_Sale_of_All_or_Part_of_The_Residual_Equity_In_Disinvested_CPSEs_Companies_During_2003-04_To_July07.xls"
+}
+-----
+"Detail","MUL IPO - 2003-04","IPCL Offer for Sale - 2003-04","CMC Offer for Sale - 2003-04","ICI - 2003-04","MUL Private Placement - Tranche I - 2005-06","MUL Private Placement - Tranche II - 2007-08"
+"Bid opening date","12.6.2003","20.2.2004","23.2.2004","NA","05.01.2006","27.04.2007"
+"Bid closing date","19.6.2003","27.2.2004","28.2.2004","27.10.2003","11.01.2006","08.05.2007"
+"Floor price per share (in Rs)*",115.0,170.0,475.0,"NA",620.0,760.0
+"% of company's equity with the Government prior to the Offer ",45.79,33.95,26.25,9.2,18.28,10.27
+"% of company's equity offered for sale",27.51,28.95,26.25,9.2,8.0,10.27
+"Shares offered for sale (crore No.s)",7.947,7.185,0.397,0.3761,2.31,2.97
+"Ratio of bids received to shares offered (No. of times)",8.92,4.9,9.6,"NA",1.78,1.12
+"No of bidders allocated shares (lakh No.s)^",2.48,1.95,1.28,1.0,8.0,32.0
+"Final price per share (in Rs)**",125.0,170.0,485.0,205.0,678.24,797.49
+"Discount for Retail Bidders","NA",0.05,0.05,"NA","NA","NA"
+"Effective price for Retail Bidders",125.0,161.5,460.75,"NA","NA","NA"
+"Total amount realised  (Rs crore) ",993.34,1202.85,190.44,77.1,1567.6,2366.94

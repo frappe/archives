@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This data provides details on major human resource categories and their enrollment and availability status, annual production capacity in the country and expected availability by 2017. The data projects the desirable density of each human resource category; number of colleges required for each ...", 
+ "file_name": "Availability_of_Human_Resource_For_Health_During_Eleventh_Plan_1.xls", 
+ "title": "Download XLS for Availability of Human Resource For Health During Eleventh Plan And Projections For Twelfth Plan", 
+ "url": "http://data.gov.in/sites/default/files/Availability_of_Human_Resource_For_Health_During_Eleventh_Plan_1.xls"
+}
+-----
+"Category","Enrolled (2011-12) ","Available (2011-12) ","Density         (2011-12) ","Annual Capacity Nos.","Expected Total availability by 2017","Expected Density by 2017   ","Desirable Total Availability","Desirable Density","Colleges Required ","Density in 2017 if Colleges created ","Density in 2021  if Colleges created "
+"Physicians",922177.0,691632.75,57.1505957169,42570.0,848616.1125,64.8932930428,1111553.53936,85.0,240.0,67.0,85.0
+"AYUSH",712121.0,534090.75,44.1326766689,30000.0,642386.2125,49.1229851995,640777.92269,49.0,0.0,51.0,54.0
+"Dentists",117827.0,88370.25,7.30215917501,24410.0,193796.7375,14.8195494901,196156.506946,15.0,0.0,16.0,21.0
+"Nurses / GNM",1238874.0,743324.4,61.4219501186,178339.0,1508683.68,115.368363519,2223107.07872,170.0,500.0,129.0,170.0
+"ANM",603131.0,361878.6,29.9025423062,38290.0,516089.67,39.4651453094,1111553.53936,85.0,970.0,60.0,85.0
+"Pharmacist",657230.0,492922.5,40.7308857443,100000.0,918276.375,70.2201820345,915397.032415,70.0,0.0,76.0,95.0
+"Total - all Category","NA","NA",240.64080973,"NA","NA",353.889518596,"NA",474.0,"NA",398.0,509.0
+"Nurse/ANM: Doctor Ratio","NA","NA",1.59796221333,"NA","NA",2.38597090036,"NA",3.0,"NA",2.8,3.0

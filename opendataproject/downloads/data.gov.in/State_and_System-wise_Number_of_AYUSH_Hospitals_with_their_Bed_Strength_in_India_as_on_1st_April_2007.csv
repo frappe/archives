@@ -1,0 +1,74 @@
+-----
+{
+ "description": "The table refers to village wise surface lift schemes in the command of major/minor projects and average pumping hours. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.11.csv", 
+ "title": "Download CSV for Villagewise surface lift Schemes in the command of major/medium projects and Average pumping hours for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.11.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise surface lift schemes according to constraints. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.16.csv", 
+ "title": "Download CSV for Villagewise Surface lift Schemes according to the constraints for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.16.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to village wise average length of water conveyance channel of surface lift schemes. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "srfcliftvilltab5.12.csv", 
+ "title": "Download CSV for Villagewise Average length of water conveyance channel of surface lift schemes for 2nd census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftvilltab5.12.csv"
+}
+-----
+-----
+{
+ "description": "This table provides data related to the state and system-wise number of AYUSH hospitals with their bed strength in India as on 1st April 2007.\r", 
+ "file_name": "State_and_System-wise_Number_of_AYUSH_Hospitals_with_their_Bed_Strength_in_India_as_on_1st_April_2007.xls", 
+ "title": "Download XLS for State and System-wise Number of AYUSH Hospitals with their Bed Strength in India as on 1st April 2007", 
+ "url": "http://data.gov.in/sites/default/files/State_and_System-wise_Number_of_AYUSH_Hospitals_with_their_Bed_Strength_in_India_as_on_1st_April_2007.xls"
+}
+-----
+"Sr. No.","States/UTs & Others","Ayurveda Hospitals","Ayurveda Beds","Unani Hospitals","Unani Beds","Siddha Hospitals","Siddha Beds","Yoga Hospitals","Yoga Beds","Naturopathy Hospitals","Naturopathy Beds","Homeopathy Hospitals","Homeopathy Beds","Total Hospitals","Total Beds"
+1.0,"Andhra Pradesh",9.0,584.0,6.0,310.0,0.0,0.0,0.0,0.0,1.0,120.0,6.0,300.0,22.0,1314.0
+2.0,"Arunachal Pradesh",1.0,10.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,0.0,1.0,50.0,3.0,70.0
+3.0,"Assam",1.0,100.0,0.0,0.0,0.0,0.0,1.0,25.0,0.0,0.0,3.0,105.0,5.0,230.0
+4.0,"Bihar",11.0,1356.0,4.0,459.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,510.0,26.0,2325.0
+5.0,"Chhattisgarh",8.0,365.0,1.0,90.0,0.0,0.0,0.0,0.0,1.0,50.0,3.0,100.0,13.0,605.0
+6.0,"Delhi",10.0,643.0,2.0,111.0,0.0,0.0,2.0,65.0,4.0,125.0,2.0,150.0,20.0,1094.0
+7.0,"Goa",1.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0,2.0,65.0
+8.0,"Gujarat",48.0,1855.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,873.0,62.0,2728.0
+9.0,"Haryana",8.0,835.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,50.0,10.0,895.0
+10.0,"Himachal Pradesh",24.0,420.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,1.0,25.0,26.0,455.0
+11.0,"Jammu and Kashmir",2.0,155.0,3.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,355.0
+12.0,"Jharkhand",1.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,82.0,3.0,242.0
+13.0,"Karnataka",122.0,8147.0,13.0,402.0,1.0,10.0,3.0,15.0,5.0,276.0,20.0,896.0,164.0,9746.0
+14.0,"Kerala",124.0,3987.0,0.0,0.0,2.0,170.0,0.0,0.0,1.0,40.0,33.0,1130.0,160.0,5327.0
+15.0,"Madhya Pradesh",34.0,1626.0,3.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,1105.0,57.0,2981.0
+16.0,"Maharashtra",51.0,7673.0,6.0,635.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,3080.0,101.0,11388.0
+17.0,"Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,65.0,1.0,10.0,3.0,75.0
+18.0,"Meghalaya",1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,70.0,8.0,80.0
+19.0,"Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,0.0,0.0,1.0,14.0
+20.0,"Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,1.0,10.0
+21.0,"Orissa",8.0,488.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,185.0,14.0,673.0
+22.0,"Punjab",15.0,1214.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,270.0,21.0,1484.0
+23.0,"Rajasthan",100.0,914.0,3.0,30.0,0.0,0.0,1.0,20.0,2.0,22.0,8.0,205.0,114.0,1191.0
+24.0,"Sikkim",1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0
+25.0,"Tamil Nadu",7.0,580.0,1.0,54.0,275.0,2131.0,0.0,0.0,0.0,0.0,9.0,460.0,292.0,3225.0
+26.0,"Tripura",1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,2.0,20.0
+27.0,"Uttar Pradesh",1771.0,10288.0,209.0,1585.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,350.0,1988.0,12223.0
+28.0,"Uttrakhand",7.0,319.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,50.0,10.0,377.0
+29.0,"West Bengal",4.0,409.0,1.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,630.0,17.0,1099.0
+30.0,"A&N Islands",1.0,10.0,1.0,5.0,1.0,5.0,0.0,0.0,0.0,0.0,1.0,10.0,4.0,30.0
+31.0,"Chandigarh",1.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0,2.0,145.0
+32.0,"Dadra & Nagar Haveli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33.0,"Daman & Diu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34.0,"Lakshadweep",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35.0,"Puducherry",1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0
+36.0,"CGHS",1.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0
+37.0,"Research Council",24.0,600.0,12.0,280.0,2.0,85.0,0.0,0.0,0.0,0.0,6.0,85.0,44.0,1050.0
+38.0,"Ministry of Railways",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39.0,"Ministry of Labour",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40.0,"Ministry of Coal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Total","Total",2398.0,42963.0,268.0,4489.0,281.0,2401.0,8.0,135.0,18.0,722.0,230.0,10851.0,3203.0,61561.0

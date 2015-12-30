@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table provides the percentage share of Underground Production in Total Production in china, USA, Australia and India.", 
+ "file_name": "Share_of_Underground_Production_in_Total_Production.xls", 
+ "title": "Download XLS for Share of Underground Production in Total Production - Power Sector", 
+ "url": "http://data.gov.in/sites/default/files/Share_of_Underground_Production_in_Total_Production.xls"
+}
+-----
+"Country","Percentage Share"
+"China",0.9
+"USA",0.33
+"Australia",0.2
+"India",0.15

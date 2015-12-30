@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of dugwells according to social status. The report has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natdgwltab1.4.csv", 
+ "title": "Download CSV for State wise Distribution of Dugwells according to social status for 2nd census of minor irrigation census", 
+ "url": "http://data.gov.in/sites/default/files/Natdgwltab1.4.csv"
+}
+-----
+"State","Scheduled caste","Scheduled tribe","Other social status of farmers","Total"
+"ANDHRA PRADESH",127732,85393,997982,1211107
+"ARUNACHAL PRADESH",NA,NA,NA,NA
+"ASSAM",5,13,20,38
+"BIHAR",49556,110994,210515,371065
+"GOA",17,4,3870,3891
+"GUJARAT",NA,NA,NA,NA
+"HARYANA",561,636,24807,26004
+"HIMACHAL PRADESH",121,15,1411,1547
+"JAMMU & KASHMIR",59,0,563,622
+"KARNATAKA",21157,14011,285685,320853
+"KERALA",5025,771,120204,126000
+"MADHYA PRADESH",96482,157912,849420,1103814
+"MAHARASHTRA",NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA
+"MEGHALAYA",0,0,0,0
+"MIZORAM",0,472,17,489
+"NAGALAND",2,527,0,529
+"ORISSA",40485,101489,179669,321643
+"PUNJAB",581,107,10942,11630
+"RAJASTHAN",80451,103815,826070,1010336
+"SIKKIM",NA,NA,NA,NA
+"TAMIL NADU",110202,15983,1135699,1261884
+"TRIPURA",122,167,408,697
+"UTTAR PRADESH",21767,2192,111665,135624
+"WEST BENGAL",12839,7139,27287,47265
+"ANDAMAN & NICOBARS",NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",4,306,89,399
+"DAMAN & DIU",NA,NA,NA,NA
+"DELHI",NA,NA,NA,NA
+"LAKSHADWEEP",NA,NA,NA,NA
+"PONDICHERRY",5,0,215,220
+"ALL INDIA",567173,601946,4786538,5955657

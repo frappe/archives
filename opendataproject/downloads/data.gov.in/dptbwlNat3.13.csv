@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Deep Tubewells in the command of Major/Medium Projects and Supplimentary Irrigation. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.13.csv", 
+ "title": "Download CSV for Statewise Deep Tubewells in the command of Major/Medium Projects and Supplimentary Irrigation", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.13.csv"
+}
+-----
+"State","Location of Tubewell (Nos) - Inside Command","Location of Tubewell (Nos) - Outside Command","Augmentation","Total","Supplementary Irrigation (Ha) - Kharif","Supplementary Irrigation (Ha) - Rabi","Supplementary Irrigation (Ha) - Perennial","Supplementary Irrigation (Ha) - Others","Total.1"
+"ANDHRA PRADESH",781,86645,56,87482,1276,559,292,4,2131
+"ARUNACHAL PRADESH",0,3,0,3,0,0,0,0,0
+"ASSAM",39,718,3,760,1,1,0,0,2
+"BIHAR",309,5831,50,6190,439,390,114,87,1030
+"CHHATTISGARH",72,5146,9,5227,111,14,0,0,125
+"GOA",0,60,0,60,0,0,0,0,0
+"GUJARAT",2317,91678,187,94182,1099,188,34,84,1405
+"HARYANA",6625,17645,69,24339,16214,16610,41,0,32865
+"HIMACHAL PRADESH",1,350,0,351,21,22,0,0,43
+"JAMMU & KASHMIR",11,9,0,20,30,21,0,0,51
+"JHARKHAND",5,23,0,28,0,0,0,0,0
+"KARNATAKA",3,29,0,32,0,0,0,0,0
+"KERALA",0,226,1,227,1,0,2,1,4
+"MADHYA PRADESH",3265,32556,577,36398,154,4559,36,16,4765
+"MAHARASHTRA",9864,67230,129,77223,753,789,851,78,2471
+"MEGHALAYA",0,8,0,8,0,0,0,0,0
+"NAGALAND",0,3,0,3,0,0,0,0,0
+"ORISSA",26,4566,0,4592,169,25,0,0,194
+"PUNJAB",947,9041,2,9990,673,674,1,15,1363
+"RAJASTHAN",2982,52235,1547,56764,20,161,1,1,183
+"TAMIL NADU",9075,74118,817,84010,3140,3150,872,295,7457
+"TRIPURA",27,141,0,168,63,240,32,40,375
+"UTTAR PRADESH",11797,22766,522,35085,63379,101459,46435,27847,239120
+"UTTARANCHAL",46,809,28,883,331,300,50,1,682
+"WEST BENGAL",1216,3923,0,5139,653,74,8,77,812
+"CHANDIGARH",0,57,0,57,0,0,0,0,0
+"DELHI",4,640,1,645,0,0,0,0,0
+"PONDICHERRY",5,304,19,328,0,0,0,0,0
+"ALL INDIA",49417,476760,4017,530194,88527,129236,48769,28546,295078

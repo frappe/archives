@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table refers to state's net state domestic product at factor cost at current prices for the base year 2004-05 by economic activity. Net state domestic product is derived by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "NSDPCurrChandigarh.csv", 
+ "title": "Download CSV for Net State Domestic Product of Chandigarh at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/NSDPCurrChandigarh.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture",6777,7432,8203,8441,9196,9691,9423,9269
+"Forestry & Logging",609,615,715,773,616,653,741,821
+"Fishing",43,57,103,116,121,128,134,141
+"Agriculture & Allied",7429,8104,9021,9330,9933,10472,10298,10231
+"Mining & Quarrying",1,1,1,1,1,10,0,0
+"Manufacturing",48974,52207,65148,77899,80154,99707,135546,146417
+"Manufacturing - Registered",15989,14389,20717,26930,25535,40721,65038,69428
+"Manufacturing - Unregistered",32985,37818,44431,50969,54619,58986,70508,76989
+"Construction",74756,94873,150260,160017,97921,126626,139045,163968
+"Electricity, Gas and Water supply",6409,7244,7796,8876,9924,13483,15082,17223
+"Industry",130140,154325,223205,246793,188000,239826,289673,327608
+"Transport, Storage & Communication",42087,43534,45343,48762,52797,63283,73464,87549
+"Railways",331,394,476,573,542,777,602,204
+"Transport by other means",16195,18504,21140,23019,23587,28512,31652,37292
+"Storage",57,58,69,81,91,157,176,197
+"Communication",25504,24578,23658,25089,28577,33837,41034,49856
+"Trade, Hotels and restaurants",218021,294153,345323,398828,434524,458429,526474,656392
+"Banking & Insurance",95423,103464,127380,142807,198001,250118,288073,304060
+"Real estate, Ownership of dwellings and Business services",152973,184140,211116,238100,278906,323292,398212,438937
+"Public Administration",55924,60817,67970,63728,122091,120684,121571,133157
+"Other services",59018,69383,78042,84319,90262,121862,138608,156532
+"Services",623446,755491,875174,976544,1176581,1337668,1546402,1776627
+"State Domestic Product",761015,917920,1107400,1232667,1374514,1587968,1846374,2114465
+"Population",1026000,1080000,1135000,1197000,1267000,1340000,1412000,1480000
+"State Per Capita Income",74173,84993,97568,102980,108486,118505,130763,142869

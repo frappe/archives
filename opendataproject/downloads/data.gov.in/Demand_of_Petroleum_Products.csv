@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This table provides details regarding demand for Petroleum Products for the years 2011\u201312, 2012\u201313, 2013\u201314, 2014\u201315, 2015\u201316, 2016\u201317. The details for the petroleum products are given in Million Metric Tonne Per Annum (MMTPA).", 
+ "file_name": "Demand_of_Petroleum_Products.xls", 
+ "title": "Download XLS for Demand of Petroleum Products (2011-17)", 
+ "url": "http://data.gov.in/sites/default/files/Demand_of_Petroleum_Products.xls"
+}
+-----
+"Petroleum Products ('000MT)","2011-12 (MMTPA) ","2012-13 (MMTPA) ","2013-14 (MMTPA) ","2014-15 (MMTPA) ","2015-16 (MMTPA) ","2016-17 (MMTPA) ","2017-18 (MMTPA) "
+"LPG",15300.0,16986.0,18363.0,19675.0,20857.0,21831.0,7.3
+"MS",14993.0,16091.0,17527.0,19083.0,20766.0,22588.0,8.5
+"NAPHTHA/NGL",11105.0,12353.0,11417.0,11417.0,11022.0,11022.0,-0.1
+"ATF",5396.0,6009.0,6587.0,7202.0,7849.0,8540.0,9.1
+"SKO",8229.0,7949.0,7631.0,7326.0,7033.0,6751.0,-3.9
+"HSDO",64742.0,65040.0,68654.0,72589.0,76904.0,81599.0,4.7
+"LDO",415.0,400.0,400.0,400.0,400.0,400.0,-0.7
+"LUBES",2745.0,2691.0,2772.0,2857.0,2945.0,3036.0,2.0
+"FO/LSHS",9232.0,7954.0,7902.0,7899.0,7872.0,7872.0,-3.1
+"BITUMEN",4628.0,5254.0,5541.0,5732.0,5971.0,6114.0,5.7
+"PET COKE",6145.0,6765.0,7514.0,8345.0,9268.0,10294.0,10.9
+"OTHERS",4869.0,5445.0,6127.0,6109.0,6085.0,6162.0,4.8
+"Total POL","1,47,997",152937.0,160346.0,168635.0,176972.0,186209.0,4.7

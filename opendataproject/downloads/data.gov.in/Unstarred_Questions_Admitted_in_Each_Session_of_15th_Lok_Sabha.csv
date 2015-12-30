@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details regarding the number of unstarred questions admitted in each session of 15th Lok Sabha.", 
+ "file_name": "Unstarred_Questions_Admitted_in_Each_Session_of_15th_Lok_Sabha.xls", 
+ "title": "Download XLS for Unstarred Questions Admitted in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/Unstarred_Questions_Admitted_in_Each_Session_of_15th_Lok_Sabha.xls"
+}
+-----
+"Sessions","Unstarred Questions Admitted"
+"First",0.0
+"Second",4894.0
+"Third",4848.0
+"Fourth",7029.0
+"Fifth",5283.0
+"Sixth",5520.0
+"Seventh",3450.0
+"Eighth ",5749.0
+"Ninth",4600.0
+"Tenth",7590.0
+"Eleventh",2500.0
+"Twelfth",4599.0
+"Thirteenth",6883.0

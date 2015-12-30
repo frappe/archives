@@ -1,0 +1,38 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Deep Tubewells according to Average Pumping Hours. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dptbwlNat3.10.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to Average Pumping Hours", 
+ "url": "http://data.gov.in/sites/default/files/dptbwlNat3.10.csv"
+}
+-----
+"Name of State","Avg pumping hours (0-4)","Avg pumping hours (4 - 8)","Avg pumping hours (8-12)","Avg pumping hours (12 -16)","Avg pumping hours (16 - 20)","Avg pumping hours (20 - 24)","Total"
+"ANDHRA PRADESH",16367,42403,28036,433,159,84,87482
+"ARUNACHAL PRADESH",2,1,0,0,0,0,3
+"ASSAM",528,198,23,5,4,2,760
+"BIHAR",3059,2482,494,111,29,15,6190
+"CHHATTISGARH",230,4077,513,194,195,18,5227
+"GOA",57,3,0,0,0,0,60
+"GUJARAT",23584,58259,11790,340,112,97,94182
+"HARYANA",4326,17198,2600,85,100,30,24339
+"HIMACHAL PRADESH",8,71,123,68,36,45,351
+"JAMMU & KASHMIR",1,7,8,4,0,0,20
+"JHARKHAND",1,19,8,0,0,0,28
+"KARNATAKA",9,19,3,0,0,1,32
+"KERALA",141,73,13,0,0,0,227
+"MADHYA PRADESH",7760,24952,3410,201,59,16,36398
+"MAHARASHTRA",48591,22318,4404,968,520,422,77223
+"MEGHALAYA",5,3,0,0,0,0,8
+"NAGALAND",3,0,0,0,0,0,3
+"ORISSA",3159,694,587,110,42,0,4592
+"PUNJAB",561,7799,1408,92,98,32,9990
+"RAJASTHAN",10441,39101,5978,632,533,79,56764
+"TAMIL NADU",43770,20387,13602,3627,2328,296,84010
+"TRIPURA",43,114,11,0,0,0,168
+"UTTAR PRADESH",3672,19013,9021,2589,618,172,35085
+"UTTARANCHAL",85,249,347,103,75,24,883
+"WEST BENGAL",695,749,2750,686,249,10,5139
+"CHANDIGARH",2,0,1,21,21,12,57
+"DELHI",286,323,33,3,0,0,645
+"PONDICHERRY",8,103,152,16,21,28,328
+"ALL INDIA",167394,260615,85315,10288,5199,1383,530194

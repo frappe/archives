@@ -1,0 +1,21 @@
+-----
+{
+ "description": "The Table illustrates the growth of higher education institutions classified into central, state and private in the eleventh plan under the category of degree awarding institutes, colleges and diploma institutions, over the years 2006-07 and 2011-12.", 
+ "file_name": "Growth_Rate_of_Institutions.xls", 
+ "title": "Download XLS for Growth Of Higher Education Institutes In The Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Growth_Rate_of_Institutions.xls"
+}
+-----
+"Category","2007-08","2011-12","Increase from 2007-08 to 2011-12","Growth Rate of Institutions from 2007-08 to 2011-12 (Percentage)"
+"No. of Degree Awarding Central Institutions ",87.0,152.0,65.0,11.8
+"No. of Colleges in Central Institutions",58.0,69.0,11.0,3.5
+"Sub total of Central Institutions",145.0,221.0,76.0,8.8
+"No. of Degree Awarding State Institutions ",227.0,316.0,89.0,6.8
+"No. of Colleges in State Institutions",9000.0,13024.0,4024.0,7.7
+"No. of State Level Diploma Institutions",1867.0,3207.0,1340.0,11.4
+"Sub total of State Institutions",11094.0,16547.0,5453.0,8.3
+"No. of Degree Awarding Private Institutions ",73.0,191.0,118.0,21.2
+"No. of Colleges in Private Institutions",12112.0,19930.0,7818.0,10.5
+"No. of Private Diploma Institutions",5960.0,9541.0,3581.0,9.9
+"Sub total of Private Institutions",18145.0,29662.0,11517.0,10.3
+"Grand Total of  All Institutions ",29384.0,46430.0,17046.0,9.6

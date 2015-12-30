@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This table provides trends in retail selling prices of selected petroleum products in metropolitan towns in India.", 
+ "file_name": "Trends_Retail_Selling_Prices_Selected_Petroleum_Products_Metropolitan_Towns_India.xls", 
+ "title": "Download XLS for Trends In Retail Selling Prices of Selected Petroleum Products In Metropolitan Towns In India", 
+ "url": "http://data.gov.in/sites/default/files/Trends_Retail_Selling_Prices_Selected_Petroleum_Products_Metropolitan_Towns_India.xls"
+}
+-----
+"Petroleum Product","Date (Price as on)","Mumbai","Kolkata","Delhi","Chennai"
+"Motor Spirit (Rs./Litre)","01.04.2004",38.83,36.61,33.71,36.79
+"Motor Spirit (Rs./Litre)","01.04.2005",43.23,40.89,37.99,41.25
+"Motor Spirit (Rs./Litre)","01.04.2006",49.16,46.9,43.49,47.49
+"Motor Spirit (Rs./Litre)","01.04.2007",48.41,46.9,42.85,47.48
+"Motor Spirit (Rs./Litre)","01.04.2008",50.51,48.95,45.52,49.61
+"Motor Spirit (Rs./Litre)","01.04.2009",44.55,44.05,40.62,44.24
+"Motor Spirit (Rs./Litre)","01.04.2010",52.2,51.67,47.93,52.13
+"Motor Spirit (Rs./Litre)","01.04.2011",63.08,62.51,58.37,61.93
+"Motor Spirit (Rs./Litre)","01.04.2012",70.65,70.02,65.64,69.55
+"High Speed Diesel Oil (Rs./Litre)","01.04.2004",27.43,23.99,21.73,24.23
+"High Speed Diesel Oil (Rs./Litre)","01.04.2005",32.83,28.72,28.22,29.3
+"High Speed Diesel Oil (Rs./Litre)","01.04.2006",37.57,32.87,30.45,33.72
+"High Speed Diesel Oil (Rs./Litre)","01.04.2007",34.96,32.88,30.25,33.31
+"High Speed Diesel Oil (Rs./Litre)","01.04.2008",36.08,33.92,31.76,34.4
+"High Speed Diesel Oil (Rs./Litre)","01.04.2009",34.45,32.92,30.86,32.82
+"High Speed Diesel Oil (Rs./Litre)","01.04.2010",39.88,37.99,38.1,38.05
+"High Speed Diesel Oil (Rs./Litre)","01.04.2011",42.06,40.06,37.75,40.16
+"High Speed Diesel Oil (Rs./Litre)","01.04.2012",45.27,43.73,40.91,43.95
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2004",9.26,9.3,9.01,8.4
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2005",9.28,9.26,9.02,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2006",9.05,9.3,9.05,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2007",9.05,9.29,9.09,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2008",9.1,9.3,9.09,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2009",9.1,9.75,9.22,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2010",9.13,9.62,9.32,8.41
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2011",9.22,9.75,9.1,8.39
+"Superior Kerosene Oil (Rs./Litre)*","01.04.2012",14.38,14.84,14.82,13.54
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2004",251.0,266.7,241.6,248.55
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2005",297.95,300.5,294.75,288.15
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2006",297.95,300.5,294.75,288.15
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2007",298.0,300.5,294.75,288.1
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2008",298.0,300.5,294.75,288.1
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2009",312.05,327.25,279.7,314.55
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2010",313.45,328.7,310.35,315.95
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2011",348.45,365.1,345.35,352.35
+"Liquefied Petroleum Gas (Rs./14.2 Kg Cylinder)","01.04.2012",414.0,405.0,399.0,393.5

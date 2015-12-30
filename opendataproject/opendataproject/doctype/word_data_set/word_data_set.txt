@@ -1,0 +1,55 @@
+[
+ {
+  "creation": "2013-09-20 11:05:57", 
+  "docstatus": 0, 
+  "modified": "2013-09-20 11:26:55", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "WDS.#########", 
+  "doctype": "DocType", 
+  "module": "OpenDataProject", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldtype": "Data", 
+  "name": "__common__", 
+  "parent": "Word Data Set", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Word Data Set", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "report": 1, 
+  "role": "System Manager", 
+  "write": 1
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Word Data Set"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "data_set", 
+  "label": "Data Set", 
+  "options": "Data Set"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "word", 
+  "label": "Word", 
+  "options": "Word"
+ }, 
+ {
+  "doctype": "DocPerm"
+ }
+]

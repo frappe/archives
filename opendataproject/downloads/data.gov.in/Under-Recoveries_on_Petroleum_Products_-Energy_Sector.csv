@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides details regarding Under-Recoveries on Petroleum Products for the year 2006\u201307, 2007\u201308, 2008\u201309, 2009\u201310, 2010\u201311, 2011\u201312. The details regarding product-wise under recoveries are given.", 
+ "file_name": "Under-Recoveries_on_Petroleum_Products_-Energy_Sector.xls", 
+ "title": "Download XLS for Under-Recoveries on Petroleum Products - Energy Sector", 
+ "url": "http://data.gov.in/sites/default/files/Under-Recoveries_on_Petroleum_Products_-Energy_Sector.xls"
+}
+-----
+"Petroleum Products","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Petrol",2027.0,7332.0,5181.0,5151.0,2227.0,"NA"
+"Diesel",18776.0,35166.0,52286.0,9279.0,34706.0,81192.0
+"Domestic LPG",10701.0,15523.0,17600.0,14257.0,21772.0,29997.0
+"PDS Kerosene",17883.0,19102.0,28225.0,17364.0,19484.0,27352.0
+"Total",49387.0,77123.0,103292.0,46051.0,78190.0,138541.0

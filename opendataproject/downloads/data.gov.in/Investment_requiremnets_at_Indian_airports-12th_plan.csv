@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table gives an overview of investment requirements at Indian airports during the Twelfth Five-year(2012-17) Plan. The details regarding amounts of investments and type of investment are given.", 
+ "file_name": "Investment_requiremnets_at_Indian_airports-12th_plan.xls", 
+ "title": "Download XLS for Investment requirements at Indian Airports during the Twelfth Five-Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Investment_requiremnets_at_Indian_airports-12th_plan.xls"
+}
+-----
+"Name of Investor","Investment Category","Amount (rs. in crore)"
+"AAI","Airport projects ",17500.0
+"Private Investments ","By Airport Operator ",40000.0
+"By Others (Concessionaires, Third Party, etc.) ","By Others ",10000.0
+"Total","All Investment Categories",67500.0

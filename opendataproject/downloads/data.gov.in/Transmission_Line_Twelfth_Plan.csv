@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This table provides Transmission Line details at the end of Twelfth Five Year Plan (2012-17) period. ", 
+ "file_name": "Transmission_Line_Twelfth_Plan.xls", 
+ "title": "Download XLS for Transmission Line - Twelfth Five Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Transmission_Line_Twelfth_Plan.xls"
+}
+-----
+"Category","Transmission System Type/Voltage Class","Unit","At the end of 11th Plan","Expected addition during 12th Plan","Expected by end of 12th Plan"
+"Transmission Line","HVDC Bipole lines","Ckm",9432.0,7440.0,16872.0
+"Transmission Line","765 kV","Ckm",5250.0,27000.0,32250.0
+"Transmission Line","400 kV","Ckm",106819.0,38000.0,144819.0
+"Transmission Line","220 kV","Ckm",135980.0,35000.0,170980.0
+"Transmission Line","Total","Ckm",257481.0,107440.0,364921.0
+"Sub-Station","765 kV","MVA",25000.0,149000.0,174000.0
+"Sub-Station","400 kV","MVA",151027.0,45000.0,196027.0
+"Sub-Station","230/220 kV","MVA",223774.0,76000.0,299774.0
+"Sub-Station","Total","MVA",399801.0,270000.0,669801.0
+"HVDC","Bi-pole link capacity","MW",6750.0,12750.0,19500.0
+"HVDC","Back-to-back capacity","MW",3000.0,0.0,3000.0
+"HVDC","Total","MW",9750.0,12750.0,22500.0

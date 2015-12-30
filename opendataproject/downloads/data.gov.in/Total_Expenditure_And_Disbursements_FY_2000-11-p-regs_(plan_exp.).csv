@@ -1,0 +1,63 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-REGS","A UT Puducherry",6.9427,7.5184,7.193,8.784,11.5154,12.6276,17.7689,46.632,69.2015,56.8428,65.094,32.5218
+"P-REGS","Andhra Pradesh",34.0098,136.1091,85.141,73.9688,133.8503,86.8524,82.5565,116.8021,1057.8588,151.7654,180.8766,131.1526
+"P-REGS","Arunachal Pradesh",1.0861,1.183,9.0908,8.6182,16.414,31.0533,17.4724,13.1061,21.9316,22.9918,85.4145,25.7939
+"P-REGS","Assam",5.66,3.3733,5.7044,13.0253,16.8413,9.652,206.1133,3.5986,3.4292,216.4625,44.8805,35.1033
+"P-REGS","Bihar",176.5877,76.2429,22.8643,17.7213,24.3278,178.1908,415.4045,437.2023,286.3907,281.7885,351.3639,177.9503
+"P-REGS","Chattisgarh",0.0,1.1442,9.2553,0.4741,2.4139,2.086,4.6615,9.7685,28.2109,21.3786,44.5802,36.438
+"P-REGS","D NCT Delhi",29.027,28.453,43.6672,52.3035,45.8143,71.5767,74.6921,76.312,120.4891,89.5934,81.1503,83.0814
+"P-REGS","Goa",3.1049,3.4184,3.9797,3.7995,5.9019,6.2546,6.1917,6.3414,6.4765,9.2156,12.0879,17.7613
+"P-REGS","Gujarat",42.8438,72.0122,35.7644,74.2618,123.2658,127.6759,112.1875,191.4275,154.115,321.5886,504.5823,655.6177
+"P-REGS","Haryana",24.9862,27.5159,33.9074,33.2372,29.2341,34.269,38.5923,37.1964,41.627,54.1536,68.0173,65.8265
+"P-REGS","Himachal Pradesh",35.4544,33.3668,44.9775,37.188,18.8202,23.6453,18.2907,34.1705,30.2871,49.5206,41.5728,30.5568
+"P-REGS","Jammu and Kashmir",27.6287,30.4353,30.3475,31.8024,32.6889,34.1995,39.6379,3.2994,63.0403,4.9694,5.2819,10.579
+"P-REGS","Jharkhand",0.0,55.8319,131.2542,145.6492,179.2758,322.532,309.739,356.3247,193.5163,194.7994,139.488,128.5594
+"P-REGS","Karnataka",5.6147,4.9857,6.181,14.9429,3.5648,2.7438,12.017,76.217,85.2352,110.2021,97.7851,95.7536
+"P-REGS","Kerala",4.1867,5.7914,40.3971,78.0975,146.7551,153.2696,177.4508,143.8599,207.1029,158.953,370.8318,184.4359
+"P-REGS","Madhya Pradesh",25.8093,44.7277,174.5844,119.9949,37.0982,43.4105,29.7909,-0.2525,70.8606,36.181,123.8041,112.703
+"P-REGS","Maharastra",37.677,11.9683,62.1277,119.8842,37.3122,23.1967,73.1232,284.9695,377.4455,383.5314,213.5402,147.0493
+"P-REGS","Manipur",6.8438,4.0123,1.7722,1.4569,3.9374,4.1326,1.7824,4.2653,3.2191,3.5841,20.4031,24.2206
+"P-REGS","Meghalaya",8.456,12.9011,14.1179,16.5629,19.6327,22.7755,22.5437,25.1847,30.3635,34.6483,48.6485,59.4555
+"P-REGS","Mizoram",7.2412,14.9482,9.6259,14.0222,12.8946,12.9283,18.3587,19.5327,18.8299,17.0052,22.2002,41.3377
+"P-REGS","Nagaland",14.2263,9.3781,7.4755,12.3438,15.4558,5.4064,8.1611,11.1511,8.1046,10.8972,10.3385,7.4491
+"P-REGS","Orissa",15.4761,31.6439,21.7188,12.9907,10.5762,4.2022,6.8784,11.7454,32.0962,52.9181,80.8307,78.7674
+"P-REGS","Punjab",3.9735,4.6129,8.2929,4.6862,17.5225,4.8142,12.3575,3.6094,5.7234,4.4173,6.404,60.9453
+"P-REGS","Rajasthan",16.1721,14.6353,42.2669,52.2203,39.4399,36.8562,43.3656,81.0873,142.5915,109.825,101.3068,175.0022
+"P-REGS","Sikkim",1.5801,2.4047,2.1648,19.1476,10.8601,4.3922,7.1423,6.8171,18.8958,10.5047,37.1067,20.5683
+"P-REGS","Tamil Nadu",10.3239,7.5048,12.5901,25.2346,32.4942,36.6896,280.3744,42.7432,37.1854,27.6659,21.829,27.3861
+"P-REGS","Tripura",1.656,2.65,1.1371,1.5025,2.0155,0.99,1.7159,3.2731,6.384,8.845,11.8452,5.2873
+"P-REGS","Uttar Pradesh",97.0691,93.7588,86.1327,42.5585,143.4564,69.3413,44.6159,118.8222,92.8505,211.9449,824.2878,987.3446
+"P-REGS","Uttarakhand",0.0,1.426,45.8381,57.139,24.7541,18.18,0.9161,1.535,2.0442,5.0156,2.8614,20.6292
+"P-REGS","West Bengal",12.3453,42.4915,28.7935,70.5735,30.7013,50.2336,45.1034,39.2091,72.3067,74.925,105.7542,111.3692

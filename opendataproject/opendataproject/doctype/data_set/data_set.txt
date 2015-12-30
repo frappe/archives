@@ -1,0 +1,151 @@
+[
+ {
+  "creation": "2013-09-19 12:43:30", 
+  "docstatus": 0, 
+  "modified": "2013-09-30 19:15:44", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "Prompt", 
+  "custom": 0, 
+  "doctype": "DocType", 
+  "module": "OpenDataProject", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "name": "__common__", 
+  "parent": "Data Set", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Data Set", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "report": 1, 
+  "role": "System Manager", 
+  "write": 1
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Data Set"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "title", 
+  "fieldtype": "Small Text", 
+  "label": "Title"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "source", 
+  "fieldtype": "Data", 
+  "label": "Source"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "classification", 
+  "fieldtype": "Data", 
+  "label": "Classification"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "description", 
+  "fieldtype": "Text", 
+  "label": "Description"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "raw_filename", 
+  "fieldtype": "Data", 
+  "label": "Raw Filename"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "url", 
+  "fieldtype": "Small Text", 
+  "label": "url"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "page_name", 
+  "fieldtype": "Data", 
+  "label": "Page Name"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "row_count", 
+  "fieldtype": "Int", 
+  "label": "Row Count"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "rating", 
+  "fieldtype": "Float", 
+  "label": "Rating"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "ratings_polled", 
+  "fieldtype": "Int", 
+  "label": "Ratings Polled"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "graph_settings", 
+  "fieldtype": "Section Break", 
+  "label": "Graph Settings"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "chart_type", 
+  "fieldtype": "Data", 
+  "label": "Chart Type"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "legend", 
+  "fieldtype": "Int", 
+  "label": "Legend"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "first_column", 
+  "fieldtype": "Int", 
+  "label": "FIrst Column"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "last_column", 
+  "fieldtype": "Int", 
+  "label": "Last Column"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "head_row", 
+  "fieldtype": "Int", 
+  "label": "Head Row"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "transpose", 
+  "fieldtype": "Check", 
+  "label": "Transpose"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "selected_rows", 
+  "fieldtype": "Text", 
+  "label": "Selected Rows"
+ }, 
+ {
+  "doctype": "DocPerm"
+ }
+]

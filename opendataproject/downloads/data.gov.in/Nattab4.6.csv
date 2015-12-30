@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise culturable command area and potential created through Deep Tubewells . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Villdptbwltab3.13.csv", 
+ "title": "Download CSV for Village wise Culturable Command Area and Potential Created through Deep Tubewells for 2nd Census of Minor Irrigation Schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/Villdptbwltab3.13.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes by status. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.6.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Flow Schemes by its status for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.6.csv"
+}
+-----
+State,Schemes in use,Schemes not in use - Temporary,Schemes not in use - Abandoned (Salinity),Schemes not in use - Dried up,Schemes not in use - Destroyed,Schemess not in use - Others,Total - Schemes not in use,Grand Total (Not in Use +  In Use)
+ANDHRA PRADESH,50766,24170,448,2384,982,1203,29187,79953
+ARUNACHAL PRADESH,2994,411,28,26,62,67,594,3588
+ASSAM,2201,143,1,0,1,1,146,2347
+BIHAR,59992,4184,3,2230,532,307,7256,67248
+GOA,3110,33,2,30,0,1,66,3176
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,507,0,0,0,0,3,3,510
+HIMACHAL PRADESH,13921,201,52,71,41,59,424,14345
+JAMMU & KASHMIR,9113,31,0,0,0,0,31,9144
+KARNATAKA,29269,6462,469,1397,786,703,9817,39086
+KERALA,10094,237,2,3,30,15,287,10381
+MADHYA PRADESH,53578,1158,411,226,277,474,2546,56124
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,240,0,0,0,0,0,0,240
+MEGHALAYA,12363,894,84,330,470,123,1901,14264
+MIZORAM,4389,331,26,2,27,0,386,4775
+NAGALAND,13119,843,3,0,90,4,940,14059
+ORISSA,21807,2065,64,52,69,46,2296,24103
+PUNJAB,390,1,0,3,0,0,4,394
+RAJASTHAN,2170,725,15,133,6,53,932,3102
+SIKKIM,766,79,2,0,4,3,88,854
+TAMIL NADU,76915,3219,442,170,347,3630,7808,84723
+TRIPURA,587,6,0,0,7,0,13,600
+UTTAR PRADESH,17568,2667,1584,623,903,539,6316,23884
+WEST BENGAL,61892,3029,332,511,261,429,4562,66454
+ANDAMAN & NICOBARS,NA,NA,NA,NA,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,11,0,0,0,0,0,0,11
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,1372,5,1,0,0,5,11,1383
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,17641,4,0,0,0,0,4,17645
+ALL INDIA,466775,50898,3969,8191,4895,7665,75618,542393

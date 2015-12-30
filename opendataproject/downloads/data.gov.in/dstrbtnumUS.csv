@@ -1,0 +1,45 @@
+-----
+{
+ "description": "The table refers to distribution (per 1000) of workers for urban male according to usual status (taking both principal and subsidiary status together) by broad employment status for each State/UT.", 
+ "file_name": "dstrbtnumUS.csv", 
+ "title": "Download CSV for Distribution (per 1000) of workers for urban male according to usual status (taking both principal and subsidiary status together) by broad employment status for each State/UT", 
+ "url": "http://data.gov.in/sites/default/files/dstrbtnumUS.csv"
+}
+-----
+"State/UT","Self-employed","Regular wage/salaried employee","Casual labour","All"
+Andhra Pradesh,354,494,152,1000
+Arunachal Pradesh,321,567,111,1000
+Assam,549,353,98,1000
+Bihar,610,218,172,1000
+Chhattisgarh,358,363,278,1000
+Delhi,367,594,39,1000
+Goa,324,601,75,1000
+Gujarat,403,520,77,1000
+Haryana,427,463,110,1000
+Himachal Pradesh,284,611,105,1000
+"Jammu & Kashmir",499,391,111,1000
+Jharkhand,451,372,178,1000
+Karnataka,416,427,157,1000
+Kerala,363,316,321,1000
+Madhya Pradesh,481,346,172,1000
+Maharashtra,368,547,85,1000
+Manipur,686,252,62,1000
+Meghalaya,322,507,170,1000
+Mizoram,420,472,107,1000
+Nagaland,362,599,39,1000
+Odisha,496,364,140,1000
+Punjab,452,465,83,1000
+Rajasthan,418,417,165,1000
+Sikkim,351,597,52,1000
+Tamil Nadu,324,437,239,1000
+Tripura,434,398,167,1000
+Uttarakhand,511,394,95,1000
+Uttar Pradesh,521,299,180,1000
+West Bengal,448,375,177,1000
+"A & N Islands",210,583,207,1000
+Chandigarh,367,551,83,1000
+"Dadra & Nagar Haveli",182,802,17,1000
+"Daman & Diu",331,592,76,1000
+Lakshadweep,347,389,264,1000
+Puducherry,248,520,232,1000
+All India,417,434,149,1000

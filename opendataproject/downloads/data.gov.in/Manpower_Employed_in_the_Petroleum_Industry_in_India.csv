@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table consists of manpower employed in the Public Sector Undertakings (PSUs) in India during 2004 to 2012.", 
+ "file_name": "Manpower_Employed_in_the_Petroleum_Industry_in_India.xls", 
+ "title": "Download XLS for Manpower Employed In The Petroleum Industry In India As On 31st March", 
+ "url": "http://data.gov.in/sites/default/files/Manpower_Employed_in_the_Petroleum_Industry_in_India.xls"
+}
+-----
+"Category",2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0
+"Exploration & Production",44943.0,41415.0,39694.0,38948.0,33935.0,33612.0,33351.0,33984.0,34931.0
+"Refining",25640.0,26859.0,30262.0,28151.0,30128.0,32745.0,34036.0,31835.0,35602.0
+"Marketing",40232.0,40628.0,43317.0,42970.0,44995.0,42183.0,41387.0,44535.0,46885.0
+"Pipelines",3829.0,7318.0,7816.0,7510.0,8933.0,4598.0,4563.0,5536.0,5496.0
+"R&D",2278.0,2096.0,2071.0,2029.0,1964.0,2076.0,2133.0,2007.0,1936.0
+"Others",9780.0,15055.0,15151.0,15707.0,20001.0,23759.0,24395.0,23818.0,14218.0
+"Grand Total",126702.0,133371.0,138311.0,135315.0,139956.0,138973.0,139865.0,141715.0,139068.0

@@ -1,0 +1,12 @@
+-----
+{
+ "description": "This table provides data related to the urban and rural health indicators during Eleventh Plan.", 
+ "file_name": "Urban_and_Rural_Health_Indicators_during_Eleventh_Plan.xls", 
+ "title": "Download XLS for Urban and Rural Health Indicators during Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Urban_and_Rural_Health_Indicators_during_Eleventh_Plan.xls"
+}
+-----
+"Category","Crude Birth Rate (per 1000)","Crude Death Rate (per 1000)","IMR (per 1000 live births)","Prevalence of Anaemia among Children (6–35 months) (%)","Prevalence of Anaemia among Pregnant Women (%)"
+"Urban",19.1,6.0,40.0,72.7,54.6
+"Rural",25.6,8.1,64.0,81.2,59.0
+"Total",23.8,7.6,58.0,79.2,57.9

@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table states head count ratio and number of poor persons (in lakh) for 1973-74, 1983, 1993-94 and 2004-05 in Rural India.", 
+ "file_name": "RD03.csv", 
+ "title": "Download CSV for Headcount Ratio and Number of Poor Persons Below Poverty Line in Rural India", 
+ "url": "http://data.gov.in/sites/default/files/RD03.csv"
+}
+-----
+States/Uts,Headcount Ratio of Poor Persons Below Poverty Line in India (Rural) 1973-74,Headcount Ratio of Poor Persons Below Poverty Line in India (Rural) 1983,Headcount Ratio of Poor Persons Below Poverty Line in India (Rural) 1993-94,Headcount Ratio of Poor Persons Below Poverty Line in India (Rural) 2004-05,No. of poor persons (in Lakh) Below Poverty Line in India (Rural) 1973-74,No. of poor persons (in Lakh) Below Poverty Line in India (Rural) 1983,No. of poor persons (in Lakh) Below Poverty Line in India (Rural) 1993-94,No. of poor persons (in Lakh) Below Poverty Line in India (Rural) 2004-05
+Andhra Pradesh,48.4 ,26.5 ,15.9 ,11.2 ,178.2 ,114.3 ,79.5 ,64.7 
+Assam,52.7 ,42.6 ,45.0 ,22.3 ,76.4 ,73.4 ,94.3 ,54.5 
+Bihar,63.0 ,64.4 ,58.2 ,42.1 ,336.5 ,417.7 ,450.9 ,336.7 
+Delhi,24.4 ,7.7 ,1.9 ,6.9 ,1.1 ,0.4 ,0.2 ,0.6 
+Goa,46.9 ,14.8 ,5.3 ,5.4 ,3.2 ,1.2 ,0.4 ,0.4 
+Gujrat,46.4 ,29.8 ,22.2 ,19.1 ,94.6 ,72.9 ,62.2 ,63.5 
+Haryana,34.2 ,20.6 ,28.0 ,13.6 ,30.1 ,22.0 ,36.6 ,21.5 
+Himanchal,27.4 ,17.0 ,30.3 ,10.7 ,9.4 ,7.1 ,15.4 ,6.1 
+Karnataka,55.1 ,36.3 ,29.9 ,20.8 ,128.4 ,100.5 ,96.0 ,75.1 
+Kerala,59.2 ,39.0 ,25.8 ,13.2 ,111.4 ,81.6 ,56.0 ,32.4 
+Madhya Pradesh,62.7 ,48.9 ,40.6 ,36.9 ,231.2 ,215.5 ,216.2 ,175.6 
+Maharashtra,57.7 ,45.2 ,37.9 ,29.6 ,210.8 ,193.8 ,193.3 ,171.1 
+Odisha,67.3 ,67.5 ,49.7 ,46.8 ,142.2 ,164.7 ,140.9 ,151.8 
+Punjab,28.2 ,13.2 ,12.0 ,9.2 ,30.5 ,16.8 ,17.8 ,15.1 
+Rajasthan,44.8 ,33.5 ,26.5 ,18.7 ,101.4 ,96.8 ,94.7 ,87.4 
+Tamil Nadu,57.4 ,54.0 ,32.5 ,22.9 ,172.6 ,181.6 ,121.7 ,76.5 
+Uttar Pradesh,56.5 ,46.5 ,42.3 ,33.4 ,450.0 ,448.0 ,496.2 ,473.0 
+West Bengal,73.2 ,63.1 ,40.8 ,28.6 ,258.0 ,268.6 ,209.9 ,173.2 
+Chattishgarh,,,,40.8 ,,,,71.5 
+Jharkhand,,,,46.3 ,,,,103.2 
+Uttrakhand,,,,40.8 ,,,,27.1 
+Chandigarh,28.0 ,23.8 ,11.4 ,7.1 ,0.1 ,0.1 ,0.1 ,0.1 
+Dadar & Nagar Haweli,46.9 ,14.8 ,52.0 ,39.8 ,0.4 ,0.2 ,0.7 ,0.7 
+J&K,45.5 ,26.0 ,30.3 ,4.6 ,18.4 ,13.1 ,19.1 ,3.7 
+All India,56.4 ,45.7 ,37.3 ,28.3 ,"2,612.9 ","2,519.6 ","2,440.3 ","2,209.2 "

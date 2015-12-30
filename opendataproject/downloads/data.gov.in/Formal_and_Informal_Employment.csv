@@ -1,0 +1,11 @@
+-----
+{
+ "description": "The table gives the Formal and Informal Employment in Organized and Unorganized Sectors (in Millions). It gives sector-wise details for the years 2004-05 and 2009-10. ", 
+ "file_name": "Formal_and_Informal_Employment.xls", 
+ "title": "Download XLS for Formal and Informal Employment in Organized and Unorganised Sectors (in Millions)", 
+ "url": "http://data.gov.in/sites/default/files/Formal_and_Informal_Employment.xls"
+}
+-----
+"Sectors","2004-05 Informal","2004-05 Formal","2004-05 Total ","2009-10 Informal","2009-10 Formal","2009-10 Total "
+"Unorganised ",393.5,1.4,394.9,385.08,2.26,387.34
+"Organised ",29.1,33.4,62.6,42.14,30.74,72.88

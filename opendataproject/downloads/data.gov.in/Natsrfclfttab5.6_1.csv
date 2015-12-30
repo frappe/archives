@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise distribution of surface lift schemes by status. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.6_1.csv", 
+ "title": "Download CSV for Statewise Distribution of surface lift schemes by its status for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.6_1.csv"
+}
+-----
+State,Schemes in use,Schemes not in use - Temporary,Schemes not in use - Abandoned (Salinity),Schemes not in use - Dried up,Schemes not in use - Sinking,Schemes not in use - Others,Schemes not in use - Total,Grand total
+ANDHRA PRADESH,18812,470,24,15,2,103,614,19426
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA,NA,NA,NA
+ASSAM,7564,1473,10,18,33,12,1546,9110
+BIHAR,9031,1093,2,503,226,211,2035,11066
+GOA,746,6,0,0,0,0,6,752
+GUJARAT,NA,NA,NA,NA,NA,NA,NA,NA
+HARYANA,182,0,0,0,0,0,0,182
+HIMACHAL PRADESH,536,17,0,1,3,0,21,557
+JAMMU & KASHMIR,325,26,0,0,0,0,26,351
+KARNATAKA,29506,1820,121,68,125,708,2842,32348
+KERALA,11253,7,0,3,0,1,11,11264
+MADHYA PRADESH,186928,583,209,343,271,541,1947,188875
+MAHARASHTRA,NA,NA,NA,NA,NA,NA,NA,NA
+MANIPUR,20,0,0,0,0,0,0,20
+MEGHALAYA,8,4,1,0,2,0,7,15
+MIZORAM,12,0,0,0,0,0,0,12
+NAGALAND,19,0,0,0,0,0,0,19
+ORISSA,18197,2036,70,42,49,210,2407,20604
+PUNJAB,764,0,0,0,0,0,0,764
+RAJASTHAN,280,0,8,0,0,1,9,289
+SIKKIM,NA,NA,NA,NA,NA,NA,NA,NA
+TAMIL NADU,8743,2066,415,83,37,233,2834,11577
+TRIPURA,800,20,7,0,0,2,29,829
+UTTAR PRADESH,3188,196,51,10,13,8,278,3466
+WEST BENGAL,76301,4666,286,804,311,1277,7344,83645
+ANDAMAN & NICOBARS,942,115,5,10,1,137,268,1210
+CHANDIGARH,NA,NA,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,53,0,1,0,0,0,1,54
+DAMAN & DIU,NA,NA,NA,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA,NA,NA
+PONDICHERRY,405,0,1,0,0,0,1,406
+ALL INDIA,374615,14598,1211,1900,1073,3444,22226,396841

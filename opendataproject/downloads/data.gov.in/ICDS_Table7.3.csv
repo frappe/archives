@@ -1,0 +1,30 @@
+-----
+{
+ "description": "The table shows the State-wise performance of ICDS programms based on Estimated indices. It gives details on various parameters such as average number of days received food, percentage of children fully immunised, percentage of women reporting attended NHE meeting, percentage of mother reporting ...", 
+ "file_name": "ICDS_Table7.3.xls", 
+ "title": "Download XLS for State-wise performance of ICDS programme: Estimated indices", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table7.3.xls"
+}
+-----
+"State","Rank","Average number of days received food","Percentage of children (12-23 months) fully immunised","Percentage of Children able to Write alphabets/ words","Percentage of women reporting attended NHE meetings","Percentage of mother reporting seeking help from AWW when their child gets sick","Percentage of mother reporting received deworming tablets from AWC","Average attendanc (number of children aged 3-6 years) based on 3 sudden visits by Field Team","Overall Performance Index"
+"Karnataka",1.0,1.0,0.59,0.87,0.38,0.7,0.7,0.86,0.728
+"Maharashtra",2.0,1.0,0.62,0.38,0.43,0.75,0.84,1.0,0.716
+"Andhra Pradesh",3.0,0.74,0.35,0.94,0.48,1.0,0.82,0.5,0.689
+"West Bengal",4.0,1.0,0.66,0.71,0.36,0.87,0.38,0.79,0.682
+"Jharkhand",5.0,0.84,0.37,0.86,0.34,0.74,0.68,0.93,0.68
+"Tamil Nadu",6.0,1.0,1.0,0.45,0.43,0.59,0.51,0.71,0.671
+"Orissa",7.0,1.0,0.51,0.5,0.5,0.35,0.65,0.93,0.635
+"Kerala",8.0,0.95,0.88,0.98,1.0,0.1,0.02,0.36,0.612
+"Madhya Pradesh",9.0,0.63,0.33,0.35,0.12,0.57,1.0,1.0,0.572
+"Haryana",10.0,1.0,0.79,0.28,0.11,0.61,0.92,0.29,0.57
+"Gujarat",11.0,0.89,0.45,0.13,0.48,0.69,0.87,0.43,0.563
+"Himachal Pradesh",12.0,0.79,0.76,0.45,0.57,0.41,0.8,0.0,0.54
+"Chhattisgarh",13.0,0.89,0.43,0.13,0.54,0.27,0.74,0.71,0.53
+"Jammu and Kashmir",14.0,0.84,0.85,0.8,0.17,0.04,0.76,0.0,0.494
+"Punjab",15.0,0.79,0.67,0.57,0.0,0.0,0.43,0.36,0.402
+"Uttaranchal",16.0,0.32,0.59,0.51,0.14,0.04,0.57,0.43,0.372
+"Rajasthan",17.0,0.68,0.04,0.0,0.08,0.33,0.87,0.21,0.317
+"Uttar Pradesh",18.0,0.63,0.0,0.11,0.01,0.12,0.76,0.43,0.295
+"Assam",19.0,0.0,0.13,1.0,0.19,0.1,0.0,0.36,0.253
+"Bihar",20.0,0.63,0.18,0.25,0.06,0.15,0.05,0.43,0.248
+"Total","",0.74,0.38,0.41,0.25,0.43,0.56,0.57,0.476

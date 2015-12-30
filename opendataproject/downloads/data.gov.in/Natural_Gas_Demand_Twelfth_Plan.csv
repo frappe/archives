@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table provides Natural Gas Demand for Twelfth Five Year (2012-17) Plan. It gives sector-wise details for five years and the Compounded Annual Growth rate (CAGR).\r\r", 
+ "file_name": "Natural_Gas_Demand_Twelfth_Plan.xls", 
+ "title": "Download XLS for Natural Gas Demand for Twelfth Five Year Plan (2012-17)", 
+ "url": "http://data.gov.in/sites/default/files/Natural_Gas_Demand_Twelfth_Plan.xls"
+}
+-----
+"Sector ","2011-12","2012-13","2013-14","2014-15","2015-16","2016-17","CAGR(%)"
+"Power",91.0,135.0,153.0,171.0,189.0,207.0,17.9
+"Fertiliser",43.0,55.0,61.0,106.0,106.0,106.0,19.8
+"Demand(Price Elastic)Sub Total",134.0,190.0,214.0,277.0,295.0,313.0,18.5
+"City Gas",13.0,15.0,19.0,24.0,39.0,46.0,28.8
+"Industrial",16.0,20.0,20.0,22.0,25.0,27.0,11.0
+"Petrochemicals / Refineries/  Internal Consumption",25.0,54.0,61.0,67.0,72.0,72.0,23.6
+"Sponge Iron/Steel",6.0,7.0,8.0,8.0,8.0,8.0,5.9
+"Demand (Relatively Inelastic)-Sub Total ",60.0,96.0,108.0,121.0,144.0,153.0,20.6
+"Demand Grand Total  ",194.0,286.0,322.0,398.0,439.0,466.0,19.2

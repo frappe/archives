@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides data related to Public Sector Allocation for Eleventh Plan (in Rs. Crore) at 2006-07 prices. ", 
+ "file_name": "FR1011_11_1.xls", 
+ "title": "Download XLS for Public Sector Allocation for Eleventh Plan at 2006-07 Prices", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_11_1.xls"
+}
+-----
+"S. No.","Source of Funding","Allocation"
+1.0,"Budgetary Support : Centre",1096860.0
+2.0,"IEBR : Centre",1059711.0
+3.0,"Total Centre (1+2)",2156571.0
+4.0,"State Own Resources : States and UTs",1163296.0
+5.0,"Cenral Assistance to State/UT Plan : States and UTs",324851.0
+6.0,"Total States & UTs (4+5)",1488147.0
+7.0,"Grand Total Public Sector Outlay (3+6)",3644718.0

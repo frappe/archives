@@ -1,0 +1,21 @@
+-----
+{
+ "description": "The Table illustrates the targeted higher education enrolment for the twelfth plan by level and type, for the years 2011-12 and 2016-17.", 
+ "file_name": "Enrollment_Data.xls", 
+ "title": "Download XLS for Higher Education Enrolment Targets by Level/Type for the 12th Plan", 
+ "url": "http://data.gov.in/sites/default/files/Enrollment_Data.xls"
+}
+-----
+"Level / Type","Estimated Enrolment in 2011-12 (in lakhs)","Targeted Enrolment in 2016-17 (in lakhs)","Growth Rate of Enrolment from 2007-08 to 2011-12 (in percentage)"
+"PhD",1.0,3.0,24.6
+"PG General",17.3,33.2,13.9
+"PG Technical",5.0,12.2,19.5
+"UG General",116.6,128.0,1.9
+"UG Technical",45.0,66.0,8.0
+"Sub total",184.9,242.4,5.6
+"Diploma",33.0,65.0,14.5
+"Total",217.9,307.4,7.1
+"ODL",42.0,52.0,4.4
+"Grand Total",259.9,359.4,6.7
+"Population 18-23 years",1451.2,1427.4,-0.1
+"GER (in percentage)",17.9,25.2,"NA"

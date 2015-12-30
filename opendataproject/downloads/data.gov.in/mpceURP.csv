@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The table refers to the growth in  monthly per capita consumption expenditure (uniform reference period) for from four full-scale surveys of consumer expenditure including the 68th round survey.", 
+ "file_name": "mpceURP.csv", 
+ "title": "Download CSV for Growth in MPCE(URP) at current and constant prices since 1993-94", 
+ "url": "http://data.gov.in/sites/default/files/mpceURP.csv"
+}
+-----
+"Characteristic","1993-94","2004-05","2009-10","2011-12"
+"MPCE: Rural (Rs.): Current Prices",281.40,558.78,927.7,1278.94
+"Price deflator for rural sector*",176,319,494,580
+"MPCE: Rural (Rs.) at 1987-88 prices",159.89,175.17,187.79,220.51
+"MPCE: Urban (Rs.): Current Prices",458.04,1052.36,1785.81,2399.24
+"Price deflator for urban sector*",173,338,503,599
+"MPCE: Urban (Rs.) at 1987-88 prices",264.76,311.35,355.03,400.54
+
+"*Price deflators for the years up to 2009-10 are taken from NSS Report No.538: Level and Pattern of Consumer Expenditure; they represent price indices for rural and urban India with base 1987-88=100. For 2011-12 indices have been
+computed as a continuation of this series, with the help of CPI-AL for the rural sector and CPI-IW for the urban sector."

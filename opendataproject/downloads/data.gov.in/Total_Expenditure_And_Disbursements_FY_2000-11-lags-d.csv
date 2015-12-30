@@ -1,0 +1,65 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Cat","Identity","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"LAGS-D","A","A Union Govt",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","A UT Puducherry",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Andhra Pradesh",0.0,0.0,2.6258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Assam",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Bihar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Chattisgarh",0.0,0.0,0.0,27.0,27.0,20.0,20.0,3.1161,9.0,10.0,10.0,9.997
+"LAGS-D","B","D NCT Delhi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Goa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.33,0.6
+"LAGS-D","B","Gujarat",9.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Haryana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Himachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Jammu and Kashmir",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Jharkhand",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Karnataka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Kerala",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Madhya Pradesh",0.0,0.0,0.0,0.0,6.0,24.9,494.3138,195.0992,258.2278,27.145,44.7251,24.9884
+"LAGS-D","B","Maharastra",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Manipur",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Meghalaya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Mizoram",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Orissa",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Punjab",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Rajasthan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1826,0.0,0.0
+"LAGS-D","B","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Tamil Nadu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Tripura",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"LAGS-D","B","Uttar Pradesh",40.0,200.0,14.5876,23.75,92.7485,33.1582,133.3357,152.7261,70.417,104.9829,144.0591,404.4357
+"LAGS-D","B","Uttarakhand",0.0,0.0,1.0,0.1019,0.0,0.0,5.4756,1.5,4.3679,3.5354,0.0,0.0
+"LAGS-D","B","West Bengal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"","","Grand Total",49.0,215.0,18.2134,51.8519,125.7485,78.0582,653.1251,352.4414,342.0127,146.2959,199.1142,440.0211

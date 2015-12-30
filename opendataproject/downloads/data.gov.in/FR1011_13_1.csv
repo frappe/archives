@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table provides data related to Sectoral Allocation - Tenth Plan and Eleventh Plan (in Rs Crore) at 2006-07 prices. The Tenth Five Year Plan budget estimates represents the actual allocation during the five years.", 
+ "file_name": "FR1011_13_1.xls", 
+ "title": "Download XLS for Sectoral Allocation - Tenth Plan and Eleventh Plan at 2006-07 Prices", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_13_1.xls"
+}
+-----
+"Sr. No.","Sectors","Tenth Plan : Budget Estimates","Tenth Plan : % to Total","Eleventh Plan : Projected Allocation","Eleventh Plan : % to Total"
+1.0,"Education",62461.0,7.67543482375,274228.0,19.2885895938
+2.0,"Rural Development Land Resources and Panchayati Raj",87041.0,10.6959146106,190330.0,13.3873902643
+3.0,"Health Family Welfare and Ayush",45771.0,5.62450692941,123900.0,8.71485133054
+4.0,"Agriculture and Irrigation",50639.0,6.22270447223,121556.0,8.54997956687
+5.0,"Social Justice",36381.0,4.47062958202,90273.0,6.34960269703
+6.0,"Physical Infrastructure",89021.0,10.939224211,128160.0,9.0144902867
+7.0,"Scientific Departments",29823.0,3.6647586934,66580.0,4.68308960119
+8.0,"Energy ",47266.0,5.80821796608,57409.0,4.03802179205
+9.0,"Total Priority Sector",448403.0,55.1013912885,1052436.0,74.0260151325
+10.0,"Others",365375.0,44.8986087115,369275.0,25.9739848675
+11.0,"Total",813778.0,100.0,1421711.0,100.0

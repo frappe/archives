@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provides details on state-wise off-grid connected solar photo-voltaic projects under Jawahar Lal Nehru National Solar Mission (JNNSM).", 
+ "file_name": "Physical_Progress_Cummulative_2012-13.xls", 
+ "title": "Download XLS for State-wise Cumulative Installation of SPV Systems Upto 31st March 2013", 
+ "url": "http://data.gov.in/sites/default/files/Physical_Progress_Cummulative_2012-13.xls"
+}
+-----
+"Sl. No.","State/UT","Lanterns Lights (Numbers)","Home ","Street Lights","Pumps","Stand alone (kWp)"
+1.0,"Andaman & Nicobar",6296.0,468.0,390.0,5.0,167.0
+2.0,"Andhra Pradesh",41360.0,8350.0,6454.0,613.0,871.595
+3.0,"Arunachal Pradesh",14433.0,18945.0,1071.0,18.0,17.1
+4.0,"Assam",1211.0,5890.0,98.0,45.0,910.0
+5.0,"Bihar",50117.0,6572.0,955.0,139.0,775.6
+6.0,"Chandigarh",1675.0,275.0,898.0,12.0,0.0
+7.0,"Chhattisgarh",3311.0,7254.0,2042.0,240.0,12186.72
+8.0,"Delhi",4807.0,0.0,301.0,90.0,332.0
+9.0,"Goa",1093.0,393.0,707.0,15.0,1.72
+10.0,"Gujarat",31603.0,9231.0,2004.0,85.0,374.6
+11.0,"Haryana",93853.0,56364.0,22018.0,469.0,864.25
+12.0,"Himachal Pradesh",23909.0,22586.0,8058.0,6.0,601.5
+13.0,"Jammu & Kashmir",44059.0,62133.0,5806.0,39.0,308.85
+14.0,"Jharkhand",23374.0,8658.0,620.0,0.0,480.9
+15.0,"Karnataka",7334.0,44439.0,2694.0,551.0,294.41
+16.0,"Kerala",54367.0,32995.0,1735.0,810.0,214.39
+17.0,"Lakshadweep",5289.0,0.0,1725.0,0.0,1090.0
+18.0,"Madhya Pradesh",9444.0,3590.0,9198.0,87.0,1983.0
+19.0,"Maharashtra",68683.0,3442.0,8420.0,239.0,913.7
+20.0,"Manipur",4787.0,3865.0,928.0,40.0,216.0
+21.0,"Meghalaya",24875.0,7840.0,1273.0,19.0,50.5
+22.0,"Mizoram",9589.0,6801.0,431.0,37.0,241.0
+23.0,"Nagaland",6766.0,1045.0,271.0,3.0,1050.0
+24.0,"Orissa",9882.0,5163.0,5834.0,56.0,84.515
+25.0,"Puducherry",1637.0,25.0,417.0,21.0,0.0
+26.0,"Punjab",17495.0,8620.0,5354.0,1857.0,281.0
+27.0,"Rajasthan",4716.0,124402.0,6852.0,4501.0,4013.0
+28.0,"Sikkim",23300.0,10059.0,504.0,0.0,150.0
+29.0,"Tamil Nadu",16818.0,7885.0,6350.0,829.0,609.77
+30.0,"Tripura",64282.0,32723.0,1199.0,151.0,365.0
+31.0,"Uttarakhand",64023.0,91326.0,8568.0,26.0,280.03
+32.0,"Uttar Pradesh",62015.0,206245.0,124828.0,575.0,3470.46
+33.0,"West Bengal",17662.0,140034.0,8726.0,48.0,889.0
+34.0,"Others",125797.0,24047.0,9150.0,0.0,8070.0
+"Total","Total",939862.0,961665.0,255879.0,11626.0,42157.61

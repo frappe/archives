@@ -1,0 +1,14 @@
+{% extends base_template %}
+
+{% set title = "Word Cloud" %}
+
+{% block content %}
+
+<h1>Word Cloud</h1>
+<p>Most frequently appearing words</p>
+<hr>
+{% for word in words %}
+<a href="{{ word }}" style="font-size: {{ word_size[word] }}px; margin-right: 5px; float: left">{{ word }} ({{ word_count[word]}})</a>
+{% endfor %}
+
+{% endblock %}

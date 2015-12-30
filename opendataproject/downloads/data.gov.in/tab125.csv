@@ -1,0 +1,32 @@
+-----
+{
+ "description": "This table shows the Operations of Indian Railways for the years 1950-51, 1960-61, 1970-71, 1980-81, 1990-91, 2000-01, 2007-08, 2008-09, 2009-10, 2010-11 and 2011-12. It gives details regarding various operational parameters such as route, traffic,earnings, etc..", 
+ "file_name": "tab125.xls", 
+ "title": "Download XLS for Operations of Indian Railways(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab125.xls"
+}
+-----
+"1.25: OPERATIONS OF INDIAN RAILWAYS","","","","","","","","","","",""
+"","1950-51","1960-61","1970-71","1980-81","1990-91","2000-01","2007-08","2008-09","2009-10","2010-11","2011-12P"
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0
+"1. Route Kilometres (000's)","","","","","","","","","","",""
+"Electrified",0.4,0.8,3.7,5.4,10.0,14.9,18.3,18.6,18.9,19.6,"20.28c"
+"Total",53.6,56.2,59.8,61.2,62.4,63.0,63.3,64.0,64.0,64.4,"64.60c"
+"2. Originating traffic (million tonnes)","","","","","","","","","","",""
+"Revenue Earning",73.2,119.8,167.9,195.9,318.4,473.5,"793.89a","833.4a","887.8a","921.7a","969.05a"
+"Total Traffic",93.0,156.2,196.5,220.0,341.4,504.2,"804.11a","836.6a","892.2a","926.4a","975.16a"
+"3. Goods carried (billion tonne km.)","","","","","","","","","","",""
+"Revenue Earning",37.6,72.3,110.7,147.7,235.8,312.4,521.4,"551.4a","600.6a","625.7a",667.61
+"Total Traffic",44.1,87.7,127.4,158.5,242.7,315.5,523.2,"552.0a","601.3a","626.5a",668.62
+"4. Earnings from goods carried  (Rs. Crores)",139.3,280.5,600.7,1550.9,8247.0,23045.4,46425.48,"51749.3a","56937.3a","60687.1a",67761.41
+"5. Average Lead: all goods traffic (km)",470.0,561.0,648.0,720.0,711.0,626.0,651.0,660.0,674.0,676.0,689.0
+"6. Average rate/tonne km. (paise)",3.2,3.9,5.4,10.5,35.0,73.8,89.0,93.8,94.8,97.0,101.5
+"7. Passengers  Originating (million) c",1284.0,1594.0,2431.0,3613.0,3858.0,4833.0,6524.0,6920.4,7245.8,7651.1,"8224.4c"
+"8. Passengers kilometers (billion)",66.5,77.7,118.1,208.6,295.6,457.0,770.0,838.0,903.5,978.5,"1046.5c"
+"9. Passengers Earnings (Rs. Crores)",98.2,131.6,295.5,827.5,3144.7,"10515.1c","19844.2c","21931.32c","23488.2c","25792.6c","28296.9c"
+"10. Average lead: passenger traffic (km)",51.8,48.7,48.6,57.7,76.6,94.6,118.0,121.1,124.7,127.9,"127.2c"
+"11. Average rate per passenger-kilometre (paise)","","","","","","","","","","",""
+"Source: Ministry of Railways",1.5,1.7,2.5,4.0,10.6,22.9,25.7,26.1,25.9,26.3,"27.0c"
+"P Provisional        ","a Excluding Konkan Railways Corporation Limited Loading","","","","","","","","","",""
+"                                                                                                                                                                                                                                                                                                                                                                                                                                         ","b Excluding Metro Kolkata","","","","","","","","","",""
+""," c Includes Metro Railway/Kolkata's earnings","","","","","","","","","",""

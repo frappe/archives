@@ -1,0 +1,23 @@
+-----
+{
+ "description": "This data indicates various scientific instruments and infrastructure available at Regional Centre for Biotechnology (RCB).", 
+ "file_name": "Scientific_Instruments_And_Infrastructure_At_Regional_Centre_For_Biotechnology.xls", 
+ "title": "Download XLS for Scientific Instruments And Infrastructure At Regional Centre For Biotechnology", 
+ "url": "http://data.gov.in/sites/default/files/Scientific_Instruments_And_Infrastructure_At_Regional_Centre_For_Biotechnology.xls"
+}
+-----
+"Sl No.","Scientific Instruments And Infrastructure"
+1.0,"e-Library through DELCON"
+2.0,"Cell Cuture Facility"
+3.0,"Microscopy: Confocal, Fluorescent and Light Microscope, Atomic Force Microscope"
+4.0,"Mass Spectrometry"
+5.0,"HPLC, FPLC"
+6.0,"400 MHz FT NMR Spectrometer"
+7.0,"FACS: Flow cytometer analyzers ans cell sorter"
+8.0,"DSC, ITC, Light and Fluorescent Spectrometers, UV Detector, DLS"
+9.0,"X-ray Defraction System"
+10.0," Baculovirus Facility"
+11.0,"Surface Plasmon Resonance"
+12.0,"Liquid Handling System"
+13.0,"Cryo Microtome"
+14.0,"Ultra Centrifuge"

@@ -1,0 +1,36 @@
+-----
+{
+ "description": "This data provides state-wise details on the number of research and development proposals not found suitable during 2011-12 and 2012-13.", 
+ "file_name": "Statewise_Number_of_RnD_Proposals_Not_Found_Suitable_During_2011-12_And_2012-13.xls", 
+ "title": "Download XLS for State-wise Number of Research And Development Proposals Not Found Suitable During 2011-12 And 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_Number_of_RnD_Proposals_Not_Found_Suitable_During_2011-12_And_2012-13.xls"
+}
+-----
+"Name of States","2011-2012","2012-2013"
+"Andaman and Nicobar",1.0,1.0
+"Andhra Pradesh",30.0,36.0
+"Assam",11.0,10.0
+"Bihar",1.0,5.0
+"Chandigarh",7.0,12.0
+"Chhattisgarh",1.0,3.0
+"Delhi",31.0,37.0
+"Goa",1.0,1.0
+"Gujarat",8.0,10.0
+"Haryana",9.0,4.0
+"Himachal Pradesh",2.0,4.0
+"Jammu And Kashmir",2.0,2.0
+"Jharkhand",1.0,3.0
+"Karnataka",34.0,35.0
+"Kerala",9.0,9.0
+"Madhya Pradesh",3.0,5.0
+"Maharashtra",36.0,33.0
+"Manipur",1.0,2.0
+"Orissa",6.0,7.0
+"Pondicherry",4.0,5.0
+"Punjab",5.0,10.0
+"Rajasthan",7.0,5.0
+"Tamilnadu",71.0,92.0
+"Uttar Pradesh",31.0,29.0
+"Uttarakhand",3.0,7.0
+"West Bengal",18.0,17.0
+"Total",333.0,384.0

@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table provides Coal Production as per the Twelfth Five Year Plan (2012-17) document. It provides the details regarding the sector-wise Coal Production (in million tones) in the Eleventh Five Year Plan and the projected figures for the Twelfth Five Year Plan. ", 
+ "file_name": "Coal_Production_-_Power_Sector.xls", 
+ "title": "Download XLS for Coal Production -Sector", 
+ "url": "http://data.gov.in/sites/default/files/Coal_Production_-_Power_Sector.xls"
+}
+-----
+"Sector","Eleventh Plan (2011-12)","Twelfth Plan 2016-17 Projection - Scenario II"
+"CIL",435.84,615.0
+"SCCL",52.21,"57.00 "
+"Captive Blocks",36.04,"100.00 "
+"Others",15.91,23.0
+"Grand Total","554.00 ",795.0

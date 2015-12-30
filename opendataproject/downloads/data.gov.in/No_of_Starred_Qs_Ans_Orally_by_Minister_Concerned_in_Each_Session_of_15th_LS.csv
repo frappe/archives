@@ -1,0 +1,22 @@
+-----
+{
+ "description": "This dataset provides details on the number of starred questions answered orally by minister concerned in each session of 15th Lok Sabha.", 
+ "file_name": "No_of_Starred_Qs_Ans_Orally_by_Minister_Concerned_in_Each_Session_of_15th_LS.xls", 
+ "title": "Download XLS for Number of Starred Questions Answered Orally by Minister Concerned in Each Session of 15th Lok Sabha", 
+ "url": "http://data.gov.in/sites/default/files/No_of_Starred_Qs_Ans_Orally_by_Minister_Concerned_in_Each_Session_of_15th_LS.xls"
+}
+-----
+"Sessions","Starred Questions Admitted","Answered Orally by Minister Concerned"
+"First",0.0,0.0
+"Second",500.0,87.0
+"Third",440.0,87.0
+"Fourth",620.0,76.0
+"Fifth",460.0,46.0
+"Sixth",480.0,5.0
+"Seventh",300.0,47.0
+"Eighth",500.0,51.0
+"Ninth",400.0,41.0
+"Tenth",660.0,82.0
+"Eleventh",400.0,50.0
+"Twelfth",400.0,49.0
+"Thirteenth",600.0,38.0

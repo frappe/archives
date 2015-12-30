@@ -1,0 +1,13 @@
+-----
+{
+ "description": "The table states percentage of people below poverty line for Rural India, Urban India separately and Combined (Rural+Urban) for 1973, 1983, 1993 and 2004.", 
+ "file_name": "RD10.csv", 
+ "title": "Download CSV for Percentage of People Below Poverty Line in India", 
+ "url": "http://data.gov.in/sites/default/files/RD10.csv"
+}
+-----
+Year,Percentage of People Below Poverty Line in Rural India,Percentage of People Below Poverty Line in Urban India,Percentage of People Below Poverty Line in India
+1973,56.40,49.00,54.90
+1983,45.70,40.80,44.50
+1993,37.30,32.30,36.00
+2004,28.30,25.70,27.50

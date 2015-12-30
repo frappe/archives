@@ -1,0 +1,30 @@
+-----
+{
+ "description": "This table shows Production, Imports and Consumption of Fertilizers in India (in thousand tonnes of nutrients). It gives details of the various types of fertilizers (Nitrogenous fertilizers, Phosphatic fertilizers and Potassic fertilizers) for the years 1970-71, 1980-81, 1990-91, 2000-01, 2007-08, ...", 
+ "file_name": "tab119.xls", 
+ "title": "Download XLS for Production, Imports and Consumption of Fertilizers(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab119.xls"
+}
+-----
+"","","","","","","","","","","",""
+"","1.19 PRODUCTION, IMPORTS AND CONSUMPTION OF FERTILIZERS","","","","","","","","","",""
+"","","","","","","","","","(Thousand tonnes of nutrients)","",""
+"","","","1970-71","1980-81","1990-91","2000-01","2007-08","2008-09 ","2009-10","2010-11","2011-12"
+"","",1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0
+"","A.","Nitrogenous fertilizers","","","","","","","","",""
+"","","Production",830.0,2164.0,6993.0,11004.0,10900.0,10870.0,11900.0,12156.0,12259.0
+"","","Imports",477.0,1510.0,414.0,154.0,3677.0,3844.0,3447.0,4492.0,5240.0
+"","","Consumption",1487.0,3678.0,7997.0,10920.0,14419.0,15090.0,15580.0,16558.0,17261.0
+"","B.","Phosphatic fertilizers","","","","","","","","",""
+"","","Production",229.0,842.0,2052.0,3748.0,3807.0,3464.0,4321.0,4222.0,4104.0
+"","","Imports",32.0,452.0,1311.0,396.0,1391.0,2927.0,2756.0,3802.0,4427.0
+"","","Consumption",462.0,1214.0,3221.0,4215.0,5515.0,6506.0,7274.0,8050.0,7648.0
+"","C.","Potassic fertilizers ","","","","","","","","",""
+"","","Imports",120.0,797.0,1328.0,1541.0,2653.0,3380.0,2945.0,4069.0,3335.0
+"","","Consumption",228.0,624.0,1328.0,1567.0,2636.0,3313.0,3632.0,3514.0,2658.0
+"","D.","All fertilizers (NPK)","","","","","","","","",""
+"","","Production",1059.0,3006.0,9045.0,14752.0,14707.0,14334.0,16221.0,16378.0,16363.0
+"","","Imports",629.0,2759.0,2758.0,2090.0,7721.0,10151.0,9148.0,12363.0,13002.0
+"","","Consumption",2177.0,5516.0,12546.0,19702.0,22570.0,24909.0,26486.0,28122.0,27567.0
+"","","","","","","","","","","",""
+"","Source :  Ministry of Chemicals & Fertilizers, Department of Fertilizers.","","","","","","","","","",""

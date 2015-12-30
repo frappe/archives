@@ -1,0 +1,21 @@
+-----
+{
+ "description": "Data covers year-wise details of Industrial Entrepreneurs Memorandum (IEM) filed, Letters of Intent (LoI)/ Direct Industrial Licenses (DILs) issued by DIPP along with comparison of data of current month with previous month and cumulative figures of current period with corresponding period of ...", 
+ "file_name": "Industrial_Investment_Proposals_August_1991_To_June_2013.xls", 
+ "title": "Download XLS for Year-wise Industrial Investment Proposals Received From Industrial Undertakings During August 1991 to June 2013", 
+ "url": "http://data.gov.in/sites/default/files/Industrial_Investment_Proposals_August_1991_To_June_2013.xls"
+}
+-----
+"Period","Category","IEMs","LOIs","DILs","TOTAL"
+"CURRENT MONTH (June'13)","Nos.",173.0,0.0,1.0,174.0
+"CURRENT MONTH (June'13)","Inv. (Rs Cr.)",13548.0,0.0,0.0,13548.0
+"CURRENT MONTH (June'13)","Emp. (Nos.)",35807.0,0.0,65.0,35872.0
+"PREVIOUS MONTH (May'13)","Nos.",220.0,0.0,3.0,223.0
+"PREVIOUS MONTH (May'13)","Inv. (Rs Cr.)",46418.0,0.0,7.0,46425.0
+"PREVIOUS MONTH (May'13)","Emp. (Nos.)",173918.0,0.0,2212.0,176130.0
+"PROPOSALS (DURING JAN-JUNE'13)","Nos.",1309.0,0.0,14.0,1323.0
+"INVESTMENT (DURING JAN-JUNE'13)","Inv. (Rs Cr.)",232958.0,0.0,218.0,233176.0
+"EMPLOYMENT (DURING JAN-JUNE'13)","Emp. (Nos.)",459076.0,0.0,3546.0,462622.0
+"PROPOSALS (DURING JAN-JUNE'12)","Nos.",1496.0,0.0,2.0,1498.0
+"INVESTMENT (DURING JAN-JUNE'12)","Inv. (Rs Cr.)",350718.0,0.0,38.0,350756.0
+"EMPLOYMENT (DURING JAN-JUNE'12)","Emp. (Nos.)",339626.0,0.0,66.0,339692.0

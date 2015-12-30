@@ -1,0 +1,11 @@
+-----
+{
+ "description": "The table gives Unemployment Rate (UR) by Social Group on Usual Principal and Subsidiary Status basis (UPSS) for the years 2004\u201305 and 2009\u201310 (%). It gives category-wise (Rural and Urban) rate of Unemployment in India.", 
+ "file_name": "Unemployment_Rate.xls", 
+ "title": "Download XLS for Unemployment Rate by Social Group (%)", 
+ "url": "http://data.gov.in/sites/default/files/Unemployment_Rate.xls"
+}
+-----
+"Category","Unemployment Rate - 2004-05","Unemployment Rate - 2009-10"
+"Rural ",1.7,1.6
+"Urban ",4.4,3.4

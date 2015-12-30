@@ -1,0 +1,24 @@
+-----
+{
+ "description": "This data provides details on receipts from other related transactions undertaken during 1999-00 to 2005-06. It includes capital receipts, special dividends and dividend tax in CPSEs, slump sale, sale of shares to employees in privatised CPSEs, control premium given by Suzuki Motors Co. (SMC) to ...", 
+ "file_name": "Receipts_From_Other_Related_Transactions_Undertaken_During_1999-2000_To_2005-2006_1.xls", 
+ "title": "Download XLS for Receipts From Other Related Transactions Undertaken During 1999-00 To 2005-06", 
+ "url": "http://data.gov.in/sites/default/files/Receipts_From_Other_Related_Transactions_Undertaken_During_1999-2000_To_2005-2006_1.xls"
+}
+-----
+"Category","Year","S.No.","Name of CPSE ","Type of Transaction","Name of Buyer, if any","Percentage of Equity Sold","Percentage of residual equity of Govt.","Amount realised (Rs crore)"
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","1999-00",1.0,"Bharat Aluminium Co. Ltd.","Capital reduction ","NA","NA","NA",244.42
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","1999-00",2.0,"Bharat Aluminium Co. Ltd.","Special dividend","NA","NA","NA",31.0
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","2001-02",1.0,"Videsh Sanchar Nigam Ltd.","i) Dividend","NA","NA","NA",1887.0
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","2001-02",1.0,"Videsh Sanchar Nigam Ltd.","ii) Dividend Tax","NA","NA","NA",363.0
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","2001-02",2.0,"State Trading Corporation of India Ltd. ","Special dividend","NA","NA","NA",40.0
+"Receipts From Capital Receipts, Special Dividends And Dividend Tax In CPSEs","2001-02",3.0,"Minerals and Metals Trading Corporation of India Ltd. ","Special dividend","NA","NA","NA",60.0
+"Receipts From Slump Sale","2001-02*",1.0,"HCI - Hotel Centaur Juhu Beach, Mumbai","Slump Sale","Tulip Hospitality Services Ltd.","NA","NA",153.0
+"Receipts From Slump Sale","2002-03*",1.0,"HCI – Centaur Hotel  Mumbai  Airport, Mumbai ","Slump Sale","Batra Hospitality Pvt. Ltd.","NA","NA",83.0
+"Receipts From Sale Of Shares To Employees In Privatised CPSEs","2001-02",1.0,"Videsh Sanchar Nigam Ltd.","Sale of shares to Employees","Employees",1.85,26.12,25.19
+"Receipts From Sale Of Shares To Employees In Privatised CPSEs","2002-03",1.0,"Hindustan Zinc Ltd. ","Sale of shares to Employees","Employees",1.46,48.45,6.19
+"Receipts From Sale Of Shares To Employees In Privatised CPSEs","2002-03",2.0,"CMC Ltd. ","Sale of shares to Employees","Employees",6.06,26.25,6.07
+"Receipts From Sale Of Shares To Employees In Privatised CPSEs","2004-05",1.0,"Indian Petrochemicals Corporation Ltd.","Sale of shares to Employees","Employees",4.58,0.42,64.81
+"Receipts From Sale Of Shares To Employees In Privatised CPSEs","2005-06",1.0,"Maruti Udyog Limited","Sale of shares to Employees","Employees",0.01,10.27,2.08
+"Receipts From Control Premium Given By Suzuki Motors Co. (Smc) To GoI For Renunciation Of Rights Shares In Favour Of SMC  ","2002-03^",1.0,"Maruti Udyog Ltd.","Control premium for Rights Shares","SMC","NA",45.79,1000.0
+"Receipts From Leasing Of Hotel Of ITDC","2001-02@",1.0,"ITDC - Ashok Bangalore","30 years lease-cum-management contract","Bharat Hotels Ltd.","NA","NA",39.41

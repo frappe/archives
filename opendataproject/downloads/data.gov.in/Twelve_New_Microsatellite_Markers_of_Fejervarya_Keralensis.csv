@@ -1,0 +1,33 @@
+-----
+{
+ "description": "Fejervarya keralensis is a poorly studied frog species endemic to Western Ghats biodiversity hot spot, India. This data describe primers and polymerase chain reactions for 12 microsatellite loci for F. keralensis. Ten of the primers were polymorphic on sample of 23 individuals from a single ...", 
+ "file_name": "Twelve_New_Microsatellite_Markers_of_Fejervarya_Keralensis.xls", 
+ "title": "Download XLS for Twelve New Microsatellite Markers of Fejervarya Keralensis", 
+ "url": "http://data.gov.in/sites/default/files/Twelve_New_Microsatellite_Markers_of_Fejervarya_Keralensis.xls"
+}
+-----
+"Locus ","Genbank Acc. No. ","Primer Sequence (5’ → 3’) ","Ta°C ","Repeat motif ","S ","A ","Ho ","He ","HWE "
+"FKRSS1 ","HQ418328 ","F: 5`CAAAATGGGGAAAAGACTGGTA`3",55.0,"(TAA)6..(AAC)7 ","323-329 ",2.0,0.3478,0.487,0.203
+"","","R: 5`CGGAATTGGTGTGCAAGAC`3 ","","","","","","",""
+"FKRSS2 ","HQ418329 ","F: 5`GAAAACCAGGAGAGGAGTCAAA`3 ",55.0,"(AAG)8..(GCT)3 ","155-166 ",4.0,0.3913,0.5691,0.059
+"","","R: 5`AGACTTTGGGCTTTATCACACA`3 ","","","","","","",""
+"FKRSS3 ","HQ418330 ","F: 5`TGGCGTAAACAGAATGAGAACA`3  ",53.0,"(TGG)8 ","191-199 ",4.0,0.2609,0.487,"0.002* "
+"","","R: 5`ATGAAGGGATGGACAGAAACAA`3","","","","","","",""
+"FKRSS4 ","HQ418331 ","F: 5`ACCTATTGTCCCAAGTCTCCAT`3 ",56.0,"(AC)8..(TA)20 ","119-271 ",4.0,1.0,0.6406,0.0
+"","","R: 5`TTGAACCTTCCCACCTGTTA`3 ","","","","","","",""
+"FKRSS5 ","HQ418332 ","F: 5`TACTATTGAGTTGGAAGGCCA`3",56.0,"(ATCT)14 ","139-233 ",13.0,1.0,0.8686,0.506
+"","","R: 5`TAGTGACAAGAAAGGCAGACAG`3 ","","","","","","",""
+"FKRSS6 ","HQ418333 ","F: 5`AATCACTCTTTCCTCCAACCCT`3",53.0,"(TG)17 ",165.0,1.0,0.0,0.0,"NA "
+"","","R: 5`GCCTGAACTTACGAACCCTACA`3 ","","","","","","",""
+"FKRSS7 ","HQ418334 ","F: 5`CTAATCTCCAGTGCCGCTACAT`3",53.0,"(CT)10 ","365-373 ",6.0,0.3913,0.4174,0.479
+"","","R:5`GCGACAATAAAGTGAAAAGAGAGC`3 ","","","","","","",""
+"FKRSS8 ","HQ418335 ","F: 5` TGTAGGCTTGGGGTGTCTATCT`3 ",53.0,"(TC)6..(TATC)18 ","245-265 ",7.0,0.8261,0.7826,0.794
+"","","R: 5`CACGAGGATGGAGATGAATGTA`3 ","","","","","","",""
+"FKRSS9 ","HQ418336 ","F: 5`GATCCCATAAGGCAATCAGCTA`3 ",53.0,"(TAA)4(T)10 ","158-292 ",6.0,1.0,0.6763,0.001
+"","","R: 5`CAGTTAGAGCCGTGAAAATGTG`3 ","","","","","","",""
+"FKRSS10 ","HQ418337 ","F: 5`TACAACACACACGCATACATGG`3 ",53.0,"(ATAC)6..(ATAC)7 ","159-201 ",5.0,1.0,0.6506,0.005
+"","","R: 5`GCGGGAGATTCAAGAGGTAAGT`3 ","","","","","","",""
+"FKRSS11 ","HQ418338 ","F: 5`ATGAGCACTTTGGTTGTGATGT`3",53.0,"(AC)8 ","291-297 ",4.0,0.9285,0.6429,0.051
+"","","R: 5`CACCTGCTTGCTGAAAATGA`3 ","","","","","","",""
+"FKRSS12 ","HQ418339 ","F: 5`CCATTTACATACAGCCTTCCGT`3",53.0,"(AAC)7 ",159.0,1.0,0.0,0.0,"NA "
+"","","R: 5`TTCGTACTTGCTGACATGAACC`3 ","","","","","","",""

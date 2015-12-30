@@ -1,0 +1,50 @@
+-----
+{
+ "description": "The table refers to village wise distribution of dugwells according to constraints. It has been sourced from 2nd census of Minor Irrigation Scheme (1993-94) from Ministry of Water Resources.", 
+ "file_name": "villdgwltab1.16.csv", 
+ "title": "Download CSV for Village wise Dugwells according to the constraints for 2nd census of minor irrigation schemes (1993-94)(External Link that opens in a new window)", 
+ "url": "http://data.gov.in/sites/default/files/villdgwltab1.16.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to statewise distribution of Deep Tubewells according to the farmers holding size . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Natdptbwltab3.3.csv", 
+ "title": "Download CSV for Statewise Distribution of Deep Tubewells according to The Farmers holding size for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natdptbwltab3.3.csv"
+}
+-----
+"State","Marginal (0-1 ha)","Small (1-2 ha)","Medium (2-10 ha)","Big ( > 10 ha)","Total"
+"ANDHRA PRADESH",271,709,1085,132,2197
+"ARUNACHAL PRADESH",NA,NA,NA,NA,NA
+"ASSAM",0,0,0,0,0
+"BIHAR",45,15,48,25,133
+"GOA",0,0,1,0,1
+"GUJARAT",NA,NA,NA,NA,NA
+"HARYANA",141,456,3133,339,4069
+"HIMACHAL PRADESH",0,0,0,15,15
+"JAMMU & KASHMIR",23,31,28,15,97
+"KARNATAKA",28619,49849,54652,6474,139594
+"KERALA",3,1,7,15,26
+"MADHYA PRADESH",321,509,2445,1886,5161
+"MAHARASHTRA",NA,NA,NA,NA,NA
+"MANIPUR",NA,NA,NA,NA,NA
+"MEGHALAYA",0,0,0,0,0
+"MIZORAM",NA,NA,NA,NA,NA
+"NAGALAND",0,0,0,0,0
+"ORISSA",0,4,1,7,12
+"PUNJAB",31,195,730,289,1245
+"RAJASTHAN",193,383,4600,1813,6989
+"SIKKIM",NA,NA,NA,NA,NA
+"TAMIL NADU",6504,4890,4178,587,16159
+"TRIPURA",0,0,0,0,0
+"UTTAR PRADESH",49,24,126,117,316
+"WEST BENGAL",0,0,0,1,1
+"ANDAMAN & NICOBARS",NA,NA,NA,NA,NA
+"CHANDIGARH",NA,NA,NA,NA,NA
+"DADRA & NAGAR HAVELI",NA,NA,NA,NA,NA
+"DAMAN & DIU",NA,NA,NA,NA,NA
+"DELHI",93,92,6,0,191
+"LAKSHADWEEP",NA,NA,NA,NA,NA
+"PONDICHERRY",0,0,3,0,3
+"ALL INDIA",36293,57158,71043,11715,176209

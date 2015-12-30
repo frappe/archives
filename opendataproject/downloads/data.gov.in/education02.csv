@@ -1,0 +1,19 @@
+-----
+{
+ "description": "The ratio of Female Teachers to Male Teachers provides a gender profile of the faculty engaged in Elementary Education  and in the States where the proportion of Female Teacher is higher school retention rates tends to be higher and early primary drop outs very less.", 
+ "file_name": "education02.csv", 
+ "title": "Download CSV for Number of Female Teachers per 100 Male Teachers during Tenth Plan Period", 
+ "url": "http://data.gov.in/sites/default/files/education02.csv"
+}
+-----
+State,Number of Female Teachers per 100 Male Teachers,Category
+Goa,454,High
+Kerala,273,High
+Puducherry,279,High
+Tamilnadu,221,High
+Delhi,221,High
+Bihar,24,Low
+Jharkhand,26,Low
+Madhya Pradesh,36,Low
+Rajasthan,38,Low
+Uttar Pradesh,40,Low

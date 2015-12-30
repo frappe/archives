@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides data related to comparison of Tenth Plan realization with Eleventh Plan projection of resources (in Rs. Crore) at 2006-07 prices.", 
+ "file_name": "FR1011_09_1.xls", 
+ "title": "Download XLS for Comparison of Tenth Plan Realization with Eleventh Plan Projection of Resources at 2006-07 Prices", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_09_1.xls"
+}
+-----
+"Sl. No.","Sources of Funding (Rs. Crore at 2006-07 Prices)","Tenth Plan Realization - Centre","Tenth Plan Realization - States and UTs","Tenth Plan Realization - Total","Eleventh Plan Realization - Centre","Eleventh Plan Realization - States and UTs","Eleventh Plan Realization - Total","Tenth Plan Realization - States and UTs : Percentages of Resources of the Public Sector Plan  ","Tenth Plan Realization - States and UTs : Percentages of Resources of the Public Sector Plan  ","Tenth Plan Realization - Total : Percentages of Resources of the Public Sector Plan  ","Eleventh Plan Realization - States and UTs : Percentages of Resources of the Public Sector Plan  ","Eleventh Plan Realization - States and UTs : Percentages of Resources of the Public Sector Plan  ","Eleventh Plan Realization - Total : Percentages of Resources of the Public Sector Plan  "
+1.0,"Balance from Current Revenues",-127166.0,-31722.0,-158888.0,653989.0,385050.0,1039039.0,-13.4520505052,-4.48217346274,-9.61172125718,30.3254101071,25.8744599828,28.5080766194
+2.0,"Borrowings including net MCR",850382.0,371779.0,1222161.0,767722.0,649423.0,1417145.0,89.9562903035,52.5306717043,73.9330274369,35.5991989135,43.6397076364,38.8821576868
+3.0,"Net Flow from Abroad",16121.0,0.0,16121.0,0.0,0.0,0.0,1.70533402163,0.0,0.975218760303,0.0,0.0,0.0
+4.0,"Centre's GBS (1+2+3)",739337.0,0.0,739337.0,1421711.0,0.0,1421711.0,78.2095738199,0.0,44.7252225412,65.9246090205,0.0,39.0074348688
+5.0,"Resources of PSEs",458530.0,119003.0,577533.0,1059711.0,128824.0,1188535.0,48.5048575732,16.8145794271,34.9371016869,49.1387021341,8.65667168633,32.6097931308
+6.0,"State's Own Resources (1+2+5)",0.0,459060.0,459060.0,0.0,1163297.0,1163296.0,0.0,64.8630776687,27.7702328705,0.0,78.1708393055,31.9173115725
+7.0,"Central Assistance to States & Uts",-252539.0,248677.0,-3862.0,-324851.0,324851.0,0.0,-26.7144313931,35.1369223313,-0.233626626902,-15.0633111546,21.8292278921,0.0
+8.0,"Resources of the Public Sector (1+2+3+5+7)",945328.0,707737.0,1653065.0,2156571.0,1488147.0,3644718.0,100.0,100.0,100.0,100.0,100.0,100.0

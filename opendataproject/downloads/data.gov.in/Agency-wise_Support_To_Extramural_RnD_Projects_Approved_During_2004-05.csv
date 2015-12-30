@@ -1,0 +1,47 @@
+-----
+{
+ "description": "Data provides details on country-wise India exports (quantity and value) by principal commodity in 2011-12 and 2012-13.", 
+ "file_name": "Country-wise_India_Exports_by_Principal_Commodity_in_2011-12_And_2012-13.xls", 
+ "title": "Download XLS for Country-wise India Exports by Principal Commodity in 2011-12 And 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Country-wise_India_Exports_by_Principal_Commodity_in_2011-12_And_2012-13.xls"
+}
+-----
+-----
+{
+ "description": "This  is district wise, crop wise, season wise and year wise data on crop covered area and production.  The data is being used to study and analyse crop production, production contribution to district/state/country, Agro-climatic zone wise performance, and high yield production order for crops, ...", 
+ "file_name": "apy.csv", 
+ "title": "Download CSV for District-wise, season-wise crop production statistics from 1998(External Link that opens in a new window)", 
+ "url": "http://apy.dacnet.nic.in/APY/apy.csv"
+}
+-----
+-----
+{
+ "description": "Dataset provides agency-wise details of number of extramural R&D projects and their approved cost during 2004-05.", 
+ "file_name": "Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2004-05.csv", 
+ "title": "Download CSV for Agency-wise Extramural Research And Development Projects Approved During 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2004-05.csv"
+}
+-----
+S. No.,Department/Ministry/Agency,No. of Projects,Total Approved Cost (Rs. Lakhs)
+1,All India Council for Technical Education (AICTE),46,469.23
+2,Council of Scientific and Industrial Research (CSIR),200,1898.4
+3,Defence Research & Development Organisation (DRDO),88,2001.55
+4,Department of Atomic Energy (DAE),104,1822.63
+5,"Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha & Homoeopathy (AYUSH)",8,135.24
+6,Department of Bio-Technology (DBT),201,9841.02
+7,Department of Coal (DOC),8,616.67
+8,Department of Ocean Development (DOD),6,124.44
+9,Department of Science and Technology (DST),958,25185.04
+10,Department of Scientific and Industrial Research (DSIR),6,224.9
+11,Department of Secondary and Higher Education (DOSHE),170,2345.5
+12,Indian Council of Agricultural Research (ICAR),49,1274.87
+13,Indian Council of Medical Research (ICMR),128,1701.81
+14,Indian Space Research Organisation (ISRO),75,567.77
+15,Ministry of Communications & Information Technology (MOCIT),45,4985.09
+16,Ministry of Environment and Forests (MOEF),48,1486.85
+17,Ministry of Power (MOP),30,476.45
+18,Ministry of Social Justice and Empowerment (MOSJE),2,12.67
+19,Ministry of Water Resources (MOWR),3,34.34
+20,Petroleum Conservation Research Association (PCRA),6,58.98
+21,University Grants Commission (UGC),568,1786.55
+Total,Total,2749,57050

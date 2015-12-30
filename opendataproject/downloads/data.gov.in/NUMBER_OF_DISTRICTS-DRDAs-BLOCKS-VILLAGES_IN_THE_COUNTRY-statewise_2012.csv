@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provide all India (2000, 2001, 2004, 2005, 2008 and 2012) and state-wise (2012) details on the number of districts, DRDAs, blocks and villages in the country.", 
+ "file_name": "NUMBER_OF_DISTRICTS-DRDAs-BLOCKS-VILLAGES_IN_THE_COUNTRY.xls", 
+ "title": "Download XLS for Number of Districts / DRDAs / Blocks / Villages in the Country", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_DISTRICTS-DRDAs-BLOCKS-VILLAGES_IN_THE_COUNTRY.xls"
+}
+-----
+"Year/State/UT"," Number of  District ","Number of  DRDAs","Number of Blocks","Number of Villages*"
+"Andhra Pradesh ",23.0,22.0,1121.0,28237.0
+"Arunachal Pradesh ",16.0,16.0,149.0,5590.0
+"Assam ",27.0,21.0,238.0,26550.0
+"Bihar",38.0,38.0,534.0,44938.0
+"Chhattisgarh",27.0,18.0,146.0,20180.0
+"Goa",2.0,2.0,11.0,397.0
+"Gujarat",26.0,26.0,225.0,18512.0
+"Haryana",21.0,21.0,119.0,6930.0
+"Himachal Pradesh",12.0,12.0,77.0,20701.0
+"Jammu & Kashmir",22.0,22.0,143.0,6682.0
+"Jharkhand",24.0,24.0,259.0,32583.0
+"Karnataka",30.0,30.0,176.0,29536.0
+"Kerala",14.0,14.0,152.0,1495.0
+"Madhya Pradesh",50.0,50.0,313.0,55101.0
+"Maharashtra",35.0,33.0,352.0,43943.0
+"Manipur ",9.0,4.0,41.0,2612.0
+"Meghalaya ",7.0,"NA",39.0,6851.0
+"Mizoram ",8.0,"NA",26.0,830.0
+"Nagaland ",11.0,"NA",52.0,1435.0
+"Orissa",30.0,30.0,314.0,51527.0
+"Punjab ",21.0,20.0,142.0,12715.0
+"Rajasthan",33.0,33.0,246.0,44823.0
+"Sikkim",4.0,4.0,27.0,452.0
+"Tamil Nadu",32.0,31.0,385.0,16369.0
+"Tripura",4.0,4.0,40.0,901.0
+"Uttar Pradesh",72.0,72.0,821.0,107106.0
+"Uttarakhand",13.0,13.0,95.0,16853.0
+"West Bengal",19.0,18.0,341.0,40997.0
+"A & N Islands",3.0,3.0,9.0,559.0
+"Chandigarh ",1.0,1.0,1.0,12.0
+"D & N Haveli",1.0,1.0,1.0,70.0
+"Daman & Diu",2.0,1.0,2.0,25.0
+"NCT Delhi ",9.0,"NA","NA",222.0
+"Lakshadweep",1.0,1.0,9.0,27.0
+"Puducherry",4.0,"NA",6.0,95.0

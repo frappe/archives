@@ -1,0 +1,18 @@
+-----
+{
+ "description": "This table describes that the literacy rate among the Muslims is significantly lower than among other communities although it is higher than among SCs and STs.", 
+ "file_name": "SJ09.xls", 
+ "title": "Download XLS for Literacy Rate Among Religious Communities, SCs And STs", 
+ "url": "http://data.gov.in/sites/default/files/SJ09.xls"
+}
+-----
+" Community/Caste  "," Male  "," Female  "," Total  "
+" India  ",75.3,53.7,64.8
+" Hindu  ",76.2,53.2,65.1
+" Muslim  ",67.6,50.1,59.1
+" Christian  ",84.4,76.2,80.3
+" Sikh  ",75.2,63.1,69.4
+" Buddhist  ",83.1,61.7,72.7
+" Others  ",60.8,33.2,47.0
+" Scheduled Castes  ",66.64,41.9,54.7
+" Scheduled Tribes  ",59.17,34.76,47.1

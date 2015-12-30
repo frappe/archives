@@ -1,0 +1,59 @@
+-----
+{
+ "description": "Dataset provides scheme-wise details of number of extramural R&D projects and their approved cost by Central Scientific Agencies / Departments during 2009-10.", 
+ "file_name": "Scheme-wise_Support_To_Extramural_RnD_Projects_Approved_During_2009-10.csv", 
+ "title": "Download CSV for Scheme-wise Extramural Research And Development Projects Approved During 2009-10", 
+ "url": "http://data.gov.in/sites/default/files/Scheme-wise_Support_To_Extramural_RnD_Projects_Approved_During_2009-10.csv"
+}
+-----
+Department/Ministry/Agency,Schemes,Number of Projects,Total Approved Cost (Rs. Crores)
+All India Council for Technical Education (AICTE),Research Programme (RP),164,13.81
+Council of Scientific and Industrial Research (CSIR),Emeritus Scientist (ES),51,7.71
+Council of Scientific and Industrial Research (CSIR),General Scheme (GS),239,38.7
+Council of Scientific and Industrial Research (CSIR),Sponsored Scheme (SS),4,0.92
+Defence Research and Development Organisation (DRDO),Aeronautical Research & Development Board (ARDB),38,5.87
+Defence Research and Development Organisation (DRDO),Grants-in-aid Scheme(GIA),74,15.45
+Defence Research and Development Organisation (DRDO),Life Science Research Board (LSRB),26,6.9
+Defence Research and Development Organisation (DRDO),Naval Research Board (NRB),40,14.34
+Department of Atomic Energy (DAE),Board for Research in Nuclear Sciences (BRNS),107,49.76
+"Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha & Homoeopathy (AYUSH)",Extra Mural Research (EMR),8,1.68
+Department of Bio-Technology (DBT),Research & Development (R&D),429,213.96
+Department of Coal (DOC),Science & Technology (S&T),7,12.36
+Department of Science and Technology (DST),Drugs & Pharmaceutical Research Programme(DPRP),9,22.36
+Department of Science and Technology (DST),Himalayan Glaciology (HG),5,1.92
+Department of Science and Technology (DST),Intensification of Research in High Priority Areas (IRHPA),8,65.66
+Department of Science and Technology (DST),International S&T Cooperation Programme (I CO),139,16.41
+Department of Science and Technology (DST),Joint Technology Programme (JTP),29,6.66
+Department of Science and Technology (DST),Nano - Mission (N-M),32,40.93
+Department of Science and Technology (DST),Natural Resources Data Management System (NRDMS),39,21.39
+Department of Science and Technology (DST),Science and Engineering Research Council - Engineering Projects (SERC EP),118,31
+Department of Science and Technology (DST),Science and Engineering Research Council - Fast Track (SERC FT),350,53.92
+Department of Science and Technology (DST),Science and Engineering Research Council - Science (SERC SC),403,126.18
+Department of Science and Technology (DST),Science and Engineering Research Council - Women Scientists (WOS),215,37.46
+Department of Science and Technology (DST),Science and Technology for Women (WS),21,1.97
+Department of Science and Technology (DST),State Science & Technology Programme (SSTP),31,5.6
+Department of Science and Technology (DST),Technology Systems Development Programme (TSD),41,12.7
+Department of Science and Technology (DST),Technology Interventions for Addressing Societal Needs (TIASN),7,0.9
+Department of Science and Technology (DST),Utilisation of Scientific Expertise of Retired Scientists (USERS),18,1.22
+Department of Science and Technology (DST),Young Scientists & Technologists (YST),11,1.27
+Department of Scientific and Industrial Research (DSIR),Technology Development & Demonstration Programme (TDDP),2,6.42
+Department of Scientific and Industrial Research (DSIR),Technopreneur Promotion Programme (TEPP),69,4.8
+Indian Council of Medical Research (ICMR),Ad-hoc (ADHOC),300,76.53
+Indian Council of Medical Research (ICMR),Centre for Advanced Research (CAR),1,7.09
+Indian Council of Medical Research (ICMR),Task Force (TF),150,67.97
+Indian Space Research Organisation (ISRO),Research Sponsored (RESPOND),24,2.51
+Ministry of Communications & Information Technology (MOCIT),Research & Development (R&D),61,179.02
+Ministry of Environment and Forests (MOEF),Biosphere Reserve (BR),8,1.41
+Ministry of Environment and Forests (MOEF),Conservation & Management of Mangroves Coral Reefs (CMM & CR),23,3.13
+Ministry of Environment and Forests (MOEF),Environment Research Programme (ERP),27,4.37
+Ministry of Environment and Forests (MOEF),Ecosystem Research Scheme (ERS),6,0.73
+Ministry of Environment and Forests (MOEF),National Natural Resources Management System (NNRMS),8,1.93
+Ministry of Environment and Forests (MOEF),Wet Lands (WL),3,0.43
+Ministry of Earth Sciences (MOES),R&D in Earth & Atmospheric Sciences (R&D - EAS),4,14.22
+Ministry of New & Renewable Energy (MNRE),Research Design & Development Project Appraisal Committee (RDPAC),30,82.51
+Ministry of Power (MOP),Research Scheme on Power (RSP),13,2.32
+Ministry of Water Resources (MOWR),Research & Development for Water Resources Management (R&D WRM),9,2.95
+Petroleum Conservation Research Association (PCRA),Research & Development (R&D),8,1.21
+University Grants Commission (UGC),Major Projects (MJRP),801,61.7
+University Grants Commission (UGC),Minor Projects (MNRP),618,7.53
+Total,Total,4828,1357.79

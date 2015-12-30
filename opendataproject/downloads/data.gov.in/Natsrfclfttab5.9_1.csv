@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise distribution of surface lift schemes according to water lifting devices. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Natsrfclfttab5.9_1.csv", 
+ "title": "Download CSV for Statewise Distribution of surface lift schemes according to lifting device for 2nd census of minor irrigation schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Natsrfclfttab5.9_1.csv"
+}
+-----
+State,Electric pumps,Diesel pumps,Wind mills,Solar pumps,Others,Total
+ANDHRA PRADESH,16038,3308,8,4,68,19426
+ARUNACHAL PRADESH,NA,NA,NA,NA,NA,NA
+ASSAM,653,8444,0,1,12,9110
+BIHAR,954,7329,29,25,2729,11066
+GOA,564,111,1,0,76,752
+GUJARAT,NA,NA,NA,NA,NA,NA
+HARYANA,170,12,0,0,0,182
+HIMACHAL PRADESH,500,40,1,1,15,557
+JAMMU & KASHMIR,320,31,0,0,0,351
+KARNATAKA,27762,881,45,54,3606,32348
+KERALA,7806,2736,9,5,708,11264
+MADHYA PRADESH,133236,48815,519,70,6235,188875
+MAHARASHTRA,NA,NA,NA,NA,NA,NA
+MANIPUR,9,11,0,0,0,20
+MEGHALAYA,11,3,0,0,1,15
+MIZORAM,1,11,0,0,0,12
+NAGALAND,9,10,0,0,0,19
+ORISSA,8889,2821,40,38,8816,20604
+PUNJAB,465,295,0,1,3,764
+RAJASTHAN,161,118,0,0,10,289
+SIKKIM,NA,NA,NA,NA,NA,NA
+TAMIL NADU,7261,2335,204,5,1772,11577
+TRIPURA,397,416,1,0,15,829
+UTTAR PRADESH,720,2481,28,9,228,3466
+WEST BENGAL,2877,62441,405,182,17740,83645
+ANDAMAN & NICOBARS,77,791,0,1,341,1210
+CHANDIGARH,NA,NA,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,45,8,1,0,0,54
+DAMAN & DIU,NA,NA,NA,NA,NA,NA
+DELHI,NA,NA,NA,NA,NA,NA
+LAKSHADWEEP,NA,NA,NA,NA,NA,NA
+PONDICHERRY,6,399,0,0,1,406
+ALL INDIA,208931,143847,1291,396,42376,396841

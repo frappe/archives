@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at constant prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPConsChandigarh.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Chandigarh at factor cost at constant prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPConsChandigarh.csv"
+}
+-----
+Sector,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12
+Agriculture,7042,7294,7256,7276,7742,6555,6101,5775
+Forestry & Logging,617,555,596,616,659,681,690,690
+Fishing,49,59,99,108,120,114,128,142
+Agriculture & Allied,7708,7908,7951,8000,8521,7350,6919,6607
+Mining & Quarrying,1,1,1,1,1,8,0,0
+Manufacturing,56067,51902,63601,71018,71365,84001,108203,118512
+Manufacturing - Registered,22595,15110,22424,25306,25997,37332,56569,60421
+Manufacturing - Unregistered,33472,36792,41177,45712,45368,46669,51634,58091
+Construction,78131,92711,136794,136088,73571,89960,101378,122355
+"Electricity, Gas and Water supply",10997,11072,10808,12222,13568,17360,17323,18212
+Industry,145196,155686,211204,219329,158505,191329,226904,259079
+"Transport, Storage & Communication",55214,58710,63695,70951,78773,87698,95051,102484
+Railways,470,591,647,685,686,852,853,621
+Transport by other means,24183,24423,25415,26057,25694,27542,27192,28477
+Storage,67,71,85,103,112,138,160,188
+Communication,30494,33625,37548,44106,52281,59166,66846,73198
+"Trade, Hotels and restaurants",239250,284652,310403,343898,377199,334261,341181,376350
+Banking & Insurance,97126,113417,142687,161271,214054,271134,290299,297521
+"Real estate, Ownership of dwellings and Business services",164952,177683,192640,209037,224379,231211,239833,250908
+Public Administration,69475,68403,72421,64113,108427,97463,87945,86607
+Other services,71483,74874,78498,81455,82050,96675,97342,98659
+Services,697500,777739,860344,930725,1084882,1118442,1151651,1212529
+State Domestic Product,850404,941333,1079499,1158054,1251908,1317121,1385474,1478216

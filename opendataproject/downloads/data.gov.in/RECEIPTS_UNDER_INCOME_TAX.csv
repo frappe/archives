@@ -1,0 +1,23 @@
+-----
+{
+ "description": "Data provides details on receipts under income tax from 2000-01 to 2011-12 in head of account such as Minor Head-Other Receipts, Minor Head-Surcharge, Penalties, Interest Recoveries, Primary Eduction Cess, Secondary and Higher Education Cess.", 
+ "file_name": "RECEIPTS_UNDER_INCOME_TAX.xls", 
+ "title": "Download XLS for Receipts Under Income Tax From 2000-01 To 2011-12", 
+ "url": "http://data.gov.in/sites/default/files/RECEIPTS_UNDER_INCOME_TAX.xls"
+}
+-----
+"Head of Account","2000-01","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12(P)"
+"Minor Head-Other Receipts - Net receipts",2.67,-40.54,"NA",1.07,1.67,88.63,4.46,5.41,225.48
+"Minor Head-Surcharge - Net receipts",913.28,706.16,882.26,753.88,1574.72,2304.27,1501.82,373.19,51.99
+"Minor Head-I.T.on Union Emoluments etc. - Net receipts",722.34,"NA","NA","NA","NA","NA","NA","NA",-141.76
+"Minor Head-I.T.on other than U.E. etc. Net Receipts",29889.56,47760.34,53436.05,71014.64,95651.26,96660.85,116475.49,133793.5,156105.7
+"Penalties",30.92,44.72,15.53,45.34,30.68,31.84,20.91,43.15,75.72
+"Penalties under sec.271 (c) of I.T. Act, 1961",7.02,17.22,15.44,45.31,30.68,31.84,20.91,43.15,75.72
+"Penalties other than under sec.271 (c) of I.T. Act, 1961",23.9,27.5,0.08,0.03,"NA","NA","NA","NA","NA"
+"Interest Recoveries",204.5,159.98,216.92,403.96,439.88,534.92,557.28,701.44,1220.24
+"Receipts under K.V.S.S., 98",0.71,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Primary Education Cess","NA","NA",243.86,1468.37,2043.63,2099.97,2895.24,3739.35,1136.14
+"Secondary & Higher Education Cess","NA","NA","NA","NA",1020.69,1053.38,1431.94,1395.7,1.31
+"Total Minor Heads",31763.98,49268.12,54794.62,73687.26,100762.53,102773.86,122887.14,140041.74,158674.82
+"Receipts Awaiting Transfer to other Minor Heads","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Total taxes on Income (Based on Total Minor Heads and Receipts Awaiting Transfer to other Minor Heads above)",31763.98,49268.12,54794.62,73687.26,100762.53,102773.86,122887.14,140041.74,158674.82

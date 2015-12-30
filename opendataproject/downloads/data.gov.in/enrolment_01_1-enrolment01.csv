@@ -1,0 +1,27 @@
+-----
+{
+ "description": "Data provides state-wise, district-wise and block-wise list of Gram Panchayats (GPs) awarded with Nirmal Gram Puraskar (NGP) upto 2011.", 
+ "file_name": "List_of_GPs_Awarded_with_NGP_upto_2011.xls", 
+ "title": "Download XLS for List of Gram Panchayats Awarded With Nirmal Gram Puraskar Upto 2011", 
+ "url": "http://data.gov.in/sites/default/files/List_of_GPs_Awarded_with_NGP_upto_2011.xls"
+}
+-----
+-----
+{
+ "description": "This table provides data regarding growth of Institutions and their Enrolment in the Eleventh Plan including degree awarding institutions (both Government, Public and private Institutions).", 
+ "file_name": "enrolment_01_1.xls", 
+ "title": "Download XLS for Growth Of Institutions And Their Enrolment In The Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/enrolment_01_1.xls"
+}
+-----
+"Category (Enrolment in Lakh)","Institutions : 2007-08","Enrolment : 2007-08","Institutions : 2011-12","Enrolment : 2011-12","Institutions : Increase","Enrolment : Increase"
+"Degree Awarding Institutions - Central",75.0,2.36,138.0,3.31,63.0,0.95
+"Colleges - Central",58.0,0.95,69.0,1.54,11.0,0.59
+"Sub total - Central",133.0,3.31,207.0,4.85,74.0,1.54
+"Degree Awarding Institutions - State",253.0,11.25,316.0,14.34,63.0,3.09
+"Colleges - State",9500.0,47.84,13024.0,52.21,3524.0,4.37
+"Sub total - State",9753.0,59.09,13340.0,66.55,3587.0,7.46
+"Degree Awarding Institutions - Private Unaided",80.0,2.07,191.0,5.01,111.0,2.94
+"Colleges - Private Unaided",13706.0,68.85,19930.0,88.85,6224.0,20.0
+"Sub total - Private Unaiided",13717.0,70.92,20121.0,93.86,6335.0,22.94
+"Total - Central, State & Private Unaided Institutions",23614.0,133.22,33668.0,169.68,9996.0,36.41

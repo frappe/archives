@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides data related to Eleventh Plan resources of States and UTs (in Rs. Crore) at 2006-07 prices.", 
+ "file_name": "FR1011_07_1.xls", 
+ "title": "Download XLS for Eleventh Plan Resources of States and UTs at 2006-07 Prices", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_07_1.xls"
+}
+-----
+"Sl. No.","Sources of Funding","Projection State","Projection UTs","Projection Total","Projection State - Percentages of aggregate Plan Resources","Projection UTs - Percentages of aggregate Plan Resources","Projection Total - Percentages of aggregate Plan Resources"
+1.0,"Balance From Current Revenues",341202.0,43848.0,385050.0,23.8380086856,77.1822358346,25.8744599828
+2.0,"Resources of PSEs",128824.0,0.0,128824.0,9.00026269164,0.0,8.65667168633
+"2a","(i) Interanl Resources",5692.0,0.0,5692.0,0.397670428187,0.0,0.382489095499
+"2b","(ii) Extra - Budgetary Resources",123132.0,0.0,123132.0,8.60259226345,0.0,8.27418259083
+3.0,"Borrowings",636459.0,12964.0,649423.0,44.4660792434,22.8195243879,43.6397076364
+4.0,"State's Own Resources (1 to 3)",1106485.0,56811.0,1163296.0,77.3043506207,100.0,78.1707721079
+5.0,"Central Assistance",324851.0,0.0,324851.0,22.6956493793,0.0,21.8292278921
+6.0,"Aggregate Plan Resources (4+5)",1431336.0,56811.0,1488147.0,100.0,100.0,100.0

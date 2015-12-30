@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to statewise distribution of shallow tubewells according to irrigation through supplementary source  . The report has been sourced from 2nd census of minor irrigation scheme(1993-94) from ministry of water resources.", 
+ "file_name": "Stateshtbwl2.15.csv", 
+ "title": "Download CSV for Statewise Distribution of Shallow Tubewells according to Irrigation through supplementary source  for 2nd Census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Stateshtbwl2.15.csv"
+}
+-----
+State,Supplementary Irrigation-Kharif,Supplementary Irrigation-Rabi,Supplementary Irrigation-Perennial,Supplementary Irrigation-Others,Supplementary Irrigation-Total
+ANDHRA PRADESH,42378,18344,6502,1460,68684
+ARUNACHAL PRADESH,0,0,0,0,0
+ASSAM,0,0,0,0,0
+BIHAR,48050,43189,3543,2202,96984
+GOA,0,0,0,0,0
+GUJARAT,NA,NA,NA,NA,NA
+HARYANA,129606,135248,0,0,264854
+HIMACHAL PRADESH,7,7,0,0,14
+JAMMU & KASHMIR,11,10,0,0,21
+KARNATAKA,5911,2058,2257,1440,11667
+KERALA,65,91,16,30,202
+MADHYA PRADESH,4745,2783,63,19,7610
+MAHARASHTRA,NA,NA,NA,NA,NA
+MANIPUR,0,0,0,0,0
+MEGHALAYA,5,0,4,0,9
+MIZORAM,0,0,0,0,0
+NAGALAND,0,0,0,0,0
+ORISSA,2650,1272,780,5,4707
+PUNJAB,844027,850528,19819,16150,1730524
+RAJASTHAN,162,680,0,0,842
+SIKKIM,0,0,0,0,0
+TAMIL NADU,31590,23454,5697,1348,62088
+TRIPURA,0,0,0,0,0
+UTTAR PRADESH,500622,273322,69815,22990,866749
+WEST BENGAL,17225,12862,1878,8491,40456
+ANDAMAN & NICOBARS,0,0,0,0,0
+CHANDIGARH,0,0,0,0,0
+DADRA & NAGAR HAVELI,0,0,0,0,0
+DAMAN & DIU,NA,NA,NA,NA,NA
+DELHI,0,0,0,0,0
+LAKSHADWEEP,NA,NA,NA,NA,NA
+PONDICHERRY,0,0,0,0,0
+All India,1627054,1363848,110374,54135,3155411

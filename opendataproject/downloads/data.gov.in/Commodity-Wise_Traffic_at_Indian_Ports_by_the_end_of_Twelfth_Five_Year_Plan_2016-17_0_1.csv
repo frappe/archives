@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table gives an overview of commodity-wise traffic at Indian ports by the end of Twelfth Five Year Plan (2016-17). It gives details regarding the number of major ports, non-major ports and total ports in India.", 
+ "file_name": "Commodity-Wise_Traffic_at_Indian_Ports_by_the_end_of_Twelfth_Five_Year_Plan_2016-17_0_1.xls", 
+ "title": "Download XLS for Commodity-Wise Traffic at Indian Ports by the end of Twelfth Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Commodity-Wise_Traffic_at_Indian_Ports_by_the_end_of_Twelfth_Five_Year_Plan_2016-17_0_1.xls"
+}
+-----
+"Commodity","Major Ports ","Non-Major Ports","Total "
+"POL (incl.  LNG)",249.49,230.7,480.19
+"Iron Ore",112.0,78.0,190.0
+"Fert & FRM",22.57,8.6,31.17
+"Coal",158.1,280.9,439.0
+"Containers",268.5,100.0,368.5
+"Others",135.4,117.0,249.4
+"Total",943.06,815.2,1758.26

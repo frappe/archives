@@ -1,0 +1,34 @@
+-----
+{
+ "description": "The table refers to the state's gross domestic product at constant prices for the base year 1993-94.", 
+ "file_name": "MizoramGSDPconst.csv", 
+ "title": "Download CSV for Mizoram Gross State Domestic Product at factor cost at Constant Prices for the base year 1993-94", 
+ "url": "http://data.gov.in/sites/default/files/MizoramGSDPconst.csv"
+}
+-----
+"Sector","1993-1994","1994-1995","1995-1996","1996-1997","1997-1998","1998-1999","1999-2000","2000-2001","2001-2002","2002-2003"
+"Agriculture","0","0","0","0","0","0","0","0","17928","16146"
+"Foresty and Logging","0","0","0","0","0","0","0","0","1325","1577"
+"Fishing","0","0","0","0","0","0","0","0","1454","1315"
+"Mining and Quarrying","0","0","0","0","0","0","0","0","275","99"
+"Sub total of primary","0","0","0","0","0","0","0","0","20982","19137"
+"Manufacturing","0","0","0","0","0","0","0","0","2341","2437"
+"Manu-Registered","0","0","0","0","0","0","0","0","476","469"
+"Manu-Unregistered","0","0","0","0","0","0","0","0","1865","1968"
+"Construction","0","0","0","0","0","0","0","0","11340","13269"
+"Electricity, Gas and water Supply","0","0","0","0","0","0","0","0","1048","3222"
+"Sub total of secondary","0","0","0","0","0","0","0","0","14729","18928"
+"Transport Storage and Communication","0","0","0","0","0","0","0","0","5331","3474"
+"Railways","0","0","0","0","0","0","0","0","5","7"
+"Transport by other means","0","0","0","0","0","0","0","0","4417","1955"
+"Storage","0","0","0","0","0","0","0","0","0","3"
+"Communication","0","0","0","0","0","0","0","0","909","1509"
+"Trade, hotels and restaurants","0","0","0","0","0","0","0","0","9864","8471"
+"Banking and Insurance","0","0","0","0","0","0","0","0","2434","3597"
+"Real estate, ownership of dwelling and business","0","0","0","0","0","0","0","0","14630","16284"
+"Pubic Administration","0","0","0","0","0","0","0","0","20679","24338"
+"Other Services","0","0","0","0","0","0","0","0","14722","14597"
+"Sub total of tertiary","0","0","0","0","0","0","0","0","67660","70761"
+"State domestic product","0","0","0","0","0","0","0","0","103371","108826"
+
+"Figures are in Rs. Lakh"

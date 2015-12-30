@@ -1,0 +1,24 @@
+-----
+{
+ "description": "India\u2019s GER at the Secondary level is close to that of the average for all Developing Countries (63 per cent ) but substantially lower than that of emerging market economies like China, Indonesia, Thailand and Brazil.", 
+ "file_name": "Countries_Gross_Enrollment_Data.xls", 
+ "title": "Download XLS for Gross Enrolment Ratio (GER) For Secondary Education ( High/ Low GER States And International Comparisons)", 
+ "url": "http://data.gov.in/sites/default/files/Countries_Gross_Enrollment_Data.xls"
+}
+-----
+"Parameters","Countries/States","1999-2000 (Percentage)","2009-10 (Percentage)"
+"States with Low Gross Enrolment Ratio ","India (Jharkhand)",26.0,29.0
+"States with Low Gross Enrolment Ratio","India (Bihar)",23.0,35.0
+"States with Low Gross Enrolment Ratio","India (Assam)",46.0,49.0
+"States with high Gross Enrolment Ratio","India (Kerala)",81.0,98.0
+"States with high Gross Enrolment Ratio","India (H.P)",74.0,89.0
+"States with high Gross Enrolment Ratio","India (Tamil Nadu)",61.0,82.0
+"International Comparison ","India",43.0,63.0
+"International Comparison","China",61.0,78.0
+"International Comparison","Indonesia","NA",79.0
+"International Comparison","Thailand","NA",77.0
+"International Comparison","Malaysia",65.0,69.0
+"International Comparison","Brazil",99.0,101.0
+"International Comparison","Developed countries",100.0,100.0
+"International Comparison","Developing Countries",52.0,63.0
+"International Comparison","World Average",59.0,68.0

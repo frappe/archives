@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table gives the comparison of Aviation Turbine Fuel (ATF) prices in India with competing hubs. It gives a comparison of the ATF price per kilolitre(USD) in different locations across the world.", 
+ "file_name": "Comparison_of_ATF_Prices_in_India.xls", 
+ "title": "Download XLS for Comparison of ATF Prices in India with Competing Hubs", 
+ "url": "http://data.gov.in/sites/default/files/Comparison_of_ATF_Prices_in_India.xls"
+}
+-----
+"Location","Price/Kilolitre (USD) 20"
+"India",1400.0
+"Singapore",825.0
+"Bangkok",880.0
+"Kuala Lumpur",810.0
+"Dubai",840.0

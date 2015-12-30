@@ -1,0 +1,42 @@
+-----
+{
+ "description": "The table refers to state wise distribution of surface flow schemes in the major/medium project command. It has been sourced from 2nd census of minor irrigation scheme(1993-94) from Ministry of Water Resources.", 
+ "file_name": "Nattab4.9.csv", 
+ "title": "Download CSV for Statewise Surface Flow Schemes in the major/medium project command for 2nd census of Minor Irrigation Schemes (1993-94)", 
+ "url": "http://data.gov.in/sites/default/files/Nattab4.9.csv"
+}
+-----
+State,Location of Schemes - On the command,Location of schemes - Outside command,Location of schemes - Augmentation,Total
+ANDHRA PRADESH,4226,75432,295,79953
+ARUNACHAL PRADESH,12,3575,1,3588
+ASSAM,0,2347,0,2347
+BIHAR,3759,63189,300,67248
+GOA,142,3032,2,3176
+GUJARAT,NA,NA,NA,NA
+HARYANA,56,454,0,510
+HIMACHAL PRADESH,107,14238,0,14345
+JAMMU & KASHMIR,531,8613,0,9144
+KARNATAKA,10897,27741,448,39086
+KERALA,1990,8388,3,10381
+MADHYA PRADESH,4738,51386,0,56124
+MAHARASHTRA,NA,NA,NA,NA
+MANIPUR,0,240,0,240
+MEGHALAYA,1004,13256,4,14264
+MIZORAM,4,4771,0,4775
+NAGALAND,0,14059,0,14059
+ORISSA,1868,22214,21,24103
+PUNJAB,160,210,24,394
+RAJASTHAN,168,2927,7,3102
+SIKKIM,0,854,0,854
+TAMIL NADU,41445,42064,1214,84723
+TRIPURA,19,581,0,600
+UTTAR PRADESH,3600,20255,29,23884
+WEST BENGAL,11133,55321,0,66454
+ANDAMAN & NICOBARS,NA,NA,NA,NA
+CHANDIGARH,NA,NA,NA,NA
+DADRA & NAGAR HAVELI,0,11,0,11
+DAMAN & DIU,NA,NA,NA,NA
+DELHI,3,1380,0,1383
+LAKSHADWEEP,NA,NA,NA,NA
+PONDICHERRY,5,17637,3,17645
+ALL INDIA,85867,454175,2351,542393

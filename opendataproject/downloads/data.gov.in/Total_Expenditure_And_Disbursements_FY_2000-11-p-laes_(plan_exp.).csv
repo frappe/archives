@@ -1,0 +1,64 @@
+-----
+{
+ "description": "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Disbursements_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Revenue_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Revenue Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Revenue_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Public_Account_Receipts_FY_2000-11.xls", 
+ "title": "Download XLS for Public Account Receipts FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Public_Account_Receipts_FY_2000-11.xls"
+}
+-----
+-----
+{
+ "description": "This data pertains to total expenditure and disbursements (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011.", 
+ "file_name": "Total_Expenditure_And_Disbursements_FY_2000-11.xls", 
+ "title": "Download XLS for Total Expenditure And Disbursements FY 2000-11", 
+ "url": "http://data.gov.in/sites/default/files/Total_Expenditure_And_Disbursements_FY_2000-11.xls"
+}
+-----
+"Sector","Data","FY 00","FY 01","FY 02","FY 03","FY 04","FY 05","FY 06","FY 07","FY 08","FY 09","FY 10","FY 11"
+"P-LAES","A UT Puducherry",0.6633,1.9872,0.1111,0.2898,0.4872,0.3565,0.7775,1.066,0.1,0.4287,0.0125,0.0
+"P-LAES","Andhra Pradesh",1660.9862,890.3427,1104.959,737.2488,688.0421,305.0515,129.3404,161.4536,301.8086,145.548,90.0196,667.2135
+"P-LAES","Arunachal Pradesh",1.0629,0.339,1.9123,0.1105,0.362,2.8503,2.8833,1.5875,0.185,25.533,200.23,0.6538
+"P-LAES","Assam",57.4547,92.8986,7.3776,33.4871,92.6311,85.9518,82.9954,75.1055,114.3458,65.6511,74.0266,68.511
+"P-LAES","Bihar",56.7628,0.0,0.0,115.5779,201.285,310.282,102.0809,199.4823,194.7639,196.6642,0.0,860.7903
+"P-LAES","Chattisgarh",0.0,0.0694,24.4914,13.4466,518.4877,74.4146,274.8025,225.0251,434.5192,435.4651,838.5593,490.4223
+"P-LAES","D NCT Delhi",0.0,1201.7785,843.6171,1757.5193,1706.2731,722.2694,389.9927,200.8682,356.467,274.1322,66.5,190.6233
+"P-LAES","Goa",0.058,6.0575,0.0807,6.605,2.6066,0.6424,1.745,0.1222,6.6984,1.2429,1.16,1.5108
+"P-LAES","Gujarat",385.9068,678.6384,14.9898,172.6635,371.6754,261.6236,401.5054,291.8904,367.5077,259.0537,328.9522,603.767
+"P-LAES","Haryana",123.7179,163.7115,154.334,160.0437,184.7252,102.6319,34.1133,29.8883,19.9198,14.4406,192.466,286.4481
+"P-LAES","Himachal Pradesh",21.6695,8.3953,0.0202,3.4075,7.1409,17.37,2.7919,11.9801,2.1117,5.2575,62.3444,216.7028
+"P-LAES","Jammu and Kashmir",89.3696,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"P-LAES","Jharkhand",0.0,0.0,0.0,141.0,17.6,257.51,1015.8524,66.1163,347.9877,189.7063,250.8259,167.8752
+"P-LAES","Karnataka",110.9383,153.9571,120.9211,159.4238,640.5099,244.4275,113.1842,25.2344,156.5497,55.4087,111.2815,246.9141
+"P-LAES","Kerala",155.1074,123.4874,77.6537,162.1241,94.2492,158.983,155.0625,87.6067,153.3969,194.0507,287.0842,210.6343
+"P-LAES","Madhya Pradesh",245.9316,227.5659,245.6834,205.7853,167.6861,476.6626,-31.5322,212.3425,112.3557,456.7922,27.2821,775.8305
+"P-LAES","Maharastra",415.9715,168.8938,204.1678,84.1301,194.8136,484.758,464.5036,149.6217,187.3961,344.3977,286.816,187.5478
+"P-LAES","Manipur",1.76,0.0575,3.2646,0.8148,1.7465,0.2256,0.4633,1.56,4.12,0.0,6.7,3.5516
+"P-LAES","Meghalaya",14.2355,49.4839,29.928,57.3421,36.6255,26.551,7.684,2.2847,19.5456,43.2579,10.5168,26.459
+"P-LAES","Mizoram",0.9861,0.7072,1.8472,0.1925,2.013,0.0,2.513,0.0,0.1845,8.8495,0.1171,2.15
+"P-LAES","Nagaland",0.909,4.0242,1.3063,1.9589,1.3577,0.0,0.3506,0.0425,2.6123,2.6713,3.3654,4.0314
+"P-LAES","Orissa",62.4075,274.2499,142.9556,220.2054,248.5145,48.1926,11.8645,128.2759,106.9022,0.98,29.6899,205.0
+"P-LAES","Punjab",36.7605,192.409,57.58,85.4575,671.346,0.0,2.8894,89.2499,3.5167,6.2413,0.0,11.0
+"P-LAES","Rajasthan",214.8009,294.0277,116.2834,188.5013,843.6363,600.4412,402.7308,297.4158,197.92,323.1505,461.8574,27.9834
+"P-LAES","Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0
+"P-LAES","Tamil Nadu",34.0686,27.1063,37.2977,71.6685,204.9246,183.1777,135.1229,151.9543,97.5687,197.0291,164.2917,140.57
+"P-LAES","Tripura",0.2226,0.209,0.9071,0.1579,0.55,0.125,0.02,0.04,0.0215,17.0,16.5,0.832
+"P-LAES","Uttar Pradesh",996.4938,216.5538,155.8682,409.6949,391.2883,353.75,265.2581,217.8269,93.9504,134.9265,101.006,120.3
+"P-LAES","Uttarakhand",0.0,10.9651,55.6311,77.9104,24.1899,130.1333,113.6488,86.9697,191.7757,112.7119,28.6488,36.2725
+"P-LAES","West Bengal",1156.1877,1839.6507,988.3625,678.9821,617.9668,902.5296,1088.3192,1161.979,931.0735,545.7769,1236.7424,198.9255
+"P-LAES","Grand Total",5844.4327,6627.5666,4391.5509,5545.7493,7932.7342,5750.9111,5170.9634,3876.9895,4405.3043,4056.3675,4911.9958,5752.5202

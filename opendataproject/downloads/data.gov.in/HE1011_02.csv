@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The table shows the disparities in Gross Enrollment Ratio across areas, gender and social caste differentials in the year 2004-05.", 
+ "file_name": "HE1011_02.csv", 
+ "title": "Download CSV for Disparities in Gross Enrollment Ratio(GER) in 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/HE1011_02.csv"
+}
+-----
+Disparities,Gross Enrolment Ratio (GER) in 2004-05
+Rural Area ,6.70 
+Urban Area,19.90 
+Male Gender,12.40 
+Female Gender,9.10 
+Schedule Caste,6.57 
+Schedule Tribes,6.52 
+OBCs,8.77 
+Others,17.22 
+Total (All Categories),11.00 

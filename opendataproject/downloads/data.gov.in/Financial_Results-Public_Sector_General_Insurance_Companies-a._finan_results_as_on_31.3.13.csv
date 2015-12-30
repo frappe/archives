@@ -1,0 +1,23 @@
+-----
+{
+ "description": "Data provides the financial performance figures of the four Public Sector General Insurance Companies (PSGICs) for the financial year 2012-13 (upto the fourth quarter of FY 2012-13). An overview of performance figures company-wise and segment-wise is given in the formats.", 
+ "file_name": "Financial_Results-Public_Sector_General_Insurance_Companies.xls", 
+ "title": "Download XLS for Financial Performance of Public Sector General Insurance Companies 2012-13", 
+ "url": "http://data.gov.in/sites/default/files/Financial_Results-Public_Sector_General_Insurance_Companies.xls"
+}
+-----
+"S.NO.","PARTICULARS","National Insurance Co. Ltd. - Current Year (2012-13) ","National Insurance Co. Ltd. - Previous Year (2011-12)","New India Assurance Co. Ltd. - Current Year (2012-13) ","New India Assurance Co. Ltd. - Previous Year (2011-12)","Oriental Insurance Co. Ltd. - Current Year (2012-13) ","Oriental Insurance Co. Ltd. - Previous Year (2011-12)","United India Insurance Co. Ltd. - Current Year (2012-13) ","United India Insurance Co. Ltd. - Previous Year (2011-12)"
+1.0,"GROSS PREMIUM",9194.62,7815.69,11873.48808,10073.8782,6737.66,6194.6,9266.04,8179.29
+2.0,"NET PREMIUM",7956.92,6952.85,10274.1683742,8771.2082,5545.24,5236.65,7489.07,6779.52
+3.0,"NET PREMIUM EARNED",7468.48,6073.53,9525.48127416,7764.5472,5387.11,4893.06,7250.94,6087.24
+4.0,"INCURRED CLAIMS (NET)",6390.53,5314.07,8143.07,7087.53,4392.85,4464.83,6134.92,5386.94
+5.0,"COMMISSION (NET)",390.52,361.38,843.17,897.5,304.6679,324.53,308.08,356.92
+6.0,"Management expenses (M.E.)",1913.53,1783.84,2374.09,2065.81,1748.6992244,1354.4634823,2001.62,1566.06
+7.0,"COMBINED RATIO (4+5+6/ 3)",116.416995158,122.816385199,119.262530396,129.445281754,119.66,125.56,1.16462417287,1.20085950283
+8.0,"Invt. Income excluding of Profit/Loss on Sale of Invt.",1079.15,889.37,1869.26,1703.67,937.0355,868.0165,1307.8,1040.07
+9.0,"Invt. Income including of P/L on Sale of Invt.",2101.9,1711.69,2846.07,2442.45,1850.3239,1619.1994,469.61,562.39
+10.0,"Total Investment Income",2101.9,1711.69,2846.07,2442.45,1850.3239,1619.1994,1777.41,1602.46
+11.0,"Other Income","NA","NA","NA","NA","NA","NA",34.12,89.5
+12.0,"Average Rate of Return",17.69,17.9,"NA","NA",17.48,17.67,8.34,8.17
+13.0,"Profit Before Tax (PBT)",858.5,331.06,1011.22127416,156.1572,794.74,366.344604763,617.86,469.28
+14.0,"Profit After Tax (PAT)",697.85,325.21,843.66127416,179.3072,533.88,253.394474863,527.33,386.79

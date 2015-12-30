@@ -1,0 +1,29 @@
+-----
+{
+ "description": "Dataset provides agency-wise details of number of extramural R&D projects and their approved cost during 2002-03.", 
+ "file_name": "Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2002-03.csv", 
+ "title": "Download CSV for Agency-wise Extramural Research And Development Projects Approved During 2002-03", 
+ "url": "http://data.gov.in/sites/default/files/Agency-wise_Support_To_Extramural_RnD_Projects_Approved_During_2002-03.csv"
+}
+-----
+S. No.,Department/Ministry/Agency,No. of Projects,Total Approved Cost (Rs. Lakhs)
+1,All India Council for Technical Education (AICTE),211,1757.36
+2,Council of Scientific and Industrial Research (CSIR),304,2416.82
+3,Defence Research & Development Organisation (DRDO),103,2258.12
+4,Department of Atomic Energy (DAE),104,1708.48
+5,Department of Bio-Technology (DBT),124,4138.14
+6,Department of Coal (DOC),10,616.07
+7,Department of Ocean Development (DOD),15,1511.13
+8,Department of Science and Technology (DST),813,17656.25
+9,Department of Scientific and Industrial Research (DSIR),14,563.32
+10,Department of Secondary and Higher Education (DOSHE),134,1168
+11,Indian Council of Agricultural Research (ICAR),162,2161.98
+12,Indian Council of Medical Research (ICMR),194,3615.04
+13,Indian Space Research Organisation (ISRO),43,396.98
+14,Ministry of Communications & IT (MOCIT),26,1947.04
+15,Ministry of Environment and Forests (MOEF),40,527.43
+16,Ministry of Food Processing Industries (MFPI),16,552.53
+17,Ministry of Non-Conventional Energy Sources (MNES),21,313.28
+18,Ministry of Social Justice and Empowerment (MOSJE),10,87.41
+19,University Grants Commission (UGC),374,1473.62
+Total,Total,2718,44869

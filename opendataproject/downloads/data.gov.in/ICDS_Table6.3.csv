@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the percentage of AWC having type of housing facility. It gives state-wise details of AWCs using Owned, Rented, Primary School or Other facility to conduct their activities.", 
+ "file_name": "ICDS_Table6.3.xls", 
+ "title": "Download XLS for Percentage of AWC having type of housing facility", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table6.3.xls"
+}
+-----
+"States/UTs","Owned","Rented","Primary school","Others*"
+"Andhra Pradesh",39.8,50.0,4.5,5.8
+"Assam",69.6,0.0,18.1,12.4
+"Bihar",16.1,55.0,12.5,16.5
+"Chhattisgarh",92.6,4.4,0.0,3.0
+"Gujarat",61.5,11.2,0.8,26.5
+"Haryana",28.0,33.0,14.4,24.7
+"Himachal Pradesh",10.1,30.0,2.6,57.3
+"Jammu and Kashmir",1.3,7.7,0.0,91.0
+"Jharkhand",43.4,34.8,2.0,19.8
+"Karnataka",65.3,7.2,6.2,21.4
+"Kerala",65.0,35.0,0.0,0.0
+"Madhya Pradesh",48.9,18.6,7.1,25.4
+"Maharashtra",68.5,8.1,9.6,13.9
+"Orissa",53.5,5.5,14.8,26.2
+"Punjab",11.6,0.0,23.8,64.6
+"Rajasthan",39.6,30.4,3.8,26.3
+"Tamil Nadu",85.6,6.5,1.4,6.5
+"Uttar Pradesh",6.7,3.2,70.2,20.0
+"Uttrakhand",35.2,1.9,40.5,22.4
+"West Bengal",34.5,4.4,16.0,45.2
+"Delhi",10.8,78.3,0.0,10.8
+"Chandigarh",60.0,0.0,0.0,40.0
+"Arunachal Pradesh",17.0,0.0,0.0,83.0
+"Manipur",48.1,0.0,0.0,52.0
+"Meghalaya",46.5,0.0,53.5,0.0
+"Mizoram",100.0,0.0,0.0,0.0
+"Nagaland",55.1,0.0,0.0,44.9
+"Tripura",100.0,0.0,0.0,0.0
+"Sikkim",94.3,0.0,0.0,5.7
+"Dadar & Nagar Haveli",100.0,0.0,0.0,0.0
+"Daman & Diu",100.0,0.0,0.0,0.0
+"Goa",40.0,60.0,0.0,0.0
+"Puducherry",20.0,60.0,20.0,0.0
+"Andaman & Nicobar Island",49.6,28.1,0.0,22.4
+"All India",42.5,17.4,17.3,22.9

@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The Gross Enrollment Ratio (GER) is defined as the percentage of enrollment in Primary (Classes I-V) and Upper Primary (Classes- VI-VIII) and I-VIII to the estimated child population in the age groups of 6 to less than 11 years and 11 to less than 14 years and or 6 to less than 14 years, ...", 
+ "file_name": "education01.csv", 
+ "title": "Download CSV for Gross Enrollment Ratio at Primary Upper Primary and Elementary level", 
+ "url": "http://data.gov.in/sites/default/files/education01.csv"
+}
+-----
+Category,2001-02,2002-03,2003-04,2004-05,Percentage point increase in 2004-05 over 2001-02
+Gross Enrolment Ratio for Boys at Primary Stage,105.30,97.50,100.60,110.70,5.40
+Gross Enrolment Ratio for Girls at Primary Stage,86.90,93.10,95.60,104.70,17.80
+Gross Enrolment Ratio for Boys and Girls (Total) at Primary Stage,96.30,95.30,98.20,107.80,11.30
+Gross Enrolment Ratio for Boys at Upper Primary Stage,67.80,65.30,66.80,74.30,6.50
+Gross Enrolment Ratio for girls at Upper Primary Stage,52.10,56.20,57.60,65.10,13.00
+Gross Enrolment Ratio for Boys and Girls (Total) at Upper Primary Stage,60.20,61.00,62.40,69.90,9.70
+Gross Enrolment Ratio for Boys at Elementary Stage,90.70,85.40,87.90,96.90,6.20
+Gross Enrolment Ratio for Girls at Elementary Stage,73.60,79.30,81.40,89.90,16.30
+Gross Enrolment Ratio for Boys and Girls (Total) at Elementary Stage,82.40,82.50,84.80,93.50,11.10

@@ -1,0 +1,33 @@
+-----
+{
+ "description": "This table provides the Index Numbers of Foreign Trade since 2000-01. It gives the Unit Value Index and Volume Index of Exports and Imports. It also shows the Terms of trade.\r", 
+ "file_name": "tab76.xls", 
+ "title": "Download XLS for Index Numbers of Foreign Trade(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab76.xls"
+}
+-----
+"","","","","","","",""
+"","","","","","","",""
+"","","","","","","",""
+"7.6 INDEX NUMBERS OF FOREIGN TRADE","","","","","","",""
+"(Base : 1999-2000=100)","","","","","","",""
+"Year","Unit Value Index","","Volume Index","","Terms of trade","",""
+"","Exports","Imports","Exports","Imports","Gross","Net","Income"
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0
+"2000-01",102.0,109.0,125.0,99.0,79.0,94.0,118.0
+"2001-02",103.0,112.0,126.0,103.0,82.0,92.0,116.0
+"2002-03",106.0,128.0,150.0,109.0,73.0,83.0,125.0
+"2003-04",114.0,132.0,161.0,128.0,80.0,86.0,138.0
+"2004-05",131.0,157.0,179.0,150.0,84.0,83.0,149.0
+"2005-06",139.0,179.0,206.0,174.0,84.0,78.0,161.0
+"2006-07",158.0,206.0,227.0,191.0,84.0,77.0,175.0
+"2007-08",166.0,210.0,245.0,218.0,89.0,79.0,194.0
+"2008-09",194.0,239.0,267.0,262.0,98.0,81.0,216.0
+"2009-10",196.0,215.0,264.0,288.0,109.0,91.0,240.0
+"2010-11",223.0,243.0,304.0,311.0,102.0,92.0,280.0
+"2011-12",268.0,425.0,331.0,246.0,79.0,67.0,222.0
+"Source : DGCI&S, Kolkata.","","","","","","",""
+"Note:- ( i )   Net  terms  of  trade ,  i.e.,  the  ratio  of  overall  export  unit  value  index  to similar Import  index .","","","","","","",""
+"            (ii )  Gross  terms  of  trade ,  i .e ., the  ratio  of  overall  import quantum Index  to  similar  export  index. ","","","","","","",""
+"           (iii )  Income  terms  of  trade  = (NTT x  QIE)/100","","","","","","",""
+"           (iv)    QIE=Quantum Index of Exports.","","","","","","",""

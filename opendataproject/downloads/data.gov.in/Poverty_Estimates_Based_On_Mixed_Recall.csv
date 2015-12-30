@@ -1,0 +1,12 @@
+-----
+{
+ "description": "The percentage of BPL population in the urban areas in India has declined from 23.64% to 21.7% in 2004-05 (based on mixed recall period). A comparison of poverty estimates based on mixed recall period is given in table.", 
+ "file_name": "Poverty_Estimates_Based_On_Mixed_Recall.xls", 
+ "title": "Download XLS for Comparison Of Poverty Estimates Based On Mixed Recall Period - Eleventh Five Year Plan Period", 
+ "url": "http://data.gov.in/sites/default/files/Poverty_Estimates_Based_On_Mixed_Recall.xls"
+}
+-----
+"Category","1999–2000 (Percentage of the Total Population)","2004–05 (Percentage of the Total Population)"
+"Rural ",27.1,21.8
+"Urban",23.64,21.7
+"Total",26.1,21.8

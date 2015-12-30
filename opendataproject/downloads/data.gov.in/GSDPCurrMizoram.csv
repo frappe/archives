@@ -1,0 +1,32 @@
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at current prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPCurrMizoram.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Mizoram at factor cost at current prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPCurrMizoram.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture",36138,37848,40782,52208,64830,75931,80476,89663
+"Forestry & Logging",23867,23866,24608,25800,27090,29218,29956,31501
+"Fishing",3020,3073,3175,2101,2145,2687,3366,4217
+"Agriculture & Allied",63025,64787,68565,80109,94065,107836,113798,125381
+"Mining & Quarrying",802,610,1084,1683,2425,1674,1104,745
+"Manufacturing",3767,3904,4783,5987,6002,6040,7574,8264
+"Manufacturing - Registered",571,824,582,676,548,672,1150,1292
+"Manufacturing - Unregistered",3196,3080,4201,5311,5454,5368,6424,6972
+"Construction",28901,42655,45021,52065,73610,78957,106921,128862
+"Electricity, Gas and Water supply",11059,12614,13320,16610,13164,16058,14069,14545
+"Industry",44529,59783,64208,76345,95201,102729,129668,152416
+"Transport, Storage & Communication",7187,7806,8836,10073,11142,11632,13879,15505
+"Railways",25,26,35,47,32,38,39,43
+"Transport by other means",5592,5917,6717,7812,8674,8764,10519,11584
+"Storage",54,57,68,83,100,120,149,182
+"Communication",1516,1806,2016,2131,2336,2710,3172,3696
+"Trade, Hotels and restaurants",25717,28852,32957,39102,45517,51723,59446,67936
+"Banking & Insurance",7297,7714,8967,10131,11723,13544,14610,16310
+"Real estate, Ownership of dwellings and Business services",36517,42599,49681,58174,65676,74595,84303,95513
+"Public Administration",49498,49681,54875,60227,76669,97390,112081,135515
+"Other services",34427,35893,40909,47390,57718,66536,77985,90564
+"Services",160643,172545,196225,225097,268445,315420,362304,421343
+"State Domestic Product",268197,297115,328998,381551,457711,525985,605770,699140

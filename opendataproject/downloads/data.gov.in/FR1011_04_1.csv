@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This table provides data pertaining to Core Tenth Plan Resources of States and UTs (Rs. Crore at 2001-02 Prices)", 
+ "file_name": "FR1011_04_1.xls", 
+ "title": "Download XLS for Core Tenth Plan Resources of States and UTs", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_04_1.xls"
+}
+-----
+"Sl. No.","Sources of Funding","Projection (Rs. Crore at 2001-02 Prices)","Realization (Rs. Crore at 2001-02 Prices)","Percentage Realisation","Percentages of  Aggeragate Plan Resources for Projection","Percentages of  Aggeragate Plan Resources for Realization"
+1.0,"Balance From Current Revenues",-15295.0,-25514.0,-166.8,-2.58821419143,-4.48217162392
+2.0,"Resources of PSEs",82684.0,95714.0,155.8,13.9917556198,16.8145557267
+"2a","(i) Internal Resources",-7760.0,9653.0,224.4,-1.31314430373,1.69579065163
+"2b","(ii) Extra-Budgetary  Resources",90444.0,86061.0,95.2,15.3048999235,15.1187650751
+3.0,"Borrowings",264802.0,299022.0,112.9,44.8096956077,52.5306860284
+4.0,"State's Own Resources (1+2+3)",332191.0,369222.0,111.1,56.2132370361,64.8630701312
+5.0,"Central Assistance",258757.0,200011.0,77.3,43.7867629639,35.1369298688
+6.0,"Aggregate Plan Resources (4+5)",590948.0,569233.0,96.3,100.0,100.0
+7.0,"GBS to Plan (6-2)",508264.0,473519.0,93.2,86.0082443802,83.1854442733
+8.0,"GBS as percentage of GDP",3.6,3.4,94.4444444444,"",""

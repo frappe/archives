@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides the region-wise status of Hydro Electric Potential Development in the power sector. ", 
+ "file_name": "Status_Hydro_Electric_Potential_Development.xls", 
+ "title": "Download XLS for Status of Hydro Electric Potential Development - Power Sector", 
+ "url": "http://data.gov.in/sites/default/files/Status_Hydro_Electric_Potential_Development.xls"
+}
+-----
+"Region","Total potential","Capacity developed","Capacity Under development","Total Developed+ Under development","Total Developed and Under Development (%)","Capacity yet to be developed","capacity yet to be developed (%)"
+"Northern",52263.0,15479.0,5416.0,20895.0,0.4,31368.0,0.6
+"Western",8131.0,5552.0,400.0,5952.0,0.73,2179.0,0.27
+"Southern",15890.0,9367.0,570.0,9937.0,0.625,5953.0,37.5
+"Eastern",10680.0,2908.0,2713.0,5621.0,0.526,5059.0,47.4
+"North Eastern",58356.0,1200.0,2852.0,4052.0,0.07,54304.0,0.93
+"All India",145320.0,34506.0,11951.0,46457.0,0.32,98863.0,0.68

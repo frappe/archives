@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows Immunization Status of Children (12-23 months). It gives state-wise details regarding immunization status against BCG and measles and all other vaccinations. The states which have been good performers are Andhra Pradesh, Kerala, Himachal Pradesh and Maharashtra. ", 
+ "file_name": "ICDS_Table7.2.xls", 
+ "title": "Download XLS for Immunization Status of Children (12-23 months)", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table7.2.xls"
+}
+-----
+"States/UTs","BCG","Measels","All vaccination"
+"Andhra Pradesh",95.3,74.9,49.6
+"Assam",73.0,66.6,37.0
+"Bihar",73.9,53.1,39.8
+"Chhattisgarh",88.3,70.7,54.0
+"Gujarat",91.6,74.0,55.2
+"Haryana",82.3,80.7,74.8
+"Himachal Pradesh",100.0,88.6,73.0
+"Jammu and Kashmir",97.0,86.7,78.0
+"Jharkhand",83.7,65.9,51.1
+"Karnataka",88.6,75.4,63.4
+"Kerala",100.0,88.4,79.7
+"Madhya Pradesh",86.1,65.5,48.9
+"Maharashtra",100.0,88.3,65.1
+"Orissa",83.2,73.7,59.1
+"Punjab",88.4,79.7,67.9
+"Rajasthan",70.5,58.4,31.9
+"Tamil Nadu",99.1,90.9,86.7
+"Uttar Pradesh",71.0,41.5,29.9
+"Uttrakhand",91.4,75.6,63.6
+"West Bengal",94.0,82.2,67.4
+"Delhi",89.6,89.6,63.6
+"Chandigarh",100.0,100.0,100.0
+"Arunachal Pradesh",65.1,34.6,19.1
+"Manipur",100.0,100.0,100.0
+"Meghalaya",82.8,100.0,82.8
+"Mizoram",75.4,100.0,75.4
+"Nagaland",96.8,81.2,78.0
+"Tripura",80.1,72.8,69.4
+"Sikkim",100.0,100.0,100.0
+"Dadar& Nagar Haveli",100.0,100.0,100.0
+"Daman & Diu",100.0,100.0,100.0
+"Goa",100.0,59.3,59.3
+"Puducherry",100.0,100.0,100.0
+"Andaman & Nicobar Islands",100.0,95.0,95.0
+"All India",84.4,67.2,51.2

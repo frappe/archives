@@ -1,0 +1,22 @@
+-----
+{
+ "description": "Immigration, Visa, Foreigners\u2019 Registration and Training (IVFRT) is one of the central MMPs in the National eGovernance Plan (NeGP) which is conceptualized with an aim to enhance the experience of in-bound and out-bound travelers from and to India by looking into the aspects of Passport, Visa, ...", 
+ "file_name": "VISA_Details_As_on_30-Apr-2013.csv", 
+ "title": "Download CSV for Issuance of VISA to Various Foreign Nationals against Various Categories of VISAs Starting 1999 up to 30th April 2013", 
+ "url": "http://data.gov.in/sites/default/files/VISA_Details_As_on_30-Apr-2013.csv"
+}
+-----
+-----
+{
+ "description": "The table gives the proportionate share of Sectors in Employment as per NSS 61st and 66th Rounds (in percentage) for the years 1999-2000, 2004-05 and 2009-10. It gives sector-wise details, where share of Agriculture sector is high as compared to other sectors.", 
+ "file_name": "share_of_Sectors_in_Employment.xls", 
+ "title": "Download XLS for Proportionate Share of Sectors in Employment (in percentage)", 
+ "url": "http://data.gov.in/sites/default/files/share_of_Sectors_in_Employment.xls"
+}
+-----
+"Sectors ","(%) 1999-2000","(%) 2004-05","(%) 2009-10"
+"Agriculture ",59.9,56.6,53.2
+"Manufacturing  ",11.1,12.2,11.0
+"Non-manufacturing ",5.3,6.5,10.5
+"Services ",23.7,24.7,25.3
+"Total ",100.0,100.0,100.0

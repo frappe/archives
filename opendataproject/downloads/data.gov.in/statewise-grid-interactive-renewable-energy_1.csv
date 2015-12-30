@@ -1,0 +1,46 @@
+-----
+{
+ "description": "This table gives state-wise installed capacity of Grid Interactive Renewable Power for Solar, Wind, Small Hydro and Biomass as on 31st March 2013.\t\t\t\t\t\t\r", 
+ "file_name": "statewise-grid-interactive-renewable-energy_1.xls", 
+ "title": "Download XLS for State-wise Installed Capacity of Grid Interactive Renewable Power As On 31st March 2013", 
+ "url": "http://data.gov.in/sites/default/files/statewise-grid-interactive-renewable-energy_1.xls"
+}
+-----
+"States / UTs","Small Hydro Power (MW)","Wind Power (MW)","Bio-Power-BM Power/Cogen.(MW)","Bio-Power-Waste to Energy (MW)","Solar Power (MWp)","Total Capacity (MW)"
+"Andhra Pradesh",219.03,447.65,380.75,43.16,23.35,1113.94
+"Arunachal Pradesh",103.905,"NA","NA","NA",0.025,103.93
+"Assam",31.11,"NA","NA","NA","NA",31.11
+"Bihar ",70.7,"NA",43.3,"NA","NA",114.0
+"Chhatisgarh",52.0,"NA",249.9,"NA",4.0,305.9
+"Goa",0.05,"NA","NA","NA","NA",0.05
+"Gujarat",15.6,3174.58,30.5,"NA",857.9,4078.58
+"Haryana",70.1,"NA",45.3,"NA",7.8,123.2
+"Himachal Pradesh",587.905,"NA","NA","NA","NA",587.905
+"Jammu & Kashmir",130.53,"NA","NA","NA","NA",130.53
+"Jharkhand",4.05,"NA","NA","NA",16.0,20.05
+"Karnataka",963.758,2135.15,491.38,1.0,14.0,3605.288
+"Kerala",158.42,35.1,"NA","NA",0.025,193.545
+"Madhya Pradesh ",86.16,386.0,16.0,3.9,37.315,529.375
+"Maharashtra",299.925,3021.85,756.9,9.72,100.0,4188.395
+"Manipur",5.45,"NA","NA","NA","NA",5.45
+"Meghalaya",31.03,"NA","NA","NA","NA",31.03
+"Mizoram",36.47,"NA","NA","NA","NA",36.47
+"Nagaland",28.67,"NA","NA","NA","NA",28.67
+"Odisha",64.3,"NA",20.0,"NA",13.0,97.3
+"Punjab",154.5,"NA",124.5,9.25,9.325,297.575
+"Rajasthan",23.85,2684.65,91.3,"NA",552.9,3352.7
+"Sikkim",52.11,"NA","NA","NA","NA",52.11
+"Tamil Nadu",123.05,7162.18,538.7,8.05,17.105,7849.085
+"Tripura",16.01,"NA","NA","NA","NA",16.01
+"Uttar Pradesh",25.1,"NA",776.5,5.0,17.375,823.975
+"Uttarakhand",174.82,"NA",10.0,"NA",5.05,189.87
+"West Bengal ",98.4,"NA",26.0,"NA",2.05,126.45
+"Andaman & Nicobar",5.25,"NA","NA","NA",5.1,10.35
+"Chandigarh","NA","NA","NA","NA","NA",0.0
+"Dadar & Nagar Haveli","NA","NA","NA","NA","NA",0.0
+"Daman & Diu","NA","NA","NA","NA","NA",0.0
+"Delhi","NA","NA","NA",16.0,2.5555,18.5555
+"Lakshwadeep","NA","NA","NA","NA",0.75,0.75
+"Pondicherry","NA","NA","NA","NA",0.025,0.025
+"Others","NA",4.3,"NA","NA",0.79,5.09
+"Total(MW)",3632.253,19051.46,3601.03,96.08,1686.4405,28067.2635

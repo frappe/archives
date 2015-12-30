@@ -1,0 +1,17 @@
+-----
+{
+ "description": "This table provides Status on Rajiv Gandhi Grameen Vidyutikaran Yojana (RGGVY) Progress during the Tenth and the Eleventh Five Year Plan. It gives the achievements and targets for Unelectrified Villages and BPL Households. ", 
+ "file_name": "Status_on_RGGVY_Progress.xls", 
+ "title": "Download XLS for Status on RGGVY Progress - Tenth and the Eleventh Five Year Plan", 
+ "url": "http://data.gov.in/sites/default/files/Status_on_RGGVY_Progress.xls"
+}
+-----
+"Plan","Year","Unelectrified Villages (No.) : Target","Unelectrified Villages (No.) : Achievement","Unelectrified Villages (No.) : % Achievement","BPL Households (lakh) : Target","BPL Households (lakh) : Achievement","BPL Households (lakh) : % Achievement"
+"Tenth Plan","2005-06",10000.0,9819.0,0.982,3.0,0.17,0.057
+"Tenth Plan","2006-07",40000.0,28706.0,0.718,40.0,6.55,0.164
+"Eleventh Plan","2007-08",10500.0,9301.0,0.886,16.0,16.21,1.013
+"Eleventh Plan","2008-09",19000.0,12056.0,0.635,35.0,30.85,0.617
+"Eleventh Plan","2009-10",17500.0,18374.0,1.05,47.0,47.18,1.004
+"Eleventh Plan","2010-11",17500.0,18306.0,1.046,47.0,58.84,1.251
+"Eleventh Plan","2011-12 ",14500.0,7934.0,0.547,52.0,34.45,0.662
+"Eleventh Plan","Cumulative Eleventh Plan ",112795.0,65971.0,0.926,"","",""

@@ -1,0 +1,13 @@
+-----
+{
+ "description": "This table gives an overview of Freight Yields in some major economies.", 
+ "file_name": "Freight_Yields.xls", 
+ "title": "Download XLS for Freight Yields In Some Major Economies", 
+ "url": "http://data.gov.in/sites/default/files/Freight_Yields.xls"
+}
+-----
+"Country","Freight Yield S Cents/Total Tonne-KM at nominal prices","Freight Yield S Cents/Total Tonne -KM adjusted for PPP (India=1)"
+"India",2.11,1.0
+"China",1.49,0.58
+"Russia",2.2,0.75
+"USA",2.28,0.51

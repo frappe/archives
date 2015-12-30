@@ -1,0 +1,14 @@
+-----
+{
+ "description": "The Provisional Census Data of the 2001 Census reveals several significant facets of urbanization over the last decade. Of the 1.02 billion population, 285 million or 27.8 per cent live in the urban areas which comprise 5,161 towns, an increase of 2.1 per cent over the proportion of urban ...", 
+ "file_name": "Proportion_Of_Urban_Population_And_total_Population_1.xls", 
+ "title": "Download XLS for Proportion Of Urban Population And Total Population", 
+ "url": "http://data.gov.in/sites/default/files/Proportion_Of_Urban_Population_And_total_Population_1.xls"
+}
+-----
+"Year ","Percent of Urban population to total population"
+1961.0,17.97
+1971.0,19.91
+1981.0,23.34
+1991.0,25.71
+2001.0,27.78

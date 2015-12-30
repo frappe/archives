@@ -1,0 +1,47 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Dugwells in use according to Utilization of Potential Created. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dgwlNat1.15.csv", 
+ "title": "Download CSV for Statewise Distribution of Dugwells in use according to Utilization of Potential Created", 
+ "url": "http://data.gov.in/sites/default/files/dgwlNat1.15.csv"
+}
+-----
+-----
+{
+ "description": "The table refers to Statewise Distribution of Dugwells in use according to Utilization of Potential Created. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "dgwlNat1.15.csv", 
+ "title": "Download CSV for Statewise Distribution of Dugwells in use according to Utilization of Potential Created", 
+ "url": "http://data.gov.in/sites/default/files/dgwlNat1.15.csv"
+}
+-----
+"State","No constraints in utilisation","Constraints in utilisation - Inadequate power supply","Constraints in utilisation - Mechanical break down","Constraints in utilisation - Less water discharge","Constraints in utilisation - Other reason","Total - Constraints in utilisation","Total in use"
+"ANDHRA PRADESH",485649,22789,11933,376303,49719,460744,946393
+"ARUNACHAL PRADESH",3,1,0,0,0,1,4
+"ASSAM",89,10,3,4,33,50,139
+"BIHAR",27458,8926,10744,29030,15097,63797,91255
+"CHHATTI SGARH",22245,867,228,17702,141327,160124,182369
+"GOA",3091,120,93,584,1145,1942,5033
+"GUJ ARAT",34854,15501,17586,460249,201708,695044,729898
+"HARYANA",0,1168,353,444,12311,14276,14276
+"HIMACHAL PRADESH",1023,13,34,231,585,863,1886
+"JAMMU & KASHMIR",1916,123,9,222,193,547,2463
+"JHARKHAND",81,2277,1736,297892,4627,306532,306613
+"KARNATAKA",185580,34925,2695,52389,40215,130224,315804
+"KERALA",108221,2913,1954,24069,26772,55708,163929
+"MADHYA PRADESH",389252,33793,4479,549539,69263,657074,1046326
+"MAHARASHTRA",321000,92753,5044,925569,132589,1155955,1476955
+"MANIPUR",0,0,0,3,0,3,3
+"MEGHALAYA",6,0,0,2,3,5,11
+"NAGALAND",3,0,1,73,48,122,125
+"ORISSA",76414,461,1421,104983,100239,207104,283518
+"PUNJAB",762,2084,3,36,34,2157,2919
+"RAJASTHAN",329369,65444,6157,406585,37058,515244,844613
+"TAMIL NADU",194212,23550,21501,764604,286278,1095933,1290145
+"TRIPURA",105,3,0,133,1,137,242
+"UTTAR PRADESH",12848,3585,5257,56931,33965,99738,112586
+"UTTARANCHAL",532,1,0,5,261,267,799
+"WEST BENGAL",6996,110,128,380,27702,28320,35316
+"ANDAMAN & NICOBARS",6,0,0,0,0,0,6
+"DADRA & NAGAR HAVELI",572,0,0,0,0,0,572
+"PONDICHERRY",76,0,0,0,1,1,77
+"ALL INDIA",2202363,311417,91359,4067962,1181174,5651912,7854275

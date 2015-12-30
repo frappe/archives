@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides details on losses in passenger services of Indian Railways from 2004-05 to 2010-11.", 
+ "file_name": "Losses_in_Passenger_Services_of_Indian_Railways.xls", 
+ "title": "Download XLS for Losses In Passenger Services Of Indian Railways", 
+ "url": "http://data.gov.in/sites/default/files/Losses_in_Passenger_Services_of_Indian_Railways.xls"
+}
+-----
+"Year","Losses (Rs. Crore)"
+"2004-05",6159.41
+"2005-06",6022.66
+"2006-07",6449.22
+"2007-08",7067.67
+"2008-09",13901.22
+"2009-10",18960.67
+"2010-11",19964.03

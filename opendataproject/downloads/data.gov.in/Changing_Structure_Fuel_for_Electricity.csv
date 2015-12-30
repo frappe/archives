@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides details on the changing structure of Fuel for Electricity in the Energy Sector. It gives the category-wise percentage change in capacity and generation for the year 2012 and projections for the years 2017 and 2030.", 
+ "file_name": "Changing_Structure_Fuel_for_Electricity.xls", 
+ "title": "Download XLS for Changing Structure of Fuel for Electricity - Energy Sector", 
+ "url": "http://data.gov.in/sites/default/files/Changing_Structure_Fuel_for_Electricity.xls"
+}
+-----
+"Category","Capacity % - 2012","Capacity % - 2017","Capacity % - 2030","Generation % - 2012","Generation % - 2017","Generation % - 2030"
+"Coal",56.0,57.0,42.0,70.0,69.0,58.0
+"Oil",1.0,1.0,0.0,0.0,0.0,0.0
+"Gas",9.0,6.0,3.0,7.0,5.0,3.0
+"Hydro",20.0,15.0,13.0,14.0,12.0,11.0
+"Renewables",12.0,17.0,33.0,6.0,9.0,16.0
+"Nuclear",2.0,4.0,9.0,3.0,5.0,12.0
+"Total Clean Energy (4+5+6)",34.0,36.0,55.0,23.0,26.0,39.0

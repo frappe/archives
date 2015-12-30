@@ -1,0 +1,36 @@
+-----
+{
+ "description": "The table refers to the state's net domestic product at constant prices for the base year 2004-05. The estimate of net state domestic product is arrived at by deducting the consumption of fixed capital from the gross state domestic product for each sector.", 
+ "file_name": "MizoramNSDPconst_1.csv", 
+ "title": "Download CSV for Mizoram Net State Domestic Product at factor cost at Constant Prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/MizoramNSDPconst_1.csv"
+}
+-----
+"Sector","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Agriculture","32723","33363","34555","43222","53325","60133","61829","66577"
+"Foresty and Logging","23551","23639","23276","23725","23042","22910","22710","22546"
+"Fishing","2631","2702","1734","1720","1721","2077","2604","3203"
+"Ag and Allied","58905","59704","59565","68667","78088","85120","87143","92326"
+"Mining and Quarrying","669","448","868","1087","1603","629","317","141"
+"Sub total of primary","59574","60152","60433","69754","79691","85749","87460","92467"
+"Manufacturing","2632","2634","3162","3986","3690","3387","4366","4579"
+"Registered","571","789","522","578","434","512","848","922"
+"Unregistered","2061","1845","2640","3408","3256","2875","3518","3657"
+"Construction","27780","39083","38607","42419","54569","56255","69515","78459"
+"Electricity, Gas and water Supply","5386","6088","5679","6812","6134","7052","5484","5185"
+"Sub total of secondary","35798","47805","47448","53217","64393","66694","79365","88223"
+"Industry","36467","48253","48316","54304","65996","67323","79682","88364"
+"Transport Storage and Communication","6525","7071","8045","9131","9631","9470","10911","11641"
+"Railways","15","16","21","29","18","17","16","15"
+"Transport by other means","5185","5289","5624","6152","6347","5769","6779","7006"
+"Storage","52","53","58","67","75","85","100","115"
+"Communication","1273","1713","2342","2883","3191","3599","4016","4505"
+"Trade, hotels and restaurants","25221","27353","29445","33497","36683","40366","45192","50160"
+"Banking and Insurance","7154","8163","9761","11156","12312","14275","15516","17418"
+"Real estate, ownership of dwelling and business","32772","35559","38588","41980","45588","50181","54348","59340"
+"Pubic Administration","39802","38694","40493","41709","52116","60353","69498","80255"
+"Other Services","33114","32931","35059","38401","43289","56110","53756","59903"
+"Sub total of tertiary","144588","149771","161391","175874","199619","230755","249221","278717"
+"State domestic product","239960","257728","269272","298845","343703","383198","416046","459407"
+
+"Figures are in Rs. Lakh"

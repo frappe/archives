@@ -1,0 +1,148 @@
+{% extends base_template %}
+
+{% block content %}
+
+<h1>{{ title }}</h1>
+
+<p>{{ description }}</p>
+
+<ul class="nav nav-tabs" id="main-tab">
+  <li class="active"><a href="#graph" data-toggle="tab"><i class="icon-bar-chart"></i> Chart</a></li>
+  <li><a href="#map" data-toggle="tab"><i class="icon-map-marker"></i> Map</a></li>
+  <li><a href="#data" data-toggle="tab"><i class="icon-list"></i> Data</a></li>
+  <li><a href="#discussion" data-toggle="tab"><i class="icon-comments"></i> Discussion ({{ comment_list|length or 0 }})</a></li>
+  <li><a href="#settings" data-toggle="tab"><i class="icon-cog"></i> Settings</a></li>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="graph">
+	  <h3>Chart</h3>
+	  <canvas id="chart" height="400" width="700"></canvas>
+	  <div class="panel panel-default">
+		  <div class="panel-heading">Chart Options</div>
+		  <div class="panel-body">
+			  <form class="form" role="form">
+			  	<div class="form-group">
+			      <label for="chart-type">Chart Type</label>
+			      <select class="form-control" id="chart-type" placeholder="Chart Type">
+					  <option value="Line">Line</option>
+					  <option value="Bar">Bar</option>
+					  <option value="Pie">Pie</option>
+			      </select>
+			    </div>
+			  </form>
+			  <button class="btn btn-primary">Make</button>
+		  </div>
+	  </div>
+  </div>
+  <div class="tab-pane" id="map">...</div>
+  <div class="tab-pane" id="data">
+	  <h3>Data</h3>
+	  <div class="row">
+	  	<div class="col-xs-12" style="overflow-x: auto">
+	  		<table class="table table-bordered table-striped table-condensed table-responsive">
+	  			<tbody>
+	  				{% for row in data %}
+	  				<tr>
+	  					{% for i in range(max_cols) %}
+	  					<td>{{ row[i] }}</td>
+	  					{% endfor %}
+	  				</tr>
+	  				{% endfor %}
+	  			</tbody>
+	  		</table>
+	  	</div>
+	  </div>
+  </div>
+  <div class="tab-pane" id="discussion">
+  	<h3>Discussion</h3>
+  	{% include 'lib/website/templates/includes/comments.html' %}
+  </div>
+  <div class="tab-pane" id="settings">...</div>
+</div>
+
+<script>
+$(document).ready(function() {
+	var data_table = $("#data .table").get(0);
+	var header_rows = 0, header_columns = 0, data = [];
+
+	// extract data from table
+	for(var ri=0, rj=data_table.rows.length; ri<rj; ri++) {
+		for(var ci=0, cj=data_table.rows[ri].cells.length; ci<cj; ci++) {
+			if(!data[ci]) data[ci] = [];
+			var val = data_table.rows[ri].cells[ci].innerHTML;
+			if(val!="" || value !=null) {
+				if($.isNumeric(val)) {
+					val = parseFloat(val);
+				}
+			}
+			data[ci][ri] = val;
+		}
+	}
+		
+	var is_numeric = function(l) {
+		var alpha = 0;
+		$.each(l, function(i, v) {
+			if(!$.isNumeric(v)) alpha++;
+			if(alpha>3) return false;
+		});
+		return alpha<4;
+	}
+	
+	var get_column = function(data, idx) {
+		return $.map(data, function(row, ri) { 
+			var e = $.map(row, function(v, ci) { return ci===idx ? v : null })[0]; 
+			return e;
+		})
+	}
+		
+	var remove_column = function(data, idx) {
+		return $.map(data, function(row, ri) { 
+			return [$.map(row.slice(0,-1), function(v, ci) { return ci!==idx ? v : null })]; 
+		})
+	}
+
+	// remove alpha columns
+	for(var x=0; x<1; x++) {
+		var found = false;
+		for(var i=0, j = data[0].length; i<j; i++) {
+			if(data[0][i] && !is_numeric(get_column(data, i))) {
+				data = remove_column(data, i);
+				found = true;
+				break;
+			}
+		}
+		if(!found) 
+			break;
+	}
+	
+
+	var opts = {
+		labels: data[0].slice(0,-1),
+		datasets: []
+	}
+	
+	var add_dataset = function(opts, row) {
+		opts.datasets.push({
+			fillColor : "rgba(220,220,220,0.5)",
+			strokeColor : "rgba(220,220,220,1)",
+			pointColor : "rgba(220,220,220,1)",
+			pointStrokeColor : "#fff",
+			data : $.map(row, function(v, i) { return $.isNumeric(v) ? v : 0; })
+		});
+	}
+
+	$.each(data.slice(1), function(i, row) {
+		add_dataset(opts, row);
+	})
+
+	console.log(opts);
+
+	var chart = $("#chart");
+	chart.css("width", chart.parent().width());
+	
+	new Chart(chart.get(0).getContext("2d")).Line(opts);
+})
+</script>
+
+{% endblock %}

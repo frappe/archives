@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This table provides data related to the details of AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy and Naturopathy) educational institutions and their capacity as on 1st April 2007.", 
+ "file_name": "Details_of_AYUSH_Educational_Institutions_and_their_Capacity.xls", 
+ "title": "Download XLS for Details of AYUSH Educational Institutions and their Capacity as on 1st April 2007", 
+ "url": "http://data.gov.in/sites/default/files/Details_of_AYUSH_Educational_Institutions_and_their_Capacity.xls"
+}
+-----
+"Institutions/Capacity","Ayurveda","Yoga","Unani ","Siddha","Homeopathy ","Naturopathy ","Total"
+"Undergraduate Colleges",240.0,"NA",39.0,7.0,183.0,10.0,479.0
+"Admission Capacity",11225.0,"NA",1750.0,350.0,13425.0,385.0,27135.0
+"Colleges with Postgraduate Courses",62.0,"NA",7.0,3.0,33.0,"NA",105.0
+"Admission Capacity",991.0,"NA",67.0,110.0,1084.0,"NA",2252.0
+"Exclusive Postgraduate Institutes",2.0,"NA",1.0,1.0,2.0,"NA",6.0
+"Admission Capacity",40.0,"NA",28.0,30.0,99.0,"NA",197.0
+"Total Institutions",242.0,"NA",40.0,8.0,185.0,10.0,485.0

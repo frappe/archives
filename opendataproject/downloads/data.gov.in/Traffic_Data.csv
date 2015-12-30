@@ -1,0 +1,24 @@
+-----
+{
+ "description": "This table gives an overview of Major Port wise Traffic/Capacity Projections by End of Twelfth Plan.", 
+ "file_name": "Traffic_Data.xls", 
+ "title": "Download XLS for Major Port Wise Traffic/Capacity Projections by End of Twelfth Plan", 
+ "url": "http://data.gov.in/sites/default/files/Traffic_Data.xls"
+}
+-----
+"PORT","TrafficExisting (2011-12)","Traffic Forecast (2016-17)","Capacity Existing (2011-12)"," Capacity Forecast (2016-17)"
+"Kolkata",12.23,22.87,16.35,32.85
+"Haldia Dock Complex",31.01,53.2,50.7,71.1
+"Paradip",54.25,87.7,70.5,125.5
+"Visakhapatnam",67.42,80.0,72.93,130.23
+"Ennore",14.96,82.45,31.0,78.0
+"Chennai",55.71,69.74,79.72,114.72
+"V.O. Chidambaranar",28.01,48.84,33.34,81.54
+"Cochin",20.1,45.5,40.98,57.83
+"New Mangalore",32.94,53.5,50.97,84.89
+"Mormugao",39.0,58.25,41.9,72.71
+"Mumbai",56.18,67.4,44.53,79.13
+"JNPT",65.75,140.21,64.0,155.61
+"Kandla",82.5,130.9,86.91,145.13
+"Port Blair",0.0,2.5,0.0,0.0
+"Total",560.15,943.06,689.93,1229.24

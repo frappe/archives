@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table shows the status of estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It captures the extent of coverage of supplementary nutrition scheme on aspects such as whether the beneficiary is receiving food supply or not.", 
+ "file_name": "ICDS_Table5.2.xls", 
+ "title": "Download XLS for Status of effective coverage of supplementary nutrition programme for children", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table5.2.xls"
+}
+-----
+"States/UTs","Receiving food-As % of children recorded in delivery register","Receiving food-Average number of days per month","Effective coverage as % of children recorded in delivery register","Not Receiving food due to constraints on-Supply side As % of children recorded in delivery register","Not Receiving food due to constraints on-Demand side As % of children recorded in delivery register","Awareness of food entitlement (%)"
+"Andhra Pradesh",73.7,16.0,47.2,26.3,0.0,86.39
+"Assam",73.6,2.0,5.9,24.3,2.12,40.11
+"Bihar",52.6,14.0,29.4,43.9,3.58,16.44
+"Chhattisgarh",85.6,19.0,65.1,13.1,1.33,17.97
+"Gujarat",86.5,19.0,65.7,11.9,1.64,66.48
+"Haryana",51.9,21.0,43.6,0.0,48.07,14.56
+"Himachal Pradesh",77.1,17.0,52.4,11.7,11.2,31.93
+"Jammu and Kashmir",91.5,18.0,65.9,7.0,1.44,10.91
+"Jharkhand",88.3,18.0,63.6,9.7,1.99,20.07
+"Karnataka",80.4,21.0,67.5,15.7,3.88,89.97
+"Kerala",75.8,20.0,60.7,14.0,10.46,95.89
+"Madhya Pradesh",68.2,14.0,38.2,27.3,4.45,14.51
+"Maharashtra",69.6,21.0,58.4,19.0,11.44,67.68
+"Orissa",69.9,21.0,58.8,30.1,0.0,17.46
+"Punjab",59.1,17.0,40.2,26.8,14.01,18.27
+"Rajasthan",55.6,15.0,33.4,29.6,14.84,25.92
+"Tamil Nadu",76.0,21.0,63.7,15.0,9.25,87.67
+"Uttar Pradesh",40.6,14.0,22.7,40.6,18.8,11.58
+"Uttrakhand",81.9,8.0,26.2,12.9,5.25,19.35
+"West Bengal",78.3,21.0,65.8,18.1,3.65,14.48
+"Delhi",56.5,22.0,49.7,0.0,43.55,14.06
+"Chandigarh",68.0,22.0,59.9,"NA","NA","NA"
+"Arunachal Pradesh",94.4,8.0,30.2,5.6,0.0,0.41
+"Manipur",44.9,12.0,21.6,55.1,0.0,12.59
+"Meghalaya",79.8,18.0,57.5,13.1,7.12,63.6
+"Mizoram",91.8,19.0,69.8,0.0,8.21,89.9
+"Nagaland",82.4,6.0,19.8,"NA","NA",93.57
+"Tripura",77.6,17.0,52.8,12.7,9.65,17.0
+"Sikkim",93.8,14.0,52.5,"NA","NA",9.27
+"Dadra & Nagar Haveli",60.0,24.0,57.6,"NA","NA",92.38
+"Daman & Diu",54.7,23.0,50.3,"NA","NA",81.17
+"Goa",73.4,20.0,58.7,"NA","NA",100.0
+"Puducherry",56.7,22.0,49.9,"NA","NA",100.0
+"Andaman & Nicobar Island","NA",24.0,"NA","NA","NA",6.92
+"All India",64.0,16.0,41.0,29.4,6.7,33.9

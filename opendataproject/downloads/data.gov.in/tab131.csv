@@ -1,0 +1,52 @@
+-----
+{
+ "description": "This table gives the Index of Industrial Production(IIP) since 2006-07. The IIP is a composite indicator that measures the short-term changes in the volume of production of a basket of industrial products during a given period with respect to that in a chosen base period. The table gives the ...", 
+ "file_name": "tab131.xls", 
+ "title": "Download XLS for Index of Industrial Production(External Link that opens in a new window)", 
+ "url": "http://indiabudget.nic.in/tab2012/tab131.xls"
+}
+-----
+"1.31 : INDEX OF INDUSTRIAL PRODUCTION","","","","","","","",""
+"","","","","","","","(Base: 2004–05=100)",""
+"Industry","Industry","Weight","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Group","","","","","","","",""
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0
+"General Index","",100.0,122.6,141.7,145.2,152.9,165.5,170.266666667
+10.0,"Mining",14.16,107.5,112.5,115.4,124.5,131.0,128.455833333
+"15-36 ","Manufacturing",75.53,126.8,150.1,153.8,161.3,175.7,180.958333333
+15.0,"Food products and beverages",7.28,131.2,147.5,135.4,133.5,142.9,164.833333333
+16.0," Tobacco products",1.57,102.9,98.4,102.7,102.0,104.1,109.683333333
+17.0,"Textiles",6.16,116.8,124.6,120.1,127.4,135.9,134.033333333
+18.0,"Wearing apparel; dressing and","","","","","","",""
+"","dyeing of fur",2.78,137.2,149.9,134.6,137.1,142.2,130.1
+19.0," Luggage, handbags, saddlery,","","","","","","",""
+"","harness & footwear; tanning and",0.58,104.0,110.0,104.4,105.8,114.3,118.5
+"","dressing of leather products","","","","","","",""
+20.0," Wood and products of wood &","","","","","","",""
+"","cork except furniture; articles of","","","","","","",""
+"","straw & plating materials",1.05,126.0,148.0,155.3,160.1,156.5,159.241666667
+21.0," Paper and paper products",1.0,111.0,112.6,118.0,121.1,131.4,138.008333333
+22.0,"Publishing, printing & reproduction","","","","","","",""
+"","of recorded media",1.08,122.8,140.2,142.4,133.8,148.8,192.833333333
+23.0,"Coke, refined petroleum products &","","","","","","",""
+"","nuclear fuel",6.72,112.6,119.6,123.4,121.8,121.5,125.766666667
+24.0," Chemicals and chemical products",10.06,110.4,118.4,115.0,120.7,123.1,122.65
+25.0,"Rubber and plastics products",2.02,119.6,135.7,142.6,167.4,185.2,184.616666667
+26.0,"Other non-metallic mineral products",4.31,119.5,130.6,134.9,145.4,151.4,158.6
+27.0,"Basic metals",11.34,132.6,156.3,159.0,162.4,176.7,192.083333333
+28.0," Fabricated metal products, except","","","","","","",""
+"","machinery & equipment",3.08,133.3,143.8,144.0,158.6,182.8,203.266666667
+29.0," Machinery and equipment n.e.c.",3.76,150.9,185.0,171.0,198.0,256.3,241.275
+30.0,"Office, accounting & computing","","","","","","",""
+"","machinery",0.31,155.5,164.8,148.8,154.4,146.3,148.741666667
+31.0," Electrical machinery & apparatus n.e.c.",1.98,131.6,373.0,530.8,459.2,472.1,367.116666667
+32.0," Radio, TV and communication","","","","","","",""
+"","equipment & apparatus",0.99,312.8,604.2,726.7,809.1,911.5,950.516666667
+33.0," Medical, precision & optical","","","","","","",""
+"","instruments, watches and clocks",0.57,104.8,111.4,119.8,100.9,107.8,119.508333333
+34.0," Motor vehicles, trailers & semi-trailers",4.06,138.0,151.2,138.0,179.1,233.3,258.566666667
+35.0," Other transport equipment",1.82,132.9,129.0,134.0,171.1,210.7,235.816666667
+36.0," Furniture; manufacturing n.e.c.",3.0,111.7,132.7,142.5,152.7,141.2,138.566666667
+40.0,"Electricity",10.32,112.8,120.0,123.3,130.8,138.0,149.291666667
+"Source : Central Statistics Office","Source : Central Statistics Office","","","","","","",""
+"n.e.c. : not elsewhere classified.","n.e.c. : not elsewhere classified.","","","","","","",""

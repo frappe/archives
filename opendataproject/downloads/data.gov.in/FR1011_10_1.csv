@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides data related to Plan Resources as Per Cent of GDP. ", 
+ "file_name": "FR1011_10_1.xls", 
+ "title": "Download XLS for Plan Resources as Per Cent of GDP ", 
+ "url": "http://data.gov.in/sites/default/files/FR1011_10_1.xls"
+}
+-----
+"Aggregate Plan Resources","Tenth Plan","Eleventh Plan","Increase over Tenth Plan"
+"Centre",5.38,7.99,2.61
+"States",4.08,5.55,1.47
+"Centre and States",9.46,13.54,4.08
+"Balance from Current Revenues :Centre",-0.84,2.31,3.15
+"Balance from Current Revenues :States",-0.18,1.41,1.59
+"Balance from Current Revenues : Centre and States",-1.02,3.72,4.74

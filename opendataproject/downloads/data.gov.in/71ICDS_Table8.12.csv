@@ -1,0 +1,30 @@
+-----
+{
+ "description": "The table shows the Impact of ICDS on enrolment of and discontinuation by children aged 7-14 years in primary and post-primary education. At the national level the impact on enrolment is positive, while that on discontinuation is negative.", 
+ "file_name": "71ICDS_Table8.12.xls", 
+ "title": "Download XLS for Impact of ICDS on enrolment of and discontinuation by children aged 7-14 years in primary and post-primary education", 
+ "url": "http://data.gov.in/sites/default/files/71ICDS_Table8.12.xls"
+}
+-----
+"States","Impact of ICDS on enrolment","Impact of ICDS on discontinuation"
+"Andhra Pradesh",6.0,2.5
+"Assam",-0.5,-5.3
+"Bihar",4.5,0.9
+"Chhattisgarh",1.7,-0.5
+"Gujarat",2.0,2.1
+"Haryana",0.0,0.1
+"Himachal Pradesh",0.0,0.1
+"Jammu and Kashmir",-1.8,1.4
+"Jharkhand",7.1,-1.7
+"Karnataka",-3.6,-0.1
+"Kerala",0.0,-1.3
+"Madhya Pradesh",16.6,1.5
+"Maharashtra",1.8,0.6
+"Orissa",5.4,-0.1
+"Punjab",11.7,1.9
+"Rajasthan",2.2,0.1
+"Tamil Nadu",3.6,0.1
+"Uttar Pradesh",4.4,-5.0
+"Uttarakhand",-0.8,1.2
+"West Bengal",1.0,-2.4
+"Total",5.0,-2.5

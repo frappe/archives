@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This table provides details on cumulative achievement of transmission lines at the end of the Eleventh Plan.", 
+ "file_name": "Cumulative_Achievement_of_Transmission_Lines_at_The_End_of_The_Eleventh_Plan.xls", 
+ "title": "Download XLS for Cumulative Achievement of Transmission Lines at The End of The Eleventh Plan", 
+ "url": "http://data.gov.in/sites/default/files/Cumulative_Achievement_of_Transmission_Lines_at_The_End_of_The_Eleventh_Plan.xls"
+}
+-----
+"Category","Transmission System Type/ Voltage Class","Unit","At the end of Tenth Plan (March 2007)","Addition during Eleventh Plan","At the End of Eleventh Plan (March 2012)"
+"Transmission Lines","765 kV","Ckm",1704.0,3546.0,5250.0
+"Transmission Lines","HVDC + 500 kV Bi-pole","Ckm",5872.0,3560.0,9432.0
+"Transmission Lines","400 kV","Ckm",69174.0,37645.0,106819.0
+"Transmission Lines","230/220 kV","Ckm",110805.0,25175.0,135980.0
+"Transmission Lines","Total","Ckm",187555.0,69926.0,257481.0
+"Transmission Lines Sub-Stations","765 kV","MVA",0.0,25000.0,25000.0
+"Transmission Lines Sub-Stations","400 kV","MVA",92942.0,58085.0,151027.0
+"Transmission Lines Sub-Stations","230/220 kV","MVA",156497.0,67277.0,223774.0
+"Transmission Lines Sub-Stations","Total","MVA",249439.0,150.362,399801.0
+"HVDC","Bi-pole link capacity","MW",5000.0,1750.0,6750.0
+"HVDC","Back-to-back capacity","MW",3000.0,0.0,3000.0
+"HVDC","Total","MW",8000.0,1750.0,9750.0

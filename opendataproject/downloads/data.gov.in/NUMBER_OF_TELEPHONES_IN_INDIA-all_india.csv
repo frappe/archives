@@ -1,0 +1,18 @@
+-----
+{
+ "description": "Data provides all India (from 2004 to 2011) and state-wise (2010 and 2011) details on the number of telephones (including wireline phones and wireless phones) in India.", 
+ "file_name": "NUMBER_OF_TELEPHONES_IN_INDIA.xls", 
+ "title": "Download XLS for Number of Telephones In India", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_TELEPHONES_IN_INDIA.xls"
+}
+-----
+"Year","Wireline Phones
+=Fixed DELs","Wireless Phones =GSM+CSMA","Total Telephones"
+2004.0,40.92,35.61,76.53
+2005.0,41.42,56.95,98.37
+2006.0,40.23,101.86,142.09
+2007.0,40.77,165.09,205.87
+2008.0,39.41,261.08,300.49
+2009.0,37.97,391.76,429.73
+2010.0,36.96,584.32,621.28
+2011.0,34.73,811.59,846.32

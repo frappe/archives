@@ -1,0 +1,30 @@
+-----
+{
+ "description": "The table shows the Impact of Integrated Child Development Services (ICDS) on the practice of a child getting weighed at birth. Weighing of the child at birth is considered an important component of ICDS and the table provides the estimated impact of ICDS on this practice.", 
+ "file_name": "ICDS_Table8.10.xls", 
+ "title": "Download XLS for Impact of ICDS on the practice of a child getting weighed at birth", 
+ "url": "http://data.gov.in/sites/default/files/ICDS_Table8.10.xls"
+}
+-----
+"State","Impact"
+"Andhra Pradesh",2.1
+"Assam",1.7
+"Bihar",-1.5
+"Chhattisgarh",2.0
+"Gujarat",-0.2
+"Haryana",-7.8
+"Himachal Pradesh",-14.2
+"Jammu and Kashmir",-8.8
+"Jharkhand",10.3
+"Karnataka",-12.5
+"Kerala",-0.4
+"Madhya Pradesh",-5.8
+"Maharashtra",2.0
+"Orissa",-1.3
+"Punjab",-22.0
+"Rajasthan",0.4
+"Tamil Nadu",-2.4
+"Uttar Pradesh",-1.2
+"Uttarakhand",0.8
+"West Bengal",-12.5
+"Total",-0.7

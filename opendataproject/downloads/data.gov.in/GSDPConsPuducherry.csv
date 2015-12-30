@@ -1,0 +1,40 @@
+-----
+{
+ "description": "The table contains month-wise Karnataka state agricultural market commodities arrival data from all APMCs (Agricultural Produce Market Committee) for the year 2012.", 
+ "file_name": "KarnatakaMarketDataArrival-Rates2012.xls", 
+ "title": "Download XLS for Karnataka Agricultural Market Data for 2012", 
+ "url": "http://data.gov.in/sites/default/files/KarnatakaMarketDataArrival-Rates2012.xls"
+}
+-----
+-----
+{
+ "description": "The table refers to state's gross state domestic product at factor cost at constant prices for the base year 2004-05 by economic activity.", 
+ "file_name": "GSDPConsPuducherry.csv", 
+ "title": "Download CSV for Gross State Domestic Product of Puducherry at factor cost at constant prices for the base year 2004-05", 
+ "url": "http://data.gov.in/sites/default/files/GSDPConsPuducherry.csv"
+}
+-----
+Sector,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14
+Agriculture,19982,22164,26086,27110,33518,24306,30984,27850,37388,38763
+Forestry & Logging,3500,1367,1432,1513,6635,7867,8757,8126,8213,8631
+Fishing,7000,5914,4886,3348,7105,7104,9596,9003,27801,32179
+Agriculture & Allied,30482,29445,32404,31971,47258,39277,49337,44979,73402,79573
+Mining & Quarrying,0,0,0,0,0,0,0,176,184,229
+Manufacturing,204499,300915,272611,278198,309512,368731,337517,343764,425912,446011
+Manufacturing - Registered,168585,263186,230464,231995,260854,320038,284709,290038,373932,389260
+Manufacturing - Unregistered,35914,37729,42147,46203,48658,48693,52808,53726,51980,56751
+Construction,75301,79477,83798,89391,91534,93112,94425,102069,112578,118391
+"Electricity, Gas and Water supply",9001,9155,9606,22508,10545,10463,11204,12232,15732,16694
+Industry,288801,389547,366015,390097,411591,472306,443146,458241,554406,581325
+"Transport, Storage & Communication",20241,19147,21321,22248,29827,53558,71980,85158,53036,65448
+Railways,66,67,115,124,246,258,275,295,443,529
+Transport by other means,10598,12074,14727,16118,17285,17668,21224,23680,23277,30419
+Storage,63,68,81,98,118,120,201,273,300,377
+Communication,9514,6938,6398,5908,12178,35512,50280,60910,29016,34123
+"Trade, Hotels and restaurants",109939,140831,164198,183343,173078,182192,214350,198811,215080,292666
+Banking & Insurance,19013,22838,29750,34327,37730,45322,45652,55396,44714,52980
+"Real estate, Ownership of dwellings and Business services",43947,51050,59831,71339,86818,107089,132413,165345,165855,251611
+Public Administration,19608,26240,21702,22042,33294,37431,38778,38725,90189,118852
+Other services,43339,39725,50120,53961,59815,80398,84983,97405,158741,198453
+Services,256087,299831,346922,387260,420562,505990,588156,640840,727615,980010
+State Domestic Product,575371,718823,745341,809328,879410,1017573,1080640,1144062,1355423,1640909

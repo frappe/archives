@@ -1,0 +1,33 @@
+-----
+{
+ "description": "This table contains data related to statewise summary of mining lease distribution as on 31st March 2011 (excluding fuel, atomic and minor minerals).", 
+ "file_name": "STATEWISE_DISTRIBUTION_OF_MINING_LEASES.xls", 
+ "title": "Download XLS for Statewise Summary Of Mining Lease Distribution As On 31st March 2011", 
+ "url": "http://data.gov.in/sites/default/files/STATEWISE_DISTRIBUTION_OF_MINING_LEASES.xls"
+}
+-----
+"Code","State Name","Number of Leases","Lease area (Hectare)"
+"APR","ANDHRA PRADESH",1999.0,68047.13
+"ASM","ASSAM",8.0,929.5
+"BHR","BIHAR",11.0,2074.72
+"CHG","CHHATTISGARH",316.0,23551.77
+"GOA","GOA",336.0,24393.26
+"GUJ","GUJARAT",1152.0,30035.65
+"HPR","HIMACHAL PRADESH",54.0,3440.41
+"HRN","HARYANA",118.0,12255.12
+"J&K","JAMMU & KASHMIR",57.0,2671.84
+"JHK","JHARKHAND",332.0,37071.32
+"KAR","KARNATAKA",754.0,59204.59
+"KRL","KERALA",82.0,2878.62
+"MAN","MANIPUR",2.0,610.17
+"MEG","MEGHALAYA",21.0,1297.63
+"MPR","MADHYA PRADESH",1100.0,30930.93
+"MSH","MAHARASHTRA",251.0,16093.72
+"ORI","ORISSA",532.0,77743.91
+"RAJ","RAJASTHAN",2696.0,107102.01
+"SKM","SIKKIM",3.0,96.32
+"TMN","TAMIL NADU",945.0,37780.11
+"UPR","UTTAR PRADESH",95.0,7608.54
+"UTL","UTTARAKHAND",89.0,1276.76
+"WBL","WEST BENGAL",50.0,720.28
+"","Total",11003.0,547814.31

@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This table provides Eleventh Five Year Plan Power Capacity Addition through Grid Interactive Renewable Power. It provides the target and actual figures as on 31st March 2012.\r", 
+ "file_name": "Eleventh_Plan-Grid_Interactive_Renewable_Power.xls", 
+ "title": "Download XLS for Eleventh Five Year Plan Power Capacity Addition through Grid Interactive Renewable Power", 
+ "url": "http://data.gov.in/sites/default/files/Eleventh_Plan-Grid_Interactive_Renewable_Power.xls"
+}
+-----
+"Source","Target","Actual (MW) "
+"Wind",9000.0,10260.0
+"Small Hydro",1400.0,1419.17
+"Biomass Power ",500.0,626.0
+"Waste to Energy",80.0,46.2
+"Bagasse Cogeneration",1200.0,1369.7
+"Solar Power",12280.0,15600.55

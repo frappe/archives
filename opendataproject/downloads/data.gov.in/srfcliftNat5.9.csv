@@ -1,0 +1,41 @@
+-----
+{
+ "description": "The table refers to Statewise Distribution of Surface Lift Schemes according to Water Lifting Device. The report has been sourced from 3rd census of minor irrigation scheme(2000-01) from Ministry of Water Resources.", 
+ "file_name": "srfcliftNat5.9.csv", 
+ "title": "Download CSV for Statewise Distribution of Surface Lift Schemes according to Water Lifting Device", 
+ "url": "http://data.gov.in/sites/default/files/srfcliftNat5.9.csv"
+}
+-----
+"State","Electric pumps","Diesel pumps","Wind mills","Solar pumps","Others","Total"
+"ANDHRA PRADESH",21944,1702,233,67,247,24193
+"ARUNACHAL PRADESH",1,20,0,0,0,21
+"ASSAM",321,1363,7,2,15,1708
+"BIHAR",429,2265,73,17,103,2887
+"CHHATTISGARH",13684,3645,39,23,8035,25426
+"GOA",826,96,0,1,61,984
+"GUJARAT",551,1574,15,52,999,3191
+"HARYANA",264,212,1,0,169,646
+"HIMACHAL PRADESH",621,89,6,1,7,724
+"JAMMU & KASHMIR",375,106,0,2,22,505
+"JHARKHAND",167,9655,189,10,1976,11997
+"KARNATAKA",52425,4718,761,281,2184,60369
+"KERALA",10996,2212,65,29,191,13493
+"MADHYA PRADESH",111108,78265,934,688,5147,196142
+"MAHARASHTRA",91912,3839,639,242,3270,99902
+"MANIPUR",21,23,0,0,0,44
+"MEGHALAYA",9,2,0,0,0,11
+"MIZORAM",147,69,0,0,0,216
+"NAGALAN D",8,24,1,0,5,38
+"ORISSA",9115,12222,307,95,11105,32844
+"PUNJAB",330,1080,11,1,19,1441
+"RAJASTHAN",579,1600,15,2,28,2224
+"TAMIL NADU",6426,3008,189,230,233,10086
+"TRIPURA",758,392,0,3,14,1167
+"UTTAR PRADESH",221,6169,82,1,71,6544
+"UTTARAN CHAL",110,77,193,7,321,708
+"WEST BENGAL",3144,77865,414,38,26134,107595
+"ANDAMAN & NICOBARS",495,455,1,1,744,1696
+"DADRA & NAGAR HAVELI",71,0,0,0,0,71
+"DELHI",2,7,0,1,28,38
+"PONDI CHERRY",7,0,0,0,0,7
+"ALL INDIA",327067,212754,4175,1794,61128,606918
