@@ -1,0 +1,46 @@
+.slick-cell { 
+	font-size: 12px; 
+}
+
+.slick-header-column {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.slick-headerrow-column {
+	background: #87ceeb;
+	text-overflow: clip;
+}
+
+.slick-headerrow-column input {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	min-height: 20px;
+}
+
+.slick-cell-checkboxsel {
+	background: #f0f0f0;
+	border-right-color: silver;
+	border-right-style: solid;
+}
+
+#legend {
+	margin-top: 20px;
+	padding-left: 30px;
+}
+
+#legend .row {
+	height: 50px; 
+	vertical-align: middle;
+}
+
+#legend .legend-circle {
+	width: 30px; 
+	height: 30px; 
+	border-radius: 100%;
+	display: inline-block; 
+	vertical-align: middle;
+	margin-right: 5px;
+}
