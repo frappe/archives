@@ -1,0 +1,47 @@
+{% extends base_template %}
+
+{% set title="Treemapper.in" %}
+
+{% block content %}
+<p><a href="tree_guide">Back to Guide</a></p>
+<h1>{{ name }}</h1>
+<h4><span class="text-muted">Local Names:</span> {{ obj.local_names }}</h4>
+{% if wikipedia_link -%}
+<p>Wikipedia Link: <a href="{{ wikipedia_link }}" target="_blank">{{ wikipedia_link }}</a>
+{%- endif %}
+<hr class="row">
+<h3>Images</h3>
+<div class="row">
+	<div class="col-sm-6">
+		{% if not tree_image -%}
+		<div class="alert alert-warning">Sample Image: No Image Set</div>
+		<br>
+		{%- endif %}
+		<img class="img-responsive tree-img" style="margin-top: 10px;"
+			src="{{ tree_image or 'app/img/tree-sample.png' }}">
+	</div>
+	<div class="col-sm-6">
+		{% if not leaf_image -%}
+		<div class="alert alert-warning">Sample Image: No Image Set</div>
+		<br>
+		{%- endif %}
+		<img class="img-responsive leaf-img" style="margin-top: 10px;"
+			src="{{ leaf_image or 'app/img/leaf-sample.png' }}">
+	</div>
+</div>
+<h3>Properties</h3>
+<table class="table table-striped table-bordered">
+	<tbody>
+		{% for prop_name in ("tree_family", "occurance", "leaf_type",
+			"leaf_shape", "leaf_attachment", "leaf_veination",
+			"leaf_margin", "canopy_shape", "bark", "flow_size",
+			"flower", "fruit", "fruit_size", "fruiting_months") if obj.doc.fields[prop_name] -%}
+		<tr>
+			<td style="width: 50%;">{{ prop_name.replace("_", " ").title() }}</td>
+			<td>{{ obj.doc.fields[prop_name] }}</td>
+		</tr>
+		{%- endfor %}
+	</tbody>
+</table>
+
+{% endblock %}

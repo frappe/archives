@@ -1,0 +1,36 @@
+[
+ {
+  "creation": "2013-09-05 16:17:24", 
+  "docstatus": 0, 
+  "modified": "2013-09-18 11:12:59", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "Prompt", 
+  "doctype": "DocType", 
+  "document_type": "Master", 
+  "module": "Treemapper", 
+  "name": "__common__"
+ }, 
+ {
+  "cancel": 1, 
+  "create": 1, 
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Tree Family", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "role": "Tree Expert", 
+  "write": 1
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Tree Family"
+ }, 
+ {
+  "doctype": "DocPerm"
+ }
+]

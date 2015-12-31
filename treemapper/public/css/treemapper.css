@@ -1,0 +1,9 @@
+.container {
+	max-width: 768px;
+}
+
+.help-page img {
+	width: 100%;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}

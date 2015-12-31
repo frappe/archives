@@ -1,0 +1,200 @@
+{% extends base_template %}
+
+{% set title="Treemapper.in" %}
+
+{% block content %}
+	<div class="add-tree" style="padding-bottom: 40px; display: none;">
+		<h2>Add A Tree</h2>
+		<div class="progress">
+			<div class="progress-bar progress-bar-success" style="width: 5%;"></div>
+		</div>
+		<hr>
+		<!-- step 1 -->
+		<div class="step-1">
+			<h3>1 of 4: Select Type</h3>
+			<br>
+			<div class="row">
+				<div class="col-xs-12">
+					<input class="form-control tree-type-select" type="text" 
+						placeholder="Select Tree Type...">
+					</select>
+					<br>
+				</div>
+			</div>
+			<div class="alert alert-warning type-not-selected">Select a tree type first.</div>
+			<div class="alert alert-info tree-details" style="display: none;">
+				<a href="#" target="_blank">View this tree on Tree Guide</a>
+			</div>
+			<button class="btn btn-primary btn-lg pull-right 
+				btn-step-1" disabled="disabled" data-next="2">Next: Add Pictures</button>
+		</div>
+		<!-- step 2 -->
+		<div class="step-2" style="display: none;">
+			<h3>2 of 4: Add Tree Picture</h3>
+			<br>
+			<div class="alert alert-warning">1. Stand a few feet away from the tree 
+				and take an image covering as much of the tree as you can and as little 
+				of anything else as you can.</div>
+			<div style="position: relative;">
+				<button class="btn btn-primary btn-lg">
+					<i class="icon-camera"></i> Attach Tree Image</button>
+				<input class="form-control tree-img-input" data-name="tree_image"
+					data-ok-img="icon-tree-ok" data-next="3"
+					style="opacity: 0; position: absolute; top: 0; 
+						z-index: 1; cursor: pointer; height: 45px; width: 208px;"
+					type="file" name="tree-photo">
+				<i class="icon-ok" id="icon-tree-ok" style="display:none"></i>
+			</div>
+		</div>
+		<!-- step 3 -->
+		<div class="step-3" style="display: none;">
+			<h3>3 of 4. Capture Location</h3>
+			<br>
+			<div class="alert alert-warning">Stand As Close to the tree as possible 
+				and click on the button below. Make sure your GPS is activated.</div>
+			<br>
+			<div class="text-center">
+				<button class="btn btn-danger btn-lg btn-location"><i class="icon-map-marker"></i> Capture Location Now</button>
+				<i class="icon-ok" id="icon-location-ok" style="display:none"></i>
+			</div>
+			<br>
+		</div>
+		<!-- step 5 -->
+		<div class="step-4" style="display: none;">
+			<h3>4 of 4. Additional Details</h3>
+			<br>
+			<div class="alert alert-warning">Add as many details as you can.</div>
+			<br>
+			<div class="row">
+				<div class="col-xs-12">
+					<textarea class="form-control details" rows=5 placeholder="Additional Info"></textarea>
+				</div>
+			</div>
+			<br>
+			<br>
+			<div class="row">
+				<div class="col-xs-12">
+					<button class="btn btn-success btn-lg pull-right
+						btn-save"><i class="icon-save"></i> Save</button>
+				</div>
+			</div>
+		</div>
+		<div class="step-5" style="display: none;">
+			<div class="alert alert-success">Congrats! Your tree was successfully added.
+				<a href="javascript:location.reload()">Refresh to add another tree!</a>
+			</div>
+		</div>
+	</div>
+	<script>
+		var tree_species = {{ tree_species|json }};
+		
+		$(document).ready(function() {
+			$(".tree-type-select").typeahead({
+				local: tree_species,
+				name: "tree_species",
+				template: function(d) {
+					return repl('<p>%(value)s<br><span class="text-muted">%(local_name)s</span></p>', d);
+				}
+			}).on("typeahead:selected", function(d) {
+				$(this).trigger("change");
+			})
+			
+			treemapper.get_location("Checking location services on your device", function(pos) {
+				$(".add-tree").toggle(true);
+				wn.call({
+					method: "webnotes.auth.get_logged_user",
+					callback: function(r) {
+						if(r.exc) {
+							wn.show_message('You must be <a href="login">logged in</a> to continue.', 
+								"icon-warning-sign");
+						}
+					}
+				})
+			})
+		})
+	
+		tree_info = {}
+		$(".btn[data-next]").on("click", function() {
+			treemapper.show_step($(this).attr("data-next"));
+		});
+	
+		// step-1
+		$(".tree-type-select").on("change", function() {
+			var val = $(this).val();
+			if(val==="select") {
+				$(".type-not-selected").toggle(true);
+				$(".tree-details").toggle(false);
+				$(".btn-step-1").attr("disabled", "disabled");
+			} else {
+				$(".type-not-selected").toggle(false);
+				$(".btn-step-1").attr("disabled", false);
+				$(".tree-details").toggle(true).find("a")
+					.attr("href", val.replace(/ /g, "-").toLowerCase());
+			}
+		})
+				
+		// step-2
+		$(".tree-img-input").change(function() {
+			if (this.type === 'file' && this.files && this.files.length > 0) {
+				var me = this;
+				$.each(this.files, function (idx, fileobj) {
+					if (/^image\//.test(fileobj.type)) {
+						var freader = new FileReader();
+						freader.onload = function() {
+							// show ok sign
+							$("#" + $(me).attr("data-ok-img")).toggle(true);
+							treemapper.resize_image(freader, function(dataurl) {
+															
+								// save file data in tree_info
+								tree_info[$(me).attr("data-name")] = dataurl.split(",")[1];
+							
+								// go-next
+								treemapper.show_step($(me).attr("data-next"))
+							});
+						};
+						freader.readAsDataURL(fileobj);
+					}
+				});
+			}
+			return false;
+		});
+				
+		// step-3
+		$(".btn-location").on("click", function() {
+			treemapper.get_location("Getting Location...", function(pos) {
+				tree_info.latitude = pos.coords.latitude;
+				tree_info.longitude = pos.coords.longitude;
+				$("#icon-location-ok").toggle(true);
+				treemapper.show_step("4");
+			});
+		});
+				
+		$(".btn-save").on("click", function() { 
+			wn.show_message("Saving your tree...")
+			$(this).attr("disabled", "disabled");
+			tree_info.tree_species = $(".tree-type-select").val();
+			tree_info.details = $(".details").val();
+			tree_info.doctype = "Tree";
+			wn.call({
+				type: "POST",
+				method: "webnotes.client.insert",
+				args: {
+					"doclist":JSON.stringify([tree_info]),
+				},
+				callback: function(r) {
+					if(!r.exc) {
+						wn.hide_message();
+						treemapper.show_step("5");
+					} else {
+						console.log(r.exc)
+						wn.show_message("<p>There were errors!</p>" +
+						'<div class="well"><pre>'+ r.exc +'</pre></div>'
+						, "icon-error");
+					}
+					$(".btn").attr("disabled", false);
+				}
+			});
+		});
+	</script>
+
+{% endblock %}

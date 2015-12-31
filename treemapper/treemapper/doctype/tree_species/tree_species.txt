@@ -1,0 +1,213 @@
+[
+ {
+  "creation": "2013-09-05 16:16:57", 
+  "docstatus": 0, 
+  "modified": "2013-09-18 10:21:57", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "Prompt", 
+  "description": "Tree Type Master", 
+  "doctype": "DocType", 
+  "document_type": "Master", 
+  "module": "Treemapper", 
+  "name": "__common__", 
+  "name_case": "Title Case"
+ }, 
+ {
+  "doctype": "DocField", 
+  "name": "__common__", 
+  "parent": "Tree Species", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "cancel": 1, 
+  "create": 1, 
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Tree Species", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "report": 1, 
+  "role": "Tree Expert", 
+  "write": 1
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Tree Species"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "tree_family", 
+  "fieldtype": "Link", 
+  "label": "Tree Family", 
+  "options": "Tree Family"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "wikipedia_link", 
+  "fieldtype": "Data", 
+  "label": "Wikipedia Link"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "occurance", 
+  "fieldtype": "Select", 
+  "label": "Occurance", 
+  "options": "Rare\nOccasional\nCommon"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "local_names_cb", 
+  "fieldtype": "Column Break", 
+  "label": "Local Names"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "local_names", 
+  "fieldtype": "Table", 
+  "label": "Local Names", 
+  "options": "Tree Species Local Name"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "images", 
+  "fieldtype": "Section Break", 
+  "label": "Images"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_image", 
+  "fieldtype": "Select", 
+  "label": "Leaf Image", 
+  "options": "attach_files:"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "tree_image", 
+  "fieldtype": "Select", 
+  "label": "Tree Image", 
+  "options": "attach_files:"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_details", 
+  "fieldtype": "Section Break", 
+  "label": "Leaf Details"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_shape", 
+  "fieldtype": "Select", 
+  "label": "Leaf Shape", 
+  "options": "\nElliptic\nLanceolate\nOblong\nOvate\nLobed\nLinear"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_attachment", 
+  "fieldtype": "Select", 
+  "label": "Leaf Attachment", 
+  "options": "\nAlternate\nOpposite"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_type", 
+  "fieldtype": "Select", 
+  "label": "Leaf Type", 
+  "options": "\nSimple\nUni-pinnate\nMulti-pinnata\nDigitate"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_veination", 
+  "fieldtype": "Select", 
+  "label": "Leaf Veination", 
+  "options": "\nNo\nParallel\nReticulate"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_margin", 
+  "fieldtype": "Select", 
+  "label": "Leaf Margin", 
+  "options": "\nAcuminate\nCreanate\nCrenate-serrate\nCrenulate\nCuneate\nDentale\nDentate\nEntire\nNo\npalmate\nPeltet\nSerrate\nSinuate\nSpinus\nTooth margin\nUndulate\nWavy"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "tree_details", 
+  "fieldtype": "Section Break", 
+  "label": "Tree Details"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "canopy_shape", 
+  "fieldtype": "Select", 
+  "label": "Canopy Shape", 
+  "options": "\nConical\nErect\nGlobular\nIrregular\nOval\nSpreading\nTrailing\nVase shaped"
+ }, 
+ {
+  "description": "Example - tall, short, smooth etc.", 
+  "doctype": "DocField", 
+  "fieldname": "bark", 
+  "fieldtype": "Data", 
+  "label": "Bark"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "flow_size", 
+  "fieldtype": "Data", 
+  "label": "Flow Size (cm)"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "flower", 
+  "fieldtype": "Data", 
+  "label": "Flower", 
+  "options": "Example: small, yellow etc."
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "fruit", 
+  "fieldtype": "Data", 
+  "label": "Fruit", 
+  "options": "Example: round, oblong etc."
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "fruit_size", 
+  "fieldtype": "Data", 
+  "label": "Fruit Size (cm)"
+ }, 
+ {
+  "description": "Example: March, April", 
+  "doctype": "DocField", 
+  "fieldname": "fruiting_months", 
+  "fieldtype": "Data", 
+  "label": "Fruiting Months"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "website_publishing_details", 
+  "fieldtype": "Section Break", 
+  "label": "Website Publishing Details"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "publish", 
+  "fieldtype": "Check", 
+  "label": "Publish"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "page_name", 
+  "fieldtype": "Data", 
+  "label": "Page Name", 
+  "read_only": 1
+ }, 
+ {
+  "doctype": "DocPerm"
+ }
+]

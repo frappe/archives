@@ -1,0 +1,37 @@
+{% extends base_template %}
+
+{% set title="Treemapper.in" %}
+
+{% block javascript %}
+<link rel="stylesheet" href="app/js/leaflet.css" />
+<script src="app/js/leaflet.js"></script>
+{% endblock %}
+
+{% block content %}
+	<div class="splash row">
+		<a class="btn btn-primary btn-start pull-right">Get Started Now</a>
+		<h3 style="margin-top: 10px; margin-bottom: 40px;">Map Trees in your Neighbourhood</h3>
+
+		<hr>
+		<h4>Trees Mapped Near You</h4>
+		<div style="height: 400px; width: 100%;" id="map">
+		</div>
+	</div>
+	<script>
+	$(document).ready(function() {
+		$(".btn-start")
+			.html(wn.get_sid() ? "Add A Tree" : "Sign in to Get Started")
+			.attr("href", wn.get_sid() ? "add" : "login");
+			
+		wn.show_message("Starting Treemapper...");
+		wn.call({
+			method: "treemapper.utils.get_city",
+			callback: function(r) {
+				wn.hide_message();
+				treemapper.render(r.message.latitude, r.message.longitude);
+			}
+		})
+	})
+	</script>
+
+{% endblock %}

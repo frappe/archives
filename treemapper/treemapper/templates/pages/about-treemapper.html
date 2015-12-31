@@ -1,0 +1,41 @@
+{% extends base_template %}
+
+{% set title= "Treemapper: About" %}
+
+{% block content %}
+
+<h2>About Treemapper</h2>
+
+<div class="alert alert-info">
+	Treemapper is a tool to build a database of trees tagged by location and type. This can be used to
+	carry out a Tree Census or to help neighbourhoods document their fauna.
+</div>
+
+{{ """
+
+---
+
+#### Source: License MIT
+
+[https://github.com/webnotes/treemapper](https://github.com/webnotes/treemapper)
+
+For questions, [Join the Forum](https://groups.google.com/forum/#!forum/indiaopentreemap)
+
+---
+
+#### Origin
+
+Treemapper is built by Web Notes Technologies Pvt Ltd as an Open Source tool to aid tree census required to be carried out by various government and volunteer bodies.
+
+#### Motivation
+
+Every city authority is required to maintain tree census and use the same to regulate tree cutting . There are laws to that effect. This has been done using manual and paper methods of maintaining files.As a result of a PIL filed by a few citizens of Pune, the Hon High Court had ordered in 2009 that all applications for tree cutting to be made to the High Court. This has been a very painful process for all concerned. When enquired, it was noted that no city is making a digital and GIS based tree census, let alone fully online regulatory process.
+
+Ministry of Environment and Forest is also required to work on a mission project on Climate Change. That includes among 8 sub-missions, a mission of 'Green India'. However urban forests are only vaguely included [Reference Report](http://www.gise.cse.iitb.ac.in/wiki/index.php/File:Report-of-the-Committee-on-Regulatory-Regime-for-Trees-Grown-on-Private-Land-Nov-2012.pdf)
+ 
+The Hon High Court of Bombay was seized of the matter of Tree Census in Pune as a PIL urged that the administration is failing in monitoring the trees and regulating the tree cutting. Under the Act dated 1975, all local authorities are mandated to conduct Tree Census every 5 years and keep records. It was found that that is often observed in breach and whatever surveys take place, due to cumbersome paper based , handwritten data, retrieval of data is well nigh impossible. Hon Court wanted a better system of census. A proposal was mooted to create a unique ID of trees and use lattitude/longitude as the basis of unique ID. A pilot was ordered to be conducted in Pune for testing the proposal.An Expert Committee was constituted by the HC. see [Hight Court Order](http://www.gise.cse.iitb.ac.in/wiki/images/3/3f/HighCourt_Order_for_TreeCensus.pdf) An interim report has been submitted by the committee see [Committee Report](http://www.gise.cse.iitb.ac.in/wiki/index.php/File:Report_to_HighCourt_July.pdf)
+
+
+"""|markdown }}
+
+{% endblock %}

@@ -1,0 +1,165 @@
+[
+ {
+  "creation": "2013-09-11 14:45:42", 
+  "docstatus": 0, 
+  "modified": "2013-09-13 10:46:27", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "autoname": "TREE.########", 
+  "doctype": "DocType", 
+  "module": "Treemapper", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "name": "__common__", 
+  "parent": "Tree", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocPerm", 
+  "name": "__common__", 
+  "parent": "Tree", 
+  "parentfield": "permissions", 
+  "parenttype": "DocType", 
+  "permlevel": 0, 
+  "read": 1, 
+  "write": 0
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Tree"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "tree_species", 
+  "fieldtype": "Link", 
+  "label": "Tree Species", 
+  "options": "Tree Species", 
+  "reqd": 1
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "local_name", 
+  "fieldtype": "Data", 
+  "label": "Local Name"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "latitude", 
+  "fieldtype": "Data", 
+  "label": "Latitude", 
+  "reqd": 1
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "longitude", 
+  "fieldtype": "Data", 
+  "label": "Longitude", 
+  "reqd": 1
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "tree_image", 
+  "fieldtype": "Data", 
+  "label": "Tree Image"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "leaf_image", 
+  "fieldtype": "Data", 
+  "label": "Leaf Image"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "details", 
+  "fieldtype": "Text", 
+  "label": "Details"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "place", 
+  "fieldtype": "Section Break", 
+  "label": "Place"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "address_display", 
+  "fieldtype": "Text", 
+  "label": "Address Display"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "house", 
+  "fieldtype": "Data", 
+  "label": "House"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "road", 
+  "fieldtype": "Data", 
+  "label": "Road"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "village", 
+  "fieldtype": "Data", 
+  "label": "Village"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "town", 
+  "fieldtype": "Data", 
+  "label": "Town"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "suburb", 
+  "fieldtype": "Data", 
+  "label": "Suburb"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "city", 
+  "fieldtype": "Data", 
+  "label": "CIty"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "county", 
+  "fieldtype": "Data", 
+  "label": "County"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "country", 
+  "fieldtype": "Data", 
+  "label": "Country"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "post_code", 
+  "fieldtype": "Data", 
+  "label": "Post Code"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "country_code", 
+  "fieldtype": "Data", 
+  "label": "Country Code"
+ }, 
+ {
+  "create": 1, 
+  "doctype": "DocPerm", 
+  "match": "owner", 
+  "role": "All"
+ }, 
+ {
+  "doctype": "DocPerm", 
+  "role": "Tree Expert"
+ }
+]

@@ -1,0 +1,10 @@
+{
+	"public/css/all-web.css": [
+		"app/public/css/treemapper.css",
+		"lib/public/css/typeahead.css",
+	],
+	"public/js/all-web.min.js": [
+		"app/public/js/treemapper.js",
+		"lib/public/js/lib/typeahead.js",
+	]
+}

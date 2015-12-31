@@ -1,0 +1,19 @@
+{
+	"app_name": "Treemapper",
+	"base_template": "app/treemapper/templates/base.html",
+	"modules": {
+		"Tree Master": {
+			"link": "List/Tree Species",
+			"color": "#1abc9c",
+			"icon": "icon-leaf",
+			"doctype": "Tree Species",
+			"type": "list"
+		},
+		"Switch To Application": {
+			"link": "/add",
+			"color": "#3498db",
+			"icon": "icon-tablet",
+			"type": "link"
+		}
+	}
+}

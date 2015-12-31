@@ -1,0 +1,32 @@
+[
+ {
+  "__islocal": 1, 
+  "_user_tags": null, 
+  "add_css": null, 
+  "background_color": "FFFFFF", 
+  "background_image": null, 
+  "custom_css": "\n\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);\n\n\nbody {\n\n\tbackground-color: #FFFFFF;\n\tbackground-image: none;\n\t\n\n\tfont-family: 'PT Serif', 'Helvetica Neue', Arial, Sans !important;\n\n\tfont-size: 16px !important;\n\tcolor: #000000;\n}\n\n\n\n\n.small {\n\tfont-size: 14px !important;\n}\n\n\ndiv.outer {\n\tbackground-color: #FFFFFF;\n}\n\nh1, h2, h3, h4, h5 {\n\tfont-family: 'Open Sans', 'Helvetica Neue', Arial !important;\n}\n\n\n\nh1, h2, h3, h4, h5 {\n\tcolor: #222222;\n}\n\n\n\ndiv.web-footer {\n\tborder-top: 1px solid #d9d9d9;\n\tpadding-top: 10px;\n}\n\n\n\ndiv.web-footer, div.web-footer a {\n\tfont-size: 90%;\n\tcolor: #4d4d4d;\n}\n\n/* Bootstrap Navbar */\n.navbar-default {\n\tborder: 0px;\n}\n\n.navbar {\n    background-color: #27ae60;\n    background-repeat: repeat-x;\n\tbackground-image: none;\n\tborder-bottom: 1px solid transparent;\n}\n\n.navbar .navbar-brand,\n.navbar .navbar-brand:hover,\n.navbar .navbar-brand:focus,\n.navbar .nav > li > a {\n  color: #FFFFFF;\n  text-shadow: none;\n}\n\n.navbar .nav > li > a:hover,\n.navbar .nav > li > a:focus {\n  color: #FFFFFF;\n  background-color: transparent;\n}\n\n.navbar .navbar-text {\n  color: #999999;\n}\n\n.navbar .nav .active > a,\n.navbar .nav .active > a:hover,\n.navbar .nav .active > a:focus {\n  color: #FFFFFF;\n  background-color: transparent;\n}\n\n.navbar .navbar-link {\n  color: #444444;\n}\n\n.navbar .navbar-link:hover,\n.navbar .navbar-link:focus {\n  color: #FFFFFF;\n}\n\n.navbar-fixed-top,\n.navbar-static-top {\n  -webkit-box-shadow: none;\n     -moz-box-shadow: none;\n          box-shadow: none;\n        \n}\n.navbar .nav > .active > a,\n.navbar .nav > .active > a:hover,\n.navbar .nav > .active > a:focus {\n  color: #424242;\n  text-decoration: none;\n  background-color: transparent;\n  -webkit-box-shadow: none;\n     -moz-box-shadow: none;\n          box-shadow: none;\n}\n\n.navbar .nav li.dropdown > .dropdown-toggle .caret, \n.navbar .nav li.dropdown > .dropdown-toggle:hover .caret {\n\tborder-top-color: #FFFFFF;\n\tborder-bottom-color: #FFFFFF;\n}\n\n.navbar .nav li.dropdown.open > .dropdown-toggle .caret,\n.navbar .nav li.dropdown.open > .dropdown-toggle:hover .caret {\n\tborder-top-color: #27ae60;\n\tborder-bottom-color: #27ae60;\n}\n\n.navbar .nav li.dropdown.open > .dropdown-toggle {\n  color: #27ae60;\n  background-color: #FFFFFF;\n}\n\n@media (max-width: 800px) {\n  .navbar .nav-collapse .nav > li > a,\n  .navbar .nav-collapse .dropdown-menu a {\n    background-color: #27ae60;\n    color: #FFFFFF;\n  }\n  .navbar .nav-collapse .nav > li > a:hover, \n  .navbar .nav-collapse .dropdown-menu a:hover {\n    background-color: #FFFFFF;\n    color: #27ae60;\n  }\n\n  .navbar .nav li.dropdown > .dropdown-toggle .caret {\n    border-top-color: #FFFFFF;\n    border-bottom-color: #FFFFFF;\t\n  }\n\n  .navbar .nav li.dropdown > .dropdown-toggle:hover .caret {\n    border-top-color: #FFFFFF;\n    border-bottom-color: #FFFFFF;\n  }\n\n  .navbar .nav li.dropdown.open > .dropdown-toggle .caret,\n  .navbar .nav li.dropdown.open > .dropdown-toggle:hover .caret {\n    border-top-color: #27ae60;\n    border-bottom-color: #27ae60;\t\n  }\n\n}\n\n.navbar-default .navbar-toggle .icon-bar {\n\tbackground-color: #FFFFFF;\n}\n\n.breadcrumb {\n\tbackground-color: #f3f3f3;\n}\n\n.breadcrumb > li {\n  text-shadow: none;\n}\n\n\n.table-striped tbody > tr:nth-child(odd) > td,\n.table-striped tbody > tr:nth-child(odd) > th {\n\tbackground-color: #f3f3f3;\n}\n\n.table-hover tbody tr:hover td,\n.table-hover tbody tr:hover th {\n\tbackground-color: #e6e6e6;\n}\n\n.table-bordered {\n\tborder: 1px solid #d9d9d9;\n}\n\n.table th,\n.table td {\n  border-top: 1px solid #d9d9d9;\n}\n\n.table-bordered th,\n.table-bordered td {\n\tborder-left: 1px solid #d9d9d9;\n}\n\n\n\n.hero-unit {\n\tbackground-color: #d9d9d9;\n}\n\npre, code {\n\tbackground-color: #f3f3f3;\n}\n\nhr {\n\tborder-top: 1px solid #d9d9d9;\n\tborder-bottom: 1px solid #f3f3f3;\t\n}", 
+  "docstatus": 0, 
+  "doctype": "Style Settings", 
+  "font": null, 
+  "font_size": "16px", 
+  "google_web_font_for_heading": "Open Sans", 
+  "google_web_font_for_text": "PT Serif", 
+  "heading_font": null, 
+  "heading_text_as": null, 
+  "idx": null, 
+  "modified_by": "Administrator", 
+  "name": "Style Settings", 
+  "owner": "Administrator", 
+  "page_background": "FFFFFF", 
+  "page_border": 0, 
+  "page_headings": "222222", 
+  "page_links": null, 
+  "page_text": "000000", 
+  "parent": null, 
+  "parentfield": null, 
+  "parenttype": null, 
+  "top_bar_background": "27ae60", 
+  "top_bar_foreground": "FFFFFF"
+ }
+]

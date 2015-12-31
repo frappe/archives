@@ -1,0 +1,36 @@
+{% extends base_template %}
+
+{% set title = "Recently Added Trees" %}
+
+{% block content %}
+<h2>Recently Added Trees</h2>
+<hr>
+<div class="progress progress-striped active">
+	<div class="progress-bar" style="width: 100%;"></div>
+</div>
+<div class="list-group">
+</div>
+<script>
+$(document).ready(function() {
+	var start = 0;
+	wn.call({
+		method: "treemapper.doctype.tree.templates.pages.recent.get_list",
+		args: {
+			start: start
+		},
+		callback: function(r) {
+			$(".progress").toggle(false);
+			$.each(r.message, function(i, tree) {
+				tree.address_display = tree.address_display.replace(/,/g, ",<br>");
+				$(repl('<div class="list-group-item">\
+					<b>%(tree_species)s</b>\
+					<span class="pull-right" style="max-width: 120px;">\
+						<img src="%(tree_image)s" /></span>\
+					<span class="address text-muted"><br>%(address_display)s</span>\
+					</div>', tree)).appendTo(".list-group");
+			});
+		}
+	})
+})
+</script>
+{% endblock %}

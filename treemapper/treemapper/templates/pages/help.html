@@ -1,0 +1,90 @@
+{% extends base_template %}
+
+{% set title= "Treemapper: Help" %}
+
+{% block content %}
+
+<div class="help-page">
+
+{{ '
+
+## Tree Mapper Help
+
+For questions, [Join the Forum](https://groups.google.com/forum/#!forum/indiaopentreemap)
+
+---
+
+## 1. Sign Up
+
+1. Go to the login page and click on "Sign Up"
+
+	![Sign Up](app/img/help/sign-up-1.png)
+
+	![Sign Up](app/img/help/sign-up-2.png)
+
+1. Add your email id and name and click on "Sign Up" button.
+
+	![Sign Up](app/img/help/sign-up-3.png)
+
+1. You will receive an email id and password in your email.
+1. Login with your email and password.
+
+	![Sign Up](app/img/help/sign-up-4.png)
+
+---
+
+## 2. Add A Tree
+
+<div class="alert alert-warning">
+	Make sure GPS is activated on your phone and your browser is allowed to capture your location.
+</div>
+
+1. Click on "Add A Tree"
+1. Select the tree type. If you cannot identify the tree, go to [Tree Guide](tree_guide) for more help.
+1. Take a picture of the tree.
+1. Optionally, add a picture of the leaf.
+1. Stand close to the tree and capture the location.
+1. Fill additional details and "Save"
+
+<div class="row">
+	<div class="col-md-4"><h4>Step 1</h4><img src="app/img/help/add-1.png"></div>
+	<div class="col-md-4"><h4>Step 2</h4><img src="app/img/help/add-2.png"></div>
+	<div class="col-md-4"><h4>Step 3</h4><img src="app/img/help/add-3.png"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-4"><h4>Step 4</h4><img src="app/img/help/add-4.png"></div>
+	<div class="col-md-4"><h4>Step 5</h4><img src="app/img/help/add-5.png"></div>
+	<div class="col-md-4"><h4>Done</h4><img src="app/img/help/add-6.png"></div>
+</div>
+
+---
+
+## 3. Admin: Manage Tree Master
+
+1. Make sure you are allowed as to login as a Tree Expert.
+1. Login to tree mapper with your admin account.
+1. Click on Tree Master
+
+	![Tree Master](app/img/help/admin-1.png)
+
+1. Edit the click on the tree to edit.
+1. Add pictures, update tree properties.
+
+	![Tree Master](app/img/help/admin-3.png)
+
+1. Add local names.
+
+	![Tree Master](app/img/help/admin-2.png)
+
+
+---
+
+- Need more help? For questions, [Join the Forum](https://groups.google.com/forum/#!forum/indiaopentreemap)
+- [Raise Issues at GitHub](https://github.com/webnotes/treemapper/issues)
+
+'|markdown }}
+
+</div>
+
+{% endblock %}

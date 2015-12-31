@@ -1,0 +1,35 @@
+[
+ {
+  "creation": "2013-09-05 16:34:38", 
+  "docstatus": 0, 
+  "modified": "2013-09-05 17:16:38", 
+  "modified_by": "Administrator", 
+  "owner": "Administrator"
+ }, 
+ {
+  "doctype": "DocType", 
+  "document_type": "Master", 
+  "istable": 1, 
+  "module": "Treemapper", 
+  "name": "__common__"
+ }, 
+ {
+  "doctype": "DocField", 
+  "fieldname": "local_name", 
+  "fieldtype": "Data", 
+  "in_list_view": 1, 
+  "label": "Local Name", 
+  "name": "__common__", 
+  "parent": "Tree Species Local Name", 
+  "parentfield": "fields", 
+  "parenttype": "DocType", 
+  "permlevel": 0
+ }, 
+ {
+  "doctype": "DocType", 
+  "name": "Tree Species Local Name"
+ }, 
+ {
+  "doctype": "DocField"
+ }
+]
