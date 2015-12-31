@@ -1,0 +1,90 @@
+{% block content %}
+<div class="chat-welcome">
+	<div class="chat-status">
+		<div class="alert alert-info">Checking status...</div>
+	</div>
+	<p>Please enter your name, email and question to begin.</p>
+	<div class="row">
+	    <div class="col-sm-12">
+			<form role="form">
+		        <div class="form-group" style="position: static;">
+		            <label for="client-name">Your Name</label>
+		            <input type="text" class="form-control" 
+						id="client-name" placeholder="Your Name" required>
+		        </div>
+		        <div class="form-group" style="position: static;">
+		            <label for="client-email">Email Id</label>
+		            <input type="email" class="form-control" 
+						id="client-email" placeholder="you@example.com" required>
+		        </div>
+		        <div class="form-group" style="position: static;">
+		            <label for="client-question">Question</label>
+		            <textarea class="form-control" style="height: 200px;"
+						id="client-question" placeholder="Your Question" 
+						required></textarea>
+		        </div>
+		        <div class="form-group" style="padding-right: 20px; position: static;">
+		            <button id="chat-start"
+					 	type="submit" class="btn btn-primary">Submit</button>
+		        </div>
+			</form>
+	    </div>
+	</div>	
+</div>
+<div class="chat-sessions hide" style="position: relative">
+	<div class="chat-session-end-screen end-chat hide">
+	</div>
+	<div class="chat-session-end-message end-chat hide text-center">
+		<h2>Chat Has Ended</h2>
+		<p>
+			<select class="form-control chat-feedback">
+				<option value="0">Rate the quality chat support.</option>
+				<option value="5">Excellent</option>
+				<option value="4">Good</option>
+				<option value="3">Okay</option>
+				<option value="2">Bad</option>
+				<option value="1">Horrible. I am mad</option>
+			</select>
+		</p>
+		<p><br></p>
+		<p><a onclick="location.reload()"><i class="icon-refresh"></i> Refresh to start again</a></p>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="well well-sm">
+				<div class="row">
+					<div class="col-md-6 chatting-with" style="padding-top: 5px">
+						Chat is Active
+					</div>
+					<div class="col-md-6">
+						<button class="btn btn-primary btn-end-chat \
+							pull-right btn-sm">End Chat</button>
+						<button class="btn btn-success btn-agent-status \
+							pull-right btn-sm hide" 
+							style="margin-right: 5px">Go Offline</button>
+					</div>
+				</div>
+			</div>
+			<div class="chat-messages-wrap">
+				<div class="chat-messages">
+					<p class="text-muted">Start the chat...</p>
+				</div>
+			</div>
+			<div class="chat-input">
+	            <textarea class="form-control" style="height: 50px;"
+					id="chat-input" placeholder="Write Message..."></textarea>
+				<p class="pull-left text-muted small">tab + enter to post</p>
+				<div class="form-group pull-right" style="margin-top: 10px;">
+					<button type="submit" id="chat-send-message"
+						class="btn btn-success btn-small">Send</button>
+				</div>
+			</div>
+				
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+{% block style %}{% include "templates/includes/chat.css" %}{% endblock %}
+
+{% block script %}{% include "templates/includes/chat.js" %}{% endblock %}

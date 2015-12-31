@@ -1,0 +1,17 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+recursive-include website_chat *.css
+recursive-include website_chat *.csv
+recursive-include website_chat *.html
+recursive-include website_chat *.ico
+recursive-include website_chat *.js
+recursive-include website_chat *.json
+recursive-include website_chat *.md
+recursive-include website_chat *.png
+recursive-include website_chat *.py
+recursive-include website_chat *.svg
+recursive-include website_chat/public *
+recursive-exclude website_chat *.pyc

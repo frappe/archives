@@ -1,0 +1,11 @@
+app_name = "website_chat"
+app_title = "Website Chat"
+app_publisher = "Web Notes"
+app_description = "Chat application for website"
+app_icon = "icon-comments"
+app_color = "#f1c40f"
+app_email = "info@frappe.io"
+app_url = "https://frappe.io/apps/website-chat"
+app_version = "0.0.1"
+
+on_session_creation = "website_chat.templates.pages.chat.on_login"

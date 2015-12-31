@@ -1,0 +1,102 @@
+{
+ "autoname": "hash",
+ "creation": "2014-03-12 14:48:01",
+ "docstatus": 0,
+ "doctype": "DocType",
+ "document_type": "Transaction",
+ "fields": [
+  {
+   "default": "New",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Status",
+   "options": "New\nActive\nWaiting\nEnded\nLost",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "website_chat_agent",
+   "fieldtype": "Link",
+   "label": "Website Chat Agent",
+   "options": "Website Chat Agent",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "column_break_3",
+   "fieldtype": "Column Break",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "client_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Client Name",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "client_email_id",
+   "fieldtype": "Data",
+   "label": "Client Email Id",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "client_question_type",
+   "fieldtype": "Data",
+   "label": "Client Question Type",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "section_break_7",
+   "fieldtype": "Section Break",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "client_question",
+   "fieldtype": "Text",
+   "in_list_view": 1,
+   "label": "Client Question",
+   "permlevel": 0
+  },
+  {
+   "fieldname": "website_chat_messages",
+   "fieldtype": "Table",
+   "label": "Website Chat Messages",
+   "options": "Website Chat Message",
+   "permlevel": 0
+  },
+  {
+   "description": "5 is best, 1 is worst",
+   "fieldname": "feedback",
+   "fieldtype": "Int",
+   "label": "Feedback",
+   "permlevel": 0
+  }
+ ],
+ "icon": "icon-comments",
+ "idx": 1,
+ "modified": "2014-03-19 10:51:05",
+ "modified_by": "Administrator",
+ "module": "Website Chat",
+ "name": "Website Chat Session",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "export": 1,
+   "permlevel": 0,
+   "read": 1,
+   "report": 1,
+   "role": "Website Chat Agent",
+   "write": 1
+  },
+  {
+   "create": 1,
+   "permlevel": 0,
+   "read": 0,
+   "role": "Guest",
+   "write": 1
+  }
+ ],
+ "title_field": "client_question"
+}
