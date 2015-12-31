@@ -1,0 +1,412 @@
+<!-- title: Journal Entry Account -->
+
+
+
+
+
+<p>
+
+<a class="btn btn-default btn-sm" disabled style="margin-bottom: 10px;">
+	Version 5.2.1</a>
+
+
+	<a class="btn btn-default btn-sm" href="https://github.com/frappe/erpnext/tree/v5.2.1/erpnext/accounts/doctype/journal_entry_account"
+		target="_blank" style="margin-left: 10px; margin-bottom: 10px;"><i class="octicon octicon-mark-github"></i> Source</a>
+
+</p>
+
+
+<span class="label label-info">Child Table</span>
+
+
+    <p><b>Table Name:</b> <code>tabJournal Entry Account</code></p>
+
+
+
+
+<h3>Fields</h3>
+
+<table class="table table-bordered" style="table-layout: fixed;">
+    <thead>
+        <tr>
+            <th style="width: 5%">Sr</th>
+            <th style="width: 25%">Fieldname</th>
+            <th style="width: 20%">Type</th>
+            <th style="width: 25%">Label</th>
+            <th style="width: 25%">Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr >
+            <td>1</td>
+            <td class="danger" title="Mandatory"><code>account</code></td>
+            <td >
+                Link</td>
+            <td >
+                Account
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/account">Account</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>2</td>
+            <td ><code>balance</code></td>
+            <td >
+                Currency</td>
+            <td >
+                Account Balance
+                
+            </td>
+            <td>
+                <pre>Company:company:default_currency</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>3</td>
+            <td ><code>cost_center</code></td>
+            <td >
+                Link</td>
+            <td >
+                Cost Center
+                <p class="text-muted small">
+                    If Income or Expense</p>
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/cost_center">Cost Center</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>4</td>
+            <td ><code>col_break1</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>5</td>
+            <td ><code>party_type</code></td>
+            <td >
+                Link</td>
+            <td >
+                Party Type
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/core/doctype">DocType</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>6</td>
+            <td ><code>party</code></td>
+            <td >
+                Dynamic Link</td>
+            <td >
+                Party
+                
+            </td>
+            <td>
+                <pre>party_type</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>7</td>
+            <td ><code>party_balance</code></td>
+            <td >
+                Currency</td>
+            <td >
+                Party Balance
+                
+            </td>
+            <td>
+                <pre>Company:company:default_currency</pre>
+            </td>
+        </tr>
+        
+        <tr class="info">
+            <td>8</td>
+            <td ><code>sec_break1</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Amount
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>9</td>
+            <td ><code>debit</code></td>
+            <td >
+                Currency</td>
+            <td >
+                Debit
+                
+            </td>
+            <td>
+                <pre>Company:company:default_currency</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>10</td>
+            <td ><code>col_break2</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>11</td>
+            <td ><code>credit</code></td>
+            <td >
+                Currency</td>
+            <td >
+                Credit
+                
+            </td>
+            <td>
+                <pre>Company:company:default_currency</pre>
+            </td>
+        </tr>
+        
+        <tr class="info">
+            <td>12</td>
+            <td ><code>reference</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Reference
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>13</td>
+            <td ><code>against_invoice</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Sales Invoice
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/sales_invoice">Sales Invoice</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>14</td>
+            <td ><code>against_voucher</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Purchase Invoice
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/purchase_invoice">Purchase Invoice</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>15</td>
+            <td ><code>against_jv</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Journal Entry
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/journal_entry">Journal Entry</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>16</td>
+            <td ><code>col_break3</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>17</td>
+            <td ><code>against_sales_order</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Sales Order
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/selling/sales_order">Sales Order</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>18</td>
+            <td ><code>against_purchase_order</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Purchase Order
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/buying/purchase_order">Purchase Order</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>19</td>
+            <td ><code>against_expense_claim</code></td>
+            <td >
+                Link</td>
+            <td >
+                Against Expense Claim
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/hr/expense_claim">Expense Claim</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>20</td>
+            <td ><code>is_advance</code></td>
+            <td >
+                Select</td>
+            <td >
+                Is Advance
+                
+            </td>
+            <td>
+                <pre>No
+Yes</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>21</td>
+            <td ><code>against_account</code></td>
+            <td >
+                Text</td>
+            <td class="text-muted" title="Hidden">
+                Against Account
+                
+            </td>
+            <td></td>
+        </tr>
+        
+    </tbody>
+</table>
+
+
+    
+    
+    <h4>Child Table Of</h4>
+    <ul>
+    
+        <li>
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/accounts/journal_entry">Journal Entry</a>
+
+</li>
+    
+    </ul>
+    
+
+
+<!-- jinja --><!-- static -->
+
+
+<br>
+<a href="https://discuss.erpnext.com" target="_blank">Discuss this on the forum</a>

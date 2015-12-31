@@ -1,0 +1,2 @@
+License: GNU General Public License
+Content: CC-BY-NC-SA

@@ -1,0 +1,455 @@
+<!-- title: Backup Manager -->
+
+
+
+
+
+<p>
+
+<a class="btn btn-default btn-sm" disabled style="margin-bottom: 10px;">
+	Version 5.2.1</a>
+
+
+	<a class="btn btn-default btn-sm" href="https://github.com/frappe/erpnext/tree/v5.2.1/erpnext/setup/doctype/backup_manager"
+		target="_blank" style="margin-left: 10px; margin-bottom: 10px;"><i class="octicon octicon-mark-github"></i> Source</a>
+
+</p>
+
+<span class="label label-info">Single</span>
+
+
+
+
+System for managing Backups
+
+<h3>Fields</h3>
+
+<table class="table table-bordered" style="table-layout: fixed;">
+    <thead>
+        <tr>
+            <th style="width: 5%">Sr</th>
+            <th style="width: 25%">Fieldname</th>
+            <th style="width: 20%">Type</th>
+            <th style="width: 25%">Label</th>
+            <th style="width: 25%">Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr class="info">
+            <td>1</td>
+            <td ><code>setup</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Download Backups
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>2</td>
+            <td ><code>current_backups</code></td>
+            <td >
+                HTML</td>
+            <td >
+                Current Backups
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>3</td>
+            <td ><code>sync_with_dropbox</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Sync with Dropbox
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>4</td>
+            <td ><code>backup_right_now</code></td>
+            <td >
+                Button</td>
+            <td class="text-muted" title="Hidden">
+                Backup Right Now
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>5</td>
+            <td ><code>send_backups_to_dropbox</code></td>
+            <td >
+                Check</td>
+            <td >
+                Send Backups to Dropbox
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>6</td>
+            <td ><code>upload_backups_to_dropbox</code></td>
+            <td >
+                Select</td>
+            <td >
+                Upload Backups to Dropbox
+                <p class="text-muted small">
+                    Note: Backups and files are not deleted from Dropbox, you will have to delete them manually.</p>
+            </td>
+            <td>
+                <pre>Never
+Weekly
+Daily</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>7</td>
+            <td ><code>send_notifications_to</code></td>
+            <td >
+                Data</td>
+            <td >
+                Send Notifications To
+                <p class="text-muted small">
+                    Email ids separated by commas.</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>8</td>
+            <td ><code>dropbox_access_key</code></td>
+            <td >
+                Data</td>
+            <td class="text-muted" title="Hidden">
+                Dropbox Access Key
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>9</td>
+            <td ><code>dropbox_access_secret</code></td>
+            <td >
+                Data</td>
+            <td class="text-muted" title="Hidden">
+                Dropbox Access Secret
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>10</td>
+            <td ><code>dropbox_access_allowed</code></td>
+            <td >
+                Check</td>
+            <td class="text-muted" title="Hidden">
+                Dropbox Access Allowed
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>11</td>
+            <td ><code>allow_dropbox_access</code></td>
+            <td >
+                Button</td>
+            <td >
+                Allow Dropbox Access
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>12</td>
+            <td ><code>sync_with_gdrive</code></td>
+            <td >
+                Section Break</td>
+            <td class="text-muted" title="Hidden">
+                Sync with Google Drive
+                <p class="text-muted small">
+                    Note: Backups and files are not deleted from Google Drive, you will have to delete them manually.</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>13</td>
+            <td ><code>upload_backups_to_gdrive</code></td>
+            <td >
+                Select</td>
+            <td >
+                Upload Backups to Google Drive
+                
+            </td>
+            <td>
+                <pre>Never
+Daily
+Weekly</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>14</td>
+            <td ><code>allow_gdrive_access</code></td>
+            <td >
+                Button</td>
+            <td >
+                Allow Google Drive Access
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>15</td>
+            <td ><code>verification_code</code></td>
+            <td >
+                Data</td>
+            <td >
+                Enter Verification Code
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>16</td>
+            <td ><code>validate_gdrive</code></td>
+            <td >
+                Button</td>
+            <td >
+                Validate
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>17</td>
+            <td ><code>gdrive_access_allowed</code></td>
+            <td >
+                Check</td>
+            <td class="text-muted" title="Hidden">
+                Google Drive Access Allowed
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>18</td>
+            <td ><code>gdrive_credentials</code></td>
+            <td >
+                Text</td>
+            <td class="text-muted" title="Hidden">
+                Credentials
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>19</td>
+            <td ><code>database_folder_id</code></td>
+            <td >
+                Data</td>
+            <td class="text-muted" title="Hidden">
+                Database Folder ID
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>20</td>
+            <td ><code>files_folder_id</code></td>
+            <td >
+                Data</td>
+            <td class="text-muted" title="Hidden">
+                Files Folder ID
+                
+            </td>
+            <td></td>
+        </tr>
+        
+    </tbody>
+</table>
+
+
+    <hr>
+    <h3>Controller</h3>
+    <h4>erpnext.setup.doctype.backup_manager.backup_manager</h4>
+
+    
+
+
+	
+        
+	<h3 style="font-weight: normal;">Class <b>BackupManager</b></h3>
+    
+    <p style="padding-left: 30px;"><i>Inherits from frappe.model.document.Document</i></h4>
+    
+    <div class="docs-attr-desc"><p></p>
+</div>
+    <div style="padding-left: 30px;">
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="onload" href="#onload" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>onload</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+    </div>
+    <hr>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.get_files" href="#erpnext.setup.doctype.backup_manager.backup_manager.get_files" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>get_files</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.send_email" href="#erpnext.setup.doctype.backup_manager.backup_manager.send_email" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>send_email</b>
+        <i class="text-muted">(success, service_name, error_status=None)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.take_backups_daily" href="#erpnext.setup.doctype.backup_manager.backup_manager.take_backups_daily" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>take_backups_daily</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    <p><span class="label label-info">Public API</span>
+        <br><code>/api/method/erpnext.setup.doctype.backup_manager.backup_manager.take_backups_dropbox</code>
+    </p>
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.take_backups_dropbox" href="#erpnext.setup.doctype.backup_manager.backup_manager.take_backups_dropbox" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>take_backups_dropbox</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    <p><span class="label label-info">Public API</span>
+        <br><code>/api/method/erpnext.setup.doctype.backup_manager.backup_manager.take_backups_gdrive</code>
+    </p>
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.take_backups_gdrive" href="#erpnext.setup.doctype.backup_manager.backup_manager.take_backups_gdrive" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>take_backups_gdrive</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.take_backups_if" href="#erpnext.setup.doctype.backup_manager.backup_manager.take_backups_if" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>take_backups_if</b>
+        <i class="text-muted">(freq)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.backup_manager.backup_manager.take_backups_weekly" href="#erpnext.setup.doctype.backup_manager.backup_manager.take_backups_weekly" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.backup_manager.backup_manager.<b>take_backups_weekly</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+
+    
+    
+
+
+<!-- jinja --><!-- static -->
+
+
+<br>
+<a href="https://discuss.erpnext.com" target="_blank">Discuss this on the forum</a>

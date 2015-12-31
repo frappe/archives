@@ -1,0 +1,1304 @@
+<!-- title: Email Digest -->
+
+
+
+
+
+<p>
+
+<a class="btn btn-default btn-sm" disabled style="margin-bottom: 10px;">
+	Version 5.2.1</a>
+
+
+	<a class="btn btn-default btn-sm" href="https://github.com/frappe/erpnext/tree/v5.2.1/erpnext/setup/doctype/email_digest"
+		target="_blank" style="margin-left: 10px; margin-bottom: 10px;"><i class="octicon octicon-mark-github"></i> Source</a>
+
+</p>
+
+
+
+
+
+    <p><b>Table Name:</b> <code>tabEmail Digest</code></p>
+
+
+Send regular summary reports via Email.
+
+<h3>Fields</h3>
+
+<table class="table table-bordered" style="table-layout: fixed;">
+    <thead>
+        <tr>
+            <th style="width: 5%">Sr</th>
+            <th style="width: 25%">Fieldname</th>
+            <th style="width: 20%">Type</th>
+            <th style="width: 25%">Label</th>
+            <th style="width: 25%">Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr class="info">
+            <td>1</td>
+            <td ><code>settings</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Email Digest Settings
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>2</td>
+            <td ><code>column_break0</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>3</td>
+            <td ><code>enabled</code></td>
+            <td >
+                Check</td>
+            <td >
+                Enabled
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>4</td>
+            <td class="danger" title="Mandatory"><code>company</code></td>
+            <td >
+                Link</td>
+            <td >
+                For Company
+                
+            </td>
+            <td>
+                
+                
+
+
+<a href="/{{ pathname.split("/")[0] }}/models/setup/company">Company</a>
+
+
+                
+            </td>
+        </tr>
+        
+        <tr >
+            <td>5</td>
+            <td class="danger" title="Mandatory"><code>frequency</code></td>
+            <td >
+                Select</td>
+            <td >
+                How frequently?
+                
+            </td>
+            <td>
+                <pre>Daily
+Weekly
+Monthly</pre>
+            </td>
+        </tr>
+        
+        <tr >
+            <td>6</td>
+            <td ><code>next_send</code></td>
+            <td >
+                Data</td>
+            <td >
+                Next email will be sent on:
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>7</td>
+            <td ><code>column_break1</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>8</td>
+            <td class="danger" title="Mandatory"><code>recipient_list</code></td>
+            <td >
+                Text</td>
+            <td >
+                Recipients
+                <p class="text-muted small">
+                    Note: Email will not be sent to disabled users</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>9</td>
+            <td ><code>addremove_recipients</code></td>
+            <td >
+                Button</td>
+            <td >
+                Add/Remove Recipients
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>10</td>
+            <td ><code>accounts</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Accounts
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>11</td>
+            <td ><code>accounts_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td class="text-muted" title="Hidden">
+                Income / Expense
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>12</td>
+            <td ><code>bank_balance</code></td>
+            <td >
+                Check</td>
+            <td >
+                Bank/Cash Balance
+                <p class="text-muted small">
+                    Balances of Accounts of type "Bank" or "Cash"</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>13</td>
+            <td ><code>income_year_to_date</code></td>
+            <td >
+                Check</td>
+            <td >
+                Income Year to Date
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>14</td>
+            <td ><code>income</code></td>
+            <td >
+                Check</td>
+            <td >
+                Income Booked
+                <p class="text-muted small">
+                    Income booked for the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>15</td>
+            <td ><code>expenses_booked</code></td>
+            <td >
+                Check</td>
+            <td >
+                Expenses Booked
+                <p class="text-muted small">
+                    Expenses booked for the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>16</td>
+            <td ><code>column_break_16</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Receivables / Payables
+                <p class="text-muted small">
+                    Receivable / Payable account will be identified based on the field Master Type</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>17</td>
+            <td ><code>invoiced_amount</code></td>
+            <td >
+                Check</td>
+            <td >
+                Receivables
+                <p class="text-muted small">
+                    Total amount of invoices sent to the customer during the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>18</td>
+            <td ><code>payables</code></td>
+            <td >
+                Check</td>
+            <td >
+                Payables
+                <p class="text-muted small">
+                    Total amount of invoices received from suppliers during the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>19</td>
+            <td ><code>collections</code></td>
+            <td >
+                Check</td>
+            <td >
+                Payments Received
+                <p class="text-muted small">
+                    Payments received during the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>20</td>
+            <td ><code>payments</code></td>
+            <td >
+                Check</td>
+            <td >
+                Payments Made
+                <p class="text-muted small">
+                    Payments made during the digest period</p>
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>21</td>
+            <td ><code>section_break_20</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Buying & Selling
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>22</td>
+            <td ><code>buying_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Buying
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>23</td>
+            <td ><code>new_purchase_requests</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Material Requests
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>24</td>
+            <td ><code>new_supplier_quotations</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Supplier Quotations
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>25</td>
+            <td ><code>new_purchase_orders</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Purchase Orders
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>26</td>
+            <td ><code>selling_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Selling
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>27</td>
+            <td ><code>new_leads</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Leads
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>28</td>
+            <td ><code>new_enquiries</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Enquiries
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>29</td>
+            <td ><code>new_quotations</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Quotations
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>30</td>
+            <td ><code>new_sales_orders</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Sales Orders
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>31</td>
+            <td ><code>section_break_34</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Inventory & Support
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>32</td>
+            <td ><code>stock_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Stock
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>33</td>
+            <td ><code>new_delivery_notes</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Delivery Notes
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>34</td>
+            <td ><code>new_purchase_receipts</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Purchase Receipts
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>35</td>
+            <td ><code>new_stock_entries</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Stock Entries
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>36</td>
+            <td ><code>support_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Support
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>37</td>
+            <td ><code>new_support_tickets</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Support Tickets
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>38</td>
+            <td ><code>open_tickets</code></td>
+            <td >
+                Check</td>
+            <td >
+                Open Tickets
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>39</td>
+            <td ><code>new_communications</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Communications
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>40</td>
+            <td ><code>section_break_40</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                Projects & System
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>41</td>
+            <td ><code>projects_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Projects
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>42</td>
+            <td ><code>new_projects</code></td>
+            <td >
+                Check</td>
+            <td >
+                New Projects
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>43</td>
+            <td ><code>core_module</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                System
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>44</td>
+            <td ><code>scheduler_errors</code></td>
+            <td >
+                Check</td>
+            <td >
+                Scheduler Failed Events
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr class="info">
+            <td>45</td>
+            <td ><code>user_specific</code></td>
+            <td >
+                Section Break</td>
+            <td >
+                User Specific
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>46</td>
+            <td ><code>general</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                General
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>47</td>
+            <td ><code>calendar_events</code></td>
+            <td >
+                Check</td>
+            <td >
+                Calendar Events
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>48</td>
+            <td ><code>todo_list</code></td>
+            <td >
+                Check</td>
+            <td >
+                To Do List
+                
+            </td>
+            <td></td>
+        </tr>
+        
+        <tr >
+            <td>49</td>
+            <td ><code>stub</code></td>
+            <td class="info">
+                Column Break</td>
+            <td >
+                Stub
+                
+            </td>
+            <td></td>
+        </tr>
+        
+    </tbody>
+</table>
+
+
+    <hr>
+    <h3>Controller</h3>
+    <h4>erpnext.setup.doctype.email_digest.email_digest</h4>
+
+    
+
+
+	
+        
+	<h3 style="font-weight: normal;">Class <b>EmailDigest</b></h3>
+    
+    <p style="padding-left: 30px;"><i>Inherits from frappe.model.document.Document</i></h4>
+    
+    <div class="docs-attr-desc"><p></p>
+</div>
+    <div style="padding-left: 30px;">
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="__init__" href="#__init__" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>__init__</b>
+        <i class="text-muted">(self, arg1, arg2=None)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_accounts" href="#get_accounts" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_accounts</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_bank_balance" href="#get_bank_balance" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_bank_balance</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_booked_total" href="#get_booked_total" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_booked_total</b>
+        <i class="text-muted">(self, party_type, gle_field, label)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_calendar_events" href="#get_calendar_events" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_calendar_events</b>
+        <i class="text-muted">(self, user_id)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_collections" href="#get_collections" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_collections</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_common_content" href="#get_common_content" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_common_content</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_digest_msg" href="#get_digest_msg" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_digest_msg</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_expenses_booked" href="#get_expenses_booked" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_expenses_booked</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_from_to_date" href="#get_from_to_date" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_from_to_date</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_future_from_to_date" href="#get_future_from_to_date" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_future_from_to_date</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_gl_entries" href="#get_gl_entries" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_gl_entries</b>
+        <i class="text-muted">(self, from_date=None, to_date=None)</i>
+    </p>
+	<div class="docs-attr-desc"><p>get valid GL Entries filtered by company and posting date</p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_html" href="#get_html" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_html</b>
+        <i class="text-muted">(self, label, currency, value, style=None)</i>
+    </p>
+	<div class="docs-attr-desc"><p>get html output</p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_income" href="#get_income" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_income</b>
+        <i class="text-muted">(self, from_date=None, label=None)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_income_year_to_date" href="#get_income_year_to_date" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_income_year_to_date</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_invoiced_amount" href="#get_invoiced_amount" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_invoiced_amount</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_msg_html" href="#get_msg_html" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_msg_html</b>
+        <i class="text-muted">(self, out, send_only_if_updates=True)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_communications" href="#get_new_communications" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_communications</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_count" href="#get_new_count" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_count</b>
+        <i class="text-muted">(self, doctype, label, docstatus=0, filter_by_company=True, date_field=creation)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_delivery_notes" href="#get_new_delivery_notes" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_delivery_notes</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_enquiries" href="#get_new_enquiries" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_enquiries</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_leads" href="#get_new_leads" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_leads</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_projects" href="#get_new_projects" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_projects</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_purchase_orders" href="#get_new_purchase_orders" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_purchase_orders</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_purchase_receipts" href="#get_new_purchase_receipts" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_purchase_receipts</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_purchase_requests" href="#get_new_purchase_requests" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_purchase_requests</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_quotations" href="#get_new_quotations" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_quotations</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_sales_orders" href="#get_new_sales_orders" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_sales_orders</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_stock_entries" href="#get_new_stock_entries" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_stock_entries</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_sum" href="#get_new_sum" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_sum</b>
+        <i class="text-muted">(self, doctype, label, sum_field, date_field=creation)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_supplier_quotations" href="#get_new_supplier_quotations" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_supplier_quotations</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_new_support_tickets" href="#get_new_support_tickets" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_new_support_tickets</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_next_sending" href="#get_next_sending" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_next_sending</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_open_tickets" href="#get_open_tickets" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_open_tickets</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_party_total" href="#get_party_total" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_party_total</b>
+        <i class="text-muted">(self, party_type, gle_field, label)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_payables" href="#get_payables" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_payables</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_payments" href="#get_payments" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_payments</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_scheduler_errors" href="#get_scheduler_errors" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_scheduler_errors</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_todo_list" href="#get_todo_list" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_todo_list</b>
+        <i class="text-muted">(self, user_id)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_user_specific_content" href="#get_user_specific_content" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_user_specific_content</b>
+        <i class="text-muted">(self, user_id)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="get_users" href="#get_users" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>get_users</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p>get list of users</p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="onload" href="#onload" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>onload</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="send" href="#send" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		<b>send</b>
+        <i class="text-muted">(self)</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+        
+    </div>
+    <hr>
+
+	
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="erpnext.setup.doctype.email_digest.email_digest.send" href="#erpnext.setup.doctype.email_digest.email_digest.send" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		erpnext.setup.doctype.email_digest.email_digest.<b>send</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p><span class="text-muted">No docs</span></p>
+</div>
+	<br>
+
+	
+
+
+    
+    
+
+
+<!-- jinja --><!-- static -->
+
+
+<br>
+<a href="https://discuss.erpnext.com" target="_blank">Discuss this on the forum</a>

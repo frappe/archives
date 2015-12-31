@@ -1,0 +1,54 @@
+<!-- title: frappe.api --><p>
+
+<a class="btn btn-default btn-sm" disabled style="margin-bottom: 10px;">
+	Version 5.1.3</a>
+
+
+	<a class="btn btn-default btn-sm" href="https://github.com/frappe/frappe/blob/v5.1.3/frappe/api.py"
+		target="_blank" style="margin-left: 10px; margin-bottom: 10px;"><i class="octicon octicon-mark-github"></i> Source</a>
+
+</p>
+
+
+
+
+	
+        
+    
+    
+	<p class="docs-attr-name">
+        <a name="frappe.api.handle" href="#frappe.api.handle" class="text-muted small">
+            <i class="icon-link small" style="color: #ccc;"></i></a>
+		frappe.api.<b>handle</b>
+        <i class="text-muted">()</i>
+    </p>
+	<div class="docs-attr-desc"><p>Handler for <code>/api</code> methods</p>
+
+<h3>Examples:</h3>
+
+<p><code>/api/method/{methodname}</code> will call a whitelisted method</p>
+
+<p><code>/api/resource/{doctype}</code> will query a table
+    examples:
+    - <code>?fields=["name", "owner"]</code>
+    - <code>?filters=[["Task", "name", "like", "%005"]]</code>
+    - <code>?limit_start=0</code>
+    - <code>?limit_page_length=20</code></p>
+
+<p><code>/api/resource/{doctype}/{name}</code> will point to a resource
+    <code>GET</code> will return doclist
+    <code>POST</code> will insert
+    <code>PUT</code> will update
+    <code>DELETE</code> will delete</p>
+
+<p><code>/api/resource/{doctype}/{name}?run_method={method}</code> will run a whitelisted controller method</p>
+</div>
+	<br>
+
+	
+
+
+
+
+<br>
+<a href="https://discuss.erpnext.com" target="_blank">Discuss this on the forum</a>

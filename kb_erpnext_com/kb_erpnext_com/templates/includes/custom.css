@@ -1,0 +1,21 @@
+.hero-and-content .container {
+	max-width: 660px;
+	margin: auto;
+}
+
+.list-hero {
+	padding-top: 0px;
+}
+
+.help-category-list {
+	margin-bottom: 30px;
+}
+
+.btn-more {
+	margin-bottom: 0px;
+}
+
+.page-content-wrapper {
+	padding: 0px;
+	padding-bottom: 10px;
+}

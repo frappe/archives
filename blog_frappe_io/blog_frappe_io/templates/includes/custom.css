@@ -1,0 +1,53 @@
+.hero-and-content .container {
+	max-width: 660px;
+	margin: auto;
+}
+
+.navbar {
+	border-left: none;
+	border-right: none;
+}
+
+.page-content-wrapper {
+	padding: 0px !important;
+}
+
+.page-hero {
+	padding: 100px 0px 70px;
+}
+
+.web-list-item {
+	padding: 15px 0px !important;
+}
+
+.web-list-item:first-child {
+	border-top: 1px solid #d1d8dd;
+}
+
+.page-container[data-doctype="Blog Post"] {
+	padding-top: 60px;
+}
+
+@media (max-width: 767px) {
+	.page-container[data-doctype="Blog Post"] {
+		padding-top: 0px;
+	}
+}
+
+.page-container[data-doctype="Blog Post"] .page-header-block,
+.blog-info {
+	text-align: center;
+}
+
+.blog-text {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+figcaption {
+	text-align: center;
+}
+
+.page-content-wrapper > .row:first-of-type > .col-sm-8 {
+	width: 100%;
+}
