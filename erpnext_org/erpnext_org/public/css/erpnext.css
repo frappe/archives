@@ -1,0 +1,25 @@
+.page-header {
+	background-color: #BC4540;
+}
+
+@media (min-width: 767px) {
+	.navbar-main .container {
+		padding-right: 50px;
+	}
+}
+
+.navbar-main .navbar-right {
+	display: none;
+}
+
+.navbar-main .nav li[data-label="Conf 2014"] a {
+	color: #BC4540 !important;
+}
+
+#page-videos article img {
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 12px;
+	box-shadow: none;
+}
